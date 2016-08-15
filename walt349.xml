@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Walters 349</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Sentences Commentary Text Archive</publisher>
+        <availability>
+          <licence/>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Baltimore</settlement>
+            <institution>Walters</institution>
+            <repository/>
+            <idno type="call-number">w349</idno>
+            <altIdentifier type="bibid">
+              <idno/>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno><!-- walters url --></idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Book IV of the Sentencees Commentary of Ricardus de Mediavilla</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+            	<title>Liber quartum super sententias</title>
+              <author>Ricardus de Mediavilla</author>
+              
+              <colophon xml:lang="la">(f. 180rb)
+              	<lb/>Expletum est opus libri quarti Ricardi 
+              	<lb/>per me <name>fratrem thimoteum de scledo</name> ordinis seraphicorum francisci professorem 6o novembris 
+              	<lb/>1474. Ad laudem et <add place="maringRight">gloriam</add> individuae trinitatis 
+              	<lb/>et virginis gloriose totiusque curiae caelestis 
+              	<lb/>et pertinet ad locum sancti francisci scledi
+              </colophon>
+            	
+            	<!-- this colophon is identical to the colophon found 
+            		here: https://books.google.com/books?id=F4UWAQAAIAAJ&q=locum+sancti+francisci+scledi&dq=locum+sancti+francisci+scledi&hl=en&sa=X&ved=0ahUKEwin0rzM65DMAhXJOT4KHaeuA4IQ6AEINTAA
+            		
+            		in I manoscritti datati del fondo Acquisti e doni e dei fondi minori della Biblioteca medicea laurenziana di Firenze, edited by Lisa Fratini, Stefano Zamponi, on p. 51 
+            		
+            		Timothy is also listed in the Shoenberg database of manuscripts.
+            		http://dla.library.upenn.edu/cocoon/dla/schoenberg/record.html?fq=author_facet%3A%22Thimotheus%20de%20Scledo%20Ordinis%20Seraphici%20Francisci%22&id=SCHOENBERG_60715&
+            	-->
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>calf leather</p>
+                </support>
+                <extent>10 3/16 x 6 7/8 in (25.8 x17.5cm)</extent>
+                <foliation>194 folios; modern foliation in pencil, upper right recto; contemporary (earlier) foliation in roman numerals top center.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns of approx 57 lines; lines ruled; no visible prin pricks.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a "humanistic compressed italic"</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Rubricated throughout, alternating use of blue and red; 3-line penwork initials in red and blue</decoNote>
+              <decoNote>Fancy decorated first page with image; </decoNote>
+              
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p/>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy </p>
+              <origDate>1474</origDate>
+              <origPlace>Italy</origPlace> <!-- need to find out if Scledus is a place -->
+            </origin>
+          	<provenance>Acquired by Henry Walters, 1912</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Dominicans--Prayers and devotions--Latin</term>
+          <term>Theology, Doctrinal--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    	<surface n="1r" select="kba-WettF0015_107v.json" ana="#W">
+    		
+      <graphic height="4423px" url="master/0444_0000.tif" width="4431px"/>
+      <graphic height="189px" url="thumb/0444_0000_thumb.jpg" width="190px"/>
+      <graphic height="1796px" url="web/0444_0000_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+	
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Philadelphia Free Library Lewis E 170</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Sentences Commentary Text Archive</publisher>
+        <availability>
+          <licence/>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>Free Library</institution>
+            <repository/>
+          	<idno type="call-number">pfllewisE141</idno>
+            <altIdentifier type="bibid">
+              <idno/>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno></idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Sentences of Peter Lombard</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+            	<title>Sentences of Peter Lombard</title>
+              <author>Peter Lombard</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+              	<!-- from Stegmuller
+              	 Johannes de Mechlinia, Excerpta ex Alberti Magni dictis super III et IV Sent. 
+              	 Philadelphia, Free Library, John F. Lewis Collection 140 (Köln, Kartause; Leander van Ess; Phillipps).-->
+              	
+              	<!-- 140 designation is in correct; should be Lewis E 141  -->
+              	
+              	<!-- Free Library Curatorial File: 
+              		
+              		Johannes de Machlinia
+              		Excerpta de dictis Alberti Magni super III et IV libris sententiarum
+              		
+              		German, Circa 1425
+              		
+              		Lewis: 141: De Ricci: 140 (this could be the source of Stegmuller's mistake)
+              		-->
+              	
+              	<!-- Free Library Curatorial File; email from Milton McC. Gatch
+              		
+              		Provenance: Cologne, St. Barbara, Ocarth, 0.128
+              		
+              		Bibliog: Sotheby 1910, NR. 539,; de Ricci, p. 2051; Marks 2:397f., 449 Wolf, pp. 155f.; Kramer 1989, 2:432
+              		
+              		See Free Library Word DOC file.
+              	-->
+                <support>
+                  <p></p>
+                </support>
+                <extent></extent>
+                <foliation></foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout></layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote></scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote></decoNote>
+              
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p/>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p> </p>
+              <origDate></origDate>
+              <origPlace></origPlace> <!-- need to find out if Scledus is a place -->
+            </origin>
+          	<provenance></provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term></term>
+          <term></term>
+        </keywords>
+        <keywords n="form/genre">
+          <term></term>
+          
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+    	
+    </surface>
+  </facsimile>
+	
+</TEI>
