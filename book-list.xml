@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codices>
-	<shortid>Paris1490-1</shortid> <!-- adding atv to distinguish this from other 1490 editions, atv might as well be a random three letter string; but this reminds me that it contains vargas --> 
+	<shortid>Paris1490-1</shortid> <!-- adding 1 to distinguish this from other 1490 editions; next Paris1490 added should just be Paris1490-2 --> 
 </codices>
