@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codices>
+	<shortid>vatborgh111</shortid>
+	<shortid>vatlat683</shortid>
+	<shortid>vatlat681</shortid>
+	<shortid>vatlat682</shortid>
+	<shortid>vatlat684</shortid>
+	<shortid>vatlat4284</shortid> <!-- plaoul vat -->
+	
+	<!-- bnf manuscripts -->
+	
+	<!-- penn manuscripts -->
+	<shortid>penn686</shortid>
+	<shortid>penn727</shortid>
+	<!-- philadelphia free library -->
+	<shortid>pflewisE141</shortid>
+	<shortid>pflewisE170</shortid>
+	<!-- walters -->
+	
+	<!-- hopkins -->
+	
+	<!-- ecodices -->
+	<shortid>wettf15</shortid>
+		
+	
+</codices>
