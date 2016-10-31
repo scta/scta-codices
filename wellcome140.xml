@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>wellcome140</shortid>
+		<title>London, Wellcome Library for the History and Understanding of Medicine, 140</title>
+		<initial>W</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>wellcome140/item1</shortid>
+				<canvasBase>http://wellcomelibrary.org/iiif/b19571355/canvas/</canvasBase>
+				<manifestOfficial>http://wellcomelibrary.org/iiif/b19571355/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

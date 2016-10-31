@@ -1,0 +1,1350 @@
+﻿1. Aarau, Aargauische Kantonsbibliothek, Mur. F. 84
+2. Angers, Bibliothèque Municipale, 1582 (37)
+3. Ansbach, Staatlichen Bibliothek (Schloßbibliothek), lat. 120
+4. Arras, Bibliothèque Municipale, 820 (511)
+5. Assisi, Biblioteca Comunale, 293
+6. Augsburg, Staats- und Stadtbibliothek, 4º cod. 7
+7. Augsburg, Staats- und Stadtbibliothek, 4º cod. 12
+8. Augsburg, Staats- und Stadtbibliothek, 4º cod. 33
+9. Augsburg, Staats- und Stadtbibliothek, 4º cod. 235
+10. Augsburg, Universitätsbibliothek, fol. cod. 42. III.1
+11. Auxerre, Bibliothèque Municipale, 22
+12. Avignon, Bibliothèque Municipale, 253
+13. Avignon, Bibliothèque Municipale, 311
+14. Avignon, Bibliothèque Municipale, 330
+15. Avignon, Bibliothèque Municipale, 597
+16. Avignon, Bibliothèque Municipale, 1077
+17. Bagnoregio, Collezione privata, s/n
+18. Baltimore, Eisenhower Library (Johns Hopkins University), MSB 22
+19. Bamberg, Staatsbibliothek, H. J. IV 2 (Class. 59)
+20. Bamberg, Staatsbibliothek, H. J. IV 30 (Philos. 7)
+21. Bamberg, Staatsbibliothek, H. J. V. 3 (Philos. 5)
+22. Bamberg, Staatsbibliothek, L. III. 40 (Natur. 9)
+23. Barcelona, Archivo de la Corona de Aragón, Ripoll 84
+24. Barcelona, Archivo de la Corona de Aragón, Ripoll 120
+25. Barcelona, Archivo de la Corona de Aragón, Ripoll 213
+26. Barcelona, Archivo de la Corona de Aragón, Ripoll 216
+27. Barcelona, Archivo de la Corona de Aragón, Sant Cugat cod. 82
+28. Barcelona, Biblioteca de Catalunya (Biblioteca Central), 711
+29. Barcelona, Biblioteca de Catalunya (Biblioteca Central), 864
+30. Basel, Universitätsbibliothek, A. IX. 7 [mss. A: teologia (papel)]
+31. Basel, Universitätsbibliothek, D. II. 13 [mss. D: medicina]
+32. Basel, Universitätsbibliothek, D. II. 17
+33. Basel, Universitätsbibliothek, D. II. 21
+34. Basel, Universitätsbibliothek, D. III. 10
+35. Basel, Universitätsbibliothek, D. III. 66
+36. Basel, Universitätsbibliothek, F. III. 12 [mss F: artes liberais e filosofia]
+37. Basel, Universitätsbibliothek, F. III. 20
+38. Basel, Universitätsbibliothek, F. IV. 22
+39. Basel, Universitätsbibliothek, F. IV. 35
+40. Basel, Universitätsbibliothek, F. IV. 52
+41. Basel, Universitätsbibliothek, F. V. 9
+42. Basel, Universitätsbibliothek, F. V. 12
+43. Basel, Universitätsbibliothek, F. VI. 7
+44. Basel, Universitätsbibliothek, F. VI. 18
+45. Basel, Universitätsbibliothek, F. VI. 58
+46. Basel, Universitätsbibliothek, F. VI. 75
+47. Basel, Universitätsbibliothek, F. VI. 76
+48. Basel, Universitätsbibliothek, F. VII. 19
+49. Basel, Universitätsbibliothek, F. VIII. 19
+50. Basel, Universitätsbibliothek, F. IX. 11
+51. Beaune, Bibliothèque Municipale, 49 (48)
+52. Bergamo, Biblioteca Civica Angelo Mai, MA 174 [MA= manoscritti antichi]
+53. Bergamo, Biblioteca Civica Angelo Mai, MA [manoscritti antichi] 217
+54. Bergamo, Biblioteca Civica Angelo Mai, MA 300
+55. Berkeley, University of California, The Bancroft Library, UCB 103
+56. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Ham. 407
+57. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Hdschr. 187
+58. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Hdschr. 323
+59. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. fol. 206
+60. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. fol. 623
+61. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. quart. 87
+62. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. quart. 439
+63. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. quart. 476
+64. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Lat. quart. 520
+65. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Magdeb. 68
+66. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Or. quart. 836
+67. Berlin, Staatsbibliothek zu Berlin-Preußischer Kulturbesitz, Theol. lat. qu. 26
+68. Bern, Burgerbibliothek (Staatsbibliotek; Bibliotheca Bongarsiana), 69
+69. Bern, Burgerbibliothek (Staatsbibliotek; Bibliotheca Bongarsiana), 252
+70. Bernkastel-Kues, Bibliothek des St. Nikolaus-Hospitals, 306
+71. Bernkastel-Kues, Bibliothek des St. Nikolaus-Hospitals, 307
+72. Besançon, Bibliothèque Municipale, 167
+73. Bologna, Biblioteca Comunale dell’Archiginnasio, A. 203
+74. Bologna, Biblioteca del Collegio di Spagna, 165
+75. Bologna, Biblioteca Universitaria, Battaglini 1665
+76. Bologna, Biblioteca Universitaria, lat. 1619 (Frati 840)
+77. Bologna, Biblioteca Universitaria, lat. 2683 (Frati 1415)
+78. Bordeaux, Bibliothèque Municipale, 427
+79. Bordeaux, Bibliothèque Municipale, 761
+80. Bordeaux, Bibliothèque Municipale, 999
+81. Boston (Massachussetts), Boston Medical Library, 18
+82. Boston (Massachussetts), The Francis A. Countway Medical Library, 5
+
+83. Boston (Massachussetts), The Francis A. Countway Medical Library, 24
+
+84. Bremen, Staats und Universitätsbibliothek, msc 0047303 ff.; cart. (com múltiplas filigranas); 145x105 mm.; escrita gótica cursiva; cerca de 1485 (cfr. f. 215r); origem: Universidade de Leipzig (?); encad. moderna; marca no f. 2r: «Bibliotheca Bremensis». BIBL. I. STAHL, Katalog der mittelalterlichen Handschriften der Staats- und Universitätsbibliothek Bremen, (Die Handschriften der Staats- und Universitätsbibliothek Bremen; Bd. 1) Harrasowitz, Wiesbaden 2004, pp. 259-261.[Descrição do catálogo de Stahl].1 (ff. 1r-2r) Notitiae variae. (Em branco ff. 2v-7r). (f. 7v) Notitia. (f. 8r-v) Tentamine pennae.2 (ff. 9r-25v) ANONYMUS, De arte opponendi et respondendi. inc. Duo sunt genera sapientis scilicet non mentiri de quibus nouit et mentientes posse manifestare... Circa artem opponendi et respondendi ponuntur hec: primo duodecim argumenta per que possunt probari. des. ut probet quod fit ad propositum. Et hec de modo opponendi et respondendi dicta sufficiunt. coloph. Iste est Thesaurus sophistrie necessarius et utilis omnibus studentibus cum ipsi multum apparentur ex eo arguere, opponere et respondere possunt. des. in essencia qui cum Spiritu Sancto ... in secula seculorum. Amen. [Cfr. L. M. de Rijk, Die mittelalterlichen Tractate De modo opponendi et respondendi, (Beiträge zur Geschichte der Philosophie und Theologie des Mittelalters, N.F., 17) Aschendorf, Münster 1980].3 (ff. 26r-27v) THOMAS DE AQUINO, pseudo, Tractatus de inventione medii. inc. Quoniam principium sillogisandi unamquamque proposicionem est medius terminus uideo ut possimus habere medium sillogismorum ad unamquamque proposicionem. des. et consequuntur ea cum quibus sunt conuertibilia. coloph. Tractatus de inuencione medii syllogismorum gloriosissimi doctoris sancti Thome de Aquino finit foeliciter. 4 (ff. 27v-29v) Notitiae. inc. Notandum quod pro faciliori eorum intellectu qui spectant ad artem inueniendi medium. (f. 28v) inc. Sciendum 3o quod licet omnis sciencia uniuersale considerat particularia. (Em branco ff. 30r-31r).5 (ff. 32r-35r) ANONYMUS, De habitu. inc. Circa initium loyce queritur primo quid sit habitus. Dicendum quod habitus est qualitas difficulter mobilis a subiecto. des. ut sunt fides, spes et caritas per quas t[...] acquiritur [...] supernaturales. (Em branco ff. 35v-36r).6 (ff. 36v) Notitia. inc. Arguitur Aristoteles in tertio De anima loquens de intellectu dicit quod sit tamquam tabula rasa.7 (f. 37rv) ANONYMUS, De subiecto. inc. Item subiectum secundum nominales sic diffinitur: est terminus communissimus primo notus nature excedens limites. (f. 37v) inc. Subiectum secundum beatum Thomam sic diffinitur: est terminus completa et perfecta cognicio. des. a qua sciencia capit denominacionem.8 (ff. 38r-39r) Notitia. inc. Nota: formalis racio considerandi nihil aliud est nisi quedam relacio ipsius subiecti in o[racio]ne ad diuersas passiones.9 (f. 39v) ANONYMUS, De intentione (stemma). inc. Intencio uel uerbum mentis est duplex.10 (f. 40rv) Notitia. inc. Item loyca est sciencia racionalis docens diffinire, diuidere, demonstrare et generaliter uerum a falso discernere. (Em branco ff. 41-42)11 (f. 43r) Notitia. inc. Potencia, uox, natura idem sunt. (Em branco f. 43v).12 (ff. 44r-47r) ANONYMUS, De logica. inc. Utrum loyca sit sciencia et una racionalis, speculatiua et specialis. Dicendum quantum ad primam partem ut loyca est sciencia quia habet subiectum quod est ens racionis. des. scilicet ut racionis encia sunt et directiua actuum racionis. (f. 47r) Quaestio. Utrum angeli sciunt loycam.13 (ff. 47v-279r) ANONYMUS, Rapiarius super Tractatus Petri Hispani I-IV, VII-XII.13a (ff. 47v-215r) Rapiarius super Tractatus Petri Hispani I-IV (ff. 47v-48r) <Quaestio>, Queritur utrum Tractatus Petri Hyspani sunt utiles et necessarii. inc. Dicendum quod sic, quia ducunt nos in noticiam tocius loyce. des. disponens animam audientis ad infra dicenda. 	(ff. 48v-110v) <Tractatus I: De introductionibus>. (ff. 48v-89r) rubr. Dyalectica est ars arcium. inc. Item prohemium precedit partem executiuam propter duas causas. (ff. 89v-110v) Quaestiones, Notitiae, Sententiae. (f. 89v) Quaestio quodlibetaria. Questio quodlibetaria cuidam magistro oblata pro suo honore determinanda est ista: Utrum prima secunda que loyce intentionis que diuersis essendi in re modis adaptantur inter se pariantis. (f. 99r) <Quaestio>. Utrum uniuersalia a singularibus separata sint corporalia uel incorporalia. Dicendum etc. inc. Arguitur primo uidetur quod uniuersalia a singularibus sunt separabilia propter assumptum. (f. 101v) <Quaestio>. Queritur utrum uniuersale producibile in rerum natura dici debeat compositum materia uel forma. Arguitur primo. Omne generabile. (f. 102v) <Nota circa tractatum Porphiry>. Circa initium libri Porphyrii priusquam ad textum procedatur primo uidendum est de utilitate et necessitate huius libri. (f. 103v) <Quaestio>. Quoniam ens racionis, quod loyce subicitur, non nisi ab intellectu [est] sicut ens nature quod phisice adequatur non nisi a natura. (f. 110v) Sententiae.	(ff. 112r-131r) <Tractatus II: De praedicabilibus>. inscr. Hic incipit secundus Tractatus et Rapiarius super [tractatum] Petri Hispani Queritur utrum uniuersale sit de consideracione loice que est pars essencialis philosophie. inc. Circa presentem questionem duo sunt uidenda: Primum an loycus habeat considerare uniuersale. (f. 134v) <Quaestio>. Utrum due diffiniciones demonstracionis sint bone, in quarum prima dicitur: Demonstracio est syllogismus faciens scire. 	(ff. 136r-183r) <Tractatus III: De praedicamentis>. inc. Circa inicium tercy Tractatus m[agistri] Petri Hispani et intitulatur tercius Tractatus Petri Hispani de decem predicamentis, libro predicamentorum Aristotelis correspondens, in quo titulo fit mentio de predicamentis. (f. 187r) Notitia. Arguitur proposicio non uidetur habere quantitatem.	(ff. 188r-215r) <Tractatus IV: De syllogismis, mut. in fine>. Circa inicium quarti Tractatus queritur an sciencia eius sit pars ueteris aut noue loyce. inc. Dicendum quod est pars noue loyce, pro quo notandum quod loyca dicitur noua dupliciter. (f. 215r) coloph. Ego studens Lipsensis fui anno Domini 1485o et intitulatus sum sub uenerabile magistro Gref.	13b (ff. 215r-278v) Rapiarius super septimum tractatum Petri Hispani (Tractatus, VI, VIII-XII). (ff. 216r-225r) Prologus. (f. 215r) inscr. Hic incipit rapiarius super septimum Tractatum Petri Hispani etc. (ff. 216r-225r) Queritur utrum parua loycalia pro complemento loyce sciencie sint neccessaria pro responsione. inc. Notandum quod necessarium ut ad propositum sufficit. (ff. 225v-240v) <Tractatus VI: De suppositionibus>. rubr. Supposicio est accepcio termini substantiui pro aliquo. Queritur quare Tractatus supposicionum precedit alios Tractatus paruorum loycalium. inc. Dictum quod ideo quia communiora sunt priora. (ff. 242r-246v <Tractatus VIII: De relativis>. Hic incipit Tractatus supposicionum relatiuorum. Relatiuum est duplex. Queritur utrum de relatiuis generalibus sit necessarium ponere specialem tractatum supposicionum. inc. Dicendum quod sic quia natura relatiui grammaticalis sufficienter cognosci non potest. (ff. 247v-253r) <Tractatus IX: De ampliationibus>. Sequitur nunc de ampliacione etc. Personalis supposicio est accepcio termini etc. Queritur quare Tractatus ampliacionum sequitur Tractatum supposicionum. inc. Dicendum quod ideo quia ampliacio fundatur in supposicione et maxime in supposicione personali. (ff. 254r-256v) <Tractatus X: De appellationibus>. Ad Tractatum appellacionum nunc prosequendum est. Queritur quare Tractatus appellacionum precedit Tractatum restriccionum. (ff. 257r-263v) <Tractatus XI: De restrictione>. De restriccione iius [recte Vtus?] Tractatus. Queritur quare Tractatus restriccionum sequitur Tractatum ampliacionum et appellacionum. Dicendum quod sequitur Tractatum ampliacionum ideo quia sicut se habet augmentacio ad diminutionem. (ff. 264r-278v) <Tractatus XII: De distributionibus>. Sextus [!] Tractatus distribucionum. inc. Queritur quare Tractatus distribucionum sequitur Tractatum restriccionum. Dicendum quod ideo quia restriccio est passio magis intrinsice. des. quid et ex ipsis infertur infinitum. Finimus. Et hec circa parua loycalia sub edicione melius dicencium juuenili stilo sunt compilata, de quibus siderum jubernatori ut omnium bonorum auctori sint grates ex nunc et in secula seculorum. coloph. Amen. Deo gracias. De cuius fine ex nunc reddo beatissime uirgini Marie grates in modicos que michi concessit siue impetrauit graciam agredi hunc finem. Amen. (Em branco ff. 95-98, 110r, 111v, 122v, 131v-134r, 135, 160r, 167r, 183v-186v, 187v, 211-214, 215v, 247r, 253, 279v). [Este comentário ao Tractatus é de um estudante anónimo (f. 215r), sob o mestre Heinrich Greffe de Göttingen, que no semestre de Verão de 1485 teve 221 estudantes na Universität Leipzig (cfr. Die Matrikel der Universität Leipzig 1: Die Immatrikulationen von 1409-1559, hrg. von G. Erler, Leipzig 1895 (Codex diplomaticus Saxoniae regiae, 2.16), pp. 345-348].14 (ff. 280r-303v) Quaestiones logicales. De suppositionibus. Queritur utrum terminus supponens sit subiectum paruorum loycalium. inc. Arguitur quod non quia terminus supponens est subiectum libri supposicionum. des. ergo materie tantum repugnat. (f. 297r) De relativis. Relatiuum est duplex scilicet uno modo [terminus] est. Queritur utrum relatiua possunt supponere. Dicendum quod sic. inc. Arguitur quod non, quia adiectiua non supponunt sed copulant. des. sed omnem rem habent se per modum substancie. (f. 303r) De ampliationibus. De ampliacione. inc. Item due sunt note ampliacionis scilicet potencie uel contingencie et necessitatis. des. pro accidentalibus potest alius tractatus fieri.
+85. Brescia, Biblioteca Civica Queriniana, B. VI. 12
+
+86. Brescia, Biblioteca Civica Queriniana, B. VI. 25
+
+87. Brno (Brünn), Moravská zemská knihovna v Brně, Mk. 46 Verificar cota 
+
+88. Brno (Brünn), Moravská zemská knihovna v Brně, Mk. 55
+
+89. Bruxelles, Bibliothèque Royale, II 4318
+
+90. Budapest, Magyar Tudományos Akadémia Könyvtára [Biblioteca (Könyvtára) da Academia Húngara das Ciências], Keleti Gyüjteméni (Departamento oriental) A. 279
+91. Cambridge, Gonville and Caius College, 86 / 168
+
+92. Cambridge, Gonville and Caius College, 379 / 599
+
+93. Cambridge, Gonville and Caius College, 413 / 630
+
+94. Cambridge, Magdalene College, Pepys 1661
+95. Cambridge, Trinity College, O.8.36
+
+96. Cambridge, University Library, Dd.XI.45
+
+97. Cambridge, University Library, Mm.VI.24
+
+98. Cambridge (Massachussetts), Harvard University, Houghton Library, Typ 415 -- manifest: https://iiif.lib.harvard.edu/manifests/drs:53891227 (not complete)
+
+99. Carpentras, Bibliothèque Inguimbertine (Bibliothèque municipale), 280 (L. 277)
+
+100. Carpentras, Bibliothèque Inguimbertine (Bibliothèque municipale), 289 (L. 285)
+
+101. Cesena, Biblioteca Comunale Malatestiana, Pluteo S. V 4
+
+102. Chantilly, Musée Condé, 328
+
+103. Chantilly, Musée Condé, 330
+
+104. Chantilly, Musée Condé, 331
+
+105. Colmar, Bibliothèque Municipale, 25
+
+106. Cordoba, Biblioteca del Cabildo, 158
+
+107. Cortona, Biblioteca Comunale e dell’Accademia Etrusca, 110
+
+108. Cremona, Biblioteca Statale, 13
+
+109. Cremona, Biblioteca Statale, 27
+110. Darmstadt, Hessische Landes- und Hochschulbibliothek, 944
+111. Darmstadt, Hessische Landes- und Hochschulbibliothek, 2769 
+112. Dessau, Stadtbibliothek, Georg. 207
+
+113. Dillingen, Studienbibliothek, XV 128
+
+114. Dillingen, Studienbibliothek, XV 132
+
+115. Donaueschingen, Fürstlich Furstenbergische Hofbibliothek, 248
+116. Dresden, Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden, Db. 78
+
+117. Dublin, Jesuit Library, unnumbered (olim Philipps 2800)
+
+118. Dublin, Trinity College Library, 450
+119. Düsseldorf, Universitätsbibliothek, B 184 [b]
+
+120. Edinburgh, University Library, 138 (Laing 48)
+
+121. Eichstätt, Katholische Universität Eichstätt, Universitätsbibliothek, Cod. st. 686
+122. El Escorial, Real Biblioteca de San Lorenzo de El Escorial, Fol. III 26
+123. El Escorial, Real Biblioteca de San Lorenzo de El Escorial, P. II. 7
+124. Engelberg, Stiftsbibliothek, 307
+
+125. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 172
+
+126. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 236
+
+127. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 263
+
+
+128. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 271
+
+129. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 300
+130. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 302
+131. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 303
+
+
+132. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 305Summulae de João Buridano onde comenta o Tractatus (Summulae logicales) de Pedro Hispano. País: Alemanha. I+98 ff.; 294x224 mm.; cart.; 2 col.; escrita cursiva, uma mão; datado: 1373 (f. 97vb); nota de posse: «Ista loyca est Tylemann Czegeler» (f. 98r-v); origem: Praga (cfr. colophon). BIBL.: SCHUM, Beschreibendes Verzeichniss der amplonianischen Handschriften-Sammlung zu Erfurt, cit., pp. 211-212; BURIDANUS, Summulae, vol. III (p. XLV), vol. II (pp. XXI, XXX-XXXI), vol. IV (p. XXIX), vol. VIII (pp. XLVIII-XLIX).1 (ff. 1r-98r) IOHANNES BURIDANUS, Summa logicae vel Expositio IX tractatuum Summularum logicalium Petri Hispani. inc. aceph. Oratio est uox significatiua ad pluralitatem. coloph. Explicit loyca reuerendi magistri Byridani reportata Prage per manus Luce de Wienna. Incepta in uigilia Petri et Pauli et finita in crastino Bartholomei. Anno domini millesimo CCCº septuagesimo tertio. Swecia. Finito libro sit laus ...2 (f. 98r-v) IOHANNES BURIDANUS, Sophismata, frag. inscr. Incipit Sophismata reuerendi magistri Buridani. des. mut. Opositum patet, quia tunc non esset plus uox significatiua.
+133. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 7
+
+134. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 47
+135. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 167
+136. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 193
+
+137. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 195
+138. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 221
+
+139. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 243
+140. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 244
+141. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 245
+
+142. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 247
+143. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 251
+144. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 252 
+145. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 253 
+146. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 256 
+147. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 260
+
+148. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 261
+149. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 271
+150. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 283 
+151. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 326 
+152. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 8º 62
+
+153. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 8º 62b
+
+
+154. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 8º 65 
+155. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 8º 69
+156. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 8º 70
+157. Erlangen, Universitätsbibliothek, 394 (Irmischer 483)
+
+158. Erlangen, Universitätsbibliothek, 431 (Irmischer 532)
+
+159. Firenze, Biblioteca Medicea Laurenziana, Antinori 14 / 237
+
+160. Firenze, Biblioteca Medicea Laurenziana, Ashburnham 96
+
+161. Firenze, Biblioteca Medicea Laurenziana, Fiesolano 145
+
+162. Firenze, Biblioteca Medicea Laurenziana, Gaddianus reliq. 14
+
+163. Firenze, Biblioteca Medicea Laurenziana, Plut. I 26
+164. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXI 28
+165. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXI 33
+
+166. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXI 34
+
+167. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXXVIII 55
+168. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXXIX sup. 118
+169. Firenze, Biblioteca Medicea Laurenziana, Redi 88 (186)
+
+170. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. E. 1. 589
+
+171. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. E. 4. 784
+172. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. G. 4. 853
+
+173. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. H. 9. 1520
+
+174. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. H. 9. 1521
+
+175. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. J. 9. 9
+176. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. J. 9. 26
+
+177. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. J. 10. 17
+
+178. Firenze, Biblioteca Nazionale Centrale, II. IV. 112 (Magl. XV. 217)
+
+179. Firenze, Biblioteca Nazionale Centrale, II. VI. 62
+
+180. Firenze, Biblioteca Nazionale Centrale, Landau Finaly 242
+
+181. Firenze, Biblioteca Nazionale Centrale, Magl. V 34
+182. Firenze, Biblioteca Nazionale Centrale, Magl. XV 91
+
+183. Firenze, Biblioteca Nazionale Centrale, Magl. XV 92
+
+184. Firenze, Biblioteca Nazionale Centrale, Magl. XV 195
+
+185. Firenze, Biblioteca Nazionale Centrale, Nuove Acessioni 1077
+
+186. Firenze, Biblioteca Nazionale Centrale, Palat. 543
+
+187. Firenze, Biblioteca Nazionale Centrale, Palat. 813
+
+188. Firenze, Biblioteca Nazionale Centrale, Palat. 1072
+
+
+189. Firenze, Biblioteca Riccardiana, 730
+
+190. Firenze, Biblioteca Riccardiana, 1223
+
+191. Firenze, Biblioteca Riccardiana, 2175
+
+192. Firenze, Biblioteca Riccardiana, 2359
+
+193. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, 8º Hs 2044
+
+194. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Germ. quart. 8
+
+195. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Praed. 56 
+
+196. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Praed. 98
+
+197. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Praed. 111 
+198. Freiburg im Breisgau, Universitätsbibliothek, 239
+
+199. Freiburg im Breisgau, Universitätsbibliothek, 685
+
+200. Freiburg im Breisgau, Universitätsbibliothek, frag. 67
+201. Genova, Archivio di Stato, Mss. Membranacei 87
+202. Gießen [Giessen], Universitätsbibliothek, 53
+203. Gießen[Giessen], Universitätsbibliothek, 86
+204. Gießen[Giessen], Universitätsbibliothek, 610
+
+205. Gießen[Giessen], Universitätsbibliothek, 1250
+206. Girona, Arxiu Capitular, 76
+
+207. Glasgow, University Library, Ferguson 72
+
+208. Glasgow, University Library, Ferguson 119
+
+209. Glasgow, University Library, Hamilton 137
+210. Glasgow, University Library, Hunterian Museum, 342 (U. 8. 10)
+211. Glasgow, University Library, Hunterian Museum, 414 (V. 3. 12)
+
+212. Gotha, Forschungsbibliothek, Chart. A 1012
+
+213. Göttingen, Niedersächsische Staats- und Universitätsbibliothek, Hist. nat. 42
+214. Graz, Universitätsbibliothek, 216
+
+215. Graz, Universitätsbibliothek, 594
+
+216. Graz, Universitätsbibliothek, 966
+217. Graz, Universitätsbibliothek, 1039 
+
+218. Grottaferrata, Biblioteca della Badia Greca, 498 (VIII. F. 24)
+219. Grottaferrata, Biblioteca della Badia Greca, 499 (VIII. F. 29)
+220. Halberstadt, Dom- Gymnasium, 84
+
+221. Hamburg, Staats- und Universitätsbibliothek, Hebr. 293
+222. Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 1
+223. Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 214
+224. Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 279 
+225. Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 291
+226. Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 545
+227. Helsinki, Kansalliskirjasto, Käsikirjoituskokoelmat [The National Library of Finland, Manuscript Collections], D II 46
+228. Hildesheim, Dombibliothek, J 90
+229. Hildesheim, Dombibliothek, St. God. 27
+230. Ivrea, Biblioteca Capitolare, cod. XIV (79)
+231. Jerusalem, Jewish National and University Library, 8º 3607
+232. Karlsruhe, Badischen Landesbibliothek, Fr. 1671
+233. Karlsruhe, Badischen Landesbibliothek, L 31
+234. Karlsruhe, Badischen Landesbibliothek, Pap. Germ. LXXIII
+235. Karlsruhe, Badischen Landesbibliothek, St. Peter pergam. 40
+236. Kassel, Universitätsbibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel, Quart. Med. 1
+237. Kassel, Universitätsbibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel, Quart. Med. 8
+238. Kassel, Universitätsbibliothek Kassel, Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel, Oct. Med. 11 [1]
+239. Kew, Public Record Office, SP / 46 / 122A
+240. Klagenfurt, Archiv der Diözese Gurk (Bischöfliche Mansalbibliothek), XXIX e 1
+241. Klagenfurt, Archiv der Diözese Gurk (Bischöfliche Mansalbibliothek), XXXI c 12
+242. Klagenfurt, Universitätsbibliothek, Pap. 103
+243. Klagenfurt, Universitätsbibliothek, Pap.-Hs. 168
+244. Köln, Historisches Archiv der Stadt Köln, W* 14
+245. Kraków, Biblioteka Instytutu Teologicznego Ksiezy Misjonarzy, 171
+246. Kraków, Biblioteka Jagiellońska, 25
+247. Kraków, Biblioteka Jagiellońska, 662
+248. Kraków, Biblioteka Jagiellońska, 703
+249. Kraków, Biblioteka Jagiellońska, 726
+250. Kraków, Biblioteka Jagiellońska, 742
+251. Kraków, Biblioteka Jagiellońska, 757
+252. Kraków, Biblioteka Jagiellońska, 785
+253. Kraków, Biblioteka Jagiellońska, 786
+254. Kraków, Biblioteka Jagiellońska, 792
+255. Kraków, Biblioteka Jagiellońska, 796
+256. Kraków, Biblioteka Jagiellońska, 805
+257. Kraków, Biblioteka Jagiellońska, 816
+258. Kraków, Biblioteka Jagiellońska, 817
+259. Kraków, Biblioteka Jagiellońska, 825
+260. Kraków, Biblioteka Jagiellońska, 847
+261. Kraków, Biblioteka Jagiellońska, 1350
+262. Kraków, Biblioteka Jagiellońska, 1352
+263. Kraków, Biblioteka Jagiellońska, 1894
+264. Kraków, Biblioteka Jagiellońska, 1906
+265. Kraków, Biblioteka Jagiellońska, 1979
+266. Kraków, Biblioteka Jagiellońska, 2045
+267. Kraków, Biblioteka Jagiellońska, 2084
+268. Kraków, Biblioteka Jagiellońska, 2093
+269. Kraków, Biblioteka Jagiellońska, 2104
+270. Kraków, Biblioteka Jagiellońska, 2116
+271. Kraków, Biblioteka Jagiellońska, 2192
+272. Kraków, Biblioteka Jagiellońska, 2591
+273. Kraków, Biblioteka Jagiellońska, 3292
+274. Kraków, Biblioteka Jagiellońska, Ms. Berol. Ital. Fol. 158
+275. Kraków, Biblioteka Jagiellońska, Ms. Berol. Ital. Qu. 52
+276. Kremsmünster, Stiftsbibliothek, CC 89
+277. Kynžvart (Koenigswart), Zámecká knihovna, 20 H 27
+278. Lambach, Bibliothek der Benediktinerabtei, 319
+279. Leiden, Bibliotheek der Rijksuniversiteit, codices Latini Bibliothecae Publicae B.P.L. 127 AA
+280. Leiden, Bibliotheek der Rijksuniversiteit, Or 4780Tradução hebraica do Tractatus (Summulae logicales) de Pedro Hispano, por Shemaryah b. Elia ha-Ikriti (de Creta), que se apresenta como sendo o próprio autor. País: Holanda.227 ff.; escrita hispânica perfeita e legível; séc. XV; olim «Warnero 42». BIBL.: M. STEINSCHNEIDER, Catalogus codicum hebraicorum bibliothecae Academiae Lugduno-Batavae, Brill, Leiden 1858, pp. 211-212; IDEM, Die Hebraeischen Übersetzungen des Mittelalters und die Juden als Dolmetscher, Kommissionsverlag des Bibliographischen Bureaus, Berlin 1893, pp. 498-499; MANEKIN, Scholastic Logic, p. 149; IDEM, When the Jews, pp. 400-406.Colectânea de 4 textos lógicos.4 (ff. 179a-227b) SHEMARYAH B. ELIA, Higgayon [Dialectica], sc. <PETRUS HISPANUS, Tractatus (Summulae logicales), transl. hebraica>, mut. in fine. [Esta é a mais completa das traduções hebraicas do Tractatus, mas também a menos difundida, existindo apenas este manuscrito (MANEKIN, Scholastic Logic, p. 134). O trad. apresenta-se a si próprio como o autor da obra, daí o divergir do original em extensas passagens (MANEKIN, When the Jews, p. 405 ???). Steinschneider considera-a genuína obra do A., mas recorda que outras obras lógicas da época, nomeadamente os parva logicalia de Pedro Hispano, foram traduzidos para hebraico].
+281. Leiden, Bibliotheek der Rijksuniversiteit, Voss. Lat. F. 67
+282. Leipzig, Universitätsbibliothek, 399Início de comentário ao Tractatus IV, De sillogismo, de Pedro Hispano. País: Alemanha. Códice miscelâneo, com 4 partes. 166 ff.; 205x140 mm.; pergam. BIBL.: R. HELSSIG, Die lateinischen und deutschen Handschriften, Bd. 1: Die theologischen Handschriften, Teil 1, (Katalog der Handschriften der Universitäts-Bibliothek zu Leipzig IV,1) Leipzig 1926-1935 (Nachdruck Wiesbaden 1995), p. 628.IIIff. 87-112; 2 col.; por mão so séc. XIV; títulos a negro e iniciais a vermelho; no f. 87 e no f. 112v lê-se «(Libellus) Sancti Petri in monte sereno», por mão do séc. XV.1 (ff. 87-105) Summa dicataminum. inc. prol. Aristoteles philosophorum princeps dicit in libro Elenchorum principia sunt quibus scias. inc. De arte dictandi prima sui dicere accedamus. Diuiditur iste liber in duas partes. des. in utilitatem ecclesie est conuersa alio modo non haberet ueritatem. Explicit opus summe.1b (ff. 102r-105v) Notabilia. inc. Hic sunt quedam notanda que pertransita sunt circa illa partem Gregorii etc. Nota quod sicut Cycero dicit in libro de paradoxis Concordia parue res crescunt discordia uero magne res dilabuntur. Hic sunt quedam notanda et primo. des. bursa proprie est coquina uel mensa regalis. expl. Expliciunt notabilia ibi preposita missa Gregorii.2 (ff. 105v-112r) Commentarium supra dicta/carmen Phagifacetus Raineri Alemanicus. inc. prol. Commentator dicit supra librum sex principiorum. inc. Hiis uisis ad litteram accedamus et ergo res rerum licet sic exponitur. des. sequor in dando precepta quorum exemplis usus eorum unica actione. Expliciunt dicat Phayfaceti.3 (f. 112ra-b) ANONYMUS, Commentarium in quartum Tractatum Summularum Petri Hispani (prol. ?). inc. Philosophus dicit in libro Metaphysice quod multi propter paucitatem instructionis in loyca perierunt, hec proposicio inducitur exhortando nos ad istam scientiam loyce (…) Causa efficiens huius libri fuit Petrus Hyspanus. Causa materialis siue subiectum est mihi de qua est intentio auctoris et est declarare de sillogismo et de partibus eius. Subiectum huius libri est sillogismus uniuersaliter aceptus in se et in suis partibus consideratus. des. alia est forma secundum quam actu operatur et illa forma debet esse forma operis et sic est in proposito.4 (ff. 112rb-112v) Synonyma. inc. Manducare comedere edere.
+283. Leipzig, Universitätsbibliothek, 1127
+284. Leipzig, Universitätsbibliothek, 1149
+285. Leipzig, Universitätsbibliothek, 1193
+286. Leipzig, Universitätsbibliothek, 1226
+287. Leipzig, Universitätsbibliothek, 1451
+288. Leipzig, Universitätsbibliothek, 1697
+289. Livorno, Biblioteca del Talmud Torah, 6
+290. London, British Library, Additional =Add. 4897
+291. London, British Library, Add. 10353
+292. London, British Library, Add. 15078
+293. London, British Library, Add. 15097 
+294. London, British Library, Add. 15236
+295. London, British Library, Add. 16386
+296. London, British Library, Add. 18227
+297. London, British Library, Add. 22636
+298. London, British Library, Add. 25000
+299. London, British Library, Add. 27087
+300. London, British Library, Add. 27153
+301. London, British Library, Add. 32622
+302. London, British Library, Add. 62131
+303. London, British Library, Egerton 2852
+304. London, British Library, Harley 1887
+305. London, British Library, Harley 2558
+306. London, British Library, Harley 5139
+307. London, British Library, Harley 5218
+308. London, British Library, Or. 10617
+309. London, British Library, Royal 12.B.III
+310. London, British Library, Royal 13.A.VII
+311. London, British Library, Sloane 282
+312. London, British Library, Sloane 284
+313. London, British Library, Sloane 405
+314. London, British Library, Sloane 477
+315. London, British Library, Sloane 521
+316. London, British Library, Sloane 568 
+317. London, British Library, Sloane 1124
+318. London, British Library, Sloane 1214
+319. London, British Library, Sloane 1754
+320. London, British Library, Sloane 2268
+321. London, British Library, Sloane 2479
+322. London, British Library, Sloane 3848
+323. London, Lambeth Palace Library, 444 
+324. London, Montefiore Library, 305 (Halb. 361)
+325. London, Royal College of Physicians, 352
+326. London, Royal College of Physicians, 408
+327. London, University College Library, Lat. 4
+328. London, University College Library, Lat. 12
+329. London, Wellcome Library for the History and Understanding of Medicine, 55 -- Manifest: http://wellcomelibrary.org/iiif/b19656452/manifest
+330. London, Wellcome Library for the History and Understanding of Medicine, 140 -- Manifest: http://wellcomelibrary.org/iiif/b19571355/manifest
+331. London, Wellcome Library for the History and Understanding of Medicine, 335 -- IIIF Manifest: http://wellcomelibrary.org/iiif/b21366408/manifest
+332. London, Wellcome Library for the History and Understanding of Medicine, 513
+333. London, Wellcome Library for the History and Understanding of Medicine, 533
+334. London, Wellcome Library for the History and Understanding of Medicine, 560
+335. London, Wellcome Library for the History and Understanding of Medicine, 562
+336. London, Wellcome Library for the History and Understanding of Medicine, 617
+337. London, Wellcome Library for the History and Understanding of Medicine, 618 
+338. Los Angeles, University of California Los Angeles, Biomedical Library, Benjamin 11
+339. Lübeck, Bibliothek der Hansestadt, 4º Med. 10 
+340. Lübeck, Bibliothek der Hansestadt, 4º Philos. 14
+341. Lucca, Biblioteca Statale (Biblioteca Governativa), 361
+342. Lucca, Biblioteca Statale (Biblioteca Governativa), 1077
+343. Lüneburg Lueneburg, Ratsbucherei, Miscell. D fol. 3 
+344. Lüneburg, Ratsbucherei, Miscell. D fol. 12
+345. Madrid, Biblioteca Nacional, 429
+346. Madrid, Biblioteca Nacional, 1070 
+347. Madrid, Biblioteca Nacional, 1456
+348. Madrid, Biblioteca Nacional, 1877 
+349. Madrid, Biblioteca Nacional, 2166
+350. Madrid, Biblioteca Nacional, 3091 
+351. Madrid, Biblioteca Nacional, 3314
+352. Madrid, Biblioteca Nacional, 4618
+353. Madrid, Biblioteca Nacional, 4643
+354. Madrid, Biblioteca Nacional, 4795
+355. Mainz, Stadtbibliothek, I 81
+356. Mainz, Stadtbibliothek, I 530
+357. Mainz, Stadtbibliothek, I 530 b
+358. Manchester, Chetham’s Library, 11380 (Mun. A. 4. 91)
+359. Manchester, John Rylands Library, lat. 65
+360. Manchester, John Rylands Library, lat. 228
+361. Mantova, Biblioteca Comunale, 378 (D I 3)
+362. Melk, Stiftsbibliothek, Cod. 579
+363. Melk, Stiftsbibliothek, Cod. 621
+364. Melk, Stiftsbibliothek, Cod. 633
+365. Melk, Stiftsbibliothek, Cod. 901
+366. Melk, Stiftsbibliothek, Cod. 1771
+367. Memmingen, Stadtbibliothek, 2. 40. quart.
+368. Metz, Bibliothèque Municipale, 638
+369. Metz, Bibliothèque Municipale, 642
+370. Michaelbeuern, Benediktinerstiftes, Man. cart. 57
+371. Michelstadt, Nicolaus-Matz-Bibliothek (Kirchenbibliothek), C 374
+372. Milano, Archivio Storico Civico e Biblioteca Trivulziana, 657
+373. Milano, Archivio Storico Civico e Biblioteca Trivulziana, 708
+374. Milano, Archivio Storico Civico e Biblioteca Trivulziana, 758
+375. Milano, Biblioteca Ambrosiana, Becc. B. 235
+376. Milano, Biblioteca Ambrosiana, C 46 sup.
+377. Milano, Biblioteca Ambrosiana, D 27 sup.
+378. Milano, Biblioteca Ambrosiana, F 56 sup.
+379. Milano, Biblioteca Ambrosiana, H 64 inf.
+380. Milano, Biblioteca Ambrosiana, N 9 sup.
+381. Milano, Biblioteca Ambrosiana, N 158 sup.
+382. Milano, Biblioteca Nazionale Braidense, AC. VIII. 37
+383. Modena, Biblioteca Estense, graec. 50 (II B 13)
+384. Modena, Biblioteca Estense, lat. 54 (alpha O. 7. 17)
+385. Montecassino, Archivio e Biblioteca dell’Abbazia, 362 VV
+386. Montecassino, Archivio e Biblioteca dell’Abbazia, 791 lit. TT
+387. Monteprandone (Ascoli Piceno), Museo Civico, M 27
+388. Montpellier, Bibliothèque interuniversitaire, Section de Médecine, H 260
+389. Montpellier, Bibliothèque interuniversitaire, Section de Médecine, H 474
+390. Montpellier, Bibliothèque interuniversitaire, Section de Médecine, H 490
+391. Moskva, Rossiiskaia Gosudarstvennaia Biblioteka [Russa Estatal Biblioteca], Günzberg 165
+392. Moskva, Rossiiskaia Gosudarstvennaia Biblioteka, Günzberg 1061
+393. Mühlhausen [Thomas-Müntzer-Stadt], Stadtarchiv (olim Keisarchiv), 60/19
+394. Mühlhausen [Thomas-Müntzer-Stadt], Stadtarchiv (olim Keisarchiv), 60/25
+395. München, Bayerische Staatsbibliothek, germ. 317
+396. München, Bayerische Staatsbibliothek, germ. 407
+397. München, Bayerische Staatsbibliothek, germ. 591
+398. München, Bayerische Staatsbibliothek, germ. 592
+399. München, Bayerische Staatsbibliothek, germ. 720
+400. München, Bayerische Staatsbibliothek, germ. 721
+401. München, Bayerische Staatsbibliothek, germ. 725
+402. München, Bayerische Staatsbibliothek, germ. 822
+403. München, Bayerische Staatsbibliothek, germ. 3724
+404. München, Bayerische Staatsbibliothek, germ. 3896
+405. München, Bayerische Staatsbibliothek, germ. 4543
+406. München, Bayerische Staatsbibliothek, germ. 4667
+407. München, Bayerische Staatsbibliothek, germ. 5146
+408. München, Bayerische Staatsbibliothek, graec. 548
+409. München, Bayerische Staatsbibliothek, hebr. 45
+410. München, Bayerische Staatsbibliothek, hebr. 307
+411. München, Bayerische Staatsbibliothek, lat. 40
+412. München, Bayerische Staatsbibliothek, lat. 161
+413. München, Bayerische Staatsbibliothek, lat. 259
+414. München, Bayerische Staatsbibliothek, lat. 321
+415. München, Bayerische Staatsbibliothek, lat. 381
+416. München, Bayerische Staatsbibliothek, lat. 438
+417. München, Bayerische Staatsbibliothek, lat. 457
+418. München, Bayerische Staatsbibliothek, lat. 509
+419. München, Bayerische Staatsbibliothek, lat. 615
+420. München, Bayerische Staatsbibliothek, lat. 4391
+421. München, Bayerische Staatsbibliothek, lat. 4603
+422. München, Bayerische Staatsbibliothek, lat. 5947
+423. München, Bayerische Staatsbibliothek, lat. 6704
+424. München, Bayerische Staatsbibliothek, lat. 6726
+425. München, Bayerische Staatsbibliothek, lat. 6727
+426. München, Bayerische Staatsbibliothek, lat. 6905
+427. München, Bayerische Staatsbibliothek, lat. 7205
+428. München, Bayerische Staatsbibliothek, lat. 7658
+429. München, Bayerische Staatsbibliothek, lat. 7708
+430. München, Bayerische Staatsbibliothek, lat. 7733
+431. München, Bayerische Staatsbibliothek, lat. 7983
+432. München, Bayerische Staatsbibliothek, lat. 8401
+433. München, Bayerische Staatsbibliothek, lat. 8742
+434. München, Bayerische Staatsbibliothek, lat. 8951
+435. München, Bayerische Staatsbibliothek, lat. 9676
+436. München, Bayerische Staatsbibliothek, lat. 12304
+437. München, Bayerische Staatsbibliothek, lat. 14088
+438. München, Bayerische Staatsbibliothek, lat. 14458
+439. München, Bayerische Staatsbibliothek, lat. 14518
+440. München, Bayerische Staatsbibliothek, lat. 14574
+441. München, Bayerische Staatsbibliothek, lat. 14647
+442. München, Bayerische Staatsbibliothek, lat. 14697
+443. München, Bayerische Staatsbibliothek, lat. 14888
+444. München, Bayerische Staatsbibliothek, lat. 14896
+445. München, Bayerische Staatsbibliothek, lat. 18941
+446. München, Bayerische Staatsbibliothek, lat. 19438
+447. München, Bayerische Staatsbibliothek, lat. 19453
+448. München, Bayerische Staatsbibliothek, lat. 19672
+449. München, Bayerische Staatsbibliothek, lat. 19676
+450. München, Bayerische Staatsbibliothek, lat. 19844
+451. München, Bayerische Staatsbibliothek, lat. 19845
+452. München, Bayerische Staatsbibliothek, lat. 22294
+453. München, Bayerische Staatsbibliothek, lat. 24554
+454. München, Bayerische Staatsbibliothek, lat. 24960
+455. München, Bayerische Staatsbibliothek, lat. 24961
+456. München, Bayerische Staatsbibliothek, lat. 26878
+457. München, Bayerische Staatsbibliothek, lat. 28126
+458. München, Universitätsbibliothek, 4º Cod. 854
+459. München, Universitätsbibliothek, 8º Cod. 301
+460. München, Universitätsbibliothek, frag. CXXIII
+461. Napoli, Biblioteca Oratoriana dei Gerolami, Pil. XXII 1
+462. Napoli, Biblioteca Oratoriana dei Gerolami, C.F. I. 9
+463. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», V. E. 20
+464. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», V. H. 112
+465. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VI. G. 41
+466. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VII. F. 7
+467. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. C. 94
+468. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. D. 35
+469. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. E. 17
+470. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. F. 22
+471. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. F. 24
+472. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. F. 29
+473. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. G. 89
+474. Napoli, Biblioteca Nazionale «Vittorio Emanuele III», VIII. G. 100
+475. New Haven, Yale University, Medical Library, 39
+476. New York, Columbia University Library, X 88 / Ar 514
+477. New York, Columbia University, Rare Book and Manuscript Library, Plimpton 200
+478. New York, Columbia University, Rare Book and Manuscript Library, Plimpton 201
+479. New York, Jewish Theological Seminary of America Library, 2304
+480. New York, Jewish Theological Seminary of America Library, 2308
+481. New York, Jewish Theological Seminary of America Library, 2314
+482. New York, Jewish Theological Seminary of America Library, 2399
+483. New York, Jewish Theological Seminary of America Library, 2471
+484. New York (Tuxedo Park), The Library David Wagstaff, 9
+485. Novacella-Neustift, Convento dei Canonici Regolari-Augustiner Chorherrenstift, 605
+486. Novara, Biblioteca Capitolare di Santa Maria, CXXXIII (105)
+487. Novara, Biblioteca Capitolare di Santa Maria, CXXXVIII (138)
+488. Nürnberg [Nuernberg], Germanisches Nationalmuseum, 24347
+489. Nürnberg [Nuernberg], Germanisches Nationalmuseum, 27773
+490. Nürnberg [Nuernberg], Germanisches Nationalmuseum, 34387
+491. Nürnberg, Germanisches Nationalmuseum, 34389
+492. Nürnberg [Nuernberg], Stadtbibliothek, Amb. 55. Quart.
+493. Nürnberg [Nuernberg], Stadtbibliothek, Cent. VII. 86
+494. Nürnberg [Nuernberg], Stadtbibliothek, Ebner Q. 56
+495. Olomouc (Olmütz), Vědecká knihovna v Olomouci, M I 241
+496. Olomouc (Olmütz), Státní okresní archiv, 297 
+
+497. Olomouc (Olmütz), Státní okresní archiv, 349
+
+498. Osimo, Biblioteca del Collegio Campana, cod. VI, 49
+499. Osnabrück, Gymnasium Carolinum, 10
+
+500. Ottobeuren, Bibliothek der Benediktiner-Abtei [Archiv der Benediktinerstifts], I 159
+501. Ottobeuren, Bibliothek der Benediktiner-Abtei, II 290
+502. Oxford, All Souls College, 68
+
+503. Oxford, All Souls College, 76
+
+504. Oxford, Balliol College 285
+
+505. Oxford, Bodleian Library, Ashmole 189
+
+506. Oxford, Bodleian Library, Ashmole 346
+
+507. Oxford, Bodleian Library, Ashmole 1432
+
+508. Oxford, Bodleian Library, Ashmole 1435
+
+509. Oxford, Bodleian Library, Ashmole 1471
+
+510. Oxford, Bodleian Library, Ashmole 1475
+
+511. Oxford, Bodleian Library, Auct. T. 5. 13
+
+512. Oxford, Bodleian Library, Barocc. 76
+
+513. Oxford, Bodleian Library, Bodl. 761
+
+514. Oxford, Bodleian Library, Canon. ital. 260
+
+515. Oxford, Bodleian Library, Canon. misc. 52
+
+516. Oxford, Bodleian Library, Canon. misc. 156
+
+517. Oxford, Bodleian Library, Canon. misc. 203
+518. Oxford, Bodleian Library, Canon. misc. 366
+
+519. Oxford, Bodleian Library, Canon. misc. 421 
+520. Oxford, Bodleian Library, Digby 147
+
+521. Oxford, Bodleian Library, Digby 150
+
+522. Oxford, Bodleian Library, Lat. misc. e.100
+
+523. Oxford, Bodleian Library, Laud or. 98
+524. Oxford, Bodleian Library, Laud misc. 617
+
+525. Oxford, Bodleian Library, Laud misc. 676
+
+526. Oxford, Bodleian Library, Mich. 195
+527. Oxford, Bodleian Library, Mich. 280
+528. Oxford, Bodleian Library, Mich. 314
+529. Oxford, Bodleian Library, Mich. 335
+530. Oxford, Bodleian Library, Opp. 579
+531. Oxford, Bodleian Library, Rawlinson C. 814
+
+532. Oxford, Bodleian Library, Rawlinson Or. 34
+533. Oxford, Bodleian Library, Reggio 42
+534. Oxford, Corpus Christi College, 243
+
+535. Oxford, Magdalen College, 88
+536. Oxford, Magdalen College, 173
+
+537. Oxford, Pembroke College, 21
+
+538. Padova, Biblioteca Antoniana, 391 Scaff. XVIII
+539. Padova, Biblioteca Antoniana, 429 Scaff. XX
+
+540. Padova, Biblioteca Antoniana, 621 Scaff. XXIII
+541. Padova, Biblioteca Universitaria, 647
+
+542. Padova, Biblioteca Universitaria, 1026
+
+543. Paris, Bibliothèque de l’Arsenal, 3174 
+544. Paris, Bibliothèque interuniversitaire de pharmacie, 1
+545. Paris, Bibliothèque Mazarine, 3795 (587 A)
+546. Paris, Bibliothèque Nationale, Collection Duchesne 87
+547. Paris, Bibliothèque Nationale, fra. 630
+548. Paris, Bibliothèque Nationale, fra. 1319
+549. Paris, Bibliothèque Nationale, fra. 12323
+550. Paris, Bibliothèque Nationale, hebr. 767
+551. Paris, Bibliothèque Nationale, hebr. 926
+552. Paris, Bibliothèque Nationale, hebr. 928
+553. Paris, Bibliothèque Nationale, hebr. 929
+554. Paris, Bibliothèque Nationale, hebr. 971
+
+555. Paris, Bibliothèque Nationale, lat. 4043
+556. Paris, Bibliothèque Nationale, lat. 4311 -- manifest: ark:/12148/btv1b90777514 (open) -- cached
+557. Paris, Bibliothèque Nationale, lat. 6433 -- ark:/12148/btv1b9076656j (open) -- cached
+558. Paris, Bibliothèque Nationale, lat. 6657 -- ark:/12148/btv1b90679504 (open) -- cached
+559. Paris, Bibliothèque Nationale, lat. 6675 -- ark:/12148/btv1b90769822 (open) -- cached
+560. Paris, Bibliothèque Nationale, lat. 6957
+561. Paris, Bibliothèque Nationale, lat. 6988
+562. Paris, Bibliothèque Nationale, lat. 7053
+563. Paris, Bibliothèque Nationale, lat. 7054
+564. Paris, Bibliothèque Nationale, lat. 7349
+565. Paris, Bibliothèque Nationale, lat. 7521 - ark:/12148/btv1b90769414 (open) -- cached 
+566. Paris, Bibliothèque Nationale, lat. 7798 - ark:/12148/btv1b90776541 (open) -- cached
+567. Paris, Bibliothèque Nationale, lat. 8567 - ark:/12148/btv1b9066661k (open) -- cached
+568. Paris, Bibliothèque Nationale, lat. 8581
+569. Paris, Bibliothèque Nationale, lat. 8654b
+570. Paris, Bibliothèque Nationale, lat. 11126 
+571. Paris, Bibliothèque Nationale, lat. 11225 
+572. Paris, Bibliothèque Nationale, lat. 11420
+573. Paris, Bibliothèque Nationale, lat. 14173 - ark:/12148/btv1b90778235 (open)
+574. Paris, Bibliothèque Nationale, lat. 14716 - ark:/12148/btv1b90767401 (open)
+575. Paris, Bibliothèque Nationale, lat. 16126 - ark:/12148/btv1b9067843n (open)
+576. Paris, Bibliothèque Nationale, lat. 16611 - ark:/12148/btv1b90768515 
+577. Paris, Bibliothèque Nationale, nouv. acq. lat. 219
+578. Paris, Bibliothèque Nationale, nouv. acq. lat. 258
+579. Paris, Bibliothèque Nationale, nouv. acq. lat. 308
+580. Paris, Bibliothèque Nationale, nouv. acq. lat. 892
+581. Paris, Bibliothèque Nationale, nouv. acq. lat. 3137
+582. Paris, Bibliothèque Sainte-Geneviève, 2235
+583. Paris, Bibliothèque Sainte-Geneviève, 2237
+
+584. Parma, Biblioteca Palatina, Parm. 1065
+
+585. Parma, Biblioteca Palatina, Parm. 2100
+586. Parma, Biblioteca Palatina, Parm. 2115
+587. Parma, Biblioteca Palatina, Parm. 2264
+588. Parma, Biblioteca Palatina, Parm. 2639
+589. Parma, Biblioteca Palatina, Parm. 2906
+590. Pavia, Biblioteca Universitaria, Aldini 27
+
+591. Pavia, Biblioteca Universitaria, Aldini 450 (149)
+
+592. Perugia, Biblioteca Comunale Augusta, 1124
+593. Perugia, Biblioteca Comunale Augusta, 1227 (1734)
+
+594. Piacenza, Biblioteca Comunale Passerini-Landi, Mss. Angelo Genocchi, Landi 3
+
+595. Pistoia, Archivio del convento di San Francesco a Giaccherino, I. G. 6 (Cod. 19)
+
+596. Porto, Biblioteca Pública Municipal, Azevedo 14
+
+597. Poznań, Universytet im. Adama Mickiewicza, Biblioteka Glówna, 1737 [Universytet im. Adama Mickiewicza / Biblioteca Geral]
+598. Praha, Archiv Pražského hradu Arquivo do Castelo de Praga, L LX
+
+599. Praha, Archiv Pražského hradu, L LXXIV
+600. Praha, Archiv Pražského hradu, M XI
+
+601. Praha, Archiv Pražského hradu, M XXVII
+
+602. Praha, Archiv Pražského hradu, M XXXIV/2
+
+603. Praha, Archiv Pražského hradu, M XXXVII
+604. Praha, Archiv Pražského hradu, M XXXIX 
+605. Praha, Archiv Pražského hradu, M XLIV
+606. Praha, Archiv Pražského hradu, M CII/1 
+607. Praha, Archiv Pražského hradu, M CLV
+
+608. Praha, Archiv Pražského hradu, O LV
+609. Praha, Knihovna Národního muzea v Praze, I D 7 [Národni: Nacional]
+
+610. Praha, Knihovna Národního muzea v Praze, XII F 4
+611. Praha, Knihovna Národního muzea v Praze, Nostická majorátní knihovna, Ms. c 18
+612. Praha, Královská kanonie premonstrátů na Strahově, [canónica real premonstratense em Strahov], DT II 7
+
+613. Praha, Národní knihovna České Republiky, I F 11 [Národni: Nacional, Knihovná: Biblioteca]
+
+614. Praha, Národní knihovna České Republiky, VIII F 16
+
+615. Praha, Národní knihovna České Republiky, XI E 5
+
+616. Praha, Národní knihovna České Republiky, XI E 9
+
+617. Praha, Národní Knihovna České Republiky, XIV E 33
+
+618. Praha, Národní Knihovna České Republiky, XIV F 20
+
+619. Praha, Národní Knihovna České Republiky, XVII B 18
+
+620. Praha, Národní Knihovna České Republiky, XVII D 10
+
+621. Praha, Národní knihovna České Republiky, Osek 7
+622. Praha, Národní knihovna České Republiky, Osek 39
+623. Princeton (New Jersey), University Library, Garrett 80
+
+624. Rajhrad, Památník písemnictví na Moravě, Knihovna rajhradského opatství, R 421
+
+625. Ravenna, Biblioteca Comunale Classense, 293
+
+626. Reims, Bibliothèque Municipale, 894
+627. Reims, Bibliothèque Municipale, 897
+
+628. Roma, Accademia Nazionale dei Lincei (Biblioteca Corsiniana), 36. E. 15 (Rossi 177)
+
+629. Roma, Accademia Nazionale dei Lincei (Biblioteca Corsiniana), 36. G. 26 (Cors. 1788)
+
+630. Roma, Biblioteca Angelica, 1736
+
+631. Roma, Biblioteca Casanatense, 87
+
+632. Roma, Biblioteca Casanatense, 100
+633. Roma, Biblioteca Casanatense, 804
+634. Roma, Biblioteca Casanatense, 806
+
+635. Roma, Biblioteca Casanatense, 1382
+636. Roma, Biblioteca Casanatense, 1798
+
+637. Roma, Biblioteca Casanatense, 4226
+
+638. Roma, Biblioteca Vallicelliana, B. 63
+639. Roma, Biblioteca Vallicelliana, C. 49
+640. Rostock, Universitätsbibliothek, Fragm. philol. 33
+641. Rostock, Universitätsbibliothek, Theol. 50
+642. Saint-Dié, Bibliothèque Publique, 69
+
+643. Salamanca, Biblioteca Universitaria, 1882
+
+644. Salamanca, Biblioteca Universitaria, 1945
+645. Salamanca, Biblioteca Universitaria, 2080
+646. Salins-les-Bains, Bibliothèque Municipale, 45 (P. 38)
+
+647. Salzburg, Museum Carolino-Augusteum, 2168
+
+648. Salzburg, Museum Carolino-Augusteum, 2171
+
+649. Salzburg, Universitätsbibliothek, cod. M III 3
+650. San Marino (California), Henry E. Huntington Library and Art Gallery, HM 64
+
+
+651. San Marino (California), Henry E. Huntington Library and Art Gallery, HU 1051
+
+652. Sankt Florian, Bibliothek der Augustiner-Chorherrenstift, (Stiftsbibliothek) XI. 587
+
+653. Sankt Gallen, Kantonsbibliothek (Vadianische Sammlung), 297
+
+654. Sankt Gallen, Kantonsbibliothek (Vadianische Sammlung), 390
+
+655. Sankt Gallen, Kantonsbibliothek (Vadianische Sammlung), 436
+
+656. Sankt Gallen, Stiftsbibliothek, 203
+657. Sankt Gallen, Stiftsbibliothek, 819
+
+658. Sankt Gallen, Stiftsbibliothek, 829 
+659. Sankt-Peterburg, Biblioteka Rossiskoj Nauk Biblioteca da Academia das Ciências, O. 53 (XXH/I)
+
+660. Sankt-Peterburg, Rossijskaja Nacional’naja Biblioteka [Biblioteca Nacional Russa], Evr. I. 411
+661. Sarnano, Biblioteca Comunale, E. 76
+
+662. Schaffhausen, Stadtbibliothek, Gen. 14
+663. Schaffhausen, Stadtbibliothek, Gen. 24
+664. Schlägl, Präemonstratenser-Stiftsbibliothek, Canoniae Plagensis Cpl. 78 (816. a) 175
+665. Schlägl, Präemonstratenser-Stiftsbibliothek, Canoniae Plagensis Cpl. 102 (822) 215
+
+666. Segovia, Archivo y Biblioteca de la Catedral, Vitrina 32, pars media
+667. Sélestat, Bibliothèque Humaniste et Municipale, 102
+
+668. Semur-en-Auxois, Bibliothèque Municipale, 2 (2)
+669. Semur-en-Auxois, Bibliothèque Municipale, 35 (36)
+670. Sevilla, Biblioteca Capitular Colombina, 5-2-35
+
+671. Sevilla, Biblioteca Capitular Colombina, 5-5-20
+
+672. Sevilla, Biblioteca Capitular Colombina, 5-5-21
+
+673. Sevilla, Biblioteca Capitular Colombina, 5-6-14
+
+674. Sevilla, Biblioteca Capitular Colombina, 7-3-28 
+675. Sevilla, Biblioteca Capitular Colombina, 7-4-25
+
+676. Sevilla, Biblioteca Capitular Colombina, 7-4-30
+677. Sevilla, Biblioteca Capitular Colombina, 7-7-7
+678. Siena, Biblioteca Comunale degli Intronati, G.VI.38
+679. Siena, Biblioteca Comunale degli Intronati, H.II.1
+680. Siena, Biblioteca Comunale degli Intronati, H.VI.7
+681. Siena, Biblioteca Comunale degli Intronati, I.VII.11
+682. Siena, Biblioteca Comunale degli Intronati, L.VI.2
+683. Siena, Biblioteca Comunale degli Intronati, L.VI.3
+684. Siena, Biblioteca Comunale degli Intronati, L.VI.11
+685. Sion (Sitten), Archives du Venerable Chapitre, 113
+686. Soissons, Bibliothèque Municipale, 48
+687. Solothurn, Zentralbibliothek, S. 386
+688. Strasbourg, Bibliotèque Nationale et Universitaire, 45 (Latin 43)
+689. Stuttgart, Württembergische Landesbibliothek, Theol. et philos. 4º 191
+690. Tarragona, Arxiu Historic Arxidiocesà, 2 (85)
+
+691. Tarragona, Biblioteca Pública Provincial, 23
+692. Tarragona, Biblioteca Pública Provincial, 27 
+693. Tarragona, Biblioteca Pública Provincial, 61
+694. Todi, Biblioteca Comunale, 54
+695. Toledo, Archivo y Biblioteca Capitular, 94-27
+696. Toledo, Archivo y Biblioteca Capitular, 94-28
+
+697. Toledo, Archivo y Biblioteca Capitular, 95-3
+698. Toledo, Archivo y Biblioteca Capitular, 97-8
+
+699. Toledo, Archivo y Biblioteca Capitular, 97-23
+
+700. Torino, Biblioteca Nazionale Universitaria, D. III. 27 (462)
+701. Torino, Biblioteca Nazionale Universitaria, F. V. 25
+
+702. Torino, Biblioteca Nazionale Universitaria, G. III. 12
+703. Torino, Biblioteca Nazionale Universitaria, H. VI. 5
+
+704. Torino, Biblioteca Nazionale Universitaria, H. VI. 32
+
+705. Torino, Biblioteca Nazionale Universitaria, K2. II. 7
+
+706. Torino, Biblioteca Nazionale Universitaria, K2. V. 9
+
+707. Toulouse, Bibliothèque Municipale, 220
+
+708. Trier, Stadtbibliothek, 1004 (1938)
+
+709. Trier, Stadtbibliothek, 1005 (1951)
+
+710. Trier, Stadtbibliothek, 2247 (2183)
+711. Troyes, Médiathèque de l’Agglomération Troyenne, 1626
+712. Troyes, Médiathèque de l’Agglomération Troyenne, 1737 
+
+713. Troyes, Médiathèque de l’Agglomération Troyenne, 2015
+
+714. Troyes, Médiathèque de l’Agglomération Troyenne, 2018 
+
+715. Udine, Biblioteca Arcivescovile, 18
+
+716. Uppsala, Universitetsbiblioteket (Carolina), C. 19
+717. Uppsala, Universitetsbiblioteket (Carolina), C. 609
+718. Uppsala, Universitetsbiblioteket (Carolina), C. 620
+719. Uppsala, Universitetsbiblioteket (Carolina), C. 663
+
+720. Utrecht, Bibliotheek der Rijksuniversiteit, 235 (5.F.17)
+721. Utrecht, Bibliotheek der Rijksuniversiteit, 680 (V.B.6)
+
+722. Utrecht, Bibliotheek der Rijksuniversiteit, 685 (IV.C.3)
+
+723. Valencia, Biblioteca Universitaria, 216 (Gutiérrez 902)
+
+724. Vaticano (Città del), Archivio Segreto Vaticano, Reg. Vat. 29A
+725. Vaticano (Città del), Archivio Segreto Vaticano, Reg. Vat. 38
+726. Vaticano (Città del), Biblioteca Apostolica Vaticana, Archivio di S. Pietro F 25
+727. Vaticano (Città del), Biblioteca Apostolica Vaticana, Chig. lat. D. VII. 114
+728. Vaticano (Città del), Biblioteca Apostolica Vaticana, Chig. lat. E. V. 148
+
+729. Vaticano (Città del), Biblioteca Apostolica Vaticana, Ottobon. lat. 31
+
+730. Vaticano (Città del), Biblioteca Apostolica Vaticana, Ottobon. lat. 1265
+731. Vaticano (Città del), Biblioteca Apostolica Vaticana, Ottobon. lat. 2082
+
+732. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. graec. 235
+
+733. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 994 
+734. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 995 
+735. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1001 
+736. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1005 
+737. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1008 
+738. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1049 
+739. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1085
+
+740. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1087
+
+741. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1139
+
+742. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1166
+
+743. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1179
+
+
+744. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1200
+
+745. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1216
+
+746. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1220
+
+747. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1251
+
+748. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1253
+
+749. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1256
+
+
+750. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1259
+
+751. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1273
+
+752. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1316
+
+753. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1321
+
+754. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1405
+
+755. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1768
+756. Vaticano (Città del), Biblioteca Apostolica Vaticana, Reg. lat. 1205
+
+757. Vaticano (Città del), Biblioteca Apostolica Vaticana, Reg. lat. 1312
+
+758. Vaticano (Città del), Biblioteca Apostolica Vaticana, Reg. lat. 1731
+
+759. Vaticano (Città del), Biblioteca Apostolica Vaticana, Reg. lat. 177
+760. Vaticano (Città del), Biblioteca Apostolica Vaticana, Ross. 269
+761. Vaticano (Città del), Biblioteca Apostolica Vaticana, Urb. lat. 1419
+
+762. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. hebr. 366
+
+763. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. hebr. 507
+
+764. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 2141
+765. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 2661
+766. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3020
+767. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3022 
+768. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3043
+769. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3047
+770. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3049
+771. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3050
+772. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3051
+
+773. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3211
+
+774. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3977
+775. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 4425
+
+776. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 4455
+
+777. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 4537
+
+778. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 4544
+779. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 5334
+
+780. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 5375
+
+781. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 5377
+
+782. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 6735
+783. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 6758
+
+784. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 10044
+785. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 11550
+
+786. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 11864
+787. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 13983
+
+
+788. Vendôme, Bibliothèque Municipale, 196
+789. Venezia, Biblioteca Nazionale Marciana, gr. IV. 37 (1463)
+790. Venezia, Biblioteca Nazionale Marciana, it. III. 12 (4962)
+
+791. Venezia, Biblioteca Nazionale Marciana, it. III. 16 (5255)
+
+792. Venezia, Biblioteca Nazionale Marciana, lat. VI. 38 (3214)
+
+793. Venezia, Biblioteca Nazionale Marciana, lat. VI. 63 (2550)
+794. Venezia, Biblioteca Nazionale Marciana, lat. VI. 198 (= 2602)
+
+795. Venezia, Biblioteca Nazionale Marciana, lat. VII. 11 (2496)
+
+796. Venezia, Biblioteca Nazionale Marciana, lat. XIV. 129 (4334)
+797. Venezia, Biblioteca Nazionale Marciana, lat. Z. 253 (1826)
+
+798. Venezia, Biblioteca Nazionale Marciana, lat. Z. 534 (1635)
+
+799. Vicenza, Biblioteca Comunale (Civica) Bertoliana, 82 (296)
+
+800. Vicenza, Biblioteca Comunale (Civica) Bertoliana, 211
+801. Vich, Museo y Biblioteca Episcopal, 185
+802. Vich, Museo y Biblioteca Episcopal, 191
+
+803. Vorau, Chorherrenstiftsbibliothek, 190 (CXLIII)
+
+804. Washington, Library of Congress, 130
+
+805. Washington, National Library of Medicine, 53 (Wz 220.6 I64)
+
+806. Warszawa, Biblioteka Narodowa, akc. 1819
+807. Weimar, Landesbibliothek, Q. 78
+
+808. Wertheim, Historische Bibliothek in der Stiftskirche, 157
+809. Wien, Dominikanerkonvent, 29/29
+
+810. Wien, Dominikanerkonvent, 51/273
+
+811. Wien, Österreichische Nationalbibliothek, 96
+
+812. Wien, Österreichische Nationalbibliothek, 187
+
+813. Wien, Österreichische Nationalbibliothek, 574
+
+814. Wien, Österreichische Nationalbibliothek, 2300
+
+815. Wien, Österreichische Nationalbibliothek, 2335
+816. Wien, Österreichische Nationalbibliothek, 2351
+
+817. Wien, Österreichische Nationalbibliothek, 2389
+818. Wien, Österreichische Nationalbibliothek, 2967
+
+819. Wien, Österreichische Nationalbibliothek, 3011
+
+820. Wien, Österreichische Nationalbibliothek, 3405
+
+821. Wien, Österreichische Nationalbibliothek, 3872
+822. Wien, Österreichische Nationalbibliothek, 4698
+
+823. Wien, Österreichische Nationalbibliothek, 4751
+
+824. Wien, Österreichische Nationalbibliothek, 4785
+825. Wien, Österreichische Nationalbibliothek, 4996
+
+826. Wien, Österreichische Nationalbibliothek, 5148
+827. Wien, Österreichische Nationalbibliothek, 5162
+
+828. Wien, Österreichische Nationalbibliothek, 5196
+
+829. Wien, Österreichische Nationalbibliothek, 5199
+
+830. Wien, Österreichische Nationalbibliothek, 5238
+831. Wien, Österreichische Nationalbibliothek, 5248
+
+832. Wien, Österreichische Nationalbibliothek, 5305
+
+833. Wien, Österreichische Nationalbibliothek, 5365
+834. Wien, Österreichische Nationalbibliothek, 5370
+
+835. Wien, Österreichische Nationalbibliothek, 5420 
+836. Wien, Österreichische Nationalbibliothek, 5466
+837. Wien, Österreichische Nationalbibliothek, 5522
+
+838. Wien, Österreichische Nationalbibliothek, 11200 
+
+839. Wien, Österreichische Nationalbibliothek, 11714 
+840. Wien, Österreichische Nationalbibliothek, 14531
+841. Wien, Österreichische Nationalbibliothek, Hebr. 43
+842. Wien, Österreichische Nationalbibliothek, Hebr. 62
+843. Wien, Österreichische Nationalbibliothek, Hist. gr. 128
+
+844. Wien, Österreichische Nationalbibliothek, Phil. gr. 333
+845. Wolfenbüttel, Herzog August Bibliothek, 81. 4. Aug. 2°
+
+846. Wolfenbüttel, Herzog August Bibliothek, 14. 12. Aug. 4°
+
+847. Wolfenbüttel, Herzog August Bibliothek, 18. 31. Aug. 4°
+848. Wolfenbüttel, Herzog August Bibliothek, 295 Extravagantes
+849. Wolfenbüttel, Herzog August Bibliothek, 200 Gud. lat. 4°
+
+850. Wolfenbüttel, Herzog August Bibliothek, 800 Helmst.
+851. Wolfenbüttel, Herzog August Bibliothek, 873 Helmst.
+
+852. Wolfenbüttel, Herzog August Bibliothek, 892 Helmst.
+853. Wolfenbüttel, Herzog August Bibliothek, 1054 Helmst.
+
+854. Wrocław, Biblioteka Universiytecka, IV. O. 1
+855. Wrocław (Breslau), Biblioteka Universiytecka, IV. Q. 2
+856. Wrocław, Biblioteka Universiytecka, IV. Q. 4
+
+857. Wrocław, Biblioteka Uniwersytecka, IV. Q. 6
+858. Wrocław, Biblioteka Uniwersytecka, IV. Q. 7
+
+859. Wrocław, Biblioteka Universiytecka, IV. Q. 158
+
+860. Würzburg, Franziskanerkloster, I. 113
+861. Würzburg, Universitätsbibliothek, M. p. med. f. 2 
+
+862. Zagreb, Akademija znanosti i umjetnosti, II a 71
+863. Zeitz, Domherrenbibliothek, 58
+864. Zürich, Zentralbibliothek, C. 101
+
+865. Zürich, Zentralbibliothek, C. 362
+866. Zwettl, Bibliothek der Zisterzienserstift, 257
+
+867. Zwettl, Bibliothek der Zisterzienserstift, 416
+
+868. Zwickau, Ratsschulbibliothek, I. XV. 3
+869. Zwickau, Ratsschulbibliothek, XXIV. XI. 6
+
+      
+2. Códices perdidos ou não localizados
+870. Cambridge, Gonville and Caius College, (…?)
+871. Chartres, Bibliothèque Municipale, 396
+872. Firenze, Convento domenicano di Santa Maria Novella, (…?)
+873. Firenze, Convento domenicano di Santa Maria Novella, (…?)
+874. Firenze, Convento domenicano di Santa Maria Novella, in 7º banco
+875. Günzburg, (…?), 165 (b 23.24)
+876. Helmingham Hall (Suffolk), Library of Lord Tollemach, 92
+877. London, Beth Din and Beth Hamidrash Library, 38
+878. Metz, Bibliothèque Municipale, 37
+879. Metz, Bibliothèque Municipale, 296
+880. Milano, Biblioteca Ambrosiana, (…?) 
+881. Moskva, Gosudarstvennyi Istoricheski Muzei [estatal histórico museu], Sinodal. 324 (Vladimir 444)
+882. Münster, Universitätsbibliothek, 747
+883. Oxford, Balliol College, (…?)
+884. Oxford, Merton College, (…?)
+885. Padova, Biblioteca del Convento dei canonici Lateranenses, (…?)
+886. Paris, Abbaye de Saint Victor, MMM 13 (1079 – Dh 41)
+887. Paris, Abbaye de Saint Victor, MMM 14 (1158 – Dh 14)
+888. Paris, Bibliothèque Nationale, (…?)
+889. Paris, Bibliothèque Nationale, (…?) Canones Medicinae
+890. Roma, Biblioteca Casanatense, (…?) Opusculum medicinae praticae
+891. Siena, Libreria di S. Francesco, 128 (Banco 11, pergam.)
+892. Siena, Libreria di S. Francesco, 136 (Banco 11, pergam.)
+893. Siena, Libreria di S. Francesco, 932 (Armario F.C.)
+894. Siena, Libreria di S. Francesco, 952 (Armario F.E.)
+895. Siena, Libreria di S. Francesco, 955 (Armario F.E.)
+896. Siena, Libreria di S. Francesco, 956 (Armario F.E.)
+897. Siena, Libreria di S. Francesco, 1090 (Armario H.B.)
+898. Stockholm, Bibliotheca Regia, Fol. 32.8
+899. Toledo, Archivo Historico Provincial, (...?)
+900. Toledo, Archivo Historico Provincial, (...?)
+901. Utopia, Capparoni, (…?)
+902. Utopia, Iohannes de Hammone, 1
+903. Utopia, Rooryck 26 
+904. Utopia, Stephanus, (...?)
+905. Vaticano (Città del), Biblioteca Apostolica Vaticana, (…?) Epistolarum volumen
+906. Vaticano (Città del), Biblioteca Apostolica Vaticana, misc. 
+907. Venezia, Biblioteca … (…?)
+908. Ventimiglia, Civica Biblioteca Aprosiana, H 69
+909. Wien, «Bucher der Universität», 
+910. Wien, Dominikanerkonvent, O 20
+911. Wien, Dominikanerkonvent, T 39
+912. Wien, Dominikanerkonvent, T 56
+
+3. Códices com referências a Pedro Hispano ou às suas obras
+913. Augsburg, Staats- und Stadtbibliothek, 2º cod. 343
+914. Barcelona, Archivo de la Corona de Aragón, Ripoll 128
+915. Bratislava, Archív hlavného mesta, E L 5 (Knauz 68)
+916. Cesena, Biblioteca Comunale Malatestiana, Pluteo S. VII, 5
+917. Cesena, Biblioteca Comunale Malatestiana, Pluteo S. VIII, 2
+918. Cesena, Biblioteca Comunale Malatestiana, Pluteo S. VIII, 5
+919. Eton (Buckinghamshire), College, 127
+920. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Praed. 1224 
+921. Glasgow, University of Glasgow, University Library, Ferguson 89
+922. Koblenz, Görres-Gymnasium, Best. 701 nr. 138
+923. London, Wellcome Library for the History and Understanding of Medicine, 22
+924. München, Bayerische Staatsbibliothek, lat. 666
+925. Oldenburg, Landesbibliothek, Cim I 56
+926. Oxford, Exeter College, 35
+927. Palermo, Biblioteca Centrale della Regione Siciliana, VII B 17
+928. Paris, Bibliothèque Nationale, lat. 16533
+929. Pistoia, Monastero dei Servi di Maria (?), (...?)
+930. Praha, Národní Knihovna České Republiky, V E 1
+931. Sankt-Peterburg, (Leningrad), Archiv Leningrad
+932. Soest, Stadtbibliothek, 31/32
+933. Torino, Biblioteca del convento domenicano (?), (...?)
+934. Torino, Biblioteca Reale, Misti 59, int. 185
+935. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1207
+936. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 2159
+937. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 2185
+938. Venezia, Biblioteca Nazionale Marciana, lat. VI, 4 (2806)
+939. Venezia, Museo Civico Correr, Cicogna 2264
+
+4.Códices erradamente citados como contendo obras de Pedro Hispano
+940. Basel, Universitätsbibliothek, D. III. 11 
+941. Basel, Universitätsbibliothek, F. VI. 62
+942. Basel, Universitätsbibliothek, F. IX. 7 
+943. Cambridge, University Library, Peterhouse 143 
+944. Cambridge, St. John’s College, 99 (D. 2. 4)
+945. Coimbra, Biblioteca da Universidade, F 5
+946. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 2º 335 
+947. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. J. 4. 27 
+948. Firenze, Biblioteca Nazionale Centrale, Magl. XV 115
+949. Firenze, Biblioteca Medicea Laurenziana, Plut. LXXXIII 24
+950. Graz, Universitätsbibliothek, 236
+951. London, British Library, Harley 2258
+952. London, British Library, Royal 2 D XXX
+953. London, British Library, Sloane 147
+954. London, British Library, Sloane 357 
+955. London, British Library, Sloane 420
+956. London, British Library, Sloane 1313
+957. London, British Library, Sloane 2218
+958. Madrid, Biblioteca Nacional, 3340
+959. München, Bayerische Staatsbibliothek, germ. 4214
+960. München, Bayerische Staatsbibliothek, lat. 7709
+961. New York, Jewish Theological Seminary of America Library, 27
+962. Oxford, All Souls College, 3
+963. Paris, Bibliothèque Nationale, lat. 2946
+964. Paris, Bibliothèque Nationale, lat. 6978 
+
+965. Paris, Bibliothèque Nationale, lat. 7446
+966. Paris, Bibliothèque Nationale, lat. 7616
+967. Palermo, Archivio Storico Diocesano, 6
+968. Pommersfelden, Gräflich Schönbornsche Bibliothek, 277 verificar
+969. Praha, Archiv Pražského Hradu, L LXVIII
+970. Praha, Archiv Pražského hradu, M XXXVI
+971. Praha, Archiv Prazského hradu, M CII
+972. Tortosa, Biblioteca de la Catedral, 114 
+973. Tortosa, Biblioteca de la Catedral, 284 
+974. Troyes, Médiathèque de l’Agglomération Troyenne, 737
+975. Troyes, Médiathèque de l’Agglomération Troyenne, 2005 
+976. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 695
+977. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1225
+978. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1451
+979. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 280
+980. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 306
+981. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 696 
+982. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 1264
+983. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 5357 
+
+984. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 5370
+
+985. Venezia, Biblioteca Nazionale Marciana, lat. VI. 97 (2594)
+986. Venezia, Biblioteca Nazionale Marciana, lat. VI. 234 (2856)
+987. Wien, Österreichische Nationalbibliothek, 2310
+988. Wien, Österreichische Nationalbibliothek, 5005 
+
+5.Códices com atribuição a Pedro Hispano de obras de outros autores
+
+
+989. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 212
+990. Erfurt, Universitäts- und Forschungsbibliothek, Amplon. 4º 294
+991. Kraków, Biblioteka Jagiellońska, 781
+992. Leipzig, Universitätsbibliothek, 1156
+993. Paris, Bibliothèque Nationale, lat. 6956
+994. Paris, Bibliothèque Nationale, lat. 7416
+
+
+6.Códices com atribuições equívocas, ou por confirmar
+
+
+
+995. Amiens, Bibliothèque Municipale, 406
+996. Basel, Universitätsbibliothek, D. III. 6
+997. Firenze, Biblioteca Medicea Laurenziana, Ashburnham 143 (217. – 149)
+998. Firenze, Biblioteca Nazionale Centrale, Conv. soppr. G. 7. 1464
+999. Göttingen, Niedersächsische Staats- und Universitätsbibliothek, Hist. nat. 41
+
+1000. Kremsmünster, Stiftsbibliothek, CC 31
+1001. Leipzig, Universitätsbibliothek, 573
+1002. Leipzig, Universitätsbibliothek, 1183
+1003. London, British Library, Royal 8. A. VI
+1004. London, British Library, Sloane 3124
+1005. London, University College Library, Ogden 3O 
+1006. Montpellier, Bibliothèque interuniversitaire, Section de Médecine, H 277
+1007. München, Bayerische Staatsbibliothek, lat. 363
+1008. München, Bayerische Staatsbibliothek, lat. 18793
+1009. München, Universitätsbibliothek, 4º Cod. 802
+
+1010. Oxford, St. John’s College, 148 
+1011. Paris, Bibliothèque de l’Arsenal, 2889
+1012. Paris, Bibliothèque Nationale, fra. 19994VERIFICAR em C de Tovar. Parece conter 
+
+1013. Paris, Bibliothèque Nationale, lat. 6859
+1014. Paris, Bibliothèque Nationale, lat. 6959 
+1015. Paris, Bibliothèque Nationale, lat. 7392
+1016. Paris, Bibliothèque Nationale, nouv. acq. fra. 11649 
+
+1017. Roma, Biblioteca Angelica, 549
+1018. Roma, Biblioteca Casanatense, 3082
+1019. Vaticano (Città del), Biblioteca Apostolica Vaticana, Pal. lat. 1293
+1020. Vaticano (Città del), Biblioteca Apostolica Vaticana, Urb. lat. 1392 
+
+1021. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 2403
+1022. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 4473
+1023. Zürich, Zentralbibliothek, C. 54
+1024. Wien, Österreichische Nationalbibliothek, 5315
+
+7.Códices excluídos
+
+1025. El Escorial, Real Biblioteca de San Lorenzo de El Escorial, D. III. 3
+1026. Firenze, Biblioteca Nazionale Centrale, Nuove Acessioni 363
+1027. Frankfurt am Main, Universitätsbibliothek Johann Christian Senckenberg, Barthol. 177O texto 7 
+1028. München, Bayerische Staatsbibliothek, lat. 2971
+1029. München, Bayerische Staatsbibliothek, lat. 11052
+1030. Paris, Bibliothèque Nationale, lat. 4047
+1031. Paris, Bibliothèque Nationale, nouv. acq. lat. 390
+1032. Torino, Biblioteca Nazionale Universitaria, H. III. 38
+1033. Vaticano (Città del), Biblioteca Apostolica Vaticana, Vat. lat. 3987
+

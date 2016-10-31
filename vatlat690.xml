@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat690</shortid>
+		<title>Vantican City, Biblioteca Apostolica Vaticana, vat. lat. 690</title>
+		<initial>V</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat690/item1</shortid>
+				<canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.690/canvas/</canvasBase>
+				<manifestOfficial>http://digi.vatlib.it/iiif/MSS_Vat.lat.690/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

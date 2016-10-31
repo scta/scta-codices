@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<!-- contains fragments from Altavilla and others -->
+	<head>
+		<type>manuscript</type>
+		<shortid>baselAVI22</shortid>
+		<title>Basel, Universitätsbibliothek A VI 22</title>
+		<initial>V</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>baselAVI22/item1</shortid>
+				<canvasBase>http://www.e-codices.unifr.ch/metadata/iiif/ubb-A-VI-0022/canvas/</canvasBase>
+				<manifestOfficial>http://www.e-codices.unifr.ch/metadata/iiif/ubb-A-VI-0022/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

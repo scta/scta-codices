@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf7798</shortid>
+		<title>Paris, Bibliothèque Nationale, Lat 8567</title>
+		<initial>P</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf7798/item1</shortid>
+				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90776541/canvas/</canvasBase>
+				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90776541/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm26711</shortid>
+		<title>BSB Clm 26711</title>
+		<initial>B</initial> <!-- non unique initial helper for within file only -->
+		<!-- see: https://opacplus.bsb-muenchen.de/search?oclcno=910823918&db=100 for online catalogue entry -->
+		<!-- contains Hiltingen Commentary books 1 and 2 -->
+		<!-- also contains something by nicholas oresme; see f. 301r -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>clm26711/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		<!-- 1r-442r -->
+		
+	</surfaces>
+</codex>

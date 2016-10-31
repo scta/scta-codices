@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>pallat373</shortid>
+		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
+		<title>Città del Vaticano, Biblioteca Apostolica Vaticana, ms. Cod. pal. lat. 373</title>
+		<initial>PV</initial> <!-- svict -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>pallat373/item1</shortid>
+				<canvasBase>http://scta.info/iiif/pp-pal/canvas/</canvasBase>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+	</surfaces>
+</codex>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat1087</shortid>
+		<!-- inclues book ii of Michael Massa's sentences commentary-->
+		<!-- canvases currently won't be very useful since vat service id's keep change" -->
+		<title>Città del Vaticano, Biblioteca Apostolica Vaticana, ms. Cod. Vat. lat. 1087</title>
+		<initial>V</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat1087/item1</shortid>
+				<canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.1087/canvas/</canvasBase>
+				<manifestOfficial>http://digi.vatlib.it/iiif/MSS_Vat.lat.1087/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		<!-- 1r to 221v -->
+	</surfaces>
+</codex>

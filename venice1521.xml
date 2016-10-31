@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>venice1521</shortid>
+		<title>Venice 1521 Printing</title>
+		<description>Includes book 1 of Giles of Rome's Commentary on the Sentences</description>
+		<initial>V</initial> <!-- non unique unitial -->
+		<hasItems>
+			<item id="item1"> <!-- a file specific id -->
+				<canonical>true</canonical>
+				<shortid>venice1521/item1</shortid> <!-- item 1 -->
+				<holdingLibrary/>
+				<callNumber>library catalogue number</callNumber>
+				<canvasBase>http://scta.info/iiif/canvas/venice1521/item1/</canvasBase>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		<surface>
+			<shortid>venice1521/1-r</shortid>
+			<label>1-r</label>
+			<hasISurfaces>
+				<ISurface ref="#item1">
+					<shortid>venice1521/item1/1-r</shortid>
+					<canonical>true</canonical>
+					<canvasslug>1-r</canvasslug>
+					<hasImages>
+						<image>
+							<id>http://scta.info/iiif/image/venice1521/item1/1-r/1</id>
+							<serviceid>http://loris2.scta.info/venice1521/001.jpg</serviceid>
+							<!-- all other info can be pulled from the info.json file -->
+						</image>
+					</hasImages>
+				</ISurface>
+			</hasISurfaces>
+		</surface>
+	</surfaces>
+</codex>

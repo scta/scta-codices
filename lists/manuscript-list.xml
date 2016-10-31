@@ -6,8 +6,19 @@
 	<shortid>vatlat682</shortid>
 	<shortid>vatlat684</shortid>
 	<shortid>vatlat4284</shortid> <!-- plaoul vat -->
+	<shortid>pallat373</shortid> <!-- pal lat -->	
 	
 	<!-- bnf manuscripts -->
+	<shortid>bnf3074</shortid> <!-- plaoul paris richard of basoches notes -->
+	<shortid>bnf15897</shortid> <!-- plaoul sorb -->
+	<shortid>bnf14534</shortid> <!-- plaoul svict -->
+	
+	<shortid>erlangen511</shortid> <!-- plaoul erlangen -->
+	
+	<shortid>reimsbm506</shortid> <!-- plaoul reims -->
+	
+	
+	
 	
 	<!-- penn manuscripts -->
 	<shortid>penn686</shortid>

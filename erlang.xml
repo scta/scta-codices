@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>erlangen511</shortid>
+		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
+		<title>Erlangen, Universitätsbibliothek Erlangen-Nürnberg, ms. 511</title>
+		<initial>E</initial> <!-- erlangen -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>erlangen511/item1</shortid>
+				<canvasBase>http://scta.info/iiif/pp-erlang/canvas/</canvasBase>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+	</surfaces>
+</codex>

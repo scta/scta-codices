@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf14899</shortid>
+		<title>Paris, Bibliothèque nationale de France, Lat 14899</title>
+		<initial>P</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf14899/item1</shortid>
+				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90667875/canvas/</canvasBase>
+				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90667875/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

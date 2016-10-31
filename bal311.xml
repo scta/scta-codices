@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<!-- contains text of John Dinsdale -->
+	<head>
+		<type>manuscript</type>
+		<shortid>bal311</shortid>
+		<title>Oxford, Balliol College, ms. 311</title>
+		<initial>B</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bal311/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

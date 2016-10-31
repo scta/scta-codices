@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>avignon311</shortid>
+		<title>Avignon, Musee Calvet, cod. 311 (Anc. 186 Suppl.)</title>
+		<initial>A</initial>
+		<!-- non unique initial helper for within file only -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>avignon311/item1</shortid>
+				<canvasBase>http://scta.info/iiif/avignon311/canvas/</canvasBase>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+	</surfaces>
+</codex>

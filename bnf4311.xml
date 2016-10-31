@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf4311</shortid>
+		<title>Paris, Bibliothèque nationale de France, Lat 4311</title>
+		<initial>P</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf4311/item1</shortid>
+				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90777514/canvas/</canvasBase>
+				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90777514/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
