@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm27033</shortid>
+	  <title>Munich Clm 27033</title>
+		<initial>B</initial> 
+	  <!-- Holcot Sent. commentary -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm27033/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103354/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103354/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

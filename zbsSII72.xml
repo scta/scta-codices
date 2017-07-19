@@ -2,15 +2,15 @@
 <codex>
 	<head>
 		<type>manuscript</type>
-		<shortid>fcc20</shortid>
-		<title>Fribourg/Freiburg, Couvent des Cordeliers/Franziskanerkloster, Ms. 20</title>
-		<initial>F</initial> <!-- non unique initial helper for within file only -->
+		<shortid>zbsSII72</shortid>
+		<title>Switzerland, Solothurn, Zentralbibliothek, Cod. S II 72</title>
+		<initial>Z</initial> <!-- non unique initial helper for within file only -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
 				<shortid>fcc20/item1</shortid>
-				<canvasBase>http://www.e-codices.ch/metadata/iiif/fcc-0020/canvas/</canvasBase>
-				<manifestOfficial>http://www.e-codices.ch/metadata/iiif/fcc-0020/manifest.json</manifestOfficial>
+				<canvasBase>http://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/canvas/</canvasBase>
+				<manifestOfficial>http://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

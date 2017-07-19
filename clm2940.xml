@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm2940</shortid>
+		<title>Munich Clm 2940</title>
+		<initial>B</initial> 
+	  <!-- Dinkelsbuhl -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm2940/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035437/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035437/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

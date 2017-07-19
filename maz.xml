@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid>maz</shortid>
+	  <title>Paris, Bibl. Mazarine, ms. 915</title>
+		<initial>M</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>maz/item1</shortid>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

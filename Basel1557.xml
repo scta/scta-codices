@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>Basel1557</shortid>
+	  <!-- contains Pico della Miradolla's Apologia along with other works -->
+		<title>Basel 1557 Printing</title>
+		<initial>B</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>Basel1557/item1</shortid>
+				<!-- item 1 -->
+				<holdingLibrary/>
+				<callNumber></callNumber>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

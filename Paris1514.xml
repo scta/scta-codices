@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>Paris1514</shortid>
+	  <!-- contains editio princeps of De Novo Castros primum scriptum  -->
+		<title>Paris 1514 Printing</title>
+		<initial>B</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>Paris1514/item1</shortid>
+				<!-- item 1 -->
+				<holdingLibrary/>
+				<callNumber></callNumber>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>walt349</shortid>
+		<title>Baltimore, Walters, W. 349</title>
+		<initial>W</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>walt349/item1</shortid>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

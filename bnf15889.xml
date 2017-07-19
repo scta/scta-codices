@@ -5,6 +5,7 @@
 		<shortid>bnf15889</shortid>
 		<title>Paris, Bibliothèque nationale de France, Lat 15889</title>
 		<initial>P</initial>
+	  <!-- contains rimini -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

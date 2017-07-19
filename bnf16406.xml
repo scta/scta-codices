@@ -5,6 +5,9 @@
 		<shortid>bnf16406</shortid>
 		<title>Paris, Bibliothèque nationale de France, Lat 16406</title>
 		<initial>P</initial>
+	  <!-- catalogue has Titre :  Questiones theologice. 
+Titre :  In librum IV Sententiarum (153). 
+Titre :  Questiones Alexandri (219) et magistri O. legati (224v).  -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

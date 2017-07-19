@@ -44,7 +44,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0050_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0050_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -71,7 +71,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0051_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0051_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -98,7 +98,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0052_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0052_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -125,7 +125,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0053_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0053_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -152,7 +152,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0054_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0054_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -179,7 +179,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0055_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0055_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -206,7 +206,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0056_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0056_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -233,7 +233,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0057_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0057_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -260,7 +260,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0058_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0058_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -287,7 +287,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0059_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0059_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -314,7 +314,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0060_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0060_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -341,7 +341,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0061_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0061_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -368,7 +368,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0062_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0062_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -395,7 +395,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0063_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0063_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -422,7 +422,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0064_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0064_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -449,7 +449,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0065_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0065_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -476,7 +476,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0066_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0066_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -503,7 +503,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0067_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0067_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -530,7 +530,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0068_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0068_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -557,7 +557,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0069_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0069_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -584,7 +584,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0070_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0070_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -611,7 +611,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0071_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0071_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -638,7 +638,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0072_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0072_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -665,7 +665,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0073_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0073_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -692,7 +692,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0074_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0074_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -719,7 +719,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0075_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0075_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -746,7 +746,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0076_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0076_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -773,7 +773,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0077_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0077_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0078_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0078_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -827,7 +827,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0079_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0079_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -854,7 +854,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0080_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0080_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -881,7 +881,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0081_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0081_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -908,7 +908,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0082_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0082_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -935,7 +935,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0083_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0083_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -962,7 +962,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0084_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0084_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -989,7 +989,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0085_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0085_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1016,7 +1016,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0086_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0086_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1043,7 +1043,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0087_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0087_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1070,7 +1070,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0088_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0088_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1097,7 +1097,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0089_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0089_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1124,7 +1124,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0090_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0090_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1151,7 +1151,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0091_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0091_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1178,7 +1178,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0092_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0092_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1205,7 +1205,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0093_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0093_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1232,7 +1232,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0094_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0094_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1259,7 +1259,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0095_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0095_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1286,7 +1286,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0096_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0096_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1313,7 +1313,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0097_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0097_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1340,7 +1340,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0098_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0098_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1367,7 +1367,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0099_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1394,7 +1394,34 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0099_web.jpg",
+              "profile": "http://iiif.io/api/image/1/level2.json"
+            },
+            "height": 1800,
+            "width": 1430
+          },
+          "on": "http://scta.info/iiif/penn/canvas/P49r"
+        }]
+      },
+      {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://scta.info/iiif/penn/canvas/P49r",
+        "@type": "sc:Canvas",
+        "label": "folio 49r",
+        "height": 1800,
+        "width": 1430,
+        "images": [{
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "http://scta.info/iiif/penn/annotation/P49r-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "http://scta.info/iiif/penn/res/P49r.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://loris2.scta.info/penn/0444_0100_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1421,7 +1448,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0101_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1448,7 +1475,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0102_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1475,7 +1502,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0103_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1502,7 +1529,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0104_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1529,7 +1556,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0105_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1556,7 +1583,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0106_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1583,7 +1610,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0107_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1610,7 +1637,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0108_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1637,7 +1664,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0109_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1664,7 +1691,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0110_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1691,7 +1718,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0111_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1718,7 +1745,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0112_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1745,7 +1772,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0113_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1772,7 +1799,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0114_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1799,7 +1826,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0115_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1826,7 +1853,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0116_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1853,7 +1880,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0117_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1880,7 +1907,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0118_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1907,7 +1934,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0119_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1934,7 +1961,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0120_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1961,7 +1988,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0121_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -1988,7 +2015,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0122_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2015,7 +2042,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0123_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2042,7 +2069,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0124_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2069,7 +2096,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0125_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2096,7 +2123,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0126_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2123,7 +2150,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0127_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2150,7 +2177,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0128_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2177,7 +2204,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0129_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2204,7 +2231,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0130_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2231,7 +2258,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0131_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2258,7 +2285,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0132_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2285,7 +2312,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0133_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2312,7 +2339,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0134_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2339,7 +2366,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0135_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2366,7 +2393,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0136_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2393,7 +2420,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0137_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2420,7 +2447,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0138_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2447,7 +2474,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0139_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2474,7 +2501,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0140_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2501,7 +2528,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0141_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2528,7 +2555,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0142_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2555,7 +2582,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0143_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2582,7 +2609,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0144_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2609,7 +2636,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0145_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2636,7 +2663,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0146_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2663,7 +2690,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0147_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2690,7 +2717,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0148_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2717,7 +2744,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0149_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2744,7 +2771,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0150_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2771,7 +2798,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0151_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2798,7 +2825,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0152_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2825,7 +2852,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0153_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2852,7 +2879,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0154_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2879,7 +2906,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0155_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2906,7 +2933,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0156_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2933,7 +2960,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0157_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2960,7 +2987,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0158_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -2987,7 +3014,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0159_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3014,7 +3041,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0160_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3041,7 +3068,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0161_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3068,7 +3095,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0162_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3095,7 +3122,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0163_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3122,7 +3149,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0164_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3149,7 +3176,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0165_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3176,7 +3203,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0166_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3203,7 +3230,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0167_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3230,7 +3257,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0168_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3257,7 +3284,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0169_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3284,7 +3311,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0170_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3311,7 +3338,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0171_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3338,7 +3365,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0172_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3365,7 +3392,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0173_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3392,7 +3419,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0174_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3419,7 +3446,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0175_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3446,7 +3473,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0176_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3473,7 +3500,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0177_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3500,7 +3527,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0178_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3527,7 +3554,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0179_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3554,7 +3581,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0180_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3581,7 +3608,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0181_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3608,7 +3635,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0182_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3635,7 +3662,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0183_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3662,7 +3689,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0184_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3689,7 +3716,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0185_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3716,7 +3743,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0186_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3743,7 +3770,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0187_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3770,7 +3797,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0188_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3797,7 +3824,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0189_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3824,7 +3851,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0190_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3851,7 +3878,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0191_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3878,7 +3905,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0192_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3905,7 +3932,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0193_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3932,7 +3959,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0194_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3959,7 +3986,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0195_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -3986,7 +4013,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0196_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4013,7 +4040,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0197_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4040,7 +4067,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0198_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4067,7 +4094,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0199_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4094,7 +4121,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0200_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4121,7 +4148,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0201_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4148,7 +4175,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0202_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4175,7 +4202,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0203_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4202,7 +4229,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0204_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4229,7 +4256,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0205_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4256,7 +4283,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0206_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4283,7 +4310,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0207_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4310,7 +4337,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0208_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4337,7 +4364,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0209_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4364,7 +4391,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0210_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4391,7 +4418,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0211_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4418,7 +4445,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0212_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4445,7 +4472,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0213_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4472,7 +4499,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0214_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4499,7 +4526,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0215_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4526,7 +4553,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0216_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4553,7 +4580,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0217_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4580,7 +4607,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0218_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4607,7 +4634,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0219_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4634,7 +4661,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0220_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4661,7 +4688,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0221_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4688,7 +4715,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0222_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4715,7 +4742,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0223_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4742,7 +4769,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0224_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4769,7 +4796,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0225_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4796,7 +4823,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0226_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4823,7 +4850,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0227_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4850,7 +4877,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0228_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4877,7 +4904,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0229_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4904,7 +4931,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0230_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4931,7 +4958,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0231_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4958,7 +4985,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0232_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -4985,7 +5012,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0233_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5012,7 +5039,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0234_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5039,7 +5066,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0235_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5066,7 +5093,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0236_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5093,7 +5120,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0237_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5120,7 +5147,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0238_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5147,7 +5174,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0239_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5174,7 +5201,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0240_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5201,7 +5228,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0241_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5228,7 +5255,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0242_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5255,7 +5282,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0243_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5282,7 +5309,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0244_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5309,7 +5336,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0245_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5336,7 +5363,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0246_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5363,7 +5390,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0247_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5390,7 +5417,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0248_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5417,7 +5444,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0249_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5444,7 +5471,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0250_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5471,7 +5498,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0251_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5498,7 +5525,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0252_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5525,7 +5552,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0253_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5552,7 +5579,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0254_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5579,7 +5606,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0255_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5606,7 +5633,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0256_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5633,7 +5660,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0257_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5660,7 +5687,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0258_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5687,7 +5714,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0259_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5714,7 +5741,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0260_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5741,7 +5768,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0261_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5768,7 +5795,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0262_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5795,7 +5822,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0263_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5822,7 +5849,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0264_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5849,7 +5876,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0265_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5876,7 +5903,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0266_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5903,7 +5930,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0267_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5930,7 +5957,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0268_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5957,7 +5984,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0269_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -5984,7 +6011,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0270_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6011,7 +6038,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0271_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6038,7 +6065,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0272_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6065,7 +6092,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0273_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6092,7 +6119,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0274_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6119,7 +6146,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0275_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6146,7 +6173,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0276_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6173,7 +6200,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0277_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6200,7 +6227,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0278_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6227,7 +6254,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0279_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6254,7 +6281,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0280_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,
@@ -6281,7 +6308,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/penn/0444_0099_web.jpg",
+              "@id": "https://loris2.scta.info/penn/0444_0281_web.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 1800,

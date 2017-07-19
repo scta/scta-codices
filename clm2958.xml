@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm2958</shortid>
+		<title>Munich Clm 2958</title>
+		<initial>B</initial> 
+	  <!-- contains sentences of Lombard book 1 and 2 -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm14067/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036241/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036241/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

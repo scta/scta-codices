@@ -5,6 +5,7 @@
 		<shortid>bnf15891</shortid>
 		<title>Paris, Bibliothèque nationale de France, Lat 15891</title>
 		<initial>P</initial>
+	  <!-- contains gregory of rimini -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

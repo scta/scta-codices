@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>paris1512</shortid>
+	  <!-- contains wodeham abbreviatio  -->
+		<title>Paris 1512 Printing</title>
+		<initial>B</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>paris1512/item1</shortid>
+				<!-- item 1 -->
+				<holdingLibrary/>
+				<callNumber></callNumber>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

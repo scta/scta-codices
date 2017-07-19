@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat701</shortid>
+		<title>Vatican City, Biblioteca Apostolica Vaticana, vat. lat. 701</title>
+	  <initial>V</initial>
+	  <!-- contains part of Alexander of Hales Summa Halensis -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat701/item1</shortid>
+			  <canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.701/canvas/</canvasBase>
+			  <manifestOfficial>http://digi.vatlib.it/iiif/MSS_Vat.lat.701/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

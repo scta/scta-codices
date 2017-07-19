@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>mun2805</shortid>
+	  <title>München, Bayerische Staatsbibliothek, 2 Inc. c.a. 2805</title>
+	  <!-- contains de anima of giles of rome -->
+		<initial>M</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>mun2805/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00045193/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00045193/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

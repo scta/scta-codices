@@ -44,7 +44,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0054r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0054r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -71,7 +71,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0054v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0054v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -98,7 +98,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0055r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0055r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -125,7 +125,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0055v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0055v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -152,7 +152,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0056r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0056r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -179,7 +179,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0056v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0056v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -206,7 +206,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0057r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0057r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -233,7 +233,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0057v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0057v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -260,7 +260,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0058r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0058r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -287,7 +287,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0058v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0058v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -314,7 +314,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0059r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0059r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -341,7 +341,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0059v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0059v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -368,7 +368,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0060r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0060r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -395,7 +395,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0060v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0060v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -422,7 +422,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0061r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0061r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -449,7 +449,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0061v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0061v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -476,7 +476,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0062r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0062r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -503,7 +503,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0062v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0062v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -530,7 +530,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0063r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0063r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -557,7 +557,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0063v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0063v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -584,7 +584,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0064r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0064r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -611,7 +611,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0064v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0064v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -638,7 +638,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0065r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0065r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -665,7 +665,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0065v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0065v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -692,7 +692,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0066r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0066r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -719,7 +719,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0066v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0066v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -746,7 +746,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0067r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0067r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -773,7 +773,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0067v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0067v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0068r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0068r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -827,7 +827,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0068v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0068v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -854,7 +854,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0069r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0069r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -881,7 +881,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0069v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0069v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -908,7 +908,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0070r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0070r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -935,7 +935,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0070v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0070v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -962,7 +962,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0071r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0071r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -989,7 +989,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0071v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0071v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1016,7 +1016,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0072r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0072r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1043,7 +1043,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0072v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0072v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1070,7 +1070,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0073r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0073r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1097,7 +1097,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0073v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0073v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1124,7 +1124,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0074r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0074r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1151,7 +1151,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0074v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0074v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1178,7 +1178,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0075r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0075r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1205,7 +1205,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0075v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0075v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1232,7 +1232,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0076r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0076r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1259,7 +1259,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0076v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0076v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1286,7 +1286,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0077r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0077r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1313,7 +1313,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0077v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0077v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1340,7 +1340,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0078r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0078r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1367,7 +1367,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0078v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0078v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1394,7 +1394,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0079r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0079r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1421,7 +1421,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0079v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0079v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1448,7 +1448,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0080r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0080r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1475,7 +1475,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0080v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0080v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1502,7 +1502,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0081r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0081r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1529,7 +1529,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0081v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0081v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1556,7 +1556,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0082r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0082r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1583,7 +1583,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0082v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0082v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1610,7 +1610,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0083r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0083r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1637,7 +1637,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0083v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0083v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1664,7 +1664,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0084r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0084r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1691,7 +1691,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0084v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0084v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1718,7 +1718,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0085r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0085r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1745,7 +1745,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0085v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0085v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1772,7 +1772,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0086r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0086r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1799,7 +1799,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0086v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0086v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1826,7 +1826,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0087r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0087r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1853,7 +1853,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0087v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0087v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1880,7 +1880,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0088r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0088r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1907,7 +1907,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0088v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0088v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1934,7 +1934,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0089r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0089r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1961,7 +1961,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0089v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0089v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -1988,7 +1988,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0090r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0090r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2015,7 +2015,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0090v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0090v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2042,7 +2042,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0091r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0091r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2069,7 +2069,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0091v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0091v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2096,7 +2096,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0092r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0092r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2123,7 +2123,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0092v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0092v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2150,7 +2150,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0093r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0093r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2177,7 +2177,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0093v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0093v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2204,7 +2204,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0094r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0094r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2231,7 +2231,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0094v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0094v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2258,7 +2258,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0095r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0095r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2285,7 +2285,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0095v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0095v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2312,7 +2312,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0096r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0096r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2339,7 +2339,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0096v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0096v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2366,7 +2366,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0097r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0097r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2393,7 +2393,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0097v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0097v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2420,7 +2420,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0098r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0098r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2447,7 +2447,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0098v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0098v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2474,7 +2474,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0099r.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0099r.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,
@@ -2501,7 +2501,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/venz253/Lat_Z_0253_01826_0099v.jpg",
+              "@id": "https://loris2.scta.info/venz253/Lat_Z_0253_01826_0099v.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 4256,

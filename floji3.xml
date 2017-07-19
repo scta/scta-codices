@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>floji3</shortid>
+	  <title>>Florence Biblioteca Nazionale Central Conventi soppressi, J.I.3</title>
+		<initial>F</initial> 
+	  <!-- contains Pecham De Anima -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>floji3/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+		
+	</surfaces>
+</codex>

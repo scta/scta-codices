@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm14150</shortid>
+		<title>Munich Clm 14150</title>
+		<initial>Bb</initial> 
+	  <!-- contains sentences of Lombard book 1 and 2 and 4 with gloss -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm14150/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034753/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034753/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

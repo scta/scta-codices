@@ -14,7 +14,7 @@
 				<shortid>quaracchi1924/item1</shortid>
 				<!-- since id is meaningless, just using numbers is a good idea, since the id can remain the same, even if the book gets moved to a different library -->
 				<canvasBase>http://scta.info/iiif/quaracchi1924/canvas/</canvasBase>
-				<manifestOfficial>http://scta.info/iiif/quaracchi1924/canvas/manifest</manifestOfficial>
+				<manifestOfficial>http://scta.info/iiif/codex/quaracchi1924/manifest</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

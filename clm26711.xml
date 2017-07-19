@@ -12,8 +12,8 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>clm26711/item1</shortid>
-				<canvasBase/>
-				<manifestOfficial/>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103424/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103424/manifest</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

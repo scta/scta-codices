@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid>goncai342</shortid>
+	  <title>>Cambridge, Gonville &amp; Caius College, 342/538</title>
+		<initial>C</initial> 
+	  <!-- contains Guillelmus Hedonensis Tractatus de anima -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>goncai342/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+		
+	</surfaces>
+</codex>

@@ -6,6 +6,7 @@
 		<title>Paris, BnF, Lat 15705</title>
 		<initial>P</initial>
 		<!-- non unique initial helper for within file only -->
+	  <!-- contains lombard sent -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

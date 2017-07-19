@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm14067</shortid>
+		<title>Munich Clm 14067</title>
+		<initial>B</initial> 
+	  <!-- contains sentences commentary of Peter Tarantasia, Pope Innocent V -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm14067/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034250/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034250/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

@@ -44,7 +44,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0006.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0006.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -71,7 +71,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0007.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0007.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -98,7 +98,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0009.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0009.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -125,7 +125,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0010.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0010.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -152,7 +152,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0011.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0011.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -179,7 +179,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0012.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0012.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -206,7 +206,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0013.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0013.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -233,7 +233,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0014.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0014.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -260,7 +260,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0015.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0015.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -287,7 +287,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0016.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0016.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -314,7 +314,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0017.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0017.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -341,7 +341,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0018.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0018.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -368,7 +368,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0019.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0019.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -395,7 +395,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0020.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0020.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -422,7 +422,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0021.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0021.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -449,7 +449,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0022.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0022.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -476,7 +476,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0023.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0023.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -503,7 +503,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0024.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0024.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -530,7 +530,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0025.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0025.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -557,7 +557,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0026.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0026.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -584,7 +584,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0027.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0027.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -611,7 +611,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0028.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0028.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -638,7 +638,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0029.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0029.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -665,7 +665,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0030.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0030.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -692,7 +692,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0031.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0031.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -719,7 +719,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0032.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0032.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -746,7 +746,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0033.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0033.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -773,7 +773,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0034.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0034.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0035.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0035.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -827,7 +827,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0036.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0036.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -854,7 +854,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0037.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0037.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -881,7 +881,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0038.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0038.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -908,7 +908,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0039.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0039.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -935,7 +935,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0040.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0040.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -962,7 +962,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0041.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0041.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -989,7 +989,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0042.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0042.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1016,7 +1016,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0043.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0043.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1043,7 +1043,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0044.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0044.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1070,7 +1070,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0045.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0045.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1097,7 +1097,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0046.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0046.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1124,7 +1124,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0047.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0047.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1151,7 +1151,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0048.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0048.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1178,7 +1178,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0049.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0049.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1205,7 +1205,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0050.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0050.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1232,7 +1232,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0051.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0051.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1259,7 +1259,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0052.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0052.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1286,7 +1286,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0053.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0053.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1313,7 +1313,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0054.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0054.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1340,7 +1340,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0055.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0055.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1367,7 +1367,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0056.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0056.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1394,7 +1394,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0057.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0057.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1421,7 +1421,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0058.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0058.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,
@@ -1448,7 +1448,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/avignon311/B840076101_ms_000311_0059.jpg",
+              "@id": "https://loris2.scta.info/avignon311/B840076101_ms_000311_0059.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 3569,

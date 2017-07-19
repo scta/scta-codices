@@ -44,7 +44,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-005.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-005.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -71,7 +71,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-006.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-006.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -98,7 +98,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-007.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-007.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -125,7 +125,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-008.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-008.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -152,7 +152,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-009.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-009.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -179,7 +179,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-010.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-010.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -206,7 +206,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-011.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-011.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -233,7 +233,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-012.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-012.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -260,7 +260,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-013.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-013.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -287,7 +287,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-014.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-014.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -314,7 +314,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-015.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-015.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -341,7 +341,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-016.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-016.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -368,7 +368,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-017.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-017.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -395,7 +395,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-018.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-018.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -422,7 +422,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-019.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-019.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -449,7 +449,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-020.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-020.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -476,7 +476,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-021.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-021.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -503,7 +503,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-022.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-022.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -530,7 +530,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-023.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-023.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -557,7 +557,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-024.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-024.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -584,7 +584,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-025.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-025.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -611,7 +611,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-026.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-026.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -638,7 +638,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-027.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-027.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -665,7 +665,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-028.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-028.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -692,7 +692,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-029.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-029.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -719,7 +719,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-030.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-030.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -746,7 +746,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-031.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-031.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -773,7 +773,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-032.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-032.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-033.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-033.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -827,7 +827,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-034.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-034.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -854,7 +854,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-035.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-035.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -881,7 +881,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-036.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-036.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -908,7 +908,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-037.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-037.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -935,7 +935,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-038.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-038.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -962,7 +962,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-039.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-039.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -989,7 +989,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-040.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-040.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1016,7 +1016,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-041.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-041.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1043,7 +1043,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-042.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-042.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1070,7 +1070,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-043.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-043.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1097,7 +1097,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-044.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-044.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1124,7 +1124,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-045.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-045.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1151,7 +1151,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-046.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-046.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1178,7 +1178,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-047.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-047.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1205,7 +1205,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-048.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-048.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1232,7 +1232,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-049.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-049.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1259,7 +1259,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-050.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-050.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1286,7 +1286,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-051.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-051.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1313,7 +1313,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-052.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-052.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1340,7 +1340,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-053.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-053.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1367,7 +1367,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-054.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-054.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1394,7 +1394,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-055.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-055.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1421,7 +1421,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-056.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-056.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1448,7 +1448,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-057.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-057.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1475,7 +1475,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-058.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-058.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1502,7 +1502,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-059.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-059.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1529,7 +1529,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-060.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-060.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1556,7 +1556,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-061.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-061.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1583,7 +1583,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-062.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-062.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1610,7 +1610,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-063.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-063.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1637,7 +1637,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-064.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-064.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1664,7 +1664,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-065.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-065.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1691,7 +1691,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-066.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-066.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1718,7 +1718,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-067.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-067.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1745,7 +1745,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-068.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-068.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1772,7 +1772,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-069.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-069.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1799,7 +1799,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-070.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-070.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1826,7 +1826,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-071.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-071.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1853,7 +1853,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-072.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-072.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1880,7 +1880,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-073.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-073.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1907,7 +1907,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-074.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-074.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1934,7 +1934,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-075.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-075.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1961,7 +1961,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-076.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-076.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -1988,7 +1988,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-077.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-077.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2015,7 +2015,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-078.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-078.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2042,7 +2042,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-079.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-079.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2069,7 +2069,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-080.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-080.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2096,7 +2096,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-081.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-081.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2123,7 +2123,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-082.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-082.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2150,7 +2150,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-083.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-083.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2177,7 +2177,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-084.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-084.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2204,7 +2204,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-085.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-085.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2231,7 +2231,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-086.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-086.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2258,7 +2258,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-087.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-087.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2285,7 +2285,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-088.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-088.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2312,7 +2312,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-089.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-089.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2339,7 +2339,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-090.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-090.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2366,7 +2366,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-091.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-091.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2393,7 +2393,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-092.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-092.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2420,7 +2420,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-093.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-093.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2447,7 +2447,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-094.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-094.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2474,7 +2474,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-095.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-095.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2501,7 +2501,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-096.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-096.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2528,7 +2528,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-097.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-097.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2555,7 +2555,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-098.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-098.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2582,7 +2582,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-099.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-099.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2609,7 +2609,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-100.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-100.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2636,7 +2636,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-101.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-101.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2663,7 +2663,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-102.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-102.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2690,7 +2690,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-103.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-103.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2717,7 +2717,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-104.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-104.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2744,7 +2744,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-105.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-105.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2771,7 +2771,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-106.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-106.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2798,7 +2798,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-107.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-107.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2825,7 +2825,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-108.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-108.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2852,7 +2852,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-109.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-109.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2879,7 +2879,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-110.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-110.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2906,7 +2906,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-111.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-111.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2933,7 +2933,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-112.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-112.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2960,7 +2960,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-113.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-113.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -2987,7 +2987,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-114.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-114.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3014,7 +3014,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-115.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-115.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3041,7 +3041,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-116.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-116.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3068,7 +3068,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-117.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-117.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3095,7 +3095,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-118.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-118.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3122,7 +3122,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-119.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-119.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3149,7 +3149,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-120.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-120.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3176,7 +3176,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-121.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-121.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3203,7 +3203,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-122.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-122.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3230,7 +3230,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-123.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-123.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3257,7 +3257,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-124.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-124.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3284,7 +3284,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-125.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-125.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3311,7 +3311,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-126.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-126.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3338,7 +3338,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-127.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-127.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3365,7 +3365,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-128.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-128.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3392,7 +3392,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-129.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-129.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3419,7 +3419,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-130.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-130.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3446,7 +3446,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-131.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-131.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3473,7 +3473,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-132.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-132.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3500,7 +3500,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-133.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-133.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3527,7 +3527,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-134.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-134.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3554,7 +3554,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-135.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-135.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3581,7 +3581,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-136.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-136.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3608,7 +3608,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-137.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-137.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3635,7 +3635,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-138.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-138.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3662,7 +3662,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-139.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-139.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3689,7 +3689,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-140.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-140.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3716,7 +3716,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-141.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-141.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3743,7 +3743,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-142.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-142.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3770,7 +3770,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-143.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-143.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3797,7 +3797,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-144.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-144.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3824,7 +3824,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-145.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-145.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3851,7 +3851,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-146.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-146.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3878,7 +3878,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-147.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-147.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3905,7 +3905,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-148.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-148.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3932,7 +3932,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-149.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-149.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3959,7 +3959,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-150.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-150.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -3986,7 +3986,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-151.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-151.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4013,7 +4013,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-152.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-152.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4040,7 +4040,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-153.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-153.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4067,7 +4067,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-154.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-154.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4094,7 +4094,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-155.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-155.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4121,7 +4121,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-156.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-156.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4148,7 +4148,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-157.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-157.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4175,7 +4175,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-158.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-158.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4202,7 +4202,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-159.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-159.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4229,7 +4229,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-160.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-160.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4256,7 +4256,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-161.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-161.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4283,7 +4283,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-162.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-162.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4310,7 +4310,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-163.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-163.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4337,7 +4337,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-164.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-164.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4364,7 +4364,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-165.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-165.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4391,7 +4391,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-166.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-166.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4418,7 +4418,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-167.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-167.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4445,7 +4445,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-168.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-168.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4472,7 +4472,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-169.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-169.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4499,7 +4499,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-170.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-170.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4526,7 +4526,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-171.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-171.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4553,7 +4553,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-172.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-172.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4580,7 +4580,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-173.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-173.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4607,7 +4607,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-174.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-174.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4634,7 +4634,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-175.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-175.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4661,7 +4661,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-176.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-176.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4688,7 +4688,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-177.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-177.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4715,7 +4715,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-178.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-178.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4742,7 +4742,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-179.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-179.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4769,7 +4769,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-180.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-180.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4796,7 +4796,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-181.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-181.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4823,7 +4823,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-182.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-182.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4850,7 +4850,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-183.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-183.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4877,7 +4877,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-184.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-184.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4904,7 +4904,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-185.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-185.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4931,7 +4931,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-186.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-186.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4958,7 +4958,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-187.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-187.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -4985,7 +4985,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-188.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-188.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5012,7 +5012,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-189.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-189.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5039,7 +5039,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-190.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-190.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5066,7 +5066,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-191.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-191.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5093,7 +5093,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-192.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-192.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5120,7 +5120,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-193.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-193.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5147,7 +5147,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-194.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-194.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5174,7 +5174,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-195.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-195.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5201,7 +5201,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-196.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-196.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5228,7 +5228,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-197.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-197.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5255,7 +5255,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-198.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-198.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5282,7 +5282,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-199.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-199.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5309,7 +5309,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-200.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-200.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5336,7 +5336,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-201.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-201.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5363,7 +5363,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-202.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-202.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5390,7 +5390,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-203.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-203.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5417,7 +5417,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-204.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-204.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5444,7 +5444,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-205.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-205.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5471,7 +5471,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-206.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-206.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5498,7 +5498,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-207.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-207.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5525,7 +5525,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-208.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-208.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5552,7 +5552,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-209.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-209.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5579,7 +5579,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-210.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-210.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5606,7 +5606,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-211.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-211.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5633,7 +5633,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-212.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-212.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5660,7 +5660,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-213.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-213.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5687,7 +5687,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-214.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-214.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5714,7 +5714,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-215.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-215.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5741,7 +5741,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-216.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-216.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5768,7 +5768,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-217.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-217.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5795,7 +5795,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-218.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-218.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5822,7 +5822,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-219.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-219.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5849,7 +5849,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-220.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-220.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5876,7 +5876,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-221.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-221.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5903,7 +5903,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-222.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-222.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5930,7 +5930,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-223.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-223.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5957,7 +5957,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-224.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-224.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -5984,7 +5984,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-225.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-225.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6011,7 +6011,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-226.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-226.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6038,7 +6038,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-227.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-227.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6065,7 +6065,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-228.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-228.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6092,7 +6092,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-229.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-229.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6119,7 +6119,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-230.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-230.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6146,7 +6146,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-231.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-231.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6173,7 +6173,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-232.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-232.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6200,7 +6200,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-233.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-233.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6227,7 +6227,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-234.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-234.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6254,7 +6254,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-235.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-235.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6281,7 +6281,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-236.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-236.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6308,7 +6308,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-237.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-237.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6335,7 +6335,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-238.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-238.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6362,7 +6362,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-239.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-239.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6389,7 +6389,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-240.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-240.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6416,7 +6416,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-241.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-241.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6443,7 +6443,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-242.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-242.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6470,7 +6470,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-243.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-243.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6497,7 +6497,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-244.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-244.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6524,7 +6524,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-245.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-245.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6551,7 +6551,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-246.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-246.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6578,7 +6578,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-247.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-247.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6605,7 +6605,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-248.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-248.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6632,7 +6632,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-249.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-249.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6659,7 +6659,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-250.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-250.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6686,7 +6686,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-251.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-251.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6713,7 +6713,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-252.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-252.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6740,7 +6740,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-253.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-253.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6767,7 +6767,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-254.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-254.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6794,7 +6794,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-255.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-255.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6821,7 +6821,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-256.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-256.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6848,7 +6848,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-257.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-257.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6875,7 +6875,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-258.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-258.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6902,7 +6902,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-259.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-259.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6929,7 +6929,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-260.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-260.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6956,7 +6956,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-261.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-261.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -6983,7 +6983,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-262.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-262.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7010,7 +7010,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-263.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-263.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7037,7 +7037,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-264.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-264.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7064,7 +7064,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-265.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-265.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7091,7 +7091,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-266.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-266.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7118,7 +7118,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-267.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-267.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7145,7 +7145,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-268.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-268.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7172,7 +7172,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-269.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-269.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7199,7 +7199,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-270.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-270.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7226,7 +7226,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-271.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-271.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7253,7 +7253,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-272.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-272.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7280,7 +7280,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-273.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-273.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7307,7 +7307,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-274.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-274.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7334,7 +7334,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-275.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-275.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7361,7 +7361,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-276.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-276.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7388,7 +7388,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-277.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-277.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7415,7 +7415,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-278.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-278.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7442,7 +7442,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-279.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-279.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7469,7 +7469,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-280.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-280.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7496,7 +7496,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-281.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-281.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7523,7 +7523,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-282.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-282.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7550,7 +7550,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-283.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-283.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7577,7 +7577,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-284.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-284.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7604,7 +7604,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-285.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-285.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7631,7 +7631,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-286.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-286.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7658,7 +7658,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-287.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-287.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7685,7 +7685,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-288.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-288.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7712,7 +7712,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-289.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-289.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7739,7 +7739,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-290.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-290.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7766,7 +7766,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-291.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-291.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7793,7 +7793,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-292.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-292.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7820,7 +7820,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-293.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-293.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7847,7 +7847,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-294.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-294.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7874,7 +7874,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-295.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-295.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7901,7 +7901,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-296.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-296.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7928,7 +7928,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-297.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-297.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7955,7 +7955,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-298.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-298.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -7982,7 +7982,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-299.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-299.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8009,7 +8009,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-300.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-300.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8036,7 +8036,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-301.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-301.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8063,7 +8063,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-302.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-302.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8090,7 +8090,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-303.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-303.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8117,7 +8117,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-304.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-304.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8144,7 +8144,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-305.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-305.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8171,7 +8171,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-306.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-306.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8198,7 +8198,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-307.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-307.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8225,7 +8225,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-308.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-308.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8252,7 +8252,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-309.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-309.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8279,7 +8279,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-310.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-310.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8306,7 +8306,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-311.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-311.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8333,7 +8333,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-312.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-312.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8360,7 +8360,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-313.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-313.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8387,7 +8387,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-314.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-314.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8414,7 +8414,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-315.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-315.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8441,7 +8441,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-316.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-316.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8468,7 +8468,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-317.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-317.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8495,7 +8495,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-318.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-318.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8522,7 +8522,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-319.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-319.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8549,7 +8549,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-320.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-320.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8576,7 +8576,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-321.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-321.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8603,7 +8603,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-322.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-322.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8630,7 +8630,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-323.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-323.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8657,7 +8657,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-324.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-324.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8684,7 +8684,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-325.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-325.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8711,7 +8711,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-326.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-326.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8738,7 +8738,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-327.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-327.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8765,7 +8765,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-328.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-328.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8792,7 +8792,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-329.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-329.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8819,7 +8819,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-330.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-330.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8846,7 +8846,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-331.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-331.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8873,7 +8873,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-332.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-332.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8900,7 +8900,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-333.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-333.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8927,7 +8927,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-334.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-334.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8954,7 +8954,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-335.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-335.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -8981,7 +8981,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-336.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-336.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9008,7 +9008,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-337.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-337.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9035,7 +9035,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-338.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-338.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9062,7 +9062,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-339.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-339.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9089,7 +9089,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-340.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-340.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9116,7 +9116,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-341.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-341.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9143,7 +9143,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-342.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-342.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9170,7 +9170,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-343.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-343.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9197,7 +9197,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-344.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-344.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9224,7 +9224,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-345.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-345.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9251,7 +9251,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-346.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-346.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9278,7 +9278,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-347.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-347.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9305,7 +9305,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-348.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-348.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9332,7 +9332,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-349.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-349.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9359,7 +9359,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-350.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-350.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9386,7 +9386,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-351.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-351.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9413,7 +9413,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-352.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-352.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9440,7 +9440,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-353.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-353.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9467,7 +9467,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-354.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-354.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9494,7 +9494,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-355.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-355.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9521,7 +9521,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-356.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-356.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9548,7 +9548,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-357.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-357.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9575,7 +9575,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-358.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-358.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9602,7 +9602,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-359.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-359.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9629,7 +9629,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-360.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-360.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9656,7 +9656,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-361.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-361.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9683,7 +9683,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-362.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-362.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9710,7 +9710,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-363.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-363.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,
@@ -9737,7 +9737,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-364.jpg",
+              "@id": "https://loris2.scta.info/hopkinsMSB19/Lombard_Manuscript-364.jpg",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
             "height": 5405,

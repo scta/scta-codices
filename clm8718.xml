@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm8718</shortid>
+		<title>Munich Clm 8718</title>
+		<initial>M</initial> 
+	  <!-- contains sentences commentary of Franciscus Toti de Perusia -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm8718/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+		
+		
+	</surfaces>
+</codex>

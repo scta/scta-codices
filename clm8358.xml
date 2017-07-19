@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>clm8358</shortid>
+		<title>Munich Clm 8358</title>
+		<initial>Ba</initial> 
+	  <!-- Dinkelsbuhl -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm8358/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062816/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062816/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

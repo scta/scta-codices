@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>Paris1526</shortid>
+	  <!-- contains Jacques Almain's dicta super Sententias Roberti Holcot -->
+		<title>Paris 1526 Printing</title>
+		<initial>B</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>Paris1526/item1</shortid>
+				<!-- item 1 -->
+				<holdingLibrary/>
+				<callNumber></callNumber>
+				<canvasBase></canvasBase>
+				<manifestOfficial></manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>urblat123</shortid>
+		<title>Vatican City, Biblioteca Apostolica Vaticana, urb. lat. 123</title>
+	  <initial>U</initial>
+	  <!-- contains part of Alexander of Hales Summa Halensis -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>ublat123/item1</shortid>
+			  <canvasBase>http://digi.vatlib.it/iiif/MSS_Urb.lat.123/canvas/</canvasBase>
+			  <manifestOfficial>http://digi.vatlib.it/iiif/MSS_Urb.lat.123/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

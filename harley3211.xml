@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<!-- contains text of William Rothwell in British Library -->
+	<!-- see http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4173&CollID=8&NStart=3211 -->
+	<head>
+		<type>manuscript</type>
+		<shortid>harley3211</shortid>
+		<title>London, British Library, Harley 3211</title>
+		<initial>H</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>harley3211/item1</shortid>
+				<canvasBase/>
+				<manifestOfficial/>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
