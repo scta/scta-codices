@@ -9,8 +9,8 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>vatlat688/item1</shortid>
-				<canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.688/canvas/</canvasBase>
-				<manifestOfficial>http://digi.vatlib.it/iiif/MSS_Vat.lat.688/manifest.json</manifestOfficial>
+				<canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.688/canvas/</canvasBase>
+				<manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.688/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

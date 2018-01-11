@@ -12,7 +12,7 @@
 				<canonical>true</canonical>
 				<shortid>vatlat1087/item1</shortid>
 				<canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.1087/canvas/</canvasBase>
-				<manifestOfficial>http://digi.vatlib.it/iiif/MSS_Vat.lat.1087/manifest.json</manifestOfficial>
+				<manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.1087/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

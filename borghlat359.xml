@@ -10,8 +10,8 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>borghlat359/item1</shortid>
-			  <canvasBase>http://digi.vatlib.it/iiif/MSS_Borgh.359/canvas/</canvasBase>
-			  <manifestOfficial>http://digi.vatlib.it/iiif/MSS_Borgh.359/manifest.json</manifestOfficial>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Borgh.359/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Borgh.359/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

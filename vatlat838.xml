@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat838</shortid>
+		<title>Vatican City, Biblioteca Apostolica Vaticana, vat. lat. 838</title>
+	  <initial>Vb</initial>
+	  <!-- contains Giles-->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat838/item1</shortid>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.838/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.838/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>fribourg20</shortid>
+    <title>Fribourg/Freiburg, Couvent des Cordeliers/Franziskanerkloster, Ms. 20 </title>
+    <initial>F</initial>
+    <!-- contains sent comm of Peter of Candia -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>fribourg20/item1</shortid>
+        <canvasBase>http://www.e-codices.unifr.ch/metadata/iiif/fcc-0020/canvas/</canvasBase>
+        <manifestOfficial>http://www.e-codices.unifr.ch/metadata/iiif/fcc-0020/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

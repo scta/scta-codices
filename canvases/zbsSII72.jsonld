@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
   "@id": "http://scta.info/iiif/static/zbsSII72/manifest",
   "@type": "sc:Manifest",
   "label": "Peter Lombard - Solothurn, Zentralbibliothek, Cod. S II 72",
@@ -19,7 +19,7 @@
   "seeAlso": "http://www.e-codices.unifr.ch/en/searchresult/list/one/zbs/SII-0072",
   "logo": "http://e-codices.textandbytes.com/img/logo.png",
   "sequences": [{
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
     "@id": "http://scta.info/iiif/static/zbsSII72/sequence/normal",
     "@type": "sc:Sequence",
     "label": "Current page order",
@@ -44,7 +44,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_001r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -69,7 +69,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_001v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -94,7 +94,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_002r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -119,7 +119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_002v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -144,7 +144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_003r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -169,7 +169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_003v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -194,7 +194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_004r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -219,7 +219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_004v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -244,7 +244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_005r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -269,7 +269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_005v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -294,7 +294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_006r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -319,7 +319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_006v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -344,7 +344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_007r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -369,7 +369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_007v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -394,7 +394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_008r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -419,7 +419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_008v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -444,7 +444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_009r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -469,7 +469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_009v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -494,7 +494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_010r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -519,7 +519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_010v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -544,7 +544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_011r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -569,7 +569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_011v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -594,7 +594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_012r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -619,7 +619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_012v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -644,7 +644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_013r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -669,7 +669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_013v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -694,7 +694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_014r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -719,7 +719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_014v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -744,7 +744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_015r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -769,7 +769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_015v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -794,7 +794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_016r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -819,7 +819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_016v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -844,7 +844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_017r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -869,7 +869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_017v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -894,7 +894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_018r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -919,7 +919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_018v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -944,7 +944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_019r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -969,7 +969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_019v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -994,7 +994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_020r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1019,7 +1019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_020v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1044,7 +1044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_021r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1069,7 +1069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_021v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1094,7 +1094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_022r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1119,7 +1119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_022v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1144,7 +1144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_023r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1169,7 +1169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_023v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1194,7 +1194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_024r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1219,7 +1219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_024v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1244,7 +1244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_025r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1269,7 +1269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_025v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1294,7 +1294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_026r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1319,7 +1319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_026v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1344,7 +1344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_027r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1369,7 +1369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_027v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1394,7 +1394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_028r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1419,7 +1419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_028v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1444,7 +1444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_029r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1469,7 +1469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_029v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1494,7 +1494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_030r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1519,7 +1519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_030v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1544,7 +1544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_031r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1569,7 +1569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_031v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1594,7 +1594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_032r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1619,7 +1619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_032v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1644,7 +1644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_033r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1669,7 +1669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_033v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1694,7 +1694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_034r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1719,7 +1719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_034v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1744,7 +1744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_035r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1769,7 +1769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_035v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1794,7 +1794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_036r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1819,7 +1819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_036v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1844,7 +1844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_037r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1869,7 +1869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_037v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1894,7 +1894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_038r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1919,7 +1919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_038v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1944,7 +1944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_039r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1969,7 +1969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_039v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1994,7 +1994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_040r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2019,7 +2019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_040v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2044,7 +2044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_041r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2069,7 +2069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_041v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2094,7 +2094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_042r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2119,7 +2119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_042v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2144,7 +2144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_043r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2169,7 +2169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_043v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2194,7 +2194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_044r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2219,7 +2219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_044v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2244,7 +2244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_045r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2269,7 +2269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_045v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2294,7 +2294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_046r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2319,7 +2319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_046v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2344,7 +2344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_047r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2369,7 +2369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_047v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2394,7 +2394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_048r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2419,7 +2419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_048v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2444,7 +2444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_049r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2469,7 +2469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_049v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2494,7 +2494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_050r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2519,7 +2519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_050v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2544,7 +2544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_051r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2569,7 +2569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_051v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2594,7 +2594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_052r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2619,7 +2619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_052v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2644,7 +2644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_053r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2669,7 +2669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_053v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2694,7 +2694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_054r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2719,7 +2719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_054v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2744,7 +2744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_055r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2769,7 +2769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_055v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2794,7 +2794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_056r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2819,7 +2819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_056v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2844,7 +2844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_057r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2869,7 +2869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_057v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2894,7 +2894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_058r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2919,7 +2919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_058v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2944,7 +2944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_059r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2969,7 +2969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_059v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2994,7 +2994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_060r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3019,7 +3019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_060v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3044,7 +3044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_061r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3069,7 +3069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_061v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3094,7 +3094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_062r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3119,7 +3119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_062v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3144,7 +3144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_063r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3169,7 +3169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_063v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3194,7 +3194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_064r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3219,7 +3219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_064v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3244,7 +3244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_065r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3269,7 +3269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_065v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3294,7 +3294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_066r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3319,7 +3319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_066v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3344,7 +3344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_067r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3369,7 +3369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_067v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3394,7 +3394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_068r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3419,7 +3419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_068v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3444,7 +3444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_069r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3469,7 +3469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_069v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3494,7 +3494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_070r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3519,7 +3519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_070v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3544,7 +3544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_071r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3569,7 +3569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_071v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3594,7 +3594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_072r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3619,7 +3619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_072v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3644,7 +3644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_073r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3669,7 +3669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_073v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3694,7 +3694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_074r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3719,7 +3719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_074v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3744,7 +3744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_075r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3769,7 +3769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_075v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3794,7 +3794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_076r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3819,7 +3819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_076v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3844,7 +3844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_077r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3869,7 +3869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_077v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3894,7 +3894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_078r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3919,7 +3919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_078v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3944,7 +3944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_079r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3969,7 +3969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_079v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3994,7 +3994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_080r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4019,7 +4019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_080v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4044,7 +4044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_081r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4069,7 +4069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_081v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4094,7 +4094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_082r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4119,7 +4119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_082v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4144,7 +4144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_083r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4169,7 +4169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_083v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4194,7 +4194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_084r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4219,7 +4219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_084v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4244,7 +4244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_085r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4269,7 +4269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_085v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4294,7 +4294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_086r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4319,7 +4319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_086v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4344,7 +4344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_087r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4369,7 +4369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_087v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4394,7 +4394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_088r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4419,7 +4419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_088v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4444,7 +4444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_089r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4469,7 +4469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_089v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4494,7 +4494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_090r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4519,7 +4519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_090v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4544,7 +4544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_091r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4569,7 +4569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_091v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4594,7 +4594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_092r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4619,7 +4619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_092v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4644,7 +4644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_093r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4669,7 +4669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_093v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4694,7 +4694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_094r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4719,7 +4719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_094v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4744,7 +4744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_095r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4769,7 +4769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_095v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4794,7 +4794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_096r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4819,7 +4819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_096v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4844,7 +4844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_097r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4869,7 +4869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_097v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4894,7 +4894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_098r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4919,7 +4919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_098v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4944,7 +4944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_099r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4969,7 +4969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_099v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -4994,7 +4994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_100r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5019,7 +5019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_100v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5044,7 +5044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_101r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5069,7 +5069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_101v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5094,7 +5094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_102r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5119,7 +5119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_102v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5144,7 +5144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_103r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5169,7 +5169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_103v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5194,7 +5194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_104r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5219,7 +5219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_104v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5244,7 +5244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_105r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5269,7 +5269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_105v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5294,7 +5294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_106r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5319,7 +5319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_106v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5344,7 +5344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_107r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5369,7 +5369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_107v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5394,7 +5394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_108r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5419,7 +5419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_108v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5444,7 +5444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_109r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5469,7 +5469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_109v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5494,7 +5494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_110r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5519,7 +5519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_110v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5544,7 +5544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_111r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5569,7 +5569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_111v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5594,7 +5594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_112r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5619,7 +5619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_112v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5644,7 +5644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_113r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5669,7 +5669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_113v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5694,7 +5694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_114r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5719,7 +5719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_114v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5744,7 +5744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_115r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5769,7 +5769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_115v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5794,7 +5794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_116r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5819,7 +5819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_116v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5844,7 +5844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_117r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5869,7 +5869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_117v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5894,7 +5894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_118r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5919,7 +5919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_118v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5944,7 +5944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_119r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5969,7 +5969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_119v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -5994,7 +5994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_120r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6019,7 +6019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_120v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6044,7 +6044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_121r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6069,7 +6069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_121v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6094,7 +6094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_122r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6119,7 +6119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_122v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6144,7 +6144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_123r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6169,7 +6169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_123v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6194,7 +6194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_124r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6219,7 +6219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_124v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6244,7 +6244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_125r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6269,7 +6269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_125v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6294,7 +6294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_126r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6319,7 +6319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_126v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6344,7 +6344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_127r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6369,7 +6369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_127v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6394,7 +6394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_128r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6419,7 +6419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_128v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6444,7 +6444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_129r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6469,7 +6469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_129v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6494,7 +6494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_130r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6519,7 +6519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_130v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6544,7 +6544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_131r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6569,7 +6569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_131v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6594,7 +6594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_132r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6619,7 +6619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_132v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6644,7 +6644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_133r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6669,7 +6669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_133v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6694,7 +6694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_134r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6719,7 +6719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_134v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6744,7 +6744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_135r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6769,7 +6769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_135v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6794,7 +6794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_136r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6819,7 +6819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_136v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6844,7 +6844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_137r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6869,7 +6869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_137v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6894,7 +6894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_138r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6919,7 +6919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_138v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6944,7 +6944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_139r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6969,7 +6969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_139v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -6994,7 +6994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_140r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7019,7 +7019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_140v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7044,7 +7044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_141r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7069,7 +7069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_141v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7094,7 +7094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_142r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7119,7 +7119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_142v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7144,7 +7144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_143r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7169,7 +7169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_143v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7194,7 +7194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_144r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7219,7 +7219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_144v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7244,7 +7244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_145r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7269,7 +7269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_145v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7294,7 +7294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_146r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7319,7 +7319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_146v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7344,7 +7344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_147r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7369,7 +7369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_147v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7394,7 +7394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_148r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7419,7 +7419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_148v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7444,7 +7444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_149r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7469,7 +7469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_149v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7494,7 +7494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_150r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7519,7 +7519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_150v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7544,7 +7544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_151r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7569,7 +7569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_151v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7594,7 +7594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_152r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7619,7 +7619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_152v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7644,7 +7644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_153r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7669,7 +7669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_153v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7694,7 +7694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_154r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7719,7 +7719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_154v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7744,7 +7744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_155r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7769,7 +7769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_155v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7794,7 +7794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_156r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7819,7 +7819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_156v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7844,7 +7844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_157r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7869,7 +7869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_157v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7894,7 +7894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_158r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7919,7 +7919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_158v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7944,7 +7944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_159r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7969,7 +7969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_159v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -7994,7 +7994,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_160r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8019,7 +8019,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_160v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8044,7 +8044,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_161r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8069,7 +8069,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_161v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8094,7 +8094,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_162r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8119,7 +8119,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_162v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8144,7 +8144,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_163r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8169,7 +8169,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_163v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8194,7 +8194,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_164r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8219,7 +8219,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_164v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8244,7 +8244,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_165r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8269,7 +8269,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_165v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8294,7 +8294,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_166r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8319,7 +8319,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_166v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8344,7 +8344,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_167r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8369,7 +8369,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_167v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8394,7 +8394,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_168r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8419,7 +8419,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_168v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8444,7 +8444,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_169r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8469,7 +8469,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_169v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8494,7 +8494,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_170r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8519,7 +8519,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_170v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8544,7 +8544,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_171r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8569,7 +8569,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_171v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8594,7 +8594,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_172r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8619,7 +8619,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_172v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8644,7 +8644,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_173r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8669,7 +8669,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_173v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8694,7 +8694,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_174r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8719,7 +8719,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_174v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8744,7 +8744,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_175r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8769,7 +8769,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_175v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8794,7 +8794,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_176r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8819,7 +8819,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_176v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8844,7 +8844,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_177r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8869,7 +8869,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_177v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8894,7 +8894,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_178r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8919,7 +8919,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_178v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8944,7 +8944,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_179r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -8969,7 +8969,7 @@
             "height": 8176,
             "width": 6132,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/zbs/zbs-SII-0072/zbs-SII-0072_179v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }

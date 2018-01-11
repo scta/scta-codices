@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>marymount25</shortid>
+		<title>Loyola University Marymount ms. 25</title>
+		<initial>Ma</initial>
+	 	<!-- non unique initial helper for within file only -->
+	  <descriptions>Single leaf containing part of l4d11c1, all of b4d11c2, and part of b4d11c3</descriptions> <!-- see http://digitalcollections.lmu.edu/cdm/ref/collection/manuscripts/id/20 -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>marymount25/item1</shortid>
+			  <canvasBase>http://scta.info/iiif/marymount25/canvas/</canvasBase>
+			  <manifestOfficial>http://scta.info/iiif/codex/marymount25/manifest/</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  <surface>
+	    <shortid>marymount25/1r</shortid>
+	    <label>223r</label>
+	    <hasISurfaces>
+	      <ISurface>
+	        <shortid>marymount25/223r/item1</shortid>
+	        <canonical>true</canonical>
+	        <canvasslug>223r</canvasslug>
+	      </ISurface>
+	    </hasISurfaces>
+	  </surface>
+	  <surface>
+	    <shortid>marymount25/223v</shortid>
+	    <label>223v</label>
+	    <hasISurfaces>
+	      <ISurface>
+	        <shortid>marymount25/223v/item1</shortid>
+	        <canonical>true</canonical>
+	        <canvasslug>223v</canvasslug>
+	      </ISurface>
+	    </hasISurfaces>
+	  </surface>
+	</surfaces>
+</codex>

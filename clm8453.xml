@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>clm8453</shortid>
+    <title>Munich, Bayr. Staatsb., CLM 8453</title>
+    <initial>Mb</initial>
+    <!-- contains sent comm of Peter of Candia -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>clm8453/item1</shortid>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00003574/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00003574/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

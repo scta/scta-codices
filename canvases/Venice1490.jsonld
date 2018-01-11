@@ -1,5 +1,5 @@
 {
-  "@id": "http://scta.info/iiif/static/Paris1490/manifest",
+  "@id": "http://scta.info/iiif/static/Venice1490/manifest",
   "label": "Bibliothèque nationale de France",
   "attribution": "Bibliothèque nationale de France",
   "license": "http://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
@@ -8716,5 +8716,5 @@
   }],
   "thumbnail": {"@id": "http://gallica.bnf.fr/ark:/12148/bpt6k588949.thumbnail"},
   "@type": "sc:Manifest",
-  "@context": "http://iiif.io/api/presentation/2/context.json"
+  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld"
 }

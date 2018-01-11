@@ -1565,5 +1565,5 @@
     "@id" : "http://gallica.bnf.fr/ark:/12148/btv1b90769822.thumbnail"
   },
   "@type" : "sc:Manifest",
-  "@context" : "http://iiif.io/api/presentation/2/context.json"
+  "@context" : "http://localhost:4567/iiif/iiif-presentation-context.jsonld"
 }

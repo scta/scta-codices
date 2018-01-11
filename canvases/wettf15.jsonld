@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
   "@id": "http://scta.info/iiif/static/wettf15/manifest",
   "@type": "sc:Manifest",
   "label": "William de Rothwell - Aarau, Aargauer Kantonsbibliothek, MsWettF 15",
@@ -19,7 +19,7 @@
   "seeAlso": "http://www.e-codices.unifr.ch/en/list/one/kba/WettF0015",
   "logo": "http://e-codices.textandbytes.com/img/logo.png",
   "sequences": [{
-    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
     "@id": "http://scta.info/iiif/wettf15/sequence/normal",
     "@type": "sc:Sequence",
     "label": "Current page order",
@@ -44,7 +44,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_107v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -69,7 +69,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_108r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -94,7 +94,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_108v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -119,7 +119,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_109r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -144,7 +144,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_109v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -169,7 +169,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_110r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -194,7 +194,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_110v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -219,7 +219,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_111r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -244,7 +244,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_111v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -269,7 +269,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_112r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -294,7 +294,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_112v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -319,7 +319,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_113r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -344,7 +344,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_113v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -369,7 +369,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_114r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -394,7 +394,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_114v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -419,7 +419,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_115r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -444,7 +444,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_115v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -469,7 +469,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_116r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -494,7 +494,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_116v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -519,7 +519,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_117r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -544,7 +544,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_117v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -569,7 +569,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_118r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -594,7 +594,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_118v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -619,7 +619,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_119r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -644,7 +644,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_119v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -669,7 +669,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_120r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -694,7 +694,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_120v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -719,7 +719,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_121r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -744,7 +744,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_121v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -769,7 +769,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_122r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -794,7 +794,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_122v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -819,7 +819,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_123r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -844,7 +844,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_123v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -869,7 +869,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_124r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -894,7 +894,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_124v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -919,7 +919,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_125r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -944,7 +944,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_125v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -969,7 +969,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_126r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -994,7 +994,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_126v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1019,7 +1019,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_127r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1044,7 +1044,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_127v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1069,7 +1069,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_128r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1094,7 +1094,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_128v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1119,7 +1119,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_129r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1144,7 +1144,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_129v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1169,7 +1169,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_130r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1194,7 +1194,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_130v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1219,7 +1219,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_131r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1244,7 +1244,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_131v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1269,7 +1269,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_132r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1294,7 +1294,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_132v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1319,7 +1319,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_133r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1344,7 +1344,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_133v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1369,7 +1369,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_134r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1394,7 +1394,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_134v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1419,7 +1419,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_135r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1444,7 +1444,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_135v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1469,7 +1469,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_136r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1494,7 +1494,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_136v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1519,7 +1519,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_137r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1544,7 +1544,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_137v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1569,7 +1569,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_138r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1594,7 +1594,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_138v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1619,7 +1619,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_139r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1644,7 +1644,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_139v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1669,7 +1669,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_140r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1694,7 +1694,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_140v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1719,7 +1719,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_141r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1744,7 +1744,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_141v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1769,7 +1769,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_142r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1794,7 +1794,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_142v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1819,7 +1819,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_143r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1844,7 +1844,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_143v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1869,7 +1869,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_144r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1894,7 +1894,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_144v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1919,7 +1919,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_145r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1944,7 +1944,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_145v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1969,7 +1969,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_146r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -1994,7 +1994,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_146v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2019,7 +2019,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_147r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2044,7 +2044,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_147v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2069,7 +2069,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_148r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2094,7 +2094,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_148v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2119,7 +2119,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_149r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2144,7 +2144,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_149v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2169,7 +2169,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_150r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2194,7 +2194,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_150v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2219,7 +2219,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_151r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2244,7 +2244,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_151v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2269,7 +2269,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_152r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2294,7 +2294,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_152v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2319,7 +2319,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_153r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2344,7 +2344,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_153v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2369,7 +2369,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_154r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2394,7 +2394,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_154v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2419,7 +2419,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_155r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2444,7 +2444,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_155v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2469,7 +2469,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_156r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2494,7 +2494,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_156v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2519,7 +2519,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_157r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2544,7 +2544,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_157v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2569,7 +2569,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_158r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2594,7 +2594,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_158v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2619,7 +2619,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_159r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2644,7 +2644,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_159v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2669,7 +2669,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_160r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2694,7 +2694,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_160v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2719,7 +2719,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_161r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2744,7 +2744,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_161v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2769,7 +2769,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_162r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2794,7 +2794,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_162v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2819,7 +2819,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_163r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2844,7 +2844,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_163v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2869,7 +2869,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_164r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2894,7 +2894,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_164v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2919,7 +2919,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_165r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2944,7 +2944,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_165v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2969,7 +2969,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_166r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -2994,7 +2994,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_166v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3019,7 +3019,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_167r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3044,7 +3044,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_167v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3069,7 +3069,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_168r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3094,7 +3094,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_168v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3119,7 +3119,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_169r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3144,7 +3144,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_169v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3169,7 +3169,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_170r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3194,7 +3194,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_170v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3219,7 +3219,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_171r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3244,7 +3244,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_171v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3269,7 +3269,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_172r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3294,7 +3294,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_172v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3319,7 +3319,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_173r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3344,7 +3344,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_173v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3369,7 +3369,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_174r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3394,7 +3394,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_174v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3419,7 +3419,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_175r.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }
@@ -3444,7 +3444,7 @@
             "height": 6496,
             "width": 4872,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
               "@id": "http://www.e-codices.unifr.ch/loris/kba/kba-WettF0015/kba-WettF0015_175v.jp2",
               "profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1"
             }

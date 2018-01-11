@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf15861</shortid>
+		<title>Paris, Bibliothèque nationale de France, Lat 15861</title>
+		<initial>Pb</initial>
+	  <!-- contains Giles of Rome Book 1 -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf15861/item1</shortid>
+			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9078197c/canvas/</canvasBase>
+			  <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9078197c/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

@@ -9174,7 +9174,7 @@
   }],
   "related": "http://id.lib.harvard.edu/aleph/009402307/catalog",
   "label": "MS Lat 245. Houghton Library, Harvard University. Super tertio libro sententiarum Petri Lombardi",
-  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "logo": "https://iiif.lib.harvard.edu/static/manifests/harvard_logo.jpg",
   "@id": "https://iiif.lib.harvard.edu/manifests/drs:425873143",
   "@type": "sc:Manifest"
