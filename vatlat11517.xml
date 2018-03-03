@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat11517</shortid>
+		<title>Vatican City, Biblioteca Apostolica Vaticana, vat. lat. 11517</title>
+		<initial>V</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat11517/item1</shortid>
+				<canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.11517/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.11517/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
