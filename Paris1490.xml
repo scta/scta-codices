@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>Paris1490</shortid>
+	  <!-- contains manifestation of Auctoritates Aristotles -->
+		<title>Paris 1490 Printing</title>
+		<initial>P</initial>
+		<hasItems>
+		  <item>
+		    <canonical>true</canonical>
+		    <shortid>Paris1490/item1</shortid>
+		    <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+		    <manifestOfficial>https://iiif.archivelab.org/iiif/OEXV794_P4/manifest.json</manifestOfficial>
+		  </item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>
