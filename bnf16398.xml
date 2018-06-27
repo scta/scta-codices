@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf16398</shortid>
+		<title>Paris, Bibliothèque Nationale, Lat 16398</title>
+		<initial>P</initial>
+	  <!-- contains texts by ockham, reportation and quodlibetal -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf16398/item1</shortid>
+			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/ark:/12148/btv1b9076689x/canvas/</canvasBase>
+			  <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9076689x/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

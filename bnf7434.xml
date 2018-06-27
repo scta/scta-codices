@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf7434</shortid>
+		<title>Paris, Bibliothèque nationale de France, Lat 7434</title>
+		<initial>P</initial>
+	  <!-- contains early copy of de perspectiva by Roger Bacon according to https://plato.stanford.edu/entries/roger-bacon/ MS Paris, BN Lat. 7434 ark:/12148/btv1b100344834 --> 
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf7434/item1</shortid>
+			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b100344834/canvas/</canvasBase>
+			  <manifestOfficial>http://gallica.bnf.fr/iiif/aark:/12148/btv1b100344834/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
