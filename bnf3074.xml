@@ -9,8 +9,8 @@
       <item>
         <canonical>true</canonical>
         <shortid>bnf3074/item1</shortid>
-        <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/canvas/</canvasBase>
-        <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/manifest.json</manifestOfficial>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/manifest.json</manifestOfficial>
       </item>
     </hasItems>
   </head>
