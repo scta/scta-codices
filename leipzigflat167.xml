@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>leipzigflat167</shortid>
+    <title>Leipzig, Universitätsbibliothek, Fragm. lat. 167</title>
+    <initial>L</initial>
+    <!-- 
+      single leaf fragment, bottom half of page, that contains part of Lombard, Sent, book 3, distinction 1, chapter 1
+      top half of page probably had a nice image for the start of book 3 and was thus cut out.
+    -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>leipzigflat167/item1</shortid>
+        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/</canvasBase>
+        <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-xahb/manifest.json</manifestOfficial>
+        <!-- Question: is leipzig going to be minting its own IDs for this fragment? or will should Fragmentarium be considered the canonical source -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>leipzigflat167/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>leipzigflat167/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>00000001.jpx.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>leipzigflat167/1v</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>leipzigflat167/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>00000002.jpx.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>
