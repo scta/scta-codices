@@ -1,0 +1,97 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Leipzig, Universitätsbibliothek, Fragm. lat. 167",
+  "license": "http://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Fragmentarium \u2013 International Digital Research Lab for Medieval Manuscript Fragments",
+  "logo": "https://fragmentarium.ms/img/fragmentarium-logo-sm-square.png",
+  "service": "https://fragmentarium.ms/search/",
+  "seeAlso": "https://fragmentarium.ms/overview/F-xahb",
+  "within": "https://fragmentarium.ms/search?sQueryString=C-n6hd",
+  "sequences": [{
+    "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/sequence/Sequence-238.json",
+    "@type": "sc:Sequence",
+    "label": [{
+      "@value": "Normal Sequence",
+      "@language": "en"
+    }],
+    "canvases": [
+      {
+        "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000001.jpx.json",
+        "@type": "sc:Canvas",
+        "label": "1r",
+        "height": 4298,
+        "width": 5760,
+        "images": [{
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/annotation/https://iiif.ub.uni-leipzig.de/0000003464/00000001.jpx.json",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000001.jpx.json",
+          "resource": {
+            "@id": "https://iiif.ub.uni-leipzig.de/0000003464/00000001.jpx",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4298,
+            "width": 5760,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0034/0000003464/00000001.jpx",
+              "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+            }
+          }
+        }]
+      },
+      {
+        "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000002.jpx.json",
+        "@type": "sc:Canvas",
+        "label": "1v",
+        "height": 4298,
+        "width": 5760,
+        "images": [{
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/annotation/https://iiif.ub.uni-leipzig.de/0000003464/00000002.jpx.json",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000002.jpx.json",
+          "resource": {
+            "@id": "https://iiif.ub.uni-leipzig.de/0000003464/00000002.jpx",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4298,
+            "width": 5760,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0034/0000003464/00000002.jpx",
+              "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+            }
+          }
+        }]
+      },
+      {
+        "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000003.jpx.json",
+        "@type": "sc:Canvas",
+        "label": "1r mit Farbkeil",
+        "height": 3389,
+        "width": 5760,
+        "images": [{
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-xahb/annotation/https://iiif.ub.uni-leipzig.de/0000003464/00000003.jpx.json",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "https://fragmentarium.ms/metadata/iiif/F-xahb/canvas/https://iiif.ub.uni-leipzig.de/0000003464/00000003.jpx.json",
+          "resource": {
+            "@id": "https://iiif.ub.uni-leipzig.de/0000003464/00000003.jpx",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3389,
+            "width": 5760,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0034/0000003464/00000003.jpx",
+              "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+            }
+          }
+        }]
+      }
+    ]
+  }]
+}

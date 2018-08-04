@@ -1,5 +1,5 @@
 {
-  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "http://scta.info/iiif/static/gks1363/manifest",
   "@type": "sc:Manifest",
   "label": "William de Rothwell - Copenhagen, Danish Royal Library, GKS 1363",
@@ -19,7 +19,7 @@
   "seeAlso": "",
   "logo": "https://upload.wikimedia.org/wikipedia/en/4/40/Danish_Royal_Library_Logo1.jpg",
   "sequences": [{
-    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "http://scta.info/iiif/static/gks1363/sequence/normal",
     "@type": "sc:Sequence",
     "label": "Current page order",
@@ -27,14 +27,14 @@
     "viewingHint": "paged",
     "canvases": [
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D1r",
         "@type": "sc:Canvas",
         "label": "folio 1r",
         "height": 6776,
         "width": 5090,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D1r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -43,7 +43,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_1r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -55,14 +55,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D1v",
         "@type": "sc:Canvas",
         "label": "folio 1v",
         "height": 6594,
         "width": 4828,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D1v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -71,7 +71,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_1v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -83,14 +83,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D2r",
         "@type": "sc:Canvas",
         "label": "folio 2r",
         "height": 6933,
         "width": 5004,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D2r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -99,7 +99,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_2r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -111,14 +111,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D2v",
         "@type": "sc:Canvas",
         "label": "folio 2v",
         "height": 6448,
         "width": 4785,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D2v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -127,7 +127,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_2v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -139,14 +139,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D3r",
         "@type": "sc:Canvas",
         "label": "folio 3r",
         "height": 6784,
         "width": 4996,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D3r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -155,7 +155,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_3r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -167,14 +167,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D3v",
         "@type": "sc:Canvas",
         "label": "folio 3v",
         "height": 6488,
         "width": 4862,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D3v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -183,7 +183,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_3v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -195,14 +195,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D4r",
         "@type": "sc:Canvas",
         "label": "folio 4r",
         "height": 6784,
         "width": 4996,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D4r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -211,7 +211,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_4r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -223,14 +223,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D4v",
         "@type": "sc:Canvas",
         "label": "folio 4v",
         "height": 6570,
         "width": 4889,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D4v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -239,7 +239,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_4v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -251,14 +251,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D5r",
         "@type": "sc:Canvas",
         "label": "folio 5r",
         "height": 6713,
         "width": 4992,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D5r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -267,7 +267,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_5r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -279,14 +279,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D5v",
         "@type": "sc:Canvas",
         "label": "folio 5v",
         "height": 6467,
         "width": 4573,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D5v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -295,7 +295,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_5v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -307,14 +307,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D6r",
         "@type": "sc:Canvas",
         "label": "folio 6r",
         "height": 6660,
         "width": 4779,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D6r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -323,7 +323,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_6r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -335,14 +335,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D6v",
         "@type": "sc:Canvas",
         "label": "folio 6v",
         "height": 6459,
         "width": 4656,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D6v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -351,7 +351,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_6v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -363,14 +363,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D7r",
         "@type": "sc:Canvas",
         "label": "folio 7r",
         "height": 6661,
         "width": 4732,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D7r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -379,7 +379,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_7r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -391,14 +391,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D7v",
         "@type": "sc:Canvas",
         "label": "folio 7v",
         "height": 6408,
         "width": 4698,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D7v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -407,7 +407,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_7v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -419,14 +419,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D8r",
         "@type": "sc:Canvas",
         "label": "folio 8r",
         "height": 6752,
         "width": 4714,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D8r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -435,7 +435,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_8r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -447,14 +447,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D8v",
         "@type": "sc:Canvas",
         "label": "folio 8v",
         "height": 6421,
         "width": 4692,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D8v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -463,7 +463,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_8v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -475,14 +475,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D9r",
         "@type": "sc:Canvas",
         "label": "folio 9r",
         "height": 6697,
         "width": 4708,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D9r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -491,7 +491,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_9r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -503,14 +503,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D9v",
         "@type": "sc:Canvas",
         "label": "folio 9v",
         "height": 6483,
         "width": 4599,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D9v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -519,7 +519,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_9v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -531,14 +531,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D10r",
         "@type": "sc:Canvas",
         "label": "folio 10r",
         "height": 6812,
         "width": 4460,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D10r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -547,7 +547,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_10r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -559,14 +559,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D10v",
         "@type": "sc:Canvas",
         "label": "folio 10v",
         "height": 6484,
         "width": 4788,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D10v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -575,7 +575,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_10v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -587,14 +587,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D11r",
         "@type": "sc:Canvas",
         "label": "folio 11r",
         "height": 6693,
         "width": 4705,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D11r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -603,7 +603,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_11r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -615,14 +615,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D11v",
         "@type": "sc:Canvas",
         "label": "folio 11v",
         "height": 6460,
         "width": 4735,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D11v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -631,7 +631,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_11v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -643,14 +643,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D12r",
         "@type": "sc:Canvas",
         "label": "folio 12r",
         "height": 6663,
         "width": 4759,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D12r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -659,7 +659,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_12r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -671,14 +671,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D12v",
         "@type": "sc:Canvas",
         "label": "folio 12v",
         "height": 6458,
         "width": 4808,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D12v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -687,7 +687,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_12v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -699,14 +699,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D13r",
         "@type": "sc:Canvas",
         "label": "folio 13r",
         "height": 6657,
         "width": 4791,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D13r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -715,7 +715,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_13r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -727,14 +727,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D13v",
         "@type": "sc:Canvas",
         "label": "folio 13v",
         "height": 6553,
         "width": 4778,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D13v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -743,7 +743,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_13v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -755,14 +755,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D14r",
         "@type": "sc:Canvas",
         "label": "folio 14r",
         "height": 6623,
         "width": 4813,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D14r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -771,7 +771,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_14r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -783,14 +783,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D14v",
         "@type": "sc:Canvas",
         "label": "folio 14v",
         "height": 6456,
         "width": 4805,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D14v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -799,7 +799,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_14v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -811,14 +811,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D15r",
         "@type": "sc:Canvas",
         "label": "folio 15r",
         "height": 6676,
         "width": 4813,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D15r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -827,7 +827,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_15r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -839,14 +839,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D15v",
         "@type": "sc:Canvas",
         "label": "folio 15v",
         "height": 6449,
         "width": 4800,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D15v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -855,7 +855,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_15v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -867,14 +867,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D16r",
         "@type": "sc:Canvas",
         "label": "folio 16r",
         "height": 6649,
         "width": 4768,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D16r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -883,7 +883,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_16r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -895,14 +895,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D16v",
         "@type": "sc:Canvas",
         "label": "folio 16v",
         "height": 6539,
         "width": 4828,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D16v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -911,7 +911,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_16v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -923,14 +923,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D17r",
         "@type": "sc:Canvas",
         "label": "folio 17r",
         "height": 6615,
         "width": 4813,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D17r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -939,7 +939,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_17r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -951,14 +951,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D17v",
         "@type": "sc:Canvas",
         "label": "folio 17v",
         "height": 6552,
         "width": 4893,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D17v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -967,7 +967,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_17v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -979,14 +979,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D18r",
         "@type": "sc:Canvas",
         "label": "folio 18r",
         "height": 6717,
         "width": 4824,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D18r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -995,7 +995,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_18r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1007,14 +1007,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D18v",
         "@type": "sc:Canvas",
         "label": "folio 18v",
         "height": 6462,
         "width": 4859,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D18v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1023,7 +1023,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_18v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1035,14 +1035,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D19r",
         "@type": "sc:Canvas",
         "label": "folio 19r",
         "height": 6630,
         "width": 4799,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D19r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1051,7 +1051,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_19r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1063,14 +1063,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D19v",
         "@type": "sc:Canvas",
         "label": "folio 19v",
         "height": 6543,
         "width": 4871,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D19v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1079,7 +1079,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_19v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1091,14 +1091,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D20r",
         "@type": "sc:Canvas",
         "label": "folio 20r",
         "height": 6584,
         "width": 4816,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D20r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1107,7 +1107,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_20r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1119,14 +1119,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D20v",
         "@type": "sc:Canvas",
         "label": "folio 20v",
         "height": 6458,
         "width": 4872,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D20v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1135,7 +1135,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_20v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1147,14 +1147,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D21r",
         "@type": "sc:Canvas",
         "label": "folio 21r",
         "height": 6687,
         "width": 4751,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D21r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1163,7 +1163,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_21r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1175,14 +1175,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D21v",
         "@type": "sc:Canvas",
         "label": "folio 21v",
         "height": 6479,
         "width": 4917,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D21v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1191,7 +1191,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_21v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1203,14 +1203,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D22r",
         "@type": "sc:Canvas",
         "label": "folio 22r",
         "height": 6646,
         "width": 4777,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D22r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1219,7 +1219,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_22r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1231,14 +1231,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D22v",
         "@type": "sc:Canvas",
         "label": "folio 22v",
         "height": 6503,
         "width": 4878,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D22v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1247,7 +1247,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_22v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1259,14 +1259,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D23r",
         "@type": "sc:Canvas",
         "label": "folio 23r",
         "height": 6648,
         "width": 4710,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D23r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1275,7 +1275,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_23r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1287,14 +1287,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D23v",
         "@type": "sc:Canvas",
         "label": "folio 23v",
         "height": 6475,
         "width": 4864,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D23v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1303,7 +1303,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_23v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1315,14 +1315,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D24r",
         "@type": "sc:Canvas",
         "label": "folio 24r",
         "height": 6567,
         "width": 4651,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D24r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1331,7 +1331,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_24r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1343,14 +1343,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D24v",
         "@type": "sc:Canvas",
         "label": "folio 24v",
         "height": 6467,
         "width": 4823,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D24v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1359,7 +1359,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_24v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1371,14 +1371,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D25r",
         "@type": "sc:Canvas",
         "label": "folio 25r",
         "height": 6468,
         "width": 4704,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D25r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1387,7 +1387,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_25r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1399,14 +1399,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D25v",
         "@type": "sc:Canvas",
         "label": "folio 25v",
         "height": 6574,
         "width": 4932,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D25v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1415,7 +1415,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_25v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1427,14 +1427,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D26r",
         "@type": "sc:Canvas",
         "label": "folio 26r",
         "height": 6584,
         "width": 4597,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D26r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1443,7 +1443,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_26r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1455,14 +1455,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D26v",
         "@type": "sc:Canvas",
         "label": "folio 26v",
         "height": 6412,
         "width": 4746,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D26v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1471,7 +1471,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_26v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1483,14 +1483,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D27r",
         "@type": "sc:Canvas",
         "label": "folio 27r",
         "height": 6634,
         "width": 4450,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D27r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1499,7 +1499,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_27r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1511,14 +1511,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D27v",
         "@type": "sc:Canvas",
         "label": "folio 27v",
         "height": 6532,
         "width": 4839,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D27v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1527,7 +1527,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_27v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1539,14 +1539,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D28r",
         "@type": "sc:Canvas",
         "label": "folio 28r",
         "height": 6586,
         "width": 4621,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D28r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1555,7 +1555,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_28r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1567,14 +1567,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D28v",
         "@type": "sc:Canvas",
         "label": "folio 28v",
         "height": 6499,
         "width": 4811,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D28v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1583,7 +1583,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_28v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1595,14 +1595,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D29r",
         "@type": "sc:Canvas",
         "label": "folio 29r",
         "height": 6576,
         "width": 4636,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D29r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1611,7 +1611,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_29r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1623,14 +1623,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D29v",
         "@type": "sc:Canvas",
         "label": "folio 29v",
         "height": 6485,
         "width": 4910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D29v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1639,7 +1639,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_29v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1651,14 +1651,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D30r",
         "@type": "sc:Canvas",
         "label": "folio 30r",
         "height": 6679,
         "width": 4519,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D30r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1667,7 +1667,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_30r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1679,14 +1679,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D30v",
         "@type": "sc:Canvas",
         "label": "folio 30v",
         "height": 6529,
         "width": 4683,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D30v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1695,7 +1695,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_30v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1707,14 +1707,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D31r",
         "@type": "sc:Canvas",
         "label": "folio 31r",
         "height": 6664,
         "width": 4746,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D31r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1723,7 +1723,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_31r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1735,14 +1735,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D31v",
         "@type": "sc:Canvas",
         "label": "folio 31v",
         "height": 6508,
         "width": 4698,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D31v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1751,7 +1751,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_31v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1763,14 +1763,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D32r",
         "@type": "sc:Canvas",
         "label": "folio 32r",
         "height": 6593,
         "width": 4803,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D32r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1779,7 +1779,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_32r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1791,14 +1791,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D32v",
         "@type": "sc:Canvas",
         "label": "folio 32v",
         "height": 6500,
         "width": 4762,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D32v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1807,7 +1807,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_32v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1819,14 +1819,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D33r",
         "@type": "sc:Canvas",
         "label": "folio 33r",
         "height": 6627,
         "width": 4649,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D33r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1835,7 +1835,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_33r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1847,14 +1847,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D33v",
         "@type": "sc:Canvas",
         "label": "folio 33v",
         "height": 6409,
         "width": 4932,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D33v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1863,7 +1863,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_33v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1875,14 +1875,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D34r",
         "@type": "sc:Canvas",
         "label": "folio 34r",
         "height": 6392,
         "width": 4795,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D34r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1891,7 +1891,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_34r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1903,14 +1903,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D34v",
         "@type": "sc:Canvas",
         "label": "folio 34v",
         "height": 6310,
         "width": 4760,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D34v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1919,7 +1919,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_34v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1931,14 +1931,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D35r",
         "@type": "sc:Canvas",
         "label": "folio 35r",
         "height": 6512,
         "width": 4776,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D35r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1947,7 +1947,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_35r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1959,14 +1959,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D35v",
         "@type": "sc:Canvas",
         "label": "folio 35v",
         "height": 6399,
         "width": 4949,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D35v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1975,7 +1975,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_35v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -1987,14 +1987,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D36r",
         "@type": "sc:Canvas",
         "label": "folio 36r",
         "height": 6543,
         "width": 4769,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D36r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2003,7 +2003,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_36r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2015,14 +2015,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D36v",
         "@type": "sc:Canvas",
         "label": "folio 36v",
         "height": 6505,
         "width": 4915,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D36v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2031,7 +2031,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_36v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2043,14 +2043,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D37r",
         "@type": "sc:Canvas",
         "label": "folio 37r",
         "height": 6510,
         "width": 4797,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D37r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2059,7 +2059,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_37r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2071,14 +2071,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D37v",
         "@type": "sc:Canvas",
         "label": "folio 37v",
         "height": 6448,
         "width": 4907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D37v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2087,7 +2087,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_37v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2099,14 +2099,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D38r",
         "@type": "sc:Canvas",
         "label": "folio 38r",
         "height": 6584,
         "width": 4939,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D38r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2115,7 +2115,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_38r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2127,14 +2127,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D38v",
         "@type": "sc:Canvas",
         "label": "folio 38v",
         "height": 6487,
         "width": 4873,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D38v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2143,7 +2143,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_38v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2155,14 +2155,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D39r",
         "@type": "sc:Canvas",
         "label": "folio 39r",
         "height": 6487,
         "width": 4806,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D39r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2171,7 +2171,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_39r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2183,14 +2183,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D39v",
         "@type": "sc:Canvas",
         "label": "folio 39v",
         "height": 6439,
         "width": 4756,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D39v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2199,7 +2199,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_39v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2211,14 +2211,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D40r",
         "@type": "sc:Canvas",
         "label": "folio 40r",
         "height": 6575,
         "width": 4786,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D40r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2227,7 +2227,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_40r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2239,14 +2239,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D40v",
         "@type": "sc:Canvas",
         "label": "folio 40v",
         "height": 6466,
         "width": 4675,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D40v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2255,7 +2255,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_40v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2267,14 +2267,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D41r",
         "@type": "sc:Canvas",
         "label": "folio 41r",
         "height": 6530,
         "width": 4846,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D41r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2283,7 +2283,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_41r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2295,14 +2295,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D41v",
         "@type": "sc:Canvas",
         "label": "folio 41v",
         "height": 6494,
         "width": 4790,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D41v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2311,7 +2311,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_41v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2323,14 +2323,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D42r",
         "@type": "sc:Canvas",
         "label": "folio 42r",
         "height": 6502,
         "width": 4728,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D42r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2339,7 +2339,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_42r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2351,14 +2351,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D42v",
         "@type": "sc:Canvas",
         "label": "folio 42v",
         "height": 6456,
         "width": 4681,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D42v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2367,7 +2367,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_42v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2379,14 +2379,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D43r",
         "@type": "sc:Canvas",
         "label": "folio 43r",
         "height": 6556,
         "width": 4704,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D43r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2395,7 +2395,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_43r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2407,14 +2407,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D43v",
         "@type": "sc:Canvas",
         "label": "folio 43v",
         "height": 6328,
         "width": 4498,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D43v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2423,7 +2423,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_43v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2435,14 +2435,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D44r",
         "@type": "sc:Canvas",
         "label": "folio 44r",
         "height": 6645,
         "width": 4663,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D44r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2451,7 +2451,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_44r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2463,14 +2463,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D44v",
         "@type": "sc:Canvas",
         "label": "folio 44v",
         "height": 6426,
         "width": 4661,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D44v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2479,7 +2479,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_44v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2491,14 +2491,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D45r",
         "@type": "sc:Canvas",
         "label": "folio 45r",
         "height": 6550,
         "width": 4757,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D45r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2507,7 +2507,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_45r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2519,14 +2519,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D45v",
         "@type": "sc:Canvas",
         "label": "folio 45v",
         "height": 6411,
         "width": 4770,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D45v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2535,7 +2535,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_45v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2547,14 +2547,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D46r",
         "@type": "sc:Canvas",
         "label": "folio 46r",
         "height": 6563,
         "width": 4580,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D46r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2563,7 +2563,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_46r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2575,14 +2575,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D46v",
         "@type": "sc:Canvas",
         "label": "folio 46v",
         "height": 6357,
         "width": 4760,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D46v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2591,7 +2591,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_46v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2603,14 +2603,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D47r",
         "@type": "sc:Canvas",
         "label": "folio 47r",
         "height": 6627,
         "width": 4741,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D47r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2619,7 +2619,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_47r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2631,14 +2631,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D47v",
         "@type": "sc:Canvas",
         "label": "folio 47v",
         "height": 6344,
         "width": 4745,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D47v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2647,7 +2647,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_47v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2659,14 +2659,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D48r",
         "@type": "sc:Canvas",
         "label": "folio 48r",
         "height": 6666,
         "width": 4774,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D48r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2675,7 +2675,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_48r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2687,14 +2687,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D48v",
         "@type": "sc:Canvas",
         "label": "folio 48v",
         "height": 6431,
         "width": 4735,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D48v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2703,7 +2703,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_48v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2715,14 +2715,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D49r",
         "@type": "sc:Canvas",
         "label": "folio 49r",
         "height": 6585,
         "width": 4758,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D49r-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2731,7 +2731,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_49r",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },
@@ -2743,14 +2743,14 @@
           
         },
       {
-        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/gks1363/canvas/D49v",
         "@type": "sc:Canvas",
         "label": "folio 49v",
         "height": 6410,
         "width": 4943,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "http://scta.info/iiif/gks1363/annotation/D49v-image",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2759,7 +2759,7 @@
             "@type": "dctypes:Image",
             "format": "image/jpeg",
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_49v",
               "profile": "http://iiif.io/api/image/1/level2.json"
             },

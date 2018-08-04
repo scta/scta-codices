@@ -1,0 +1,83 @@
+{
+  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+  "@id": "http://scta.info/iiif/static/marymount25/manifest",
+  "@type": "sc:Manifest",
+  "label": "Peter Lombard, Sentences - Loyola University Marymount, ms. 25",
+  "metadata": [
+    {
+      "label": "Author",
+      "value": "Peter Lombard"
+    },
+    {
+      "label": "Published",
+      "value": [{"@language": "la"}]
+    }
+  ],
+  "description": "Witness to Peter Lombard's Sentences",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Loyola University Marymount",
+  "sequences": [{
+    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+    "@id": "http://scta.info/iiif/static/marymount25/sequence/normal",
+    "@type": "sc:Sequence",
+    "label": "Current page order",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "canvases": [
+      {
+        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@id": "http://scta.info/iiif/marymount25/canvas/223r",
+        "@type": "sc:Canvas",
+        "label": "folio 223r",
+        "height": 1800,
+        "width": 1430,
+        "images": [{
+          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@id": "http://scta.info/iiif/marymount25/annotation/223r-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "http://scta.info/iiif/marymount25/res/223r.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@id": "https://loris2.scta.info/penn/0444_0050_web.jpg",
+              "profile": "http://iiif.io/api/image/1/level2.json"
+            },
+            "height": 1800,
+            "width": 1430
+          },
+          "on": "http://scta.info/iiif/marymount25/canvas/223r"
+        }]
+      },
+      {
+        "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+        "@id": "http://scta.info/iiif/marymount25/canvas/223v",
+        "@type": "sc:Canvas",
+        "label": "folio 223r",
+        "height": 1800,
+        "width": 1430,
+        "images": [{
+          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@id": "http://scta.info/iiif/marymount25/annotation/223v-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "http://scta.info/iiif/marymount25/res/223v.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://localhost:4567/iiif/iiif-image-context.jsonld",
+              "@id": "https://loris2.scta.info/penn/0444_0050_web.jpg",
+              "profile": "http://iiif.io/api/image/1/level2.json"
+            },
+            "height": 1800,
+            "width": 1430
+          },
+          "on": "http://scta.info/iiif/marymount25/canvas/223v"
+        }]
+      }
+    ]
+  }]
+}

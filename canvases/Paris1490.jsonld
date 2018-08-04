@@ -1,5 +1,5 @@
 {
-  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4/manifest.json",
   "@type": "sc:Manifest",
   "attribution": "The Internet Archive",
@@ -31,7 +31,7 @@
   "related": "http://www.archive.org/details/OEXV794_P4",
   "seeAlso": "http://archive.org/metadata/OEXV794_P4",
   "sequences": [{
-    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4/canvas/default",
     "@type": "sc:Sequence",
     "canvases": [
@@ -40,7 +40,7 @@
         "@type": "sc:Canvas",
         "height": 899,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$1/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -51,7 +51,7 @@
             "format": "image/jpeg",
             "height": 899,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$1",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -66,7 +66,7 @@
         "@type": "sc:Canvas",
         "height": 908,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$2/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -77,7 +77,7 @@
             "format": "image/jpeg",
             "height": 908,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$2",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -92,7 +92,7 @@
         "@type": "sc:Canvas",
         "height": 910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$3/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -103,7 +103,7 @@
             "format": "image/jpeg",
             "height": 910,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$3",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -118,7 +118,7 @@
         "@type": "sc:Canvas",
         "height": 884,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$4/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -129,7 +129,7 @@
             "format": "image/jpeg",
             "height": 884,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$4",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -144,7 +144,7 @@
         "@type": "sc:Canvas",
         "height": 910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$5/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -155,7 +155,7 @@
             "format": "image/jpeg",
             "height": 910,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$5",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -170,7 +170,7 @@
         "@type": "sc:Canvas",
         "height": 1094,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$6/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -181,7 +181,7 @@
             "format": "image/jpeg",
             "height": 1094,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$6",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -196,7 +196,7 @@
         "@type": "sc:Canvas",
         "height": 895,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$7/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -207,7 +207,7 @@
             "format": "image/jpeg",
             "height": 895,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$7",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -222,7 +222,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$8/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -233,7 +233,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$8",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -248,7 +248,7 @@
         "@type": "sc:Canvas",
         "height": 895,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$9/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -259,7 +259,7 @@
             "format": "image/jpeg",
             "height": 895,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$9",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -274,7 +274,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$10/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -285,7 +285,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$10",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -300,7 +300,7 @@
         "@type": "sc:Canvas",
         "height": 895,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$11/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -311,7 +311,7 @@
             "format": "image/jpeg",
             "height": 895,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$11",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -326,7 +326,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$12/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -337,7 +337,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$12",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -352,7 +352,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$13/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -363,7 +363,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$13",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -378,7 +378,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$14/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -389,7 +389,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$14",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -404,7 +404,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$15/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -415,7 +415,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$15",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -430,7 +430,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$16/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -441,7 +441,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$16",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -456,7 +456,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$17/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -467,7 +467,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$17",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -482,7 +482,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$18/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -493,7 +493,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$18",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -508,7 +508,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$19/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -519,7 +519,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$19",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -534,7 +534,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$20/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -545,7 +545,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$20",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -560,7 +560,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$21/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -571,7 +571,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$21",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -586,7 +586,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$22/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -597,7 +597,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$22",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -612,7 +612,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$23/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -623,7 +623,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$23",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -638,7 +638,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$24/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -649,7 +649,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$24",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -664,7 +664,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$25/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -675,7 +675,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$25",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -690,7 +690,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$26/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -701,7 +701,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$26",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -716,7 +716,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$27/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -727,7 +727,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$27",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -742,7 +742,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$28/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -753,7 +753,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$28",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -768,7 +768,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$29/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -779,7 +779,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$29",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -794,7 +794,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$30/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -805,7 +805,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$30",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -820,7 +820,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$31/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -831,7 +831,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$31",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -846,7 +846,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$32/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -857,7 +857,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$32",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -872,7 +872,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$33/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -883,7 +883,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$33",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -898,7 +898,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$34/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -909,7 +909,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$34",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -924,7 +924,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$35/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -935,7 +935,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$35",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -950,7 +950,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$36/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -961,7 +961,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$36",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -976,7 +976,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$37/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -987,7 +987,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$37",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1002,7 +1002,7 @@
         "@type": "sc:Canvas",
         "height": 898,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$38/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1013,7 +1013,7 @@
             "format": "image/jpeg",
             "height": 898,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$38",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1028,7 +1028,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$39/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1039,7 +1039,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$39",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1054,7 +1054,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$40/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1065,7 +1065,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$40",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1080,7 +1080,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$41/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1091,7 +1091,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$41",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1106,7 +1106,7 @@
         "@type": "sc:Canvas",
         "height": 899,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$42/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1117,7 +1117,7 @@
             "format": "image/jpeg",
             "height": 899,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$42",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1132,7 +1132,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$43/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1143,7 +1143,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$43",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1158,7 +1158,7 @@
         "@type": "sc:Canvas",
         "height": 901,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$44/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1169,7 +1169,7 @@
             "format": "image/jpeg",
             "height": 901,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$44",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1184,7 +1184,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$45/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1195,7 +1195,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$45",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1210,7 +1210,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$46/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1221,7 +1221,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$46",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1236,7 +1236,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$47/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1247,7 +1247,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$47",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1262,7 +1262,7 @@
         "@type": "sc:Canvas",
         "height": 901,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$48/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1273,7 +1273,7 @@
             "format": "image/jpeg",
             "height": 901,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$48",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1288,7 +1288,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$49/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1299,7 +1299,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$49",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1314,7 +1314,7 @@
         "@type": "sc:Canvas",
         "height": 901,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$50/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1325,7 +1325,7 @@
             "format": "image/jpeg",
             "height": 901,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$50",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1340,7 +1340,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$51/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1351,7 +1351,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$51",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1366,7 +1366,7 @@
         "@type": "sc:Canvas",
         "height": 901,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$52/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1377,7 +1377,7 @@
             "format": "image/jpeg",
             "height": 901,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$52",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1392,7 +1392,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$53/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1403,7 +1403,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$53",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1418,7 +1418,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$54/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1429,7 +1429,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$54",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1444,7 +1444,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$55/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1455,7 +1455,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$55",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1470,7 +1470,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$56/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1481,7 +1481,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$56",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1496,7 +1496,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$57/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1507,7 +1507,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$57",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1522,7 +1522,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$58/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1533,7 +1533,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$58",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1548,7 +1548,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$59/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1559,7 +1559,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$59",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1574,7 +1574,7 @@
         "@type": "sc:Canvas",
         "height": 902,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$60/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1585,7 +1585,7 @@
             "format": "image/jpeg",
             "height": 902,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$60",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1600,7 +1600,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$61/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1611,7 +1611,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$61",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1626,7 +1626,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$62/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1637,7 +1637,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$62",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1652,7 +1652,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$63/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1663,7 +1663,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$63",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1678,7 +1678,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$64/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1689,7 +1689,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$64",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1704,7 +1704,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$65/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1715,7 +1715,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$65",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1730,7 +1730,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$66/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1741,7 +1741,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$66",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1756,7 +1756,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$67/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1767,7 +1767,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$67",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1782,7 +1782,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$68/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1793,7 +1793,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$68",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1808,7 +1808,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$69/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1819,7 +1819,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$69",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1834,7 +1834,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$70/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1845,7 +1845,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$70",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1860,7 +1860,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$71/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1871,7 +1871,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$71",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1886,7 +1886,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$72/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1897,7 +1897,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$72",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1912,7 +1912,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$73/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1923,7 +1923,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$73",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1938,7 +1938,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$74/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1949,7 +1949,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$74",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1964,7 +1964,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$75/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -1975,7 +1975,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$75",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -1990,7 +1990,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$76/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2001,7 +2001,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$76",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2016,7 +2016,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$77/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2027,7 +2027,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$77",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2042,7 +2042,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$78/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2053,7 +2053,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$78",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2068,7 +2068,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$79/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2079,7 +2079,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$79",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2094,7 +2094,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$80/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2105,7 +2105,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$80",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2120,7 +2120,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$81/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2131,7 +2131,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$81",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2146,7 +2146,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$82/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2157,7 +2157,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$82",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2172,7 +2172,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$83/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2183,7 +2183,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$83",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2198,7 +2198,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$84/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2209,7 +2209,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$84",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2224,7 +2224,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$85/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2235,7 +2235,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$85",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2250,7 +2250,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$86/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2261,7 +2261,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$86",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2276,7 +2276,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$87/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2287,7 +2287,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$87",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2302,7 +2302,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$88/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2313,7 +2313,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$88",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2328,7 +2328,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$89/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2339,7 +2339,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$89",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2354,7 +2354,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$90/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2365,7 +2365,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$90",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2380,7 +2380,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$91/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2391,7 +2391,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$91",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2406,7 +2406,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$92/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2417,7 +2417,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$92",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2432,7 +2432,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$93/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2443,7 +2443,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$93",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2458,7 +2458,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$94/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2469,7 +2469,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$94",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2484,7 +2484,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$95/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2495,7 +2495,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$95",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2510,7 +2510,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$96/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2521,7 +2521,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$96",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2536,7 +2536,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$97/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2547,7 +2547,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$97",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2562,7 +2562,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$98/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2573,7 +2573,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$98",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2588,7 +2588,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$99/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2599,7 +2599,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$99",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2614,7 +2614,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$100/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2625,7 +2625,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$100",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2640,7 +2640,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$101/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2651,7 +2651,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$101",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2666,7 +2666,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$102/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2677,7 +2677,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$102",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2692,7 +2692,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$103/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2703,7 +2703,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$103",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2718,7 +2718,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$104/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2729,7 +2729,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$104",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2744,7 +2744,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$105/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2755,7 +2755,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$105",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2770,7 +2770,7 @@
         "@type": "sc:Canvas",
         "height": 905,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$106/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2781,7 +2781,7 @@
             "format": "image/jpeg",
             "height": 905,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$106",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2796,7 +2796,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$107/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2807,7 +2807,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$107",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2822,7 +2822,7 @@
         "@type": "sc:Canvas",
         "height": 906,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$108/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2833,7 +2833,7 @@
             "format": "image/jpeg",
             "height": 906,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$108",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2848,7 +2848,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$109/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2859,7 +2859,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$109",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2874,7 +2874,7 @@
         "@type": "sc:Canvas",
         "height": 906,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$110/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2885,7 +2885,7 @@
             "format": "image/jpeg",
             "height": 906,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$110",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2900,7 +2900,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$111/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2911,7 +2911,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$111",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2926,7 +2926,7 @@
         "@type": "sc:Canvas",
         "height": 909,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$112/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2937,7 +2937,7 @@
             "format": "image/jpeg",
             "height": 909,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$112",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2952,7 +2952,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$113/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2963,7 +2963,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$113",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -2978,7 +2978,7 @@
         "@type": "sc:Canvas",
         "height": 909,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$114/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -2989,7 +2989,7 @@
             "format": "image/jpeg",
             "height": 909,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$114",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3004,7 +3004,7 @@
         "@type": "sc:Canvas",
         "height": 896,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$115/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3015,7 +3015,7 @@
             "format": "image/jpeg",
             "height": 896,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$115",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3030,7 +3030,7 @@
         "@type": "sc:Canvas",
         "height": 907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$116/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3041,7 +3041,7 @@
             "format": "image/jpeg",
             "height": 907,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$116",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3056,7 +3056,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$117/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3067,7 +3067,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$117",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3082,7 +3082,7 @@
         "@type": "sc:Canvas",
         "height": 909,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$118/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3093,7 +3093,7 @@
             "format": "image/jpeg",
             "height": 909,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$118",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3108,7 +3108,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$119/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3119,7 +3119,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$119",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3134,7 +3134,7 @@
         "@type": "sc:Canvas",
         "height": 907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$120/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3145,7 +3145,7 @@
             "format": "image/jpeg",
             "height": 907,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$120",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3160,7 +3160,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$121/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3171,7 +3171,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$121",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3186,7 +3186,7 @@
         "@type": "sc:Canvas",
         "height": 907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$122/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3197,7 +3197,7 @@
             "format": "image/jpeg",
             "height": 907,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$122",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3212,7 +3212,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$123/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3223,7 +3223,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$123",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3238,7 +3238,7 @@
         "@type": "sc:Canvas",
         "height": 907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$124/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3249,7 +3249,7 @@
             "format": "image/jpeg",
             "height": 907,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$124",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3264,7 +3264,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$125/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3275,7 +3275,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$125",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3290,7 +3290,7 @@
         "@type": "sc:Canvas",
         "height": 907,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$126/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3301,7 +3301,7 @@
             "format": "image/jpeg",
             "height": 907,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$126",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3316,7 +3316,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$127/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3327,7 +3327,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$127",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3342,7 +3342,7 @@
         "@type": "sc:Canvas",
         "height": 910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$128/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3353,7 +3353,7 @@
             "format": "image/jpeg",
             "height": 910,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$128",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3368,7 +3368,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$129/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3379,7 +3379,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$129",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3394,7 +3394,7 @@
         "@type": "sc:Canvas",
         "height": 910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$130/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3405,7 +3405,7 @@
             "format": "image/jpeg",
             "height": 910,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$130",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3420,7 +3420,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$131/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3431,7 +3431,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$131",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3446,7 +3446,7 @@
         "@type": "sc:Canvas",
         "height": 911,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$132/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3457,7 +3457,7 @@
             "format": "image/jpeg",
             "height": 911,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$132",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3472,7 +3472,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$133/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3483,7 +3483,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$133",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3498,7 +3498,7 @@
         "@type": "sc:Canvas",
         "height": 911,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$134/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3509,7 +3509,7 @@
             "format": "image/jpeg",
             "height": 911,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$134",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3524,7 +3524,7 @@
         "@type": "sc:Canvas",
         "height": 894,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$135/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3535,7 +3535,7 @@
             "format": "image/jpeg",
             "height": 894,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$135",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3550,7 +3550,7 @@
         "@type": "sc:Canvas",
         "height": 913,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$136/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3561,7 +3561,7 @@
             "format": "image/jpeg",
             "height": 913,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$136",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },
@@ -3576,7 +3576,7 @@
         "@type": "sc:Canvas",
         "height": 910,
         "images": [{
-          "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$137/annotation",
           "@type": "oa:Annotation",
           "motivation": "sc:painting",
@@ -3587,7 +3587,7 @@
             "format": "image/jpeg",
             "height": 910,
             "service": {
-              "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+              "@context": "http://iiif.io/api/presentation/2/context.json",
               "@id": "https://iiif.archivelab.org/iiif/OEXV794_P4$137",
               "profile": "https://iiif.io/api/image/2/profiles/level2.json"
             },

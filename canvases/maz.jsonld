@@ -1,5 +1,5 @@
 {
-  "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "http://scta.info/iiif/static/maz/manifest",
   "@type": "sc:Manifest",
   "label": "Adam Wodeham - Mazarine Ms. 915",
@@ -18,7 +18,7 @@
   "attribution": "Vaticana",
   "seeAlso": "",
   "sequences": [{
-    "@context": "http://localhost:4567/iiif/iiif-presentation-context.jsonld",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "http://scta.info/iiif/static/maz/sequence/normal",
     "@type": "sc:Sequence",
     "label": "Current page order",
