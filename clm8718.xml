@@ -10,8 +10,8 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>clm8718/item1</shortid>
-				<canvasBase/>
-				<manifestOfficial/>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103425/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103425/manifest</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>

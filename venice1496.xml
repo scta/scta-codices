@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>venice1496</shortid>
+		<title>Venice 1496</title>
+		<initial>P</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>venice1496/item1</shortid>
+			  <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/bpt6k607453/canvas/</canvasBase>
+			  <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/bpt6k607453/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
