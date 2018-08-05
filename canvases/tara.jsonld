@@ -48,8 +48,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/2",
           "@type": "sc:Canvas",
           "label": "1v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -61,8 +61,8 @@
                 "@id": "http://scta.info/iiif/tara/res/2",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00002.jpg",
@@ -106,8 +106,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/4",
           "@type": "sc:Canvas",
           "label": "2v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -119,8 +119,8 @@
                 "@id": "http://scta.info/iiif/tara/res/4",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00004.jpg",
@@ -164,8 +164,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/6",
           "@type": "sc:Canvas",
           "label": "3v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -177,8 +177,8 @@
                 "@id": "http://scta.info/iiif/tara/res/6",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00006.jpg",
@@ -222,8 +222,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/8",
           "@type": "sc:Canvas",
           "label": "4v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -235,8 +235,8 @@
                 "@id": "http://scta.info/iiif/tara/res/8",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00008.jpg",
@@ -280,8 +280,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/10",
           "@type": "sc:Canvas",
           "label": "5v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -293,8 +293,8 @@
                 "@id": "http://scta.info/iiif/tara/res/10",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00010.jpg",
@@ -338,8 +338,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/12",
           "@type": "sc:Canvas",
           "label": "6v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -351,8 +351,8 @@
                 "@id": "http://scta.info/iiif/tara/res/12",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00012.jpg",
@@ -396,8 +396,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/14",
           "@type": "sc:Canvas",
           "label": "7v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -409,8 +409,8 @@
                 "@id": "http://scta.info/iiif/tara/res/14",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00014.jpg",
@@ -454,8 +454,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/16",
           "@type": "sc:Canvas",
           "label": "8v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -467,8 +467,8 @@
                 "@id": "http://scta.info/iiif/tara/res/16",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00016.jpg",
@@ -512,8 +512,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/18",
           "@type": "sc:Canvas",
           "label": "9v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -525,8 +525,8 @@
                 "@id": "http://scta.info/iiif/tara/res/18",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00018.jpg",
@@ -570,8 +570,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/20",
           "@type": "sc:Canvas",
           "label": "10v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -583,8 +583,8 @@
                 "@id": "http://scta.info/iiif/tara/res/20",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00020.jpg",
@@ -628,8 +628,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/22",
           "@type": "sc:Canvas",
           "label": "11v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -641,8 +641,8 @@
                 "@id": "http://scta.info/iiif/tara/res/22",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00022.jpg",
@@ -686,8 +686,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/24",
           "@type": "sc:Canvas",
           "label": "12v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -699,8 +699,8 @@
                 "@id": "http://scta.info/iiif/tara/res/24",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00024.jpg",
@@ -744,8 +744,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/26",
           "@type": "sc:Canvas",
           "label": "13v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -757,8 +757,8 @@
                 "@id": "http://scta.info/iiif/tara/res/26",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00026.jpg",
@@ -802,8 +802,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/28",
           "@type": "sc:Canvas",
           "label": "14v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -815,8 +815,8 @@
                 "@id": "http://scta.info/iiif/tara/res/28",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00028.jpg",
@@ -860,8 +860,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/30",
           "@type": "sc:Canvas",
           "label": "15v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -873,8 +873,8 @@
                 "@id": "http://scta.info/iiif/tara/res/30",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00030.jpg",
@@ -918,8 +918,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/32",
           "@type": "sc:Canvas",
           "label": "16v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -931,8 +931,8 @@
                 "@id": "http://scta.info/iiif/tara/res/32",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00032.jpg",
@@ -976,8 +976,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/34",
           "@type": "sc:Canvas",
           "label": "17v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -989,8 +989,8 @@
                 "@id": "http://scta.info/iiif/tara/res/34",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00034.jpg",
@@ -1034,8 +1034,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/36",
           "@type": "sc:Canvas",
           "label": "18v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1047,8 +1047,8 @@
                 "@id": "http://scta.info/iiif/tara/res/36",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00036.jpg",
@@ -1092,8 +1092,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/38",
           "@type": "sc:Canvas",
           "label": "19v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1105,8 +1105,8 @@
                 "@id": "http://scta.info/iiif/tara/res/38",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00038.jpg",
@@ -1150,8 +1150,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/40",
           "@type": "sc:Canvas",
           "label": "20v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1163,8 +1163,8 @@
                 "@id": "http://scta.info/iiif/tara/res/40",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00040.jpg",
@@ -1208,8 +1208,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/42",
           "@type": "sc:Canvas",
           "label": "21v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1221,8 +1221,8 @@
                 "@id": "http://scta.info/iiif/tara/res/42",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00042.jpg",
@@ -1266,8 +1266,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/44",
           "@type": "sc:Canvas",
           "label": "22v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1279,8 +1279,8 @@
                 "@id": "http://scta.info/iiif/tara/res/44",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00044.jpg",
@@ -1324,8 +1324,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/46",
           "@type": "sc:Canvas",
           "label": "23v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1337,8 +1337,8 @@
                 "@id": "http://scta.info/iiif/tara/res/46",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00046.jpg",
@@ -1382,8 +1382,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/48",
           "@type": "sc:Canvas",
           "label": "24v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1395,8 +1395,8 @@
                 "@id": "http://scta.info/iiif/tara/res/48",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00048.jpg",
@@ -1440,8 +1440,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/50",
           "@type": "sc:Canvas",
           "label": "25v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1453,8 +1453,8 @@
                 "@id": "http://scta.info/iiif/tara/res/50",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00050.jpg",
@@ -1498,8 +1498,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/52",
           "@type": "sc:Canvas",
           "label": "26v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1511,8 +1511,8 @@
                 "@id": "http://scta.info/iiif/tara/res/52",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00052.jpg",
@@ -1556,8 +1556,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/54",
           "@type": "sc:Canvas",
           "label": "27v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1569,8 +1569,8 @@
                 "@id": "http://scta.info/iiif/tara/res/54",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00054.jpg",
@@ -1614,8 +1614,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/56",
           "@type": "sc:Canvas",
           "label": "28v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1627,8 +1627,8 @@
                 "@id": "http://scta.info/iiif/tara/res/56",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00056.jpg",
@@ -1672,8 +1672,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/58",
           "@type": "sc:Canvas",
           "label": "29v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1685,8 +1685,8 @@
                 "@id": "http://scta.info/iiif/tara/res/58",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00058.jpg",
@@ -1730,8 +1730,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/60",
           "@type": "sc:Canvas",
           "label": "30v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1743,8 +1743,8 @@
                 "@id": "http://scta.info/iiif/tara/res/60",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00060.jpg",
@@ -1788,8 +1788,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/62",
           "@type": "sc:Canvas",
           "label": "31v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1801,8 +1801,8 @@
                 "@id": "http://scta.info/iiif/tara/res/62",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00062.jpg",
@@ -1846,8 +1846,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/64",
           "@type": "sc:Canvas",
           "label": "32v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1859,8 +1859,8 @@
                 "@id": "http://scta.info/iiif/tara/res/64",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00064.jpg",
@@ -1904,8 +1904,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/66",
           "@type": "sc:Canvas",
           "label": "33v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1917,8 +1917,8 @@
                 "@id": "http://scta.info/iiif/tara/res/66",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00066.jpg",
@@ -1962,8 +1962,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/68",
           "@type": "sc:Canvas",
           "label": "34v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1975,8 +1975,8 @@
                 "@id": "http://scta.info/iiif/tara/res/68",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00068.jpg",
@@ -2020,8 +2020,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/70",
           "@type": "sc:Canvas",
           "label": "35v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2033,8 +2033,8 @@
                 "@id": "http://scta.info/iiif/tara/res/70",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00070.jpg",
@@ -2078,8 +2078,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/72",
           "@type": "sc:Canvas",
           "label": "36v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2091,8 +2091,8 @@
                 "@id": "http://scta.info/iiif/tara/res/72",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00072.jpg",
@@ -2136,8 +2136,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/74",
           "@type": "sc:Canvas",
           "label": "37v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2149,8 +2149,8 @@
                 "@id": "http://scta.info/iiif/tara/res/74",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00074.jpg",
@@ -2194,8 +2194,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/76",
           "@type": "sc:Canvas",
           "label": "38v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2207,8 +2207,8 @@
                 "@id": "http://scta.info/iiif/tara/res/76",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00076.jpg",
@@ -2252,8 +2252,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/78",
           "@type": "sc:Canvas",
           "label": "39v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2265,8 +2265,8 @@
                 "@id": "http://scta.info/iiif/tara/res/78",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00078.jpg",
@@ -2310,8 +2310,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/80",
           "@type": "sc:Canvas",
           "label": "40v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2323,8 +2323,8 @@
                 "@id": "http://scta.info/iiif/tara/res/80",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00080.jpg",
@@ -2368,8 +2368,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/82",
           "@type": "sc:Canvas",
           "label": "41v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2381,8 +2381,8 @@
                 "@id": "http://scta.info/iiif/tara/res/82",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00082.jpg",
@@ -2426,8 +2426,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/84",
           "@type": "sc:Canvas",
           "label": "42v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2439,8 +2439,8 @@
                 "@id": "http://scta.info/iiif/tara/res/84",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00084.jpg",
@@ -2484,8 +2484,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/86",
           "@type": "sc:Canvas",
           "label": "43v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2497,8 +2497,8 @@
                 "@id": "http://scta.info/iiif/tara/res/86",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00086.jpg",
@@ -2542,8 +2542,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/88",
           "@type": "sc:Canvas",
           "label": "44v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2555,8 +2555,8 @@
                 "@id": "http://scta.info/iiif/tara/res/88",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00088.jpg",
@@ -2600,8 +2600,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/90",
           "@type": "sc:Canvas",
           "label": "45v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2613,8 +2613,8 @@
                 "@id": "http://scta.info/iiif/tara/res/90",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00090.jpg",
@@ -2658,8 +2658,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/92",
           "@type": "sc:Canvas",
           "label": "46v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2671,8 +2671,8 @@
                 "@id": "http://scta.info/iiif/tara/res/92",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00092.jpg",
@@ -2716,8 +2716,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/94",
           "@type": "sc:Canvas",
           "label": "47v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2729,8 +2729,8 @@
                 "@id": "http://scta.info/iiif/tara/res/94",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00094.jpg",
@@ -2774,8 +2774,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/96",
           "@type": "sc:Canvas",
           "label": "48v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2787,8 +2787,8 @@
                 "@id": "http://scta.info/iiif/tara/res/96",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00096.jpg",
@@ -2832,8 +2832,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/98",
           "@type": "sc:Canvas",
           "label": "49v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2845,8 +2845,8 @@
                 "@id": "http://scta.info/iiif/tara/res/98",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00098.jpg",
@@ -2890,8 +2890,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/100",
           "@type": "sc:Canvas",
           "label": "50v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2903,8 +2903,8 @@
                 "@id": "http://scta.info/iiif/tara/res/100",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00100.jpg",
@@ -2948,8 +2948,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/102",
           "@type": "sc:Canvas",
           "label": "51v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2961,8 +2961,8 @@
                 "@id": "http://scta.info/iiif/tara/res/102",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00102.jpg",
@@ -3006,8 +3006,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/104",
           "@type": "sc:Canvas",
           "label": "52v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3019,8 +3019,8 @@
                 "@id": "http://scta.info/iiif/tara/res/104",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00104.jpg",
@@ -3064,8 +3064,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/106",
           "@type": "sc:Canvas",
           "label": "53v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3077,8 +3077,8 @@
                 "@id": "http://scta.info/iiif/tara/res/106",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00106.jpg",
@@ -3122,8 +3122,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/108",
           "@type": "sc:Canvas",
           "label": "54v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3135,8 +3135,8 @@
                 "@id": "http://scta.info/iiif/tara/res/108",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00108.jpg",
@@ -3180,8 +3180,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/110",
           "@type": "sc:Canvas",
           "label": "55v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3193,8 +3193,8 @@
                 "@id": "http://scta.info/iiif/tara/res/110",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00110.jpg",
@@ -3238,8 +3238,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/112",
           "@type": "sc:Canvas",
           "label": "56v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3251,8 +3251,8 @@
                 "@id": "http://scta.info/iiif/tara/res/112",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00112.jpg",
@@ -3296,8 +3296,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/114",
           "@type": "sc:Canvas",
           "label": "57v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3309,8 +3309,8 @@
                 "@id": "http://scta.info/iiif/tara/res/114",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00114.jpg",
@@ -3354,8 +3354,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/116",
           "@type": "sc:Canvas",
           "label": "58v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3367,8 +3367,8 @@
                 "@id": "http://scta.info/iiif/tara/res/116",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00116.jpg",
@@ -3412,8 +3412,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/118",
           "@type": "sc:Canvas",
           "label": "59v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3425,8 +3425,8 @@
                 "@id": "http://scta.info/iiif/tara/res/118",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00118.jpg",
@@ -3470,8 +3470,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/120",
           "@type": "sc:Canvas",
           "label": "60v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3483,8 +3483,8 @@
                 "@id": "http://scta.info/iiif/tara/res/120",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00120.jpg",
@@ -3528,8 +3528,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/122",
           "@type": "sc:Canvas",
           "label": "61v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3541,8 +3541,8 @@
                 "@id": "http://scta.info/iiif/tara/res/122",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00122.jpg",
@@ -3586,8 +3586,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/124",
           "@type": "sc:Canvas",
           "label": "62v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3599,8 +3599,8 @@
                 "@id": "http://scta.info/iiif/tara/res/124",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00124.jpg",
@@ -3644,8 +3644,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/126",
           "@type": "sc:Canvas",
           "label": "63v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3657,8 +3657,8 @@
                 "@id": "http://scta.info/iiif/tara/res/126",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00126.jpg",
@@ -3702,8 +3702,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/128",
           "@type": "sc:Canvas",
           "label": "64v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3715,8 +3715,8 @@
                 "@id": "http://scta.info/iiif/tara/res/128",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00128.jpg",
@@ -3760,8 +3760,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/130",
           "@type": "sc:Canvas",
           "label": "65v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3773,8 +3773,8 @@
                 "@id": "http://scta.info/iiif/tara/res/130",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00130.jpg",
@@ -3818,8 +3818,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/132",
           "@type": "sc:Canvas",
           "label": "66v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3831,8 +3831,8 @@
                 "@id": "http://scta.info/iiif/tara/res/132",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00132.jpg",
@@ -3876,8 +3876,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/134",
           "@type": "sc:Canvas",
           "label": "67v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3889,8 +3889,8 @@
                 "@id": "http://scta.info/iiif/tara/res/134",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00134.jpg",
@@ -3934,8 +3934,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/136",
           "@type": "sc:Canvas",
           "label": "68v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3947,8 +3947,8 @@
                 "@id": "http://scta.info/iiif/tara/res/136",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00136.jpg",
@@ -3992,8 +3992,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/138",
           "@type": "sc:Canvas",
           "label": "69v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4005,8 +4005,8 @@
                 "@id": "http://scta.info/iiif/tara/res/138",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00138.jpg",
@@ -4050,8 +4050,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/140",
           "@type": "sc:Canvas",
           "label": "70v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4063,8 +4063,8 @@
                 "@id": "http://scta.info/iiif/tara/res/140",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00140.jpg",
@@ -4108,8 +4108,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/142",
           "@type": "sc:Canvas",
           "label": "71v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4121,8 +4121,8 @@
                 "@id": "http://scta.info/iiif/tara/res/142",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00142.jpg",
@@ -4166,8 +4166,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/144",
           "@type": "sc:Canvas",
           "label": "72v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4179,8 +4179,8 @@
                 "@id": "http://scta.info/iiif/tara/res/144",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00144.jpg",
@@ -4224,8 +4224,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/146",
           "@type": "sc:Canvas",
           "label": "73v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4237,8 +4237,8 @@
                 "@id": "http://scta.info/iiif/tara/res/146",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00146.jpg",
@@ -4282,8 +4282,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/148",
           "@type": "sc:Canvas",
           "label": "74v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4295,8 +4295,8 @@
                 "@id": "http://scta.info/iiif/tara/res/148",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00148.jpg",
@@ -4340,8 +4340,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/150",
           "@type": "sc:Canvas",
           "label": "75v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4353,8 +4353,8 @@
                 "@id": "http://scta.info/iiif/tara/res/150",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00150.jpg",
@@ -4398,8 +4398,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/152",
           "@type": "sc:Canvas",
           "label": "76v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4411,8 +4411,8 @@
                 "@id": "http://scta.info/iiif/tara/res/152",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00152.jpg",
@@ -4456,8 +4456,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/154",
           "@type": "sc:Canvas",
           "label": "77v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4469,8 +4469,8 @@
                 "@id": "http://scta.info/iiif/tara/res/154",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00154.jpg",
@@ -4514,8 +4514,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/156",
           "@type": "sc:Canvas",
           "label": "78v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4527,8 +4527,8 @@
                 "@id": "http://scta.info/iiif/tara/res/156",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00156.jpg",
@@ -4572,8 +4572,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/158",
           "@type": "sc:Canvas",
           "label": "79v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4585,8 +4585,8 @@
                 "@id": "http://scta.info/iiif/tara/res/158",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00158.jpg",
@@ -4630,8 +4630,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/160",
           "@type": "sc:Canvas",
           "label": "80v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4643,8 +4643,8 @@
                 "@id": "http://scta.info/iiif/tara/res/160",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00160.jpg",
@@ -4688,8 +4688,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/162",
           "@type": "sc:Canvas",
           "label": "81v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4701,8 +4701,8 @@
                 "@id": "http://scta.info/iiif/tara/res/162",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00162.jpg",
@@ -4746,8 +4746,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/164",
           "@type": "sc:Canvas",
           "label": "82v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4759,8 +4759,8 @@
                 "@id": "http://scta.info/iiif/tara/res/164",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00164.jpg",
@@ -4804,8 +4804,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/166",
           "@type": "sc:Canvas",
           "label": "83v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4817,8 +4817,8 @@
                 "@id": "http://scta.info/iiif/tara/res/166",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00166.jpg",
@@ -4862,8 +4862,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/168",
           "@type": "sc:Canvas",
           "label": "84v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4875,8 +4875,8 @@
                 "@id": "http://scta.info/iiif/tara/res/168",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00168.jpg",
@@ -4920,8 +4920,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/170",
           "@type": "sc:Canvas",
           "label": "85v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4933,8 +4933,8 @@
                 "@id": "http://scta.info/iiif/tara/res/170",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00170.jpg",
@@ -4978,8 +4978,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/172",
           "@type": "sc:Canvas",
           "label": "86v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4991,8 +4991,8 @@
                 "@id": "http://scta.info/iiif/tara/res/172",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00172.jpg",
@@ -5036,8 +5036,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/174",
           "@type": "sc:Canvas",
           "label": "87v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5049,8 +5049,8 @@
                 "@id": "http://scta.info/iiif/tara/res/174",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00174.jpg",
@@ -5094,8 +5094,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/176",
           "@type": "sc:Canvas",
           "label": "88v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5107,8 +5107,8 @@
                 "@id": "http://scta.info/iiif/tara/res/176",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00176.jpg",
@@ -5152,8 +5152,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/178",
           "@type": "sc:Canvas",
           "label": "89v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5165,8 +5165,8 @@
                 "@id": "http://scta.info/iiif/tara/res/178",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00178.jpg",
@@ -5210,8 +5210,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/180",
           "@type": "sc:Canvas",
           "label": "90v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5223,8 +5223,8 @@
                 "@id": "http://scta.info/iiif/tara/res/180",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00180.jpg",
@@ -5268,8 +5268,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/182",
           "@type": "sc:Canvas",
           "label": "91v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5281,8 +5281,8 @@
                 "@id": "http://scta.info/iiif/tara/res/182",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00182.jpg",
@@ -5326,8 +5326,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/184",
           "@type": "sc:Canvas",
           "label": "92v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5339,8 +5339,8 @@
                 "@id": "http://scta.info/iiif/tara/res/184",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00184.jpg",
@@ -5384,8 +5384,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/186",
           "@type": "sc:Canvas",
           "label": "93v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5397,8 +5397,8 @@
                 "@id": "http://scta.info/iiif/tara/res/186",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00186.jpg",
@@ -5442,8 +5442,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/188",
           "@type": "sc:Canvas",
           "label": "94v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5455,8 +5455,8 @@
                 "@id": "http://scta.info/iiif/tara/res/188",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00188.jpg",
@@ -5500,8 +5500,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/190",
           "@type": "sc:Canvas",
           "label": "95v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5513,8 +5513,8 @@
                 "@id": "http://scta.info/iiif/tara/res/190",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00190.jpg",
@@ -5558,8 +5558,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/192",
           "@type": "sc:Canvas",
           "label": "96v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5571,8 +5571,8 @@
                 "@id": "http://scta.info/iiif/tara/res/192",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00192.jpg",
@@ -5616,8 +5616,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/194",
           "@type": "sc:Canvas",
           "label": "97v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5629,8 +5629,8 @@
                 "@id": "http://scta.info/iiif/tara/res/194",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00194.jpg",
@@ -5674,8 +5674,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/196",
           "@type": "sc:Canvas",
           "label": "98v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5687,8 +5687,8 @@
                 "@id": "http://scta.info/iiif/tara/res/196",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00196.jpg",
@@ -5732,8 +5732,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/198",
           "@type": "sc:Canvas",
           "label": "99v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5745,8 +5745,8 @@
                 "@id": "http://scta.info/iiif/tara/res/198",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00198.jpg",
@@ -5790,8 +5790,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/200",
           "@type": "sc:Canvas",
           "label": "100v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5803,8 +5803,8 @@
                 "@id": "http://scta.info/iiif/tara/res/200",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00200.jpg",
@@ -5848,8 +5848,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/202",
           "@type": "sc:Canvas",
           "label": "101v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5861,8 +5861,8 @@
                 "@id": "http://scta.info/iiif/tara/res/202",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00202.jpg",
@@ -5906,8 +5906,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/204",
           "@type": "sc:Canvas",
           "label": "102v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5919,8 +5919,8 @@
                 "@id": "http://scta.info/iiif/tara/res/204",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00204.jpg",
@@ -5964,8 +5964,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/206",
           "@type": "sc:Canvas",
           "label": "103v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5977,8 +5977,8 @@
                 "@id": "http://scta.info/iiif/tara/res/206",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00206.jpg",
@@ -6022,8 +6022,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/208",
           "@type": "sc:Canvas",
           "label": "104v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6035,8 +6035,8 @@
                 "@id": "http://scta.info/iiif/tara/res/208",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00208.jpg",
@@ -6080,8 +6080,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/210",
           "@type": "sc:Canvas",
           "label": "105v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6093,8 +6093,8 @@
                 "@id": "http://scta.info/iiif/tara/res/210",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00210.jpg",
@@ -6138,8 +6138,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/212",
           "@type": "sc:Canvas",
           "label": "106v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6151,8 +6151,8 @@
                 "@id": "http://scta.info/iiif/tara/res/212",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00212.jpg",
@@ -6196,8 +6196,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/214",
           "@type": "sc:Canvas",
           "label": "107v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6209,8 +6209,8 @@
                 "@id": "http://scta.info/iiif/tara/res/214",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00214.jpg",
@@ -6254,8 +6254,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/216",
           "@type": "sc:Canvas",
           "label": "108v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6267,8 +6267,8 @@
                 "@id": "http://scta.info/iiif/tara/res/216",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00216.jpg",
@@ -6312,8 +6312,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/218",
           "@type": "sc:Canvas",
           "label": "109v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6325,8 +6325,8 @@
                 "@id": "http://scta.info/iiif/tara/res/218",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00218.jpg",
@@ -6370,8 +6370,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/220",
           "@type": "sc:Canvas",
           "label": "110v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6383,8 +6383,8 @@
                 "@id": "http://scta.info/iiif/tara/res/220",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00220.jpg",
@@ -6428,8 +6428,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/222",
           "@type": "sc:Canvas",
           "label": "111v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6441,8 +6441,8 @@
                 "@id": "http://scta.info/iiif/tara/res/222",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00222.jpg",
@@ -6486,8 +6486,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/224",
           "@type": "sc:Canvas",
           "label": "112v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6499,8 +6499,8 @@
                 "@id": "http://scta.info/iiif/tara/res/224",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00224.jpg",
@@ -6544,8 +6544,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/226",
           "@type": "sc:Canvas",
           "label": "113v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6557,8 +6557,8 @@
                 "@id": "http://scta.info/iiif/tara/res/226",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00226.jpg",
@@ -6602,8 +6602,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/228",
           "@type": "sc:Canvas",
           "label": "114v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6615,8 +6615,8 @@
                 "@id": "http://scta.info/iiif/tara/res/228",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00228.jpg",
@@ -6660,8 +6660,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/230",
           "@type": "sc:Canvas",
           "label": "115v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6673,8 +6673,8 @@
                 "@id": "http://scta.info/iiif/tara/res/230",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00230.jpg",
@@ -6718,8 +6718,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/232",
           "@type": "sc:Canvas",
           "label": "116v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6731,8 +6731,8 @@
                 "@id": "http://scta.info/iiif/tara/res/232",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00232.jpg",
@@ -6776,8 +6776,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/234",
           "@type": "sc:Canvas",
           "label": "117v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6789,8 +6789,8 @@
                 "@id": "http://scta.info/iiif/tara/res/234",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00234.jpg",
@@ -6834,8 +6834,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/236",
           "@type": "sc:Canvas",
           "label": "118v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6847,8 +6847,8 @@
                 "@id": "http://scta.info/iiif/tara/res/236",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00236.jpg",
@@ -6892,8 +6892,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/238",
           "@type": "sc:Canvas",
           "label": "119v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6905,8 +6905,8 @@
                 "@id": "http://scta.info/iiif/tara/res/238",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00238.jpg",
@@ -6950,8 +6950,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/240",
           "@type": "sc:Canvas",
           "label": "120v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -6963,8 +6963,8 @@
                 "@id": "http://scta.info/iiif/tara/res/240",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00240.jpg",
@@ -7008,8 +7008,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/242",
           "@type": "sc:Canvas",
           "label": "121v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7021,8 +7021,8 @@
                 "@id": "http://scta.info/iiif/tara/res/242",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00242.jpg",
@@ -7066,8 +7066,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/244",
           "@type": "sc:Canvas",
           "label": "122v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7079,8 +7079,8 @@
                 "@id": "http://scta.info/iiif/tara/res/244",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00244.jpg",
@@ -7124,8 +7124,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/246",
           "@type": "sc:Canvas",
           "label": "123v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7137,8 +7137,8 @@
                 "@id": "http://scta.info/iiif/tara/res/246",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00246.jpg",
@@ -7182,8 +7182,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/248",
           "@type": "sc:Canvas",
           "label": "124v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7195,8 +7195,8 @@
                 "@id": "http://scta.info/iiif/tara/res/248",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00248.jpg",
@@ -7240,8 +7240,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/250",
           "@type": "sc:Canvas",
           "label": "125v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7253,8 +7253,8 @@
                 "@id": "http://scta.info/iiif/tara/res/250",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00250.jpg",
@@ -7298,8 +7298,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/252",
           "@type": "sc:Canvas",
           "label": "126v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7311,8 +7311,8 @@
                 "@id": "http://scta.info/iiif/tara/res/252",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00252.jpg",
@@ -7356,8 +7356,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/254",
           "@type": "sc:Canvas",
           "label": "127v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7369,8 +7369,8 @@
                 "@id": "http://scta.info/iiif/tara/res/254",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00254.jpg",
@@ -7414,8 +7414,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/256",
           "@type": "sc:Canvas",
           "label": "128v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7427,8 +7427,8 @@
                 "@id": "http://scta.info/iiif/tara/res/256",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00256.jpg",
@@ -7472,8 +7472,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/258",
           "@type": "sc:Canvas",
           "label": "129v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7485,8 +7485,8 @@
                 "@id": "http://scta.info/iiif/tara/res/258",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00258.jpg",
@@ -7530,8 +7530,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/260",
           "@type": "sc:Canvas",
           "label": "130v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7543,8 +7543,8 @@
                 "@id": "http://scta.info/iiif/tara/res/260",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00260.jpg",
@@ -7588,8 +7588,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/262",
           "@type": "sc:Canvas",
           "label": "131v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7601,8 +7601,8 @@
                 "@id": "http://scta.info/iiif/tara/res/262",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00262.jpg",
@@ -7646,8 +7646,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/264",
           "@type": "sc:Canvas",
           "label": "132v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7659,8 +7659,8 @@
                 "@id": "http://scta.info/iiif/tara/res/264",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00264.jpg",
@@ -7704,8 +7704,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/266",
           "@type": "sc:Canvas",
           "label": "133v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7717,8 +7717,8 @@
                 "@id": "http://scta.info/iiif/tara/res/266",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00266.jpg",
@@ -7762,8 +7762,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/268",
           "@type": "sc:Canvas",
           "label": "134v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7775,8 +7775,8 @@
                 "@id": "http://scta.info/iiif/tara/res/268",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00268.jpg",
@@ -7820,8 +7820,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/270",
           "@type": "sc:Canvas",
           "label": "135v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7833,8 +7833,8 @@
                 "@id": "http://scta.info/iiif/tara/res/270",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00270.jpg",
@@ -7878,8 +7878,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/272",
           "@type": "sc:Canvas",
           "label": "136v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7891,8 +7891,8 @@
                 "@id": "http://scta.info/iiif/tara/res/272",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00272.jpg",
@@ -7936,8 +7936,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/274",
           "@type": "sc:Canvas",
           "label": "137v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -7949,8 +7949,8 @@
                 "@id": "http://scta.info/iiif/tara/res/274",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00274.jpg",
@@ -7994,8 +7994,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/276",
           "@type": "sc:Canvas",
           "label": "138v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8007,8 +8007,8 @@
                 "@id": "http://scta.info/iiif/tara/res/276",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00276.jpg",
@@ -8052,8 +8052,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/278",
           "@type": "sc:Canvas",
           "label": "139v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8065,8 +8065,8 @@
                 "@id": "http://scta.info/iiif/tara/res/278",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00278.jpg",
@@ -8110,8 +8110,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/280",
           "@type": "sc:Canvas",
           "label": "140v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8123,8 +8123,8 @@
                 "@id": "http://scta.info/iiif/tara/res/280",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00280.jpg",
@@ -8168,8 +8168,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/282",
           "@type": "sc:Canvas",
           "label": "141v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8181,8 +8181,8 @@
                 "@id": "http://scta.info/iiif/tara/res/282",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00282.jpg",
@@ -8226,8 +8226,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/284",
           "@type": "sc:Canvas",
           "label": "142v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8239,8 +8239,8 @@
                 "@id": "http://scta.info/iiif/tara/res/284",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00284.jpg",
@@ -8284,8 +8284,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/286",
           "@type": "sc:Canvas",
           "label": "143v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8297,8 +8297,8 @@
                 "@id": "http://scta.info/iiif/tara/res/286",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00286.jpg",
@@ -8342,8 +8342,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/288",
           "@type": "sc:Canvas",
           "label": "144v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8355,8 +8355,8 @@
                 "@id": "http://scta.info/iiif/tara/res/288",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00288.jpg",
@@ -8400,8 +8400,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/290",
           "@type": "sc:Canvas",
           "label": "145v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8413,8 +8413,8 @@
                 "@id": "http://scta.info/iiif/tara/res/290",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00290.jpg",
@@ -8458,8 +8458,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/292",
           "@type": "sc:Canvas",
           "label": "146v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8471,8 +8471,8 @@
                 "@id": "http://scta.info/iiif/tara/res/292",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00292.jpg",
@@ -8516,8 +8516,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/294",
           "@type": "sc:Canvas",
           "label": "147v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8529,8 +8529,8 @@
                 "@id": "http://scta.info/iiif/tara/res/294",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00294.jpg",
@@ -8574,8 +8574,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/296",
           "@type": "sc:Canvas",
           "label": "148v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8587,8 +8587,8 @@
                 "@id": "http://scta.info/iiif/tara/res/296",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00296.jpg",
@@ -8632,8 +8632,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/298",
           "@type": "sc:Canvas",
           "label": "149v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8645,8 +8645,8 @@
                 "@id": "http://scta.info/iiif/tara/res/298",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00298.jpg",
@@ -8690,8 +8690,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/300",
           "@type": "sc:Canvas",
           "label": "150v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8703,8 +8703,8 @@
                 "@id": "http://scta.info/iiif/tara/res/300",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00300.jpg",
@@ -8748,8 +8748,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/302",
           "@type": "sc:Canvas",
           "label": "151v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8761,8 +8761,8 @@
                 "@id": "http://scta.info/iiif/tara/res/302",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00302.jpg",
@@ -8806,8 +8806,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/304",
           "@type": "sc:Canvas",
           "label": "152v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8819,8 +8819,8 @@
                 "@id": "http://scta.info/iiif/tara/res/304",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00304.jpg",
@@ -8864,8 +8864,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/306",
           "@type": "sc:Canvas",
           "label": "153v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8877,8 +8877,8 @@
                 "@id": "http://scta.info/iiif/tara/res/306",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00306.jpg",
@@ -8922,8 +8922,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/308",
           "@type": "sc:Canvas",
           "label": "154v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8935,8 +8935,8 @@
                 "@id": "http://scta.info/iiif/tara/res/308",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00308.jpg",
@@ -8980,8 +8980,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/310",
           "@type": "sc:Canvas",
           "label": "155v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -8993,8 +8993,8 @@
                 "@id": "http://scta.info/iiif/tara/res/310",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00310.jpg",
@@ -9038,8 +9038,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/312",
           "@type": "sc:Canvas",
           "label": "156v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9051,8 +9051,8 @@
                 "@id": "http://scta.info/iiif/tara/res/312",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00312.jpg",
@@ -9096,8 +9096,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/314",
           "@type": "sc:Canvas",
           "label": "157v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9109,8 +9109,8 @@
                 "@id": "http://scta.info/iiif/tara/res/314",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00314.jpg",
@@ -9154,8 +9154,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/316",
           "@type": "sc:Canvas",
           "label": "158v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9167,8 +9167,8 @@
                 "@id": "http://scta.info/iiif/tara/res/316",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00316.jpg",
@@ -9212,8 +9212,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/318",
           "@type": "sc:Canvas",
           "label": "159v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9225,8 +9225,8 @@
                 "@id": "http://scta.info/iiif/tara/res/318",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00318.jpg",
@@ -9270,8 +9270,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/320",
           "@type": "sc:Canvas",
           "label": "160v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9283,8 +9283,8 @@
                 "@id": "http://scta.info/iiif/tara/res/320",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00320.jpg",
@@ -9328,8 +9328,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/322",
           "@type": "sc:Canvas",
           "label": "161v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9341,8 +9341,8 @@
                 "@id": "http://scta.info/iiif/tara/res/322",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00322.jpg",
@@ -9386,8 +9386,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/324",
           "@type": "sc:Canvas",
           "label": "162v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9399,8 +9399,8 @@
                 "@id": "http://scta.info/iiif/tara/res/324",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00324.jpg",
@@ -9444,8 +9444,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/326",
           "@type": "sc:Canvas",
           "label": "163v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9457,8 +9457,8 @@
                 "@id": "http://scta.info/iiif/tara/res/326",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00326.jpg",
@@ -9502,8 +9502,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/328",
           "@type": "sc:Canvas",
           "label": "164v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9515,8 +9515,8 @@
                 "@id": "http://scta.info/iiif/tara/res/328",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00328.jpg",
@@ -9560,8 +9560,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/330",
           "@type": "sc:Canvas",
           "label": "165v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9573,8 +9573,8 @@
                 "@id": "http://scta.info/iiif/tara/res/330",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00330.jpg",
@@ -9618,8 +9618,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/332",
           "@type": "sc:Canvas",
           "label": "166v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9631,8 +9631,8 @@
                 "@id": "http://scta.info/iiif/tara/res/332",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00332.jpg",
@@ -9676,8 +9676,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/334",
           "@type": "sc:Canvas",
           "label": "167v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9689,8 +9689,8 @@
                 "@id": "http://scta.info/iiif/tara/res/334",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00334.jpg",
@@ -9734,8 +9734,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/336",
           "@type": "sc:Canvas",
           "label": "168v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9747,8 +9747,8 @@
                 "@id": "http://scta.info/iiif/tara/res/336",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00336.jpg",
@@ -9792,8 +9792,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/338",
           "@type": "sc:Canvas",
           "label": "169v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9805,8 +9805,8 @@
                 "@id": "http://scta.info/iiif/tara/res/338",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00338.jpg",
@@ -9850,8 +9850,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/340",
           "@type": "sc:Canvas",
           "label": "170v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9863,8 +9863,8 @@
                 "@id": "http://scta.info/iiif/tara/res/340",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00340.jpg",
@@ -9908,8 +9908,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/342",
           "@type": "sc:Canvas",
           "label": "171v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9921,8 +9921,8 @@
                 "@id": "http://scta.info/iiif/tara/res/342",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00342.jpg",
@@ -9966,8 +9966,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/344",
           "@type": "sc:Canvas",
           "label": "172v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -9979,8 +9979,8 @@
                 "@id": "http://scta.info/iiif/tara/res/344",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00344.jpg",
@@ -10024,8 +10024,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/346",
           "@type": "sc:Canvas",
           "label": "173v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10037,8 +10037,8 @@
                 "@id": "http://scta.info/iiif/tara/res/346",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00346.jpg",
@@ -10082,8 +10082,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/348",
           "@type": "sc:Canvas",
           "label": "174v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10095,8 +10095,8 @@
                 "@id": "http://scta.info/iiif/tara/res/348",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00348.jpg",
@@ -10140,8 +10140,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/350",
           "@type": "sc:Canvas",
           "label": "175v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10153,8 +10153,8 @@
                 "@id": "http://scta.info/iiif/tara/res/350",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00350.jpg",
@@ -10198,8 +10198,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/352",
           "@type": "sc:Canvas",
           "label": "176v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10211,8 +10211,8 @@
                 "@id": "http://scta.info/iiif/tara/res/352",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00352.jpg",
@@ -10256,8 +10256,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/354",
           "@type": "sc:Canvas",
           "label": "177v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10269,8 +10269,8 @@
                 "@id": "http://scta.info/iiif/tara/res/354",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00354.jpg",
@@ -10314,8 +10314,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/356",
           "@type": "sc:Canvas",
           "label": "178v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10327,8 +10327,8 @@
                 "@id": "http://scta.info/iiif/tara/res/356",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00356.jpg",
@@ -10372,8 +10372,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/358",
           "@type": "sc:Canvas",
           "label": "179v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10385,8 +10385,8 @@
                 "@id": "http://scta.info/iiif/tara/res/358",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00358.jpg",
@@ -10430,8 +10430,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/360",
           "@type": "sc:Canvas",
           "label": "180v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10443,8 +10443,8 @@
                 "@id": "http://scta.info/iiif/tara/res/360",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00360.jpg",
@@ -10488,8 +10488,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/362",
           "@type": "sc:Canvas",
           "label": "181v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10501,8 +10501,8 @@
                 "@id": "http://scta.info/iiif/tara/res/362",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00362.jpg",
@@ -10546,8 +10546,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/364",
           "@type": "sc:Canvas",
           "label": "182v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10559,8 +10559,8 @@
                 "@id": "http://scta.info/iiif/tara/res/364",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00364.jpg",
@@ -10604,8 +10604,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/366",
           "@type": "sc:Canvas",
           "label": "183v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10617,8 +10617,8 @@
                 "@id": "http://scta.info/iiif/tara/res/366",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00366.jpg",
@@ -10662,8 +10662,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/368",
           "@type": "sc:Canvas",
           "label": "184v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10675,8 +10675,8 @@
                 "@id": "http://scta.info/iiif/tara/res/368",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00368.jpg",
@@ -10720,8 +10720,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/370",
           "@type": "sc:Canvas",
           "label": "185v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10733,8 +10733,8 @@
                 "@id": "http://scta.info/iiif/tara/res/370",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00370.jpg",
@@ -10778,8 +10778,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/372",
           "@type": "sc:Canvas",
           "label": "186v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10791,8 +10791,8 @@
                 "@id": "http://scta.info/iiif/tara/res/372",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00372.jpg",
@@ -10836,8 +10836,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/374",
           "@type": "sc:Canvas",
           "label": "187v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10849,8 +10849,8 @@
                 "@id": "http://scta.info/iiif/tara/res/374",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00374.jpg",
@@ -10894,8 +10894,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/376",
           "@type": "sc:Canvas",
           "label": "188v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10907,8 +10907,8 @@
                 "@id": "http://scta.info/iiif/tara/res/376",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00376.jpg",
@@ -10952,8 +10952,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/378",
           "@type": "sc:Canvas",
           "label": "189v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -10965,8 +10965,8 @@
                 "@id": "http://scta.info/iiif/tara/res/378",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00378.jpg",
@@ -11010,8 +11010,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/380",
           "@type": "sc:Canvas",
           "label": "190v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11023,8 +11023,8 @@
                 "@id": "http://scta.info/iiif/tara/res/380",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00380.jpg",
@@ -11068,8 +11068,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/382",
           "@type": "sc:Canvas",
           "label": "191v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11081,8 +11081,8 @@
                 "@id": "http://scta.info/iiif/tara/res/382",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00382.jpg",
@@ -11126,8 +11126,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/384",
           "@type": "sc:Canvas",
           "label": "192v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11139,8 +11139,8 @@
                 "@id": "http://scta.info/iiif/tara/res/384",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00384.jpg",
@@ -11184,8 +11184,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/386",
           "@type": "sc:Canvas",
           "label": "193v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11197,8 +11197,8 @@
                 "@id": "http://scta.info/iiif/tara/res/386",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00386.jpg",
@@ -11242,8 +11242,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/388",
           "@type": "sc:Canvas",
           "label": "194v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11255,8 +11255,8 @@
                 "@id": "http://scta.info/iiif/tara/res/388",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00388.jpg",
@@ -11300,8 +11300,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/390",
           "@type": "sc:Canvas",
           "label": "195v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11313,8 +11313,8 @@
                 "@id": "http://scta.info/iiif/tara/res/390",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00390.jpg",
@@ -11358,8 +11358,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/392",
           "@type": "sc:Canvas",
           "label": "196v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11371,8 +11371,8 @@
                 "@id": "http://scta.info/iiif/tara/res/392",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00392.jpg",
@@ -11416,8 +11416,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/394",
           "@type": "sc:Canvas",
           "label": "197v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11429,8 +11429,8 @@
                 "@id": "http://scta.info/iiif/tara/res/394",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00394.jpg",
@@ -11474,8 +11474,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/396",
           "@type": "sc:Canvas",
           "label": "198v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11487,8 +11487,8 @@
                 "@id": "http://scta.info/iiif/tara/res/396",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00396.jpg",
@@ -11532,8 +11532,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/398",
           "@type": "sc:Canvas",
           "label": "199v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11545,8 +11545,8 @@
                 "@id": "http://scta.info/iiif/tara/res/398",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00398.jpg",
@@ -11590,8 +11590,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/400",
           "@type": "sc:Canvas",
           "label": "200v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11603,8 +11603,8 @@
                 "@id": "http://scta.info/iiif/tara/res/400",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00400.jpg",
@@ -11648,8 +11648,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/402",
           "@type": "sc:Canvas",
           "label": "201v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11661,8 +11661,8 @@
                 "@id": "http://scta.info/iiif/tara/res/402",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00402.jpg",
@@ -11706,8 +11706,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/404",
           "@type": "sc:Canvas",
           "label": "202v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11719,8 +11719,8 @@
                 "@id": "http://scta.info/iiif/tara/res/404",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00404.jpg",
@@ -11764,8 +11764,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/406",
           "@type": "sc:Canvas",
           "label": "203v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11777,8 +11777,8 @@
                 "@id": "http://scta.info/iiif/tara/res/406",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00406.jpg",
@@ -11822,8 +11822,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/408",
           "@type": "sc:Canvas",
           "label": "204v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11835,8 +11835,8 @@
                 "@id": "http://scta.info/iiif/tara/res/408",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00408.jpg",
@@ -11880,8 +11880,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/410",
           "@type": "sc:Canvas",
           "label": "205v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11893,8 +11893,8 @@
                 "@id": "http://scta.info/iiif/tara/res/410",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00410.jpg",
@@ -11909,8 +11909,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/411",
           "@type": "sc:Canvas",
           "label": "206r",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11922,8 +11922,8 @@
                 "@id": "http://scta.info/iiif/tara/res/411",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00411.jpg",
@@ -11938,8 +11938,8 @@
           "@id": "http://scta.info/iiif/tara/canvas/412",
           "@type": "sc:Canvas",
           "label": "206v",
-          "height": "2856",
-          "width": "2086",
+          "height": 2856,
+          "width": 2086,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -11951,8 +11951,8 @@
                 "@id": "http://scta.info/iiif/tara/res/412",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "2856",
-                "width": "2086",
+                "height": 2856,
+                "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/tara/tara-00412.jpg",
