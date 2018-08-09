@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Quaracchi1887</shortid>
+    <title>Quaracchi 1887, volume 3</title>
+    <initial>Qc</initial>
+    <!-- contains bonaventure Sent III -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>Quaracchi1887/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/doctorisseraphic03bona/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Quaracchi1882a</shortid>
+    <title>Quaracchi 1882, volume 1, part 2</title>
+    <initial>Qaa</initial>
+    <!-- contains bonaventure Sent I -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>Quaracchi1882a/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/doctorisseraphic12bona/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
