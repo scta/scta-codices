@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>vatlat1012</shortid>
+		<title>Vatican City, Biblioteca Apostolica Vaticana, vat. lat. 1012</title>
+	  <initial>V</initial>
+	  <!-- various questions by Alnwick and James de Aesculo-->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>vatlat1012/item1</shortid>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.1012/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.1012/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
