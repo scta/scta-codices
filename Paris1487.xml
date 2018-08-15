@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>book</type>
+		<shortid>Paris1487</shortid>
+		<title>Paris 1487</title>
+		<initial>P</initial>
+	  <!-- contains Ochkham Quodlibeta -->
+	  <!-- catalogue record: http://catalogue.bnf.fr/ark:/12148/cb39304885h -->
+	  <hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>Paris1487/item1</shortid>
+			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/bpt6k8727462h/canvas/</canvasBase>
+			  <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/bpt6k8727462h/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

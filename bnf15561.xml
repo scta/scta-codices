@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid>bnf15561</shortid>
+		<title>Paris, Bibliothèque nationale de France, Lat 15561</title>
+		<initial>P</initial>
+	  <!-- 
+	    Notes from catalogue
+	    Titre :  Postilles sur la Genèse, 
+	    en partie d'après N. de Lire, 
+	    suivies de sermons et d'extraits divers sur la théologie et le droit. 
+	    Titre :  Albertus de laudibus B. Marie (47). 
+	    Titre :  Regule juris (56v). 
+	    Titre :  Lectiones in librum Job (82). 
+	    Titre :  Sermo super et pro sedacione moderni scismatis factus 
+	    per G. cardinalem Pictavensem in synodo Cameracensi (102). 
+	    Titre :  Tractatus de XL erroribus reprobatis a Thoma Bradvardin (111). 
+	    Titre :  Questiones Clivinton (172, 198). 
+	    Titre :  Quolibet Rodinthon (230). 
+	    Titre :  Questiones Elyphat. (243v). 
+	    Titre :  Okam in Sententias (246). 
+	    Titre :  Articuli erronei reputati a Thoma Bredvardin, quos offert examini ecclesie (271). 
+	    Date d'édition :  1401-1425 Type :  manuscrit Langue :  latin Format :  
+	    Papier Droits :  domaine public Identifiant :  ark:/12148/btv1b90672425 Source :  
+	    Bibliothèque nationale de France, Département des manuscrits, 
+	    Latin 15561 Notice du catalogue :  
+	    http://archivesetmanuscrits.bnf.fr/ark:/12148/cc76162k 
+	    Provenance :  Bibliothèque nationale de France 
+	    Date de mise en ligne :  13/12/2012
+	    
+	    -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+				<shortid>bnf15561/item1</shortid>
+			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90672425/canvas/</canvasBase>
+			  <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b90672425/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
