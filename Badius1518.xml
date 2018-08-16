@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Badius1518</shortid>
+    <title>Badius 1518</title>
+    <initial>B</initial>
+    <!-- contains henry of ghent quodlibetal questions -->
+    <hasItems>
+      <item>
+        <shortid>Badius1518/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_Vh2_ZKXqbwEC/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

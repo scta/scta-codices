@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Badius1520a</shortid>
+    <title>Badius 1520, Volume I</title>
+    <initial>Ba</initial>
+    <!-- contains henry of ghents summa quaestionum ordinariarum -->
+    <hasItems>
+      <item>
+        <shortid>Badius1520a/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_5Q_a_itqo4EC/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
