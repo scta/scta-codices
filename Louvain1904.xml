@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Louvain1904</shortid>
+    <title>Louvain1904</title>
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>Louvain1904/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/lesquatrepremier00godf/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
