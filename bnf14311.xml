@@ -10,8 +10,8 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>bnf14311/item1</shortid>
-			  <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9067010h/canvas/</canvasBase>
-			  <manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9067010h/manifest.json</manifestOfficial>
+			  <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067010h/canvas/</canvasBase>
+			  <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067010h/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>
