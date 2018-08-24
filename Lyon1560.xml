@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>Lyon1560</shortid>
+    <title>Lyon 1560</title>
+    <initial>L</initial>
+    <!-- contains redaction C of durandus -->
+    <hasItems>
+      <item>
+        <shortid>Lyon1560/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_pFmqwQK7ckQC/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
