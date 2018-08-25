@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Louvain1557">cod-askjkf</shortid>
+    <title>Louvain 1557</title>
+    <!-- unsure if Louvain is correct, title page is corrupted -->
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-askjkf/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_uqM_750g4wQC/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

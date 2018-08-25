@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+		<shortid alias="clm14415">cod-avau3n</shortid>
+		<title>Munich Clm 14415</title>
+		<initial>B</initial> 
+	  <!-- contains copy of bandinus sentences abbreviatio f. 1r- 73v, not listed in Stegmuller -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>clm14150/item1</shortid>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046489/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046489/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>
