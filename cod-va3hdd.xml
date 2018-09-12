@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1514">cod-va3hdd</shortid>
+    <title>Paris 1514</title>
+    <!-- contains sent commentary of peter palude -->
+    <!-- diff manifestation https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00058749/manifest/ -->
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <label>BSB 1</label>
+        <canonical>true</canonical>
+        <shortid>cod-va3hdd/item1</shortid>
+        <callNumber>https://opacplus.bsb-muenchen.de/metaopac/search?View=default&amp;db=100&amp;id=BV001539712</callNumber>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149061/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149061/manifest</manifestOfficial>
+      </item>
+      <item>
+        <label>BSB 2</label>
+        <canonical>false</canonical>
+        <shortid>cod-va3hdd/item2</shortid>
+        <callNumber>https://opacplus.bsb-muenchen.de/metaopac/search?View=default&amp;db=100&amp;id=BV001539715</callNumber>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149062/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149062/manifest</manifestOfficial>
+      </item>
+      
+      
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
