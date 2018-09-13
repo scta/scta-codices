@@ -19,8 +19,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/1",
           "@type": "sc:Canvas",
           "label": "182r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -32,8 +32,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/1",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f182r_25487834950_o.jpg",
@@ -48,8 +48,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/2",
           "@type": "sc:Canvas",
           "label": "182v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -61,8 +61,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/2",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f182v_25186949283_o.jpg",
@@ -77,8 +77,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/3",
           "@type": "sc:Canvas",
           "label": "183r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -90,8 +90,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/3",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f183r_25692594542_o.jpg",
@@ -106,8 +106,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/4",
           "@type": "sc:Canvas",
           "label": "183v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -119,8 +119,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/4",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f183v_25692593012_o.jpg",
@@ -135,8 +135,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/5",
           "@type": "sc:Canvas",
           "label": "184r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -148,8 +148,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/5",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f184r_25787469316_o.jpg",
@@ -164,8 +164,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/6",
           "@type": "sc:Canvas",
           "label": "184v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -177,8 +177,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/6",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f184v_25183052574_o.jpg",
@@ -193,8 +193,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/7",
           "@type": "sc:Canvas",
           "label": "185r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -206,8 +206,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/7",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f185r_25813585905_o.jpg",
@@ -222,8 +222,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/8",
           "@type": "sc:Canvas",
           "label": "185v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -235,8 +235,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/8",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f185v_25512906230_o.jpg",
@@ -251,8 +251,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/9",
           "@type": "sc:Canvas",
           "label": "186r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -264,8 +264,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/9",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f186r_25787501676_o.jpg",
@@ -280,8 +280,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/10",
           "@type": "sc:Canvas",
           "label": "186v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -293,8 +293,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/10",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f186v_25512902430_o.jpg",
@@ -309,8 +309,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/11",
           "@type": "sc:Canvas",
           "label": "187r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -322,8 +322,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/11",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f187r_25183083154_o.jpg",
@@ -338,8 +338,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/12",
           "@type": "sc:Canvas",
           "label": "187v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -351,8 +351,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/12",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f187v_25512898200_o.jpg",
@@ -367,8 +367,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/13",
           "@type": "sc:Canvas",
           "label": "188r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -380,8 +380,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/13",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f188r_25186968813_o.jpg",
@@ -396,8 +396,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/14",
           "@type": "sc:Canvas",
           "label": "188v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -409,8 +409,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/14",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f188v_25692615112_o.jpg",
@@ -425,8 +425,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/15",
           "@type": "sc:Canvas",
           "label": "189r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -438,8 +438,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/15",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f189r_25183076594_o.jpg",
@@ -454,8 +454,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/16",
           "@type": "sc:Canvas",
           "label": "189v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -467,8 +467,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/16",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f189v_25186963763_o.jpg",
@@ -483,8 +483,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/17",
           "@type": "sc:Canvas",
           "label": "190r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -496,8 +496,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/17",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f190r_25718521311_o.jpg",
@@ -512,8 +512,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/18",
           "@type": "sc:Canvas",
           "label": "190v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -525,8 +525,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/18",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f190v_25813613255_o.jpg",
@@ -541,8 +541,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/19",
           "@type": "sc:Canvas",
           "label": "191r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -554,8 +554,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/19",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f191r_25787531086_o.jpg",
@@ -570,8 +570,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/20",
           "@type": "sc:Canvas",
           "label": "191v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -583,8 +583,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/20",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f191v_25692653262_o.jpg",
@@ -599,8 +599,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/21",
           "@type": "sc:Canvas",
           "label": "192r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -612,8 +612,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/21",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f192r_25813607865_o.jpg",
@@ -628,8 +628,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/22",
           "@type": "sc:Canvas",
           "label": "192v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -641,8 +641,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/22",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f192v_25512928570_o.jpg",
@@ -657,8 +657,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/23",
           "@type": "sc:Canvas",
           "label": "193r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -670,8 +670,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/23",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f193r_25183108964_o.jpg",
@@ -686,8 +686,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/24",
           "@type": "sc:Canvas",
           "label": "193v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -699,8 +699,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/24",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f193v_25186997233_o.jpg",
@@ -715,8 +715,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/25",
           "@type": "sc:Canvas",
           "label": "194r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -728,8 +728,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/25",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f194r_25186995083_o.jpg",
@@ -744,8 +744,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/26",
           "@type": "sc:Canvas",
           "label": "194v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -757,8 +757,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/26",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f194v_25512921160_o.jpg",
@@ -773,8 +773,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/27",
           "@type": "sc:Canvas",
           "label": "195r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -786,8 +786,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/27",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f195r_25187048773_o.jpg",
@@ -802,8 +802,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/28",
           "@type": "sc:Canvas",
           "label": "195v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -815,8 +815,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/28",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f195v_25512976010_o.jpg",
@@ -831,8 +831,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/29",
           "@type": "sc:Canvas",
           "label": "196r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -844,8 +844,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/29",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f196r_25813652635_o.jpg",
@@ -860,8 +860,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/30",
           "@type": "sc:Canvas",
           "label": "196v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -873,8 +873,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/30",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f196v_25813650695_o.jpg",
@@ -889,8 +889,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/31",
           "@type": "sc:Canvas",
           "label": "197r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -902,8 +902,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/31",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f197r_25187042433_o.jpg",
@@ -918,8 +918,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/32",
           "@type": "sc:Canvas",
           "label": "197v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -931,8 +931,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/32",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f197v_25718552691_o.jpg",
@@ -947,8 +947,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/33",
           "@type": "sc:Canvas",
           "label": "198r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -960,8 +960,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/33",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f198r_25718551201_o.jpg",
@@ -976,8 +976,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/34",
           "@type": "sc:Canvas",
           "label": "198v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -989,8 +989,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/34",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f198v_25718549831_o.jpg",
@@ -1005,8 +1005,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/35",
           "@type": "sc:Canvas",
           "label": "199r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1018,8 +1018,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/35",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f199r_25813641225_o.jpg",
@@ -1034,8 +1034,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/36",
           "@type": "sc:Canvas",
           "label": "199v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1047,8 +1047,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/36",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f199v_25692682992_o.jpg",
@@ -1063,8 +1063,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/37",
           "@type": "sc:Canvas",
           "label": "200r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1076,8 +1076,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/37",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f200r_25692729032_o.jpg",
@@ -1092,8 +1092,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/38",
           "@type": "sc:Canvas",
           "label": "200v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1105,8 +1105,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/38",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f200v_25187076123_o.jpg",
@@ -1121,8 +1121,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/39",
           "@type": "sc:Canvas",
           "label": "201r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1134,8 +1134,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/39",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f201r_25183184804_o.jpg",
@@ -1150,8 +1150,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/40",
           "@type": "sc:Canvas",
           "label": "201v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1163,8 +1163,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/40",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f201v_25787597746_o.jpg",
@@ -1179,8 +1179,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/41",
           "@type": "sc:Canvas",
           "label": "202r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1192,8 +1192,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/41",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f202r_25692722512_o.jpg",
@@ -1208,8 +1208,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/42",
           "@type": "sc:Canvas",
           "label": "202v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1221,8 +1221,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/42",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f202v_25183179854_o.jpg",
@@ -1237,8 +1237,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/43",
           "@type": "sc:Canvas",
           "label": "203r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1250,8 +1250,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/43",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f203r_25692719022_o.jpg",
@@ -1266,8 +1266,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/44",
           "@type": "sc:Canvas",
           "label": "203v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1279,8 +1279,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/44",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f203v_25692717372_o.jpg",
@@ -1295,8 +1295,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/45",
           "@type": "sc:Canvas",
           "label": "204r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1308,8 +1308,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/45",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f204r_25187064343_o.jpg",
@@ -1324,8 +1324,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/46",
           "@type": "sc:Canvas",
           "label": "204v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1337,8 +1337,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/46",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f204v_25183173204_o.jpg",
@@ -1353,8 +1353,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/47",
           "@type": "sc:Canvas",
           "label": "205r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1366,8 +1366,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/47",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f205r_25203795043_o.jpg",
@@ -1382,8 +1382,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/48",
           "@type": "sc:Canvas",
           "label": "205v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1395,8 +1395,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/48",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f205v_25709448132_o.jpg",
@@ -1411,8 +1411,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/49",
           "@type": "sc:Canvas",
           "label": "206r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1424,8 +1424,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/49",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f206r_25804337436_o.jpg",
@@ -1440,8 +1440,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/50",
           "@type": "sc:Canvas",
           "label": "206v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1453,8 +1453,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/50",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f206v_25203790993_o.jpg",
@@ -1469,8 +1469,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/51",
           "@type": "sc:Canvas",
           "label": "207r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1482,8 +1482,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/51",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f207r_25830400855_o.jpg",
@@ -1498,8 +1498,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/52",
           "@type": "sc:Canvas",
           "label": "207v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1511,8 +1511,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/52",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f207v_25804333796_o.jpg",
@@ -1527,8 +1527,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/53",
           "@type": "sc:Canvas",
           "label": "208r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1540,8 +1540,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/53",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f208r_25529700180_o.jpg",
@@ -1556,8 +1556,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/54",
           "@type": "sc:Canvas",
           "label": "208v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1569,8 +1569,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/54",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f208v_25709439822_o.jpg",
@@ -1585,8 +1585,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/55",
           "@type": "sc:Canvas",
           "label": "209r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1598,8 +1598,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/55",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f209r_25529697510_o.jpg",
@@ -1614,8 +1614,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/56",
           "@type": "sc:Canvas",
           "label": "209v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1627,8 +1627,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/56",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f209v_25830394095_o.jpg",
@@ -1643,8 +1643,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/57",
           "@type": "sc:Canvas",
           "label": "210r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1656,8 +1656,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/57",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f210r_25735327181_o.jpg",
@@ -1672,8 +1672,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/58",
           "@type": "sc:Canvas",
           "label": "210v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1685,8 +1685,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/58",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f210v_25203817963_o.jpg",
@@ -1701,8 +1701,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/59",
           "@type": "sc:Canvas",
           "label": "211r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1714,8 +1714,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/59",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f211r_25709472102_o.jpg",
@@ -1730,8 +1730,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/60",
           "@type": "sc:Canvas",
           "label": "211v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1743,8 +1743,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/60",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f211v_25735323851_o.jpg",
@@ -1759,8 +1759,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/61",
           "@type": "sc:Canvas",
           "label": "212r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1772,8 +1772,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/61",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f212r_25735322831_o.jpg",
@@ -1788,8 +1788,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/62",
           "@type": "sc:Canvas",
           "label": "212v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1801,8 +1801,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/62",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f212v_25203813643_o.jpg",
@@ -1817,8 +1817,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/63",
           "@type": "sc:Canvas",
           "label": "213r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1830,8 +1830,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/63",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f213r_25709467432_o.jpg",
@@ -1846,8 +1846,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/64",
           "@type": "sc:Canvas",
           "label": "213v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1859,8 +1859,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/64",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f213v_25735319321_o.jpg",
@@ -1875,8 +1875,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/65",
           "@type": "sc:Canvas",
           "label": "214r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1888,8 +1888,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/65",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f214r_25709465112_o.jpg",
@@ -1904,8 +1904,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/66",
           "@type": "sc:Canvas",
           "label": "214v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1917,8 +1917,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/66",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f214v_25529723390_o.jpg",
@@ -1933,8 +1933,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/67",
           "@type": "sc:Canvas",
           "label": "215r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1946,8 +1946,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/67",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f215r_25199965364_o.jpg",
@@ -1962,8 +1962,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/68",
           "@type": "sc:Canvas",
           "label": "215v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -1975,8 +1975,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/68",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f215v_25709515762_o.jpg",
@@ -1991,8 +1991,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/69",
           "@type": "sc:Canvas",
           "label": "216r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2004,8 +2004,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/69",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f216r_25199963064_o.jpg",
@@ -2020,8 +2020,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/70",
           "@type": "sc:Canvas",
           "label": "216v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2033,8 +2033,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/70",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f216v_25804403716_o.jpg",
@@ -2049,8 +2049,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/71",
           "@type": "sc:Canvas",
           "label": "217r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2062,8 +2062,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/71",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f217r_25735365621_o.jpg",
@@ -2078,8 +2078,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/72",
           "@type": "sc:Canvas",
           "label": "217v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2091,8 +2091,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/72",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f217v_25199959634_o.jpg",
@@ -2107,8 +2107,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/73",
           "@type": "sc:Canvas",
           "label": "218r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2120,8 +2120,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/73",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f218r_25735363221_o.jpg",
@@ -2136,8 +2136,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/74",
           "@type": "sc:Canvas",
           "label": "218v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2149,8 +2149,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/74",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f218v_25203853493_o.jpg",
@@ -2165,8 +2165,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/75",
           "@type": "sc:Canvas",
           "label": "219r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2178,8 +2178,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/75",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f219r_25804397456_o.jpg",
@@ -2194,8 +2194,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/76",
           "@type": "sc:Canvas",
           "label": "219v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2207,8 +2207,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/76",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f219v_25735359631_o.jpg",
@@ -2223,8 +2223,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/77",
           "@type": "sc:Canvas",
           "label": "220r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2236,8 +2236,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/77",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f220r_25830511455_o.jpg",
@@ -2252,8 +2252,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/78",
           "@type": "sc:Canvas",
           "label": "220v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2265,8 +2265,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/78",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f220v_25804445086_o.jpg",
@@ -2281,8 +2281,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/79",
           "@type": "sc:Canvas",
           "label": "221r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2294,8 +2294,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/79",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f221r_25529812680_o.jpg",
@@ -2310,8 +2310,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/80",
           "@type": "sc:Canvas",
           "label": "221v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2323,8 +2323,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/80",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f221v_25830508225_o.jpg",
@@ -2339,8 +2339,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/81",
           "@type": "sc:Canvas",
           "label": "222r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2352,8 +2352,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/81",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f222r_25203895913_o.jpg",
@@ -2368,8 +2368,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/82",
           "@type": "sc:Canvas",
           "label": "222v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2381,8 +2381,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/82",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f222v_25529808590_o.jpg",
@@ -2397,8 +2397,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/83",
           "@type": "sc:Canvas",
           "label": "223r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2410,8 +2410,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/83",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f223r_25529807450_o.jpg",
@@ -2426,8 +2426,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/84",
           "@type": "sc:Canvas",
           "label": "223v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2439,8 +2439,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/84",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f223v_25199996554_o.jpg",
@@ -2455,8 +2455,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/85",
           "@type": "sc:Canvas",
           "label": "224r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2468,8 +2468,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/85",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f224r_25830502295_o.jpg",
@@ -2484,8 +2484,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/86",
           "@type": "sc:Canvas",
           "label": "224v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2497,8 +2497,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/86",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f224v_25529804350_o.jpg",
@@ -2513,8 +2513,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/87",
           "@type": "sc:Canvas",
           "label": "225r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2526,8 +2526,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/87",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f225r_25830545515_o.jpg",
@@ -2542,8 +2542,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/88",
           "@type": "sc:Canvas",
           "label": "225v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2555,8 +2555,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/88",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f225v_25529847330_o.jpg",
@@ -2571,8 +2571,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/89",
           "@type": "sc:Canvas",
           "label": "226r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2584,8 +2584,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/89",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f226r_25709587142_o.jpg",
@@ -2600,8 +2600,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/90",
           "@type": "sc:Canvas",
           "label": "226v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2613,8 +2613,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/90",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f226v_25709585562_o.jpg",
@@ -2629,8 +2629,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/91",
           "@type": "sc:Canvas",
           "label": "227r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2642,8 +2642,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/91",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f227r_25830540195_o.jpg",
@@ -2658,8 +2658,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/92",
           "@type": "sc:Canvas",
           "label": "227v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2671,8 +2671,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/92",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f227v_25200033354_o.jpg",
@@ -2687,8 +2687,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/93",
           "@type": "sc:Canvas",
           "label": "228r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2700,8 +2700,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/93",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f228r_25735434291_o.jpg",
@@ -2716,8 +2716,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/94",
           "@type": "sc:Canvas",
           "label": "228v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2729,8 +2729,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/94",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f228v_25529840000_o.jpg",
@@ -2745,8 +2745,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/95",
           "@type": "sc:Canvas",
           "label": "229r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2758,8 +2758,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/95",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f229r_25529838450_o.jpg",
@@ -2774,8 +2774,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/96",
           "@type": "sc:Canvas",
           "label": "229v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2787,8 +2787,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/96",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f229v_25804470036_o.jpg",
@@ -2803,8 +2803,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/97",
           "@type": "sc:Canvas",
           "label": "230r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2816,8 +2816,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/97",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f230r_25709615802_o.jpg",
@@ -2832,8 +2832,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/98",
           "@type": "sc:Canvas",
           "label": "230v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2845,8 +2845,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/98",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f230v_25735467651_o.jpg",
@@ -2861,8 +2861,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/99",
           "@type": "sc:Canvas",
           "label": "231r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2874,8 +2874,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/99",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f231r_25830570305_o.jpg",
@@ -2890,8 +2890,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/100",
           "@type": "sc:Canvas",
           "label": "231v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2903,8 +2903,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/100",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f231v_25200062194_o.jpg",
@@ -2919,8 +2919,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/101",
           "@type": "sc:Canvas",
           "label": "232r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2932,8 +2932,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/101",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f232r_25529870370_o.jpg",
@@ -2948,8 +2948,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/102",
           "@type": "sc:Canvas",
           "label": "232v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2961,8 +2961,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/102",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f232v_25830566735_o.jpg",
@@ -2977,8 +2977,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/103",
           "@type": "sc:Canvas",
           "label": "233r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -2990,8 +2990,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/103",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f233r_25529868350_o.jpg",
@@ -3006,8 +3006,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/104",
           "@type": "sc:Canvas",
           "label": "233v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3019,8 +3019,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/104",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f233v_25804499166_o.jpg",
@@ -3035,8 +3035,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/105",
           "@type": "sc:Canvas",
           "label": "234r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3048,8 +3048,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/105",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f234r_25830563045_o.jpg",
@@ -3064,8 +3064,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/106",
           "@type": "sc:Canvas",
           "label": "234v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3077,8 +3077,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/106",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f234v_25830561775_o.jpg",
@@ -3093,8 +3093,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/107",
           "@type": "sc:Canvas",
           "label": "235r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3106,8 +3106,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/107",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f235r_25735491841_o.jpg",
@@ -3122,8 +3122,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/108",
           "@type": "sc:Canvas",
           "label": "235v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3135,8 +3135,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/108",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f235v_25203984073_o.jpg",
@@ -3151,8 +3151,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/109",
           "@type": "sc:Canvas",
           "label": "236r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3164,8 +3164,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/109",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f236r_25200084804_o.jpg",
@@ -3180,8 +3180,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/110",
           "@type": "sc:Canvas",
           "label": "236v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3193,8 +3193,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/110",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f236v_25830591725_o.jpg",
@@ -3209,8 +3209,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/111",
           "@type": "sc:Canvas",
           "label": "237r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3222,8 +3222,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/111",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f237r_25735485721_o.jpg",
@@ -3238,8 +3238,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/112",
           "@type": "sc:Canvas",
           "label": "237v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3251,8 +3251,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/112",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f237v_25203979203_o.jpg",
@@ -3267,8 +3267,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/113",
           "@type": "sc:Canvas",
           "label": "238r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3280,8 +3280,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/113",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f238r_25709631182_o.jpg",
@@ -3296,8 +3296,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/114",
           "@type": "sc:Canvas",
           "label": "238v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3309,8 +3309,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/114",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f238v_25200078944_o.jpg",
@@ -3325,8 +3325,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/115",
           "@type": "sc:Canvas",
           "label": "239r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3338,8 +3338,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/115",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f239r_25203975273_o.jpg",
@@ -3354,8 +3354,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/116",
           "@type": "sc:Canvas",
           "label": "239v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3367,8 +3367,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/116",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f239v_25735479821_o.jpg",
@@ -3383,8 +3383,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/117",
           "@type": "sc:Canvas",
           "label": "240r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3396,8 +3396,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/117",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f240r_25735522911_o.jpg",
@@ -3412,8 +3412,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/118",
           "@type": "sc:Canvas",
           "label": "240v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3425,8 +3425,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/118",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f240v_25735521621_o.jpg",
@@ -3441,8 +3441,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/119",
           "@type": "sc:Canvas",
           "label": "241r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3454,8 +3454,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/119",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f241r_25709668432_o.jpg",
@@ -3470,8 +3470,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/120",
           "@type": "sc:Canvas",
           "label": "241v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3483,8 +3483,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/120",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f241v_25529925710_o.jpg",
@@ -3499,8 +3499,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/121",
           "@type": "sc:Canvas",
           "label": "242r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3512,8 +3512,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/121",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f242r_25204012053_o.jpg",
@@ -3528,8 +3528,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/122",
           "@type": "sc:Canvas",
           "label": "242v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3541,8 +3541,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/122",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f242v_25709664332_o.jpg",
@@ -3557,8 +3557,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/123",
           "@type": "sc:Canvas",
           "label": "243r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3570,8 +3570,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/123",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f243r_25529921880_o.jpg",
@@ -3586,8 +3586,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/124",
           "@type": "sc:Canvas",
           "label": "243v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3599,8 +3599,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/124",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f243v_25200110064_o.jpg",
@@ -3615,8 +3615,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/125",
           "@type": "sc:Canvas",
           "label": "244r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3628,8 +3628,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/125",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f244r_25830615095_o.jpg",
@@ -3644,8 +3644,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/126",
           "@type": "sc:Canvas",
           "label": "244v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3657,8 +3657,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/126",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f244v_25200106454_o.jpg",
@@ -3673,8 +3673,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/127",
           "@type": "sc:Canvas",
           "label": "245r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3686,8 +3686,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/127",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f245r_25804583646_o.jpg",
@@ -3702,8 +3702,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/128",
           "@type": "sc:Canvas",
           "label": "245v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3715,8 +3715,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/128",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f245v_25735543761_o.jpg",
@@ -3731,8 +3731,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/129",
           "@type": "sc:Canvas",
           "label": "246r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3744,8 +3744,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/129",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f246r_25830646525_o.jpg",
@@ -3760,8 +3760,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/130",
           "@type": "sc:Canvas",
           "label": "246v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3773,8 +3773,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/130",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f246v_25200138134_o.jpg",
@@ -3789,8 +3789,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/131",
           "@type": "sc:Canvas",
           "label": "247r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3802,8 +3802,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/131",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f247r_25204035003_o.jpg",
@@ -3818,8 +3818,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/132",
           "@type": "sc:Canvas",
           "label": "247v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3831,8 +3831,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/132",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f247v_25709687812_o.jpg",
@@ -3847,8 +3847,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/133",
           "@type": "sc:Canvas",
           "label": "248r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3860,8 +3860,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/133",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f248r_25804576816_o.jpg",
@@ -3876,8 +3876,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/134",
           "@type": "sc:Canvas",
           "label": "248v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3889,8 +3889,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/134",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f248v_25204031293_o.jpg",
@@ -3905,8 +3905,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/135",
           "@type": "sc:Canvas",
           "label": "249r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3918,8 +3918,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/135",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f249r_25830639505_o.jpg",
@@ -3934,8 +3934,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/136",
           "@type": "sc:Canvas",
           "label": "249v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3947,8 +3947,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/136",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f249v_25804573066_o.jpg",
@@ -3963,8 +3963,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/137",
           "@type": "sc:Canvas",
           "label": "250r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -3976,8 +3976,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/137",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f250r_25709725552_o.jpg",
@@ -3992,8 +3992,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/138",
           "@type": "sc:Canvas",
           "label": "250v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4005,8 +4005,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/138",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f250v_25735575691_o.jpg",
@@ -4021,8 +4021,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/139",
           "@type": "sc:Canvas",
           "label": "251r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4034,8 +4034,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/139",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f251r_25830678475_o.jpg",
@@ -4050,8 +4050,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/140",
           "@type": "sc:Canvas",
           "label": "251v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4063,8 +4063,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/140",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f251v_25735573361_o.jpg",
@@ -4079,8 +4079,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/141",
           "@type": "sc:Canvas",
           "label": "252r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4092,8 +4092,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/141",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f252r_25804610586_o.jpg",
@@ -4108,8 +4108,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/142",
           "@type": "sc:Canvas",
           "label": "252v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4121,8 +4121,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/142",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f252v_25709718882_o.jpg",
@@ -4137,8 +4137,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/143",
           "@type": "sc:Canvas",
           "label": "253r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4150,8 +4150,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/143",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f253r_25735569961_o.jpg",
@@ -4166,8 +4166,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/144",
           "@type": "sc:Canvas",
           "label": "253v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4179,8 +4179,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/144",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f253v_25830672905_o.jpg",
@@ -4195,8 +4195,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/145",
           "@type": "sc:Canvas",
           "label": "254r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4208,8 +4208,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/145",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f254r_25804605866_o.jpg",
@@ -4224,8 +4224,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/146",
           "@type": "sc:Canvas",
           "label": "254v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4237,8 +4237,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/146",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f254v_25735566351_o.jpg",
@@ -4253,8 +4253,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/147",
           "@type": "sc:Canvas",
           "label": "255r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4266,8 +4266,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/147",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f255r_25830707975_o.jpg",
@@ -4282,8 +4282,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/148",
           "@type": "sc:Canvas",
           "label": "255v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4295,8 +4295,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/148",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f255v_25530009550_o.jpg",
@@ -4311,8 +4311,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/149",
           "@type": "sc:Canvas",
           "label": "256r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4324,8 +4324,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/149",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f256r_25200196034_o.jpg",
@@ -4340,8 +4340,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/150",
           "@type": "sc:Canvas",
           "label": "256v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4353,8 +4353,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/150",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f256v_25709746692_o.jpg",
@@ -4369,8 +4369,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/151",
           "@type": "sc:Canvas",
           "label": "257r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4382,8 +4382,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/151",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f257r_25735597961_o.jpg",
@@ -4398,8 +4398,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/152",
           "@type": "sc:Canvas",
           "label": "257v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4411,8 +4411,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/152",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f257v_25200192824_o.jpg",
@@ -4427,8 +4427,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/153",
           "@type": "sc:Canvas",
           "label": "258r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4440,8 +4440,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/153",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f258r_25530001920_o.jpg",
@@ -4456,8 +4456,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/154",
           "@type": "sc:Canvas",
           "label": "258v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4469,8 +4469,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/154",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f258v_25232975043_o.jpg",
@@ -4485,8 +4485,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/155",
           "@type": "sc:Canvas",
           "label": "259r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4498,8 +4498,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/155",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f259r_25735591521_o.jpg",
@@ -4514,8 +4514,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/156",
           "@type": "sc:Canvas",
           "label": "259v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4527,8 +4527,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/156",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f259v_25529997970_o.jpg",
@@ -4543,8 +4543,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/157",
           "@type": "sc:Canvas",
           "label": "260r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4556,8 +4556,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/157",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f260r_25530035260_o.jpg",
@@ -4572,8 +4572,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/158",
           "@type": "sc:Canvas",
           "label": "260v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4585,8 +4585,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/158",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f260v_25530034110_o.jpg",
@@ -4601,8 +4601,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/159",
           "@type": "sc:Canvas",
           "label": "261r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4614,8 +4614,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/159",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f261r_25735625661_o.jpg",
@@ -4630,8 +4630,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/160",
           "@type": "sc:Canvas",
           "label": "261v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4643,8 +4643,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/160",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f261v_25804662596_o.jpg",
@@ -4659,8 +4659,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/161",
           "@type": "sc:Canvas",
           "label": "262r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4672,8 +4672,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/161",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f262r_25530030620_o.jpg",
@@ -4688,8 +4688,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/162",
           "@type": "sc:Canvas",
           "label": "262v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4701,8 +4701,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/162",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f262v_25804660656_o.jpg",
@@ -4717,8 +4717,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/163",
           "@type": "sc:Canvas",
           "label": "263r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4730,8 +4730,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/163",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f263r_25830726075_o.jpg",
@@ -4746,8 +4746,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/164",
           "@type": "sc:Canvas",
           "label": "263v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4759,8 +4759,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/164",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f263v_25200216274_o.jpg",
@@ -4775,8 +4775,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/165",
           "@type": "sc:Canvas",
           "label": "264r",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4788,8 +4788,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/165",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f264r_25735618781_o.jpg",
@@ -4804,8 +4804,8 @@
           "@id": "http://scta.info/iiif/balliol246/canvas/166",
           "@type": "sc:Canvas",
           "label": "264v",
-          "height": "4000",
-          "width": "3000",
+          "height": 4000,
+          "width": 3000,
           "images": [
             {
               "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -4817,8 +4817,8 @@
                 "@id": "http://scta.info/iiif/balliol246/res/166",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": "4000",
-                "width": "3000",
+                "height": 4000,
+                "width": 3000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f264v_25735617661_o.jpg",
