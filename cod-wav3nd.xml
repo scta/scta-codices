@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnf16406">cod-wav3nd</shortid>
+    <title>bnf16406</title>
+    <!--  contains book 4 of commentary on sent of Alexander of Hales-->
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <label>Bnf 16406 </label>
+        <canonical>true</canonical>
+        <shortid>cod-va3hdd/item1</shortid>
+        <callNumber>https://gallica.bnf.fr/ark:/12148/btv1b9066634p/</callNumber>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066634p/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066634p/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
