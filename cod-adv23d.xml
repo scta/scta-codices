@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains sentences commentary of Henningus Boltenhagen or PULTENHAGEN in Stegmuller (finished around 1406 -->
+	<head>
+		<type>manuscript</type>
+		<shortid></shortid>
+	  <shortid alias="leipzigUniv591">cod-adv23d</shortid>
+	  <title>Leipzig University ms. 591</title>
+		<initial>L</initial>
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>cod-adv23d/item1</shortid>
+			  <canvasBase>https://iiif.ub.uni-leipzig.de/0000010652/canvas/</canvasBase>
+			  <!-- realted https://katalog.ub.uni-leipzig.de/urn/urn:nbn:de:bsz:15-0012-214634
+			    https://digital.ub.uni-leipzig.de/object/viewid/0000010652 
+			  -->
+			  <manifestOfficial>https://iiif.ub.uni-leipzig.de/0000010652/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
