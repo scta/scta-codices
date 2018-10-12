@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": "https://iiif.io/api/presentation/2/context.json",
   "@id": "https://iiif.ub.uni-leipzig.de/0000010652/manifest.json",
   "@type": "sc:Manifest",
   "label": "Leipzig, Universitätsbibliothek Leipzig, Ms 591",
@@ -90,7 +90,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000001.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -115,7 +115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000002.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -140,7 +140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000003.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -165,7 +165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000004.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -190,7 +190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000005.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -215,7 +215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000006.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -240,7 +240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000007.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -265,7 +265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000008.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -290,7 +290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000009.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -315,7 +315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000010.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -340,7 +340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000011.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -365,7 +365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000012.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -390,7 +390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000013.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -415,7 +415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000014.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -440,7 +440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000015.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -465,7 +465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000016.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -490,7 +490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000017.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -515,7 +515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000018.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -540,7 +540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000019.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -565,7 +565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000020.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -590,7 +590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000021.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -615,7 +615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000022.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -640,7 +640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000023.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -665,7 +665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000024.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -690,7 +690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000025.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -715,7 +715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000026.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -740,7 +740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000027.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -765,7 +765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000028.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -790,7 +790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000029.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -815,7 +815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000030.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -840,7 +840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000031.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -865,7 +865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000032.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -890,7 +890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000033.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -915,7 +915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000034.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -940,7 +940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000035.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -965,7 +965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000036.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -990,7 +990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000037.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1015,7 +1015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000038.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1040,7 +1040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000039.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1065,7 +1065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000040.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1090,7 +1090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000041.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1115,7 +1115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000042.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1140,7 +1140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000043.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1165,7 +1165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000044.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1190,7 +1190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000045.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1215,7 +1215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000046.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1240,7 +1240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000047.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1265,7 +1265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000048.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1290,7 +1290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000049.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1315,7 +1315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000050.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1340,7 +1340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000051.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1365,7 +1365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000052.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1390,7 +1390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000053.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1415,7 +1415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000054.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1440,7 +1440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000055.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1465,7 +1465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000056.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1490,7 +1490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000057.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1515,7 +1515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000058.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1540,7 +1540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000059.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1565,7 +1565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000060.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1590,7 +1590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000061.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1615,7 +1615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000062.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1640,7 +1640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000063.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1665,7 +1665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000064.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1690,7 +1690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000065.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1715,7 +1715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000066.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1740,7 +1740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000067.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1765,7 +1765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000068.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1790,7 +1790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000069.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1815,7 +1815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000070.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1840,7 +1840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000071.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1865,7 +1865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000072.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1890,7 +1890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000073.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1915,7 +1915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000074.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1940,7 +1940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000075.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1965,7 +1965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000076.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -1990,7 +1990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000077.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2015,7 +2015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000078.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2040,7 +2040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000079.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2065,7 +2065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000080.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2090,7 +2090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000081.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2115,7 +2115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000082.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2140,7 +2140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000083.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2165,7 +2165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000084.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2190,7 +2190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000085.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2215,7 +2215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000086.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2240,7 +2240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000087.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2265,7 +2265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000088.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2290,7 +2290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000089.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2315,7 +2315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000090.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2340,7 +2340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000091.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2365,7 +2365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000092.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2390,7 +2390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000093.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2415,7 +2415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000094.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2440,7 +2440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000095.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2465,7 +2465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000096.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2490,7 +2490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000097.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2515,7 +2515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000098.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2540,7 +2540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000099.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2565,7 +2565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000100.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2590,7 +2590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000101.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2615,7 +2615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000102.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2640,7 +2640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000103.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2665,7 +2665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000104.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2690,7 +2690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000105.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2715,7 +2715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000106.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2740,7 +2740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000107.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2765,7 +2765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000108.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2790,7 +2790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000109.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2815,7 +2815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000110.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2840,7 +2840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000111.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2865,7 +2865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000112.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2890,7 +2890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000113.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2915,7 +2915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000114.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2940,7 +2940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000115.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2965,7 +2965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000116.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -2990,7 +2990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000117.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3015,7 +3015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000118.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3040,7 +3040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000119.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3065,7 +3065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000120.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3090,7 +3090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000121.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3115,7 +3115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000122.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3140,7 +3140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000123.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3165,7 +3165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000124.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3190,7 +3190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000125.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3215,7 +3215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000126.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3240,7 +3240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000127.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3265,7 +3265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000128.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3290,7 +3290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000129.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3315,7 +3315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000130.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3340,7 +3340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000131.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3365,7 +3365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000132.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3390,7 +3390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000133.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3415,7 +3415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000134.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3440,7 +3440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000135.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3465,7 +3465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000136.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3490,7 +3490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000137.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3515,7 +3515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000138.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3540,7 +3540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000139.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3565,7 +3565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000140.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3590,7 +3590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000141.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3615,7 +3615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000142.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3640,7 +3640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000143.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3665,7 +3665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000144.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3690,7 +3690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000145.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3715,7 +3715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000146.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3740,7 +3740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000147.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3765,7 +3765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000148.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3790,7 +3790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000149.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3815,7 +3815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000150.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3840,7 +3840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000151.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3865,7 +3865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000152.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3890,7 +3890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000153.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3915,7 +3915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000154.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3940,7 +3940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000155.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3965,7 +3965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000156.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -3990,7 +3990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000157.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4015,7 +4015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000158.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4040,7 +4040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000159.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4065,7 +4065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000160.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4090,7 +4090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000161.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4115,7 +4115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000162.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4140,7 +4140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000163.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4165,7 +4165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000164.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4190,7 +4190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000165.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4215,7 +4215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000166.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4240,7 +4240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000167.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4265,7 +4265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000168.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4290,7 +4290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000169.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4315,7 +4315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000170.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4340,7 +4340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000171.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4365,7 +4365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000172.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4390,7 +4390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000173.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4415,7 +4415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000174.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4440,7 +4440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000175.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4465,7 +4465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000176.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4490,7 +4490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000177.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4515,7 +4515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000178.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4540,7 +4540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000179.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4565,7 +4565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000180.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4590,7 +4590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000181.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4615,7 +4615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000182.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4640,7 +4640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000183.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4665,7 +4665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000184.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4690,7 +4690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000185.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4715,7 +4715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000186.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4740,7 +4740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000187.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4765,7 +4765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000188.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4790,7 +4790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000189.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4815,7 +4815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000190.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4840,7 +4840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000191.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4865,7 +4865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000192.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4890,7 +4890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000193.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4915,7 +4915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000194.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4940,7 +4940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000195.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4965,7 +4965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000196.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -4990,7 +4990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000197.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5015,7 +5015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000198.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5040,7 +5040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000199.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5065,7 +5065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000200.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5090,7 +5090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000201.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5115,7 +5115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000202.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5140,7 +5140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000203.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5165,7 +5165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000204.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5190,7 +5190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000205.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5215,7 +5215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000206.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5240,7 +5240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000207.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5265,7 +5265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000208.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5290,7 +5290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000209.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5315,7 +5315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000210.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5340,7 +5340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000211.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5365,7 +5365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000212.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5390,7 +5390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000213.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5415,7 +5415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000214.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5440,7 +5440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000215.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5465,7 +5465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000216.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5490,7 +5490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000217.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5515,7 +5515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000218.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5540,7 +5540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000219.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5565,7 +5565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000220.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5590,7 +5590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000221.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5615,7 +5615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000222.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5640,7 +5640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000223.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5665,7 +5665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000224.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5690,7 +5690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000225.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5715,7 +5715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000226.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5740,7 +5740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000227.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5765,7 +5765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000228.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5790,7 +5790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000229.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5815,7 +5815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000230.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5840,7 +5840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000231.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5865,7 +5865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000232.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5890,7 +5890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000233.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5915,7 +5915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000234.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5940,7 +5940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000235.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5965,7 +5965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000236.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -5990,7 +5990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000237.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6015,7 +6015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000238.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6040,7 +6040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000239.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6065,7 +6065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000240.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6090,7 +6090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000241.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6115,7 +6115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000242.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6140,7 +6140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000243.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6165,7 +6165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000244.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6190,7 +6190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000245.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6215,7 +6215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000246.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6240,7 +6240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000247.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6265,7 +6265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000248.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6290,7 +6290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000249.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6315,7 +6315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000250.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6340,7 +6340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000251.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6365,7 +6365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000252.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6390,7 +6390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000253.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6415,7 +6415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000254.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6440,7 +6440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000255.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6465,7 +6465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000256.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6490,7 +6490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000257.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6515,7 +6515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000258.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6540,7 +6540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000259.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6565,7 +6565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000260.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6590,7 +6590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000261.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6615,7 +6615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000262.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6640,7 +6640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000263.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6665,7 +6665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000264.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6690,7 +6690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000265.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6715,7 +6715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000266.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6740,7 +6740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000267.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6765,7 +6765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000268.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6790,7 +6790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000269.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6815,7 +6815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000270.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6840,7 +6840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000271.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6865,7 +6865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000272.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6890,7 +6890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000273.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6915,7 +6915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000274.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6940,7 +6940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000275.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6965,7 +6965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000276.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -6990,7 +6990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000277.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7015,7 +7015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000278.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7040,7 +7040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000279.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7065,7 +7065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000280.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7090,7 +7090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000281.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7115,7 +7115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000282.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7140,7 +7140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000283.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7165,7 +7165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000284.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7190,7 +7190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000285.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7215,7 +7215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000286.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7240,7 +7240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000287.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7265,7 +7265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000288.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7290,7 +7290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000289.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7315,7 +7315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000290.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7340,7 +7340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000291.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7365,7 +7365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000292.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7390,7 +7390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000293.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7415,7 +7415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000294.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7440,7 +7440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000295.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7465,7 +7465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000296.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7490,7 +7490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000297.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7515,7 +7515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000298.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7540,7 +7540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000299.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7565,7 +7565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000300.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7590,7 +7590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000301.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7615,7 +7615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000302.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7640,7 +7640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000303.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7665,7 +7665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000304.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7690,7 +7690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000305.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7715,7 +7715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000306.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7740,7 +7740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000307.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7765,7 +7765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000308.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7790,7 +7790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000309.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7815,7 +7815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000310.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7840,7 +7840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000311.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7865,7 +7865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000312.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7890,7 +7890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000313.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7915,7 +7915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000314.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7940,7 +7940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000315.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7965,7 +7965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000316.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -7990,7 +7990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000317.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8015,7 +8015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000318.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8040,7 +8040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000319.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8065,7 +8065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000320.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8090,7 +8090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000321.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8115,7 +8115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000322.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8140,7 +8140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000323.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8165,7 +8165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000324.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8190,7 +8190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000325.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8215,7 +8215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000326.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8240,7 +8240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000327.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8265,7 +8265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000328.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8290,7 +8290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000329.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8315,7 +8315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000330.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8340,7 +8340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000331.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8365,7 +8365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000332.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8390,7 +8390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000333.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8415,7 +8415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000334.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8440,7 +8440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000335.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8465,7 +8465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000336.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8490,7 +8490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000337.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8515,7 +8515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000338.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8540,7 +8540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000339.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8565,7 +8565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000340.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8590,7 +8590,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000341.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8615,7 +8615,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000342.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8640,7 +8640,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000343.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8665,7 +8665,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000344.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8690,7 +8690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000345.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8715,7 +8715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000346.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8740,7 +8740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000347.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8765,7 +8765,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000348.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8790,7 +8790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000349.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8815,7 +8815,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000350.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8840,7 +8840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000351.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8865,7 +8865,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000352.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8890,7 +8890,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000353.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8915,7 +8915,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000354.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8940,7 +8940,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000355.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8965,7 +8965,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000356.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -8990,7 +8990,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000357.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9015,7 +9015,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000358.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9040,7 +9040,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000359.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9065,7 +9065,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000360.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9090,7 +9090,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000361.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9115,7 +9115,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000362.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9140,7 +9140,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000363.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9165,7 +9165,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000364.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9190,7 +9190,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000365.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9215,7 +9215,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000366.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9240,7 +9240,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000367.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9265,7 +9265,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000368.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9290,7 +9290,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000369.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9315,7 +9315,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000370.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9340,7 +9340,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000371.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9365,7 +9365,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000372.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9390,7 +9390,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000373.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9415,7 +9415,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000374.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9440,7 +9440,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000375.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9465,7 +9465,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000376.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9490,7 +9490,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000377.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9515,7 +9515,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000378.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9540,7 +9540,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000379.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9565,7 +9565,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000380.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9590,7 +9590,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000381.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9615,7 +9615,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000382.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9640,7 +9640,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000383.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9665,7 +9665,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000384.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9690,7 +9690,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000385.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9715,7 +9715,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000386.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9740,7 +9740,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000387.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9765,7 +9765,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000388.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9790,7 +9790,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000389.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9815,7 +9815,7 @@
             "height": 3744,
             "width": 5616,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000390.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
@@ -9840,7 +9840,7 @@
             "height": 5616,
             "width": 3744,
             "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
+              "@context": "https://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0106/0000010652/00000391.jpx",
               "profile": "http://iiif.io/api/image/2/level1.json"
             }
