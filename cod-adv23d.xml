@@ -8,6 +8,7 @@
     <initial>L</initial>
     <hasItems>
       <item>
+        <label>Leipzig University ms. 591</label>
         <canonical>true</canonical>
         <shortid>cod-adv23d/item1</shortid>
         <canvasBase>https://iiif.ub.uni-leipzig.de/0000010652/canvas/</canvasBase>

@@ -8,6 +8,7 @@
 	  <!-- contains copy of bandinus sentences abbreviatio f. 1r- 73v, not listed in Stegmuller -->
 		<hasItems>
 			<item>
+			  <label>Munich Clm 14415</label>
 				<canonical>true</canonical>
 			  <shortid>clm14415/item1</shortid>
 			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046489/canvas/</canvasBase>

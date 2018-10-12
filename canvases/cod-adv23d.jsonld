@@ -10823,7 +10823,8 @@
       "@type": "sc:Range",
       "label": "Farbkeil",
       "canvases": ["https://iiif.ub.uni-leipzig.de/0000010652/canvas/00000391"],
-      "metadata": [{
+      "metadata": [
+      {
         "label": "metsDivType",
         "value": "other"
       }]
