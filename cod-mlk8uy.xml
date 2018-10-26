@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- among other things contains commentary of book 1 and 2 closely related to Hennigus Boltenhagne/Pultugen commentary
+  with has some connection to the vienna commentary and dinkelsbuhl -->
+  <head>
+    <type>manuscript</type>
+    <shortid alias="leipzigUniv418">cod-mlk8uy</shortid>
+    <title>Leipzig University ms. 418</title>
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <label>Leipzig University ms. 418</label>
+        <canonical>true</canonical>
+        <shortid>cod-mlk8uy/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

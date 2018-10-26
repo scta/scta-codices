@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains book 1 sentences commentary of anonymous; seem like late 13 early 14th century-->
+  <head>
+    <type>manuscript</type>
+    <shortid alias="leipzigUniv419">cod-efh7w3</shortid>
+    <title>Leipzig University ms. 419</title>
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <label>Leipzig University ms. 419</label>
+        <canonical>true</canonical>
+        <shortid>cod-efh7w3/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
