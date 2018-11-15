@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codex>
-  <type>manuscript</type>
-  <shortid alias="bnf15754">cod-rtyu7r</shortid>
-  <title>Paris, nat. lat. 15754</title> <!-- contains books 1-3 of Fishacre' Commentary on the Sentences according to stegmuller -->
-  <initial>P</initial>
-  <hasItems>
-    <item>
-      <canonical>true</canonical>
-      <shortid>cod-rtyu7r/item1</shortid>
-      <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066075j/canvas/</canvasBase>
-      <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066075j/manifest.json</manifestOfficial>
-    </item>
-  </hasItems>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnf15754">cod-rtyu7r</shortid>
+    <title>Paris, nat. lat. 15754</title> <!-- contains books 1-3 of Fishacre' Commentary on the Sentences according to stegmuller -->
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-rtyu7r/item1</shortid>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066075j/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066075j/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
   <surfaces>
   </surfaces>
 </codex>
