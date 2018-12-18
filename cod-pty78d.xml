@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="vatlat1091">cod-pty78d</shortid>
+    <title>Vatican, vat lat. 1091</title> <!-- contains books 1-3 Hibert of Garda's Sentences commentary -->
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-cod-pty78d/item1</shortid>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.1091/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.1091/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
