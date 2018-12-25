@@ -9,7 +9,7 @@
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
-				<shortid>vatlat1087/item1</shortid>
+			  <shortid>vatlat3075/item1</shortid>
 			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.3075/canvas/</canvasBase>
 			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.3075/manifest.json</manifestOfficial>
 			</item>
