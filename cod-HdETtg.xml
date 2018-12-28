@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="vatlat872">cod-HdETtg</shortid>
+	  <title>Vatican, Vat. Lat. 872</title>
+		<initial>V</initial>
+	  <!-- contains Sent commentary of Thomas Anglicus/Sutton -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>cod-HdETtg/item1</shortid>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.872/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.872/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="urblat120">cod-xowk10</shortid>
+	  <title>Vatican, Urb. Lat. 120</title>
+		<initial>U</initial>
+	  <!-- contains Sent commentary of Thomas Anglicus/Sutton -->
+		<hasItems>
+			<item>
+				<canonical>true</canonical>
+			  <shortid>cod-xowk10/item1</shortid>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Urb.lat.120/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Urb.lat.120/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	</surfaces>
+</codex>
