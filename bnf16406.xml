@@ -12,6 +12,7 @@ Titre :  Questiones Alexandri (219) et magistri O. legati (224v).  -->
 			<item>
 				<canonical>true</canonical>
 				<shortid>bnf16406/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
 				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9066634p/canvas/</canvasBase>
 				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9066634p/manifest.json</manifestOfficial>
 			</item>

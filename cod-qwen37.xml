@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains sentences commentary of john bacconthorpe -->
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1526">cod-qwen37</shortid>
+    <title>Venice 1526</title>
+    <initial>L</initial>
+    <place>Venice</place>
+    <date>1526</date>
+    <hasItems>
+      <item>
+        <label>Venice 1526</label>
+        <canonical>true</canonical>
+        <shortid>cod-qwen37/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-avn3fd</holdingInstitution>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_MFkj8cW2xhMC/manifest.json</manifestOfficial>
+        
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

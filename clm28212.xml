@@ -10,6 +10,7 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>clm28212/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
 			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00106778/canvas/</canvasBase>
 			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00106778/manifest</manifestOfficial>
 			</item>

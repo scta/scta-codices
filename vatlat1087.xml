@@ -11,6 +11,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>vatlat1087/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
 				<canvasBase>http://digi.vatlib.it/iiif/MSS_Vat.lat.1087/canvas/</canvasBase>
 				<manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.1087/manifest.json</manifestOfficial>
 			</item>

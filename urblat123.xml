@@ -10,6 +10,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>ublat123/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
 			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Urb.lat.123/canvas/</canvasBase>
 			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Urb.lat.123/manifest.json</manifestOfficial>
 			</item>

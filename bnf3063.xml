@@ -9,6 +9,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>bnf3063/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
 				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b8446954p/canvas/</canvasBase>
 				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b8446954p/manifest.json</manifestOfficial>
 			</item>

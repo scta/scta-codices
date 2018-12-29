@@ -6,6 +6,8 @@
     <title>Venice 1493</title>
     <!-- contains sent commentary of peter palude -->
     <initial>L</initial>
+    <place>Venice</place>
+    <date>1493</date>
     <hasItems>
       <item>
         <label>BSB</label>

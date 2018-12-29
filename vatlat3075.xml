@@ -10,6 +10,7 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>vatlat3075/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
 			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.3075/canvas/</canvasBase>
 			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.3075/manifest.json</manifestOfficial>
 			</item>

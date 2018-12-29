@@ -10,6 +10,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>vatlat4284/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
 				<canvasBase>http://scta.info/iiif/vat/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>
