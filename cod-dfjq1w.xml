@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="penn727">cod-dfjq1w</shortid>
+    <title>Penn 727</title>
+    <initial>P</initial>
+    <!-- anonymous augustinian commentary at Penn -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-dfjq1w/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
+        <libraryRecord>http://hdl.library.upenn.edu/1017/d/medren/9924875533503681</libraryRecord>
+        <canvasBase></canvasBase>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

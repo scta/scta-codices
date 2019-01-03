@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="penn1131">cod-uytew7</shortid>
+    <title>Penn 1131</title>
+    <initial>P</initial>
+    <!-- From Upenn catalogue: 
+    "Collection of theological works from the 13th to 15th centuries, 
+    including several with unidentifiable authors: notably, 
+    a commentary on the De fide catholica, 
+    the new profession of faith from the Fourth Lateran Council; 
+    a work on virtues and vices; 
+    a collection of sermons or commentary based on the Gospels, 
+    and a Passion narrative. 
+    Also commentary on Peter Lombard's Sententiae, 
+    concerning God, evil, creation, sin, grace, incarnation, 
+    the Ten Commandments, and sacraments (among many other topics); 
+    three sermons by Jordan von Quedlinburg, 
+    two of which are identified by R. Lievens as numbers 317 and 260; 
+    a portion of a large collection of sermons by Jacobus de Voragine; 
+    excerpts from Robert Holkot's works on the book of Wisdom; 
+    a sermon given by Juan de Segovia at the Council of Basel; 
+    and excerpts on church law from Raymond of Peñafort. 
+    The pastedowns on the upper and lower covers 
+    are from mid-13th-century Aristotelian texts on the De animalibus.
+    -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-uytew7/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
+        <libraryRecord>http://hdl.library.upenn.edu/1017/d/medren/9942656973503681</libraryRecord>
+        <canvasBase></canvasBase>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

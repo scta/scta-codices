@@ -10,6 +10,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>hopkinsMSB19/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-bne8en</holdingInstitution>
 				<canvasBase>http://scta.info/iiif/hopkinsMSB19/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>

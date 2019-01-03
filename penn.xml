@@ -6,10 +6,12 @@
 		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
 		<title>Penn 686</title>
 		<initial>P</initial>
+	  <!-- contains rothwell sent commentary -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
 				<shortid>penn/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
 				<canvasBase>http://scta.info/iiif/penn/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>

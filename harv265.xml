@@ -9,6 +9,7 @@
       <item>
         <canonical>true</canonical>
         <shortid>harv265/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-haj8jd</holdingInstitution>
         <canvasBase>https://iiif.lib.harvard.edu/manifests/drs:24332177/canvas/</canvasBase>
         <manifestOfficial>https://iiif.lib.harvard.edu/manifests/drs:24332177</manifestOfficial>
       </item>

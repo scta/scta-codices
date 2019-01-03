@@ -11,6 +11,7 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>marymount25/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-iuy7yh</holdingInstitution>
 			  <canvasBase>http://scta.info/iiif/marymount25/canvas/</canvasBase>
 			  <manifestOfficial>http://scta.info/iiif/codex/marymount25/manifest/</manifestOfficial>
 			</item>

@@ -6,10 +6,12 @@
 		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
 		<title>Penn 855</title>
 		<initial>P</initial>
+	  <!-- contains de anim commentary of Placidus Aegidius Melander -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
 				<shortid>penn855/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
 				<canvasBase>http://scta.info/iiif/penn855/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>

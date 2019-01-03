@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="penn1147">cod-nmj9ja</shortid>
+    <title>Penn 1147</title>
+    <initial>P</initial>
+    <!-- contains book III of lombard -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-nmj9ja/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
+        <libraryRecord>http://hdl.library.upenn.edu/1017/d/medren/9942864553503681</libraryRecord>
+        <canvasBase></canvasBase>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

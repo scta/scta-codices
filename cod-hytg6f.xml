@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="pennColl591">cod-hytg6f</shortid>
+    <title>Penn Coll 591, Folder 39</title>
+    <initial>P</initial>
+    <!-- fragment from Lombard book IV (2 leaves) -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-hytg6f/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
+        <libraryRecord>http://hdl.library.upenn.edu/1017/d/medren/9958689073503681</libraryRecord>
+        <canvasBase></canvasBase>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
