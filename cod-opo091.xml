@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="baselUnivBIV4">cod-opo09i</shortid>
+	  <title>Basel, Universitätsbibliothek, B IV 4</title>
+		<initial>B</initial> 
+	  <!-- contains copy sutto and trivet quodlibetal questions -->
+		<hasItems>
+			<item>
+			  <label>Basel, Universitätsbibliothek, B IV 4</label>
+			  <!-- Basel Catalogue Recor http://aleph.unibas.ch/F/?local_base=DSV05&con_lng=GER&func=find-b&find_code=SYS&request=000079128-->
+			  <!-- e-codices Permanent link:	https://www.e-codices.unifr.ch/en/list/one/ubb/B-IV-0004 -->
+				<canonical>true</canonical>
+			  <shortid>cod-opo09i/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-idfn1d</holdingInstitution>
+			  <canvasBase>https://www.e-codices.unifr.ch/metadata/iiif/ubb-B-IV-0004/canvas/</canvasBase>
+			  <manifestOfficial>https://www.e-codices.unifr.ch/metadata/iiif/ubb-B-IV-0004/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="vatott1126">cod-iu6t5r</shortid>
+	  <title>Vatican, Vat. Ott. 1126</title>
+		<initial>B</initial> 
+	  <!-- contains copy sutton-->
+		<hasItems>
+			<item>
+			  <label>Vatican, Vat. Ott. 1126</label>
+			  <!-- see https://digi.vatlib.it/mss/detail/Ott.lat.1126 -->
+				<canonical>true</canonical>
+			  <shortid>cod-iu6t5r/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+			  <canvasBase>https://digi.vatlib.it/iiif/MSS_Ott.lat.1126/canvas/</canvasBase>
+			  <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Ott.lat.1126/manifest.json</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>
