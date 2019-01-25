@@ -9,8 +9,8 @@
       <item>
         <canonical>true</canonical>
         <shortid>pembroke236/item1</shortid>
-        <canvasBase>http://scta.info/iiif/pembroke236/canvas/</canvasBase>
-        <manifestOfficial>http://scta.info/iiif/codex/pembroke236/manifest</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/pembroke236/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/pembroke236/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
