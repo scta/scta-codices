@@ -43,7 +43,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/penn/0444_0050_web.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 1800,
             "width": 1430
@@ -70,7 +70,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/penn/0444_0050_web.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 1800,
             "width": 1430

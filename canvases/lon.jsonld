@@ -45,7 +45,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L1r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -72,7 +72,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L1v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -99,7 +99,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L2r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -126,7 +126,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L2v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -153,7 +153,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L3r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -180,7 +180,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L3v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -207,7 +207,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L4r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -234,7 +234,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L4v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -261,7 +261,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L5r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -288,7 +288,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L5v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -315,7 +315,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L6r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -342,7 +342,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L6v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -369,7 +369,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L7r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -396,7 +396,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L7v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -423,7 +423,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L8r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -450,7 +450,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L8v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -477,7 +477,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L9r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -504,7 +504,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L9v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -531,7 +531,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L10r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -558,7 +558,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L10v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -585,7 +585,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L11r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -612,7 +612,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L11v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -639,7 +639,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L12r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -666,7 +666,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L12v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -693,7 +693,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L13r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -720,7 +720,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L13v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -747,7 +747,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L14r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -774,7 +774,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L14v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -801,7 +801,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L15r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -828,7 +828,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L15v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -855,7 +855,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L16r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -882,7 +882,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L16v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -909,7 +909,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L17r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -936,7 +936,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L17v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -963,7 +963,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L18r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -990,7 +990,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L18v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1017,7 +1017,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L19r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1044,7 +1044,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L19v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1071,7 +1071,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L20r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1098,7 +1098,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L20v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1125,7 +1125,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L21r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1152,7 +1152,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L21v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1179,7 +1179,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L22r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1206,7 +1206,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L22v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1233,7 +1233,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L23r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1260,7 +1260,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L23v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1287,7 +1287,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L24r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1314,7 +1314,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L24v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1341,7 +1341,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L25r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1368,7 +1368,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L25v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1395,7 +1395,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L26r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1422,7 +1422,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L26v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1449,7 +1449,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L27r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1476,7 +1476,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L27v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1503,7 +1503,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L28r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1530,7 +1530,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L28v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1557,7 +1557,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L29r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1584,7 +1584,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L29v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1611,7 +1611,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L30r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1638,7 +1638,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L30v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1665,7 +1665,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L31r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1692,7 +1692,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L31v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1719,7 +1719,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L32r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1746,7 +1746,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L32v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1773,7 +1773,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L33r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1800,7 +1800,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L33v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1827,7 +1827,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L34r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1854,7 +1854,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L34v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1881,7 +1881,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L35r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1908,7 +1908,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L35v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1935,7 +1935,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L36r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -1962,7 +1962,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L36v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -1989,7 +1989,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L37r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2016,7 +2016,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L37v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2043,7 +2043,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L38r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2070,7 +2070,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L38v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2097,7 +2097,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L39r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2124,7 +2124,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L39v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2151,7 +2151,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L40r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2178,7 +2178,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L40v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2205,7 +2205,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L41r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2232,7 +2232,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L41v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2259,7 +2259,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L42r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2286,7 +2286,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L42v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2313,7 +2313,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L43r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2340,7 +2340,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L43v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2367,7 +2367,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L44r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2394,7 +2394,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L44v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2421,7 +2421,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L45r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2448,7 +2448,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L45v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2475,7 +2475,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L46r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2502,7 +2502,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L46v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2529,7 +2529,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L47r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2556,7 +2556,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L47v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2583,7 +2583,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L48r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2610,7 +2610,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L48v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2637,7 +2637,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L49r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2664,7 +2664,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L49v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2691,7 +2691,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L50r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2718,7 +2718,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L50v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2745,7 +2745,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L51r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2772,7 +2772,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L51v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2799,7 +2799,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L52r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2826,7 +2826,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L52v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2853,7 +2853,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L53r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2880,7 +2880,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L53v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2907,7 +2907,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L54r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2934,7 +2934,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L54v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -2961,7 +2961,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L55r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -2988,7 +2988,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L55v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3015,7 +3015,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L56r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3042,7 +3042,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L56v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3069,7 +3069,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L57r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3096,7 +3096,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L57v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3123,7 +3123,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L58r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3150,7 +3150,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L58v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3177,7 +3177,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L59r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3204,7 +3204,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L59v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3231,7 +3231,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L60r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3258,7 +3258,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L60v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3285,7 +3285,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L61r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3312,7 +3312,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L61v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3339,7 +3339,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L62r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3366,7 +3366,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L62v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3393,7 +3393,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L63r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3420,7 +3420,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L63v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3447,7 +3447,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L64r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3474,7 +3474,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L64v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3501,7 +3501,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L65r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3528,7 +3528,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L65v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3555,7 +3555,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L66r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3582,7 +3582,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L66v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3609,7 +3609,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L67r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3636,7 +3636,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L67v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3663,7 +3663,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L68r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3690,7 +3690,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L68v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3717,7 +3717,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L69r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3744,7 +3744,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L69v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3771,7 +3771,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L70r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3798,7 +3798,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L70v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3825,7 +3825,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L71r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3852,7 +3852,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L71v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3879,7 +3879,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L72r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3906,7 +3906,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L72v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3933,7 +3933,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L73r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -3960,7 +3960,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L73v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -3987,7 +3987,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L74r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4014,7 +4014,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L74v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4041,7 +4041,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L75r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4068,7 +4068,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L75v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4095,7 +4095,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L76r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4122,7 +4122,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L76v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4149,7 +4149,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L77r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4176,7 +4176,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L77v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4203,7 +4203,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L78r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4230,7 +4230,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L78v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4257,7 +4257,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L79r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4284,7 +4284,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L79v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4311,7 +4311,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L80r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4338,7 +4338,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L80v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4365,7 +4365,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L81r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4392,7 +4392,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L81v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4419,7 +4419,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L82r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4446,7 +4446,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L82v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4473,7 +4473,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L83r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4500,7 +4500,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L83v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4527,7 +4527,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L84r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4554,7 +4554,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L84v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4581,7 +4581,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L85r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4608,7 +4608,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L85v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4635,7 +4635,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L86r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4662,7 +4662,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L86v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4689,7 +4689,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L87r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4716,7 +4716,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L87v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4743,7 +4743,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L88r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4770,7 +4770,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L88v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4797,7 +4797,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L89r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4824,7 +4824,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L89v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4851,7 +4851,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L90r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4878,7 +4878,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L90v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4905,7 +4905,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L91r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4932,7 +4932,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L91v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -4959,7 +4959,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L92r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -4986,7 +4986,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L92v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5013,7 +5013,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L93r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5040,7 +5040,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L93v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5067,7 +5067,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L94r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5094,7 +5094,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L94v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5121,7 +5121,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L95r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5148,7 +5148,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L95v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5175,7 +5175,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L96r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5202,7 +5202,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L96v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5229,7 +5229,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L97r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5256,7 +5256,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L97v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5283,7 +5283,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L98r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5310,7 +5310,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L98v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5337,7 +5337,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L99r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5364,7 +5364,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L99v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5391,7 +5391,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L100r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5418,7 +5418,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L100v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5445,7 +5445,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L101r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5472,7 +5472,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L101v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5499,7 +5499,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L102r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5526,7 +5526,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L102v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5553,7 +5553,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L103r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5580,7 +5580,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L103v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5607,7 +5607,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L104r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5634,7 +5634,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L104v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5661,7 +5661,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L105r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5688,7 +5688,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L105v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5715,7 +5715,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L106r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5742,7 +5742,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L106v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5769,7 +5769,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L107r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5796,7 +5796,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L107v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5823,7 +5823,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L108r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5850,7 +5850,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L108v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5877,7 +5877,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L109r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5904,7 +5904,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L109v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5931,7 +5931,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L110r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -5958,7 +5958,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L110v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -5985,7 +5985,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L111r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6012,7 +6012,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L111v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6039,7 +6039,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L112r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6066,7 +6066,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L112v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6093,7 +6093,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L113r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6120,7 +6120,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L113v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6147,7 +6147,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L114r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6174,7 +6174,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L114v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6201,7 +6201,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L115r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6228,7 +6228,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L115v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6255,7 +6255,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L116r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6282,7 +6282,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L116v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6309,7 +6309,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L117r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6336,7 +6336,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L117v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6363,7 +6363,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L118r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6390,7 +6390,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L118v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6417,7 +6417,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L119r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6444,7 +6444,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L119v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6471,7 +6471,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L120r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6498,7 +6498,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L120v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6525,7 +6525,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L121r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6552,7 +6552,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L121v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6579,7 +6579,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L122r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6606,7 +6606,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L122v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6633,7 +6633,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L123r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6660,7 +6660,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L123v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6687,7 +6687,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L124r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6714,7 +6714,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L124v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6741,7 +6741,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L125r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6768,7 +6768,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L125v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6795,7 +6795,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L126r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6822,7 +6822,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L126v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6849,7 +6849,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L127r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6876,7 +6876,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L127v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6903,7 +6903,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L128r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6930,7 +6930,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L128v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -6957,7 +6957,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L129r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -6984,7 +6984,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L129v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7011,7 +7011,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L130r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7038,7 +7038,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L130v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7065,7 +7065,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L131r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7092,7 +7092,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L131v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7119,7 +7119,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L132r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7146,7 +7146,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L132v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7173,7 +7173,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L133r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7200,7 +7200,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L133v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7227,7 +7227,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L134r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7254,7 +7254,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L134v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7281,7 +7281,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L135r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7308,7 +7308,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L135v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7335,7 +7335,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L136r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7362,7 +7362,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L136v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7389,7 +7389,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L137r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7416,7 +7416,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L137v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7443,7 +7443,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L138r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7470,7 +7470,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L138v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7497,7 +7497,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L139r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7524,7 +7524,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L139v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7551,7 +7551,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L140r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7578,7 +7578,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L140v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7605,7 +7605,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L141r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7632,7 +7632,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L141v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7659,7 +7659,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L142r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7686,7 +7686,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L142v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7713,7 +7713,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L143r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7740,7 +7740,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L143v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7767,7 +7767,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L144r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7794,7 +7794,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L144v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7821,7 +7821,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L145r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7848,7 +7848,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L145v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7875,7 +7875,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L146r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7902,7 +7902,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L146v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7929,7 +7929,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L147r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -7956,7 +7956,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L147v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -7983,7 +7983,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L148r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8010,7 +8010,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L148v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8037,7 +8037,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L149r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8064,7 +8064,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L149v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8091,7 +8091,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L150r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8118,7 +8118,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L150v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8145,7 +8145,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L151r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8172,7 +8172,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L151v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8199,7 +8199,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L152r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8226,7 +8226,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L152v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8253,7 +8253,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L153r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8280,7 +8280,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L153v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8307,7 +8307,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L154r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8334,7 +8334,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L154v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8361,7 +8361,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L155r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8388,7 +8388,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L155v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8415,7 +8415,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L156r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8442,7 +8442,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L156v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8469,7 +8469,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L157r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8496,7 +8496,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L157v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8523,7 +8523,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L158r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8550,7 +8550,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L158v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8577,7 +8577,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L159r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8604,7 +8604,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L159v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8631,7 +8631,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L160r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8658,7 +8658,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L160v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8685,7 +8685,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L161r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8712,7 +8712,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L161v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8739,7 +8739,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L162r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8766,7 +8766,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L162v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8793,7 +8793,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L163r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8820,7 +8820,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L163v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8847,7 +8847,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L164r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8874,7 +8874,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L164v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8901,7 +8901,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L165r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8928,7 +8928,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L165v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -8955,7 +8955,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L166r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -8982,7 +8982,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L166v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9009,7 +9009,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L167r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9036,7 +9036,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L167v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9063,7 +9063,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L168r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9090,7 +9090,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L168v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9117,7 +9117,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L169r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9144,7 +9144,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L169v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9171,7 +9171,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L170r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9198,7 +9198,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L170v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9225,7 +9225,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L171r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9252,7 +9252,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L171v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9279,7 +9279,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L172r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9306,7 +9306,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L172v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9333,7 +9333,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L173r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9360,7 +9360,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L173v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9387,7 +9387,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L174r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9414,7 +9414,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L174v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9441,7 +9441,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L175r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9468,7 +9468,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L175v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9495,7 +9495,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L176r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9522,7 +9522,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L176v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9549,7 +9549,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L177r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9576,7 +9576,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L177v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9603,7 +9603,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L178r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9630,7 +9630,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L178v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9657,7 +9657,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L179r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9684,7 +9684,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L179v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9711,7 +9711,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L180r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9738,7 +9738,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L180v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9765,7 +9765,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L181r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9792,7 +9792,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L181v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9819,7 +9819,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L182r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9846,7 +9846,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L182v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9873,7 +9873,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L183r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9900,7 +9900,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L183v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9927,7 +9927,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L184r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -9954,7 +9954,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L184v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -9981,7 +9981,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L185r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10008,7 +10008,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L185v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10035,7 +10035,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L186r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10062,7 +10062,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L186v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10089,7 +10089,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L187r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10116,7 +10116,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L187v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10143,7 +10143,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L188r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10170,7 +10170,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L188v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10197,7 +10197,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L189r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10224,7 +10224,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L189v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10251,7 +10251,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L190r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10278,7 +10278,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L190v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10305,7 +10305,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L191r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10332,7 +10332,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L191v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10359,7 +10359,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L192r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10386,7 +10386,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L192v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10413,7 +10413,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L193r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10440,7 +10440,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L193v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10467,7 +10467,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L194r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10494,7 +10494,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L194v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10521,7 +10521,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L195r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10548,7 +10548,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L195v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10575,7 +10575,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L196r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10602,7 +10602,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L196v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10629,7 +10629,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L197r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10656,7 +10656,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L197v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10683,7 +10683,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L198r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10710,7 +10710,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L198v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10737,7 +10737,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L199r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10764,7 +10764,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L199v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10791,7 +10791,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L200r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10818,7 +10818,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L200v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10845,7 +10845,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L201r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10872,7 +10872,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L201v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10899,7 +10899,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L202r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10926,7 +10926,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L202v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -10953,7 +10953,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L203r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -10980,7 +10980,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L203v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11007,7 +11007,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L204r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11034,7 +11034,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L204v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11061,7 +11061,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L205r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11088,7 +11088,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L205v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11115,7 +11115,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L206r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11142,7 +11142,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L206v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11169,7 +11169,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L207r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11196,7 +11196,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L207v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11223,7 +11223,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L208r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11250,7 +11250,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L208v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11277,7 +11277,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L209r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11304,7 +11304,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L209v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11331,7 +11331,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L210r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11358,7 +11358,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L210v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11385,7 +11385,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L211r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11412,7 +11412,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L211v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11439,7 +11439,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L212r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11466,7 +11466,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L212v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11493,7 +11493,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L213r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11520,7 +11520,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L213v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11547,7 +11547,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L214r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11574,7 +11574,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L214v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11601,7 +11601,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L215r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11628,7 +11628,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L215v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11655,7 +11655,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L216r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11682,7 +11682,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L216v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11709,7 +11709,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L217r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11736,7 +11736,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L217v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11763,7 +11763,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L218r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11790,7 +11790,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L218v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11817,7 +11817,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L219r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11844,7 +11844,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L219v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11871,7 +11871,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L220r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11898,7 +11898,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L220v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11925,7 +11925,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L221r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -11952,7 +11952,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L221v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -11979,7 +11979,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L222r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12006,7 +12006,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L222v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12033,7 +12033,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L223r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12060,7 +12060,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L223v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12087,7 +12087,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L224r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12114,7 +12114,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L224v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12141,7 +12141,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L225r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12168,7 +12168,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L225v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12195,7 +12195,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L226r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12222,7 +12222,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L226v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12249,7 +12249,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L227r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12276,7 +12276,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L227v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12303,7 +12303,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L228r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12330,7 +12330,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L228v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12357,7 +12357,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L229r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12384,7 +12384,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L229v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12411,7 +12411,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L230r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12438,7 +12438,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L230v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12465,7 +12465,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L231r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12492,7 +12492,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L231v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12519,7 +12519,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L232r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12546,7 +12546,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L232v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12573,7 +12573,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L233r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12600,7 +12600,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L233v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12627,7 +12627,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L234r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12654,7 +12654,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L234v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12681,7 +12681,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L235r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12708,7 +12708,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L235v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12735,7 +12735,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L236r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12762,7 +12762,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L236v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2884,
             "width": 2212
@@ -12789,7 +12789,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L237r.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2862,
             "width": 2070
@@ -12816,7 +12816,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://loris2.scta.info/lon/L237v.jpg",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 2800,
             "width": 2000

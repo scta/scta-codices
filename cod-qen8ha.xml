@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="clm18332">cod-qen8ha</shortid>
+    <title>Munich, Clm 18332</title>
+    <initial>B</initial> 
+    <!-- contains scotus ordinatio -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-qen8h/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--http://daten.digitale-sammlungen.de/~db/0011/bsb00117080/images/-->
+        <!--        https://opacplus.bsb-muenchen.de/metaopac/singleHit.do?methodToCall=showHit&curPos=26&identifier=100_SOLR_SERVER_1463784062-->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00117080/canvas/</canvasBase> <!-- not working -->
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00117080/manifest</manifestOfficial> <!-- not working -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

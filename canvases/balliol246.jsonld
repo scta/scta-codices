@@ -37,7 +37,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f182r_25487834950_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -66,7 +66,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f182v_25186949283_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -95,7 +95,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f183r_25692594542_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -124,7 +124,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f183v_25692593012_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -153,7 +153,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f184r_25787469316_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -182,7 +182,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f184v_25183052574_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -211,7 +211,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f185r_25813585905_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -240,7 +240,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f185v_25512906230_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -269,7 +269,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f186r_25787501676_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -298,7 +298,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f186v_25512902430_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -327,7 +327,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f187r_25183083154_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -356,7 +356,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f187v_25512898200_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -385,7 +385,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f188r_25186968813_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -414,7 +414,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f188v_25692615112_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -443,7 +443,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f189r_25183076594_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -472,7 +472,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f189v_25186963763_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -501,7 +501,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f190r_25718521311_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -530,7 +530,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f190v_25813613255_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -559,7 +559,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f191r_25787531086_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -588,7 +588,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f191v_25692653262_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -617,7 +617,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f192r_25813607865_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -646,7 +646,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f192v_25512928570_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -675,7 +675,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f193r_25183108964_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -704,7 +704,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f193v_25186997233_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -733,7 +733,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f194r_25186995083_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -762,7 +762,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f194v_25512921160_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -791,7 +791,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f195r_25187048773_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -820,7 +820,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f195v_25512976010_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -849,7 +849,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f196r_25813652635_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -878,7 +878,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f196v_25813650695_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -907,7 +907,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f197r_25187042433_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -936,7 +936,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f197v_25718552691_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -965,7 +965,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f198r_25718551201_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -994,7 +994,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f198v_25718549831_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1023,7 +1023,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f199r_25813641225_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1052,7 +1052,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f199v_25692682992_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1081,7 +1081,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f200r_25692729032_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1110,7 +1110,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f200v_25187076123_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1139,7 +1139,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f201r_25183184804_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1168,7 +1168,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f201v_25787597746_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1197,7 +1197,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f202r_25692722512_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1226,7 +1226,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f202v_25183179854_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1255,7 +1255,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f203r_25692719022_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1284,7 +1284,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f203v_25692717372_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1313,7 +1313,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f204r_25187064343_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1342,7 +1342,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f204v_25183173204_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1371,7 +1371,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f205r_25203795043_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1400,7 +1400,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f205v_25709448132_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1429,7 +1429,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f206r_25804337436_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1458,7 +1458,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f206v_25203790993_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1487,7 +1487,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f207r_25830400855_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1516,7 +1516,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f207v_25804333796_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1545,7 +1545,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f208r_25529700180_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1574,7 +1574,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f208v_25709439822_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1603,7 +1603,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f209r_25529697510_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1632,7 +1632,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f209v_25830394095_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1661,7 +1661,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f210r_25735327181_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1690,7 +1690,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f210v_25203817963_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1719,7 +1719,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f211r_25709472102_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1748,7 +1748,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f211v_25735323851_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1777,7 +1777,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f212r_25735322831_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1806,7 +1806,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f212v_25203813643_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1835,7 +1835,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f213r_25709467432_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1864,7 +1864,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f213v_25735319321_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1893,7 +1893,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f214r_25709465112_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1922,7 +1922,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f214v_25529723390_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1951,7 +1951,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f215r_25199965364_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1980,7 +1980,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f215v_25709515762_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2009,7 +2009,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f216r_25199963064_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2038,7 +2038,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f216v_25804403716_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2067,7 +2067,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f217r_25735365621_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2096,7 +2096,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f217v_25199959634_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2125,7 +2125,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f218r_25735363221_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2154,7 +2154,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f218v_25203853493_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2183,7 +2183,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f219r_25804397456_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2212,7 +2212,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f219v_25735359631_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2241,7 +2241,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f220r_25830511455_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2270,7 +2270,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f220v_25804445086_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2299,7 +2299,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f221r_25529812680_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2328,7 +2328,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f221v_25830508225_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2357,7 +2357,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f222r_25203895913_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2386,7 +2386,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f222v_25529808590_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2415,7 +2415,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f223r_25529807450_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2444,7 +2444,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f223v_25199996554_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2473,7 +2473,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f224r_25830502295_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2502,7 +2502,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f224v_25529804350_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2531,7 +2531,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f225r_25830545515_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2560,7 +2560,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f225v_25529847330_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2589,7 +2589,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f226r_25709587142_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2618,7 +2618,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f226v_25709585562_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2647,7 +2647,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f227r_25830540195_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2676,7 +2676,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f227v_25200033354_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2705,7 +2705,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f228r_25735434291_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2734,7 +2734,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f228v_25529840000_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2763,7 +2763,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f229r_25529838450_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2792,7 +2792,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f229v_25804470036_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2821,7 +2821,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f230r_25709615802_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2850,7 +2850,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f230v_25735467651_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2879,7 +2879,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f231r_25830570305_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2908,7 +2908,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f231v_25200062194_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2937,7 +2937,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f232r_25529870370_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2966,7 +2966,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f232v_25830566735_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2995,7 +2995,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f233r_25529868350_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3024,7 +3024,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f233v_25804499166_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3053,7 +3053,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f234r_25830563045_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3082,7 +3082,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f234v_25830561775_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3111,7 +3111,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f235r_25735491841_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3140,7 +3140,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f235v_25203984073_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3169,7 +3169,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f236r_25200084804_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3198,7 +3198,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f236v_25830591725_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3227,7 +3227,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f237r_25735485721_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3256,7 +3256,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f237v_25203979203_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3285,7 +3285,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f238r_25709631182_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3314,7 +3314,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f238v_25200078944_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3343,7 +3343,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f239r_25203975273_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3372,7 +3372,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f239v_25735479821_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3401,7 +3401,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f240r_25735522911_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3430,7 +3430,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f240v_25735521621_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3459,7 +3459,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f241r_25709668432_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3488,7 +3488,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f241v_25529925710_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3517,7 +3517,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f242r_25204012053_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3546,7 +3546,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f242v_25709664332_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3575,7 +3575,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f243r_25529921880_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3604,7 +3604,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f243v_25200110064_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3633,7 +3633,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f244r_25830615095_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3662,7 +3662,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f244v_25200106454_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3691,7 +3691,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f245r_25804583646_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3720,7 +3720,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f245v_25735543761_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3749,7 +3749,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f246r_25830646525_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3778,7 +3778,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f246v_25200138134_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3807,7 +3807,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f247r_25204035003_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3836,7 +3836,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f247v_25709687812_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3865,7 +3865,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f248r_25804576816_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3894,7 +3894,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f248v_25204031293_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3923,7 +3923,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f249r_25830639505_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3952,7 +3952,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f249v_25804573066_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3981,7 +3981,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f250r_25709725552_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4010,7 +4010,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f250v_25735575691_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4039,7 +4039,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f251r_25830678475_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4068,7 +4068,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f251v_25735573361_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4097,7 +4097,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f252r_25804610586_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4126,7 +4126,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f252v_25709718882_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4155,7 +4155,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f253r_25735569961_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4184,7 +4184,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f253v_25830672905_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4213,7 +4213,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f254r_25804605866_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4242,7 +4242,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f254v_25735566351_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4271,7 +4271,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f255r_25830707975_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4300,7 +4300,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f255v_25530009550_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4329,7 +4329,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f256r_25200196034_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4358,7 +4358,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f256v_25709746692_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4387,7 +4387,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f257r_25735597961_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4416,7 +4416,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f257v_25200192824_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4445,7 +4445,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f258r_25530001920_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4474,7 +4474,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f258v_25232975043_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4503,7 +4503,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f259r_25735591521_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4532,7 +4532,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f259v_25529997970_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4561,7 +4561,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f260r_25530035260_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4590,7 +4590,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f260v_25530034110_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4619,7 +4619,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f261r_25735625661_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4648,7 +4648,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f261v_25804662596_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4677,7 +4677,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f262r_25530030620_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4706,7 +4706,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f262v_25804660656_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4735,7 +4735,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f263r_25830726075_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4764,7 +4764,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f263v_25200216274_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4793,7 +4793,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f264r_25735618781_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4822,7 +4822,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "https://loris2.scta.info/balliol246/ms246-f264v_25735617661_o.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }

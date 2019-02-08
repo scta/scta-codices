@@ -37,7 +37,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/001.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -66,7 +66,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/002.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -95,7 +95,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/003.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -124,7 +124,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/004.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -153,7 +153,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/005.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -182,7 +182,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/006.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -211,7 +211,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/007.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -240,7 +240,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/008.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -269,7 +269,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/009.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -298,7 +298,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/010.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -327,7 +327,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/011.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -356,7 +356,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/012.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -385,7 +385,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/013.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -414,7 +414,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/014.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -443,7 +443,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/015.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -472,7 +472,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/016.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -501,7 +501,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/017.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -530,7 +530,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/018.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -559,7 +559,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/019.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -588,7 +588,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/020.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -617,7 +617,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/021.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -646,7 +646,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/022.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -675,7 +675,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/023.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -704,7 +704,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/024.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -733,7 +733,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/025.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -762,7 +762,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/026.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -791,7 +791,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/027.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -820,7 +820,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/028.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -849,7 +849,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/029.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -878,7 +878,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/030.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -907,7 +907,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/031.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -936,7 +936,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/032.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -965,7 +965,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/033.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -994,7 +994,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/034.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1023,7 +1023,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/035.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1052,7 +1052,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/036.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1081,7 +1081,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/037.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1110,7 +1110,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/038.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1139,7 +1139,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/039.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1168,7 +1168,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/040.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1197,7 +1197,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/041.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1226,7 +1226,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/042.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1255,7 +1255,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/043.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1284,7 +1284,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/044.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1313,7 +1313,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/045.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1342,7 +1342,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/046.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1371,7 +1371,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/047.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1400,7 +1400,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/048.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1429,7 +1429,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/049.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1458,7 +1458,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/050.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1487,7 +1487,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/051.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1516,7 +1516,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/052.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1545,7 +1545,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/053.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1574,7 +1574,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/054.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1603,7 +1603,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/055.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1632,7 +1632,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/056.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1661,7 +1661,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/057.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1690,7 +1690,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/058.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1719,7 +1719,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/059.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1748,7 +1748,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/060.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1777,7 +1777,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/061.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1806,7 +1806,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/062.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1835,7 +1835,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/063.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1864,7 +1864,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/064.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1893,7 +1893,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/065.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1922,7 +1922,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/066.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1951,7 +1951,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/067.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -1980,7 +1980,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/068.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2009,7 +2009,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/069.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2038,7 +2038,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/070.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2067,7 +2067,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/071.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2096,7 +2096,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/072.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2125,7 +2125,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/073.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2154,7 +2154,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/074.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2183,7 +2183,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/075.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2212,7 +2212,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/076.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2241,7 +2241,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/077.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2270,7 +2270,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/078.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2299,7 +2299,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/079.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2328,7 +2328,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/080.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2357,7 +2357,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/081.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2386,7 +2386,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/082.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2415,7 +2415,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/083.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2444,7 +2444,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/084.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2473,7 +2473,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/085.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2502,7 +2502,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/086.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2531,7 +2531,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/087.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2560,7 +2560,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/088.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2589,7 +2589,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/089.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2618,7 +2618,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/090.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2647,7 +2647,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/091.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2676,7 +2676,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/092.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2705,7 +2705,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/093.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2734,7 +2734,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/094.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2763,7 +2763,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/095.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2792,7 +2792,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/096.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2821,7 +2821,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/097.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2850,7 +2850,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/098.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2879,7 +2879,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/099.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2908,7 +2908,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/100.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2937,7 +2937,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/101.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2966,7 +2966,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/102.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -2995,7 +2995,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/103.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3024,7 +3024,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/104.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3053,7 +3053,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/105.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3082,7 +3082,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/106.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3111,7 +3111,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/107.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3140,7 +3140,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/108.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3169,7 +3169,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/109.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3198,7 +3198,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/110.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3227,7 +3227,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/111.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3256,7 +3256,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/112.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3285,7 +3285,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/113.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3314,7 +3314,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/114.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3343,7 +3343,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/115.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3372,7 +3372,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/116.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3401,7 +3401,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/117.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3430,7 +3430,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/118.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3459,7 +3459,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/119.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3488,7 +3488,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/120.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3517,7 +3517,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/121.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3546,7 +3546,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/122.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3575,7 +3575,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/123.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3604,7 +3604,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/124.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3633,7 +3633,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/125.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3662,7 +3662,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/126.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3691,7 +3691,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/127.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3720,7 +3720,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/128.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3749,7 +3749,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/129.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3778,7 +3778,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/130.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3807,7 +3807,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/131.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3836,7 +3836,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/132.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3865,7 +3865,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/133.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3894,7 +3894,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/134.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3923,7 +3923,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/135.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3952,7 +3952,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/136.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -3981,7 +3981,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/137.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4010,7 +4010,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/138.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4039,7 +4039,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/139.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4068,7 +4068,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/140.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4097,7 +4097,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/141.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4126,7 +4126,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/142.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4155,7 +4155,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/143.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4184,7 +4184,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/144.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4213,7 +4213,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/145.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4242,7 +4242,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/146.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4271,7 +4271,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/147.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4300,7 +4300,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/148.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4329,7 +4329,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/149.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4358,7 +4358,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/150.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4387,7 +4387,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/151.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4416,7 +4416,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/152.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4445,7 +4445,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/153.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4474,7 +4474,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/154.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4503,7 +4503,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/155.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4532,7 +4532,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/156.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4561,7 +4561,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/157.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4590,7 +4590,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/158.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4619,7 +4619,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/159.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4648,7 +4648,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/160.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4677,7 +4677,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/161.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4706,7 +4706,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/162.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4735,7 +4735,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/163.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4764,7 +4764,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/164.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4793,7 +4793,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/165.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4822,7 +4822,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/166.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4851,7 +4851,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/167.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4880,7 +4880,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/168.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4909,7 +4909,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/169.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4938,7 +4938,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/170.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4967,7 +4967,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/171.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -4996,7 +4996,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/172.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5025,7 +5025,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/173.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5054,7 +5054,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/174.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5083,7 +5083,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/175.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5112,7 +5112,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/176.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5141,7 +5141,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/177.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5170,7 +5170,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/178.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5199,7 +5199,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/179.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5228,7 +5228,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/180.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5257,7 +5257,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/181.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5286,7 +5286,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/182.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5315,7 +5315,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/183.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5344,7 +5344,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/184.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5373,7 +5373,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/185.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5402,7 +5402,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/186.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5431,7 +5431,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/187.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5460,7 +5460,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/188.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5489,7 +5489,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/189.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5518,7 +5518,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/190.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5547,7 +5547,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/191.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5576,7 +5576,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/192.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5605,7 +5605,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/193.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5634,7 +5634,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/194.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5663,7 +5663,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/195.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5692,7 +5692,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/196.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5721,7 +5721,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/197.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5750,7 +5750,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/198.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5779,7 +5779,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/199.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5808,7 +5808,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/200.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5837,7 +5837,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/201.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5866,7 +5866,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/202.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5895,7 +5895,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/203.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5924,7 +5924,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/204.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5953,7 +5953,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/205.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -5982,7 +5982,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/206.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6011,7 +6011,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/207.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6040,7 +6040,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/208.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6069,7 +6069,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/209.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6098,7 +6098,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/210.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6127,7 +6127,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/211.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6156,7 +6156,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/212.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6185,7 +6185,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/213.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6214,7 +6214,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/214.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6243,7 +6243,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/215.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6272,7 +6272,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/216.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6301,7 +6301,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/217.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6330,7 +6330,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/218.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6359,7 +6359,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/219.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6388,7 +6388,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/220.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6417,7 +6417,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/221.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6446,7 +6446,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/222.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6475,7 +6475,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/223.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6504,7 +6504,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/224.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6533,7 +6533,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/225.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6562,7 +6562,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/226.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6591,7 +6591,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/227.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6620,7 +6620,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/228.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6649,7 +6649,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/229.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6678,7 +6678,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/230.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6707,7 +6707,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/231.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6736,7 +6736,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/232.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6765,7 +6765,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/233.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6794,7 +6794,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/234.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6823,7 +6823,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/235.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6852,7 +6852,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/236.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6881,7 +6881,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/237.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6910,7 +6910,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/238.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6939,7 +6939,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/239.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6968,7 +6968,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/240.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -6997,7 +6997,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/241.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7026,7 +7026,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/242.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7055,7 +7055,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/243.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7084,7 +7084,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/244.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7113,7 +7113,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/245.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7142,7 +7142,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/246.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7171,7 +7171,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/247.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7200,7 +7200,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/248.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7229,7 +7229,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/249.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7258,7 +7258,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/250.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7287,7 +7287,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/251.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7316,7 +7316,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/252.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7345,7 +7345,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/253.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7374,7 +7374,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/254.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7403,7 +7403,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/255.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7432,7 +7432,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/256.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7461,7 +7461,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/257.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7490,7 +7490,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/258.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7519,7 +7519,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/259.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }
@@ -7548,7 +7548,7 @@
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
                   "@id": "http://loris2.scta.info/Lyon1518/260.jpg",
-                  "profile": "http://iiif.io/api/image/1/level2.json"
+                  "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
             }

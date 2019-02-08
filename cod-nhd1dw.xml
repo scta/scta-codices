@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1523">cod-nhd1dw</shortid>
+    <title>Venice 1523</title>
+    <!-- Contains Thomas of Sutton Sent Commentary on Book 1 -->
+    <initial>Va</initial>
+    <place>Venice</place>
+    <date>1523</date>
+    <hasItems>
+      <item>
+        <label>Venice 1523</label>
+        <canonical>true</canonical>
+        <shortid>cod-nhd1dw/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

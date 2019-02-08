@@ -45,7 +45,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0002.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -72,7 +72,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0003.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -99,7 +99,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0004.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -126,7 +126,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0005.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -153,7 +153,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0006.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -180,7 +180,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0007.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -207,7 +207,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0008.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -234,7 +234,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0009.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -261,7 +261,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0010.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -288,7 +288,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0011.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -315,7 +315,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0012.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -342,7 +342,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0013.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -369,7 +369,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0014.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -396,7 +396,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0015.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -423,7 +423,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0016.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -450,7 +450,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0017.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -477,7 +477,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0018.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -504,7 +504,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0019.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -531,7 +531,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0020.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -558,7 +558,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0021.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -585,7 +585,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0022.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -612,7 +612,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0023.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -639,7 +639,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0024.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -666,7 +666,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0025.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -693,7 +693,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0026.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -720,7 +720,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0027.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -747,7 +747,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0028.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -774,7 +774,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0029.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -801,7 +801,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0030.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -828,7 +828,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0031.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -855,7 +855,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0032.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -882,7 +882,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0033.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -909,7 +909,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0034.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -936,7 +936,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0035.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -963,7 +963,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0036.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -990,7 +990,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0037.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1017,7 +1017,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0038.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1044,7 +1044,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0039.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1071,7 +1071,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0040.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1098,7 +1098,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0041.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1125,7 +1125,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0042.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1152,7 +1152,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0043.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1179,7 +1179,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0044.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1206,7 +1206,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0045.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1233,7 +1233,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0046.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1260,7 +1260,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0047.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1287,7 +1287,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0048.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1314,7 +1314,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0049.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1341,7 +1341,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0050.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1368,7 +1368,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0051.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1395,7 +1395,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0052.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1422,7 +1422,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0053.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1449,7 +1449,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0054.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1476,7 +1476,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0055.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1503,7 +1503,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0056.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1530,7 +1530,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0057.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1557,7 +1557,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0058.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1584,7 +1584,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0059.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1611,7 +1611,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0060.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1638,7 +1638,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0061.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1665,7 +1665,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0062.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1692,7 +1692,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0063.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1719,7 +1719,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0064.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1746,7 +1746,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0065.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1773,7 +1773,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0066.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1800,7 +1800,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0067.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1827,7 +1827,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0068.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1854,7 +1854,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0069.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1881,7 +1881,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0070.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1908,7 +1908,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0071.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1935,7 +1935,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0072.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1962,7 +1962,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0073.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -1989,7 +1989,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0074.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2016,7 +2016,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0075.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2043,7 +2043,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0076.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2070,7 +2070,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0077.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2097,7 +2097,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0078.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2124,7 +2124,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0079.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2151,7 +2151,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0080.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2178,7 +2178,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0081.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2205,7 +2205,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0082.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2232,7 +2232,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0083.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2259,7 +2259,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0084.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2286,7 +2286,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0085.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2313,7 +2313,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0086.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2340,7 +2340,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0087.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2367,7 +2367,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0088.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2394,7 +2394,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0089.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2421,7 +2421,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0090.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2448,7 +2448,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0091.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2475,7 +2475,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0092.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2502,7 +2502,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0093.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2529,7 +2529,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0094.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2556,7 +2556,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0095.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2583,7 +2583,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0096.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2610,7 +2610,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0097.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2637,7 +2637,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0098.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2664,7 +2664,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2691,7 +2691,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2718,7 +2718,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2745,7 +2745,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2772,7 +2772,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2799,7 +2799,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2826,7 +2826,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2853,7 +2853,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2880,7 +2880,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2907,7 +2907,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2934,7 +2934,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2961,7 +2961,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -2988,7 +2988,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3015,7 +3015,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3042,7 +3042,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3069,7 +3069,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3096,7 +3096,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3123,7 +3123,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3150,7 +3150,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3177,7 +3177,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3204,7 +3204,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3231,7 +3231,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3258,7 +3258,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3285,7 +3285,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3312,7 +3312,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3339,7 +3339,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3366,7 +3366,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3393,7 +3393,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3420,7 +3420,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3447,7 +3447,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3474,7 +3474,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3501,7 +3501,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3528,7 +3528,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3555,7 +3555,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3582,7 +3582,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3609,7 +3609,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3636,7 +3636,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3663,7 +3663,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3690,7 +3690,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3717,7 +3717,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3744,7 +3744,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3771,7 +3771,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3798,7 +3798,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3825,7 +3825,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3852,7 +3852,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3879,7 +3879,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3906,7 +3906,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3933,7 +3933,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3960,7 +3960,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -3987,7 +3987,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4014,7 +4014,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4041,7 +4041,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4068,7 +4068,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4095,7 +4095,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4122,7 +4122,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4149,7 +4149,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4176,7 +4176,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4203,7 +4203,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4230,7 +4230,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4257,7 +4257,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4284,7 +4284,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4311,7 +4311,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4338,7 +4338,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4365,7 +4365,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4392,7 +4392,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4419,7 +4419,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4446,7 +4446,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4473,7 +4473,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4500,7 +4500,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4527,7 +4527,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4554,7 +4554,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4581,7 +4581,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4608,7 +4608,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4635,7 +4635,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4662,7 +4662,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4689,7 +4689,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4716,7 +4716,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4743,7 +4743,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4770,7 +4770,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4797,7 +4797,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4824,7 +4824,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4851,7 +4851,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4878,7 +4878,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4905,7 +4905,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4932,7 +4932,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4959,7 +4959,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -4986,7 +4986,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5013,7 +5013,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5040,7 +5040,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5067,7 +5067,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5094,7 +5094,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5121,7 +5121,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5148,7 +5148,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5175,7 +5175,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5202,7 +5202,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5229,7 +5229,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5256,7 +5256,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5283,7 +5283,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5310,7 +5310,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5337,7 +5337,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5364,7 +5364,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5391,7 +5391,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5418,7 +5418,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5445,7 +5445,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5472,7 +5472,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5499,7 +5499,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5526,7 +5526,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5553,7 +5553,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5580,7 +5580,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5607,7 +5607,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5634,7 +5634,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5661,7 +5661,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5688,7 +5688,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5715,7 +5715,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5742,7 +5742,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5769,7 +5769,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5796,7 +5796,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5823,7 +5823,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5850,7 +5850,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5877,7 +5877,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5904,7 +5904,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5931,7 +5931,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5958,7 +5958,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -5985,7 +5985,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6012,7 +6012,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6039,7 +6039,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6066,7 +6066,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6093,7 +6093,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6120,7 +6120,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6147,7 +6147,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6174,7 +6174,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6201,7 +6201,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6228,7 +6228,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6255,7 +6255,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6282,7 +6282,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6309,7 +6309,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6336,7 +6336,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6363,7 +6363,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6390,7 +6390,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6417,7 +6417,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6444,7 +6444,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6471,7 +6471,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6498,7 +6498,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6525,7 +6525,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6552,7 +6552,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6579,7 +6579,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6606,7 +6606,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6633,7 +6633,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6660,7 +6660,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6687,7 +6687,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6714,7 +6714,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6741,7 +6741,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6768,7 +6768,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6795,7 +6795,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6822,7 +6822,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6849,7 +6849,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6876,7 +6876,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6903,7 +6903,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6930,7 +6930,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6957,7 +6957,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -6984,7 +6984,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7011,7 +7011,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7038,7 +7038,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7065,7 +7065,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7092,7 +7092,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7119,7 +7119,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7146,7 +7146,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7173,7 +7173,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7200,7 +7200,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7227,7 +7227,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7254,7 +7254,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7281,7 +7281,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7308,7 +7308,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7335,7 +7335,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7362,7 +7362,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7389,7 +7389,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7416,7 +7416,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7443,7 +7443,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7470,7 +7470,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7497,7 +7497,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7524,7 +7524,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7551,7 +7551,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7578,7 +7578,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7605,7 +7605,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7632,7 +7632,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7659,7 +7659,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7686,7 +7686,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7713,7 +7713,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7740,7 +7740,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7767,7 +7767,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7794,7 +7794,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7821,7 +7821,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7848,7 +7848,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7875,7 +7875,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7902,7 +7902,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7929,7 +7929,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7956,7 +7956,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -7983,7 +7983,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8010,7 +8010,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8037,7 +8037,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8064,7 +8064,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8091,7 +8091,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8118,7 +8118,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8145,7 +8145,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
@@ -8172,7 +8172,7 @@
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex727/data/master/0382_0099.tif",
-              "profile": "http://iiif.io/api/image/1/level2.json"
+              "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 5824,
             "width": 4591
