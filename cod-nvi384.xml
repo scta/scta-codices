@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="vatlat884">cod-nvi384</shortid>
+    <title>Vatican, vat lat. 884</title> <!-- contains Scotus Ordinatio -->
+    <initial>Vm</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-nvi384/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.884/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.884/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
