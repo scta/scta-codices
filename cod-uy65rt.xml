@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1602">cod-uy65rt</shortid>
+    <title>Venice 1602</title>
+    <!-- Contains Zabarella commentary on decretals 4 and 5 -->
+    <initial>V</initial>
+    <place>Venice</place>
+    <date>1602</date>
+    <hasItems>
+      <item>
+        <!--https://archive.org/details/bub_gb_4oVurpp3KXgC/page/n7-->
+        <!--https://books.google.com/books?id=4oVurpp3KXgC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false-->
+        <label>Venice 1602</label>
+        <canonical>true</canonical>
+        <shortid>cod-uy65rt/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
