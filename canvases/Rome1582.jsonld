@@ -43745,35 +43745,6 @@
               }
             }
           ]
-        },
-        {
-          "@context": "http://iiif.io/api/presentation/2/context.json",
-          "@id": "http://scta.info/iiif/Rome1582/canvas/1441",
-          "@type": "sc:Canvas",
-          "label": "1441",
-          "height": ,
-          "width": ,
-          "images": [
-            {
-              "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "http://scta.info/iiif/Rome1582/annotation/1441-image",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "http://scta.info/iiif/Rome1582/canvas/1441",
-              "resource": {
-                "@id": "http://scta.info/iiif/Rome1582/res/1441",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": ,
-                "width": ,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://loris2.scta.info/Rome1582/manifest.jsonld",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                }
-              }
-            }
-          ]
         }
       ]
     }
