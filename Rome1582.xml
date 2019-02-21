@@ -10,7 +10,7 @@
         <canonical>true</canonical>
         <shortid>Rome1582/item1</shortid>
         <canvasBase>http://scta.info/iiif/Rome1582/canvas/</canvasBase>
-        <manifestOfficial/>
+        <manifestOfficial>https://scta.info/iiif/codex/Roma1582</manifestOfficial>
       </item>
     </hasItems>
   </head>
