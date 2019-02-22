@@ -5,6 +5,8 @@
     <shortid>Rome1582</shortid>
     <title>Rome 1582</title>
     <initial>R</initial>
+    <place>Rome</place>
+    <date>1582</date>
     <hasItems>
       <item>
         <canonical>true</canonical>
