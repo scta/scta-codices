@@ -13,8 +13,9 @@
         <label>Venice 1523</label>
         <canonical>true</canonical>
         <shortid>cod-nhd1dw/item1</shortid>
-        <canvasBase></canvasBase>
-        <manifestOfficial></manifestOfficial>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10150032/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10150032/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
