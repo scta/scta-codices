@@ -6,6 +6,8 @@
 		<title>Venice 1521 Printing</title>
 		<description>Includes book 1 of Giles of Rome's Commentary on the Sentences</description>
 		<initial>V</initial> <!-- non unique unitial -->
+	  <place>Venice</place>
+	  <date>1521</date>
 		<hasItems>
 			<item id="item1"> <!-- a file specific id -->
 				<canonical>true</canonical>

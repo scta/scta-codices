@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codex>
   <head>
-    <type>book</type>
+    <type>book</type> 
     <shortid>Rome1582</shortid>
     <title>Rome 1582</title>
     <initial>R</initial>

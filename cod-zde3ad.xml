@@ -4,7 +4,7 @@
     <type>book</type>
     <shortid alias="Venice1493">cod-zde3ad</shortid>
     <title>Venice 1493</title>
-    <!-- contains sent commentary of peter palude -->
+    <!-- contains sent commentary of peter palude  -->
     <initial>L</initial>
     <place>Venice</place>
     <date>1493</date>
@@ -13,13 +13,11 @@
         <label>BSB</label>
         <canonical>true</canonical>
         <shortid>cod-zde3ad/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <callNumber>https://opacplus.bsb-muenchen.de/title/BV035881720</callNumber>
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00058749/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00058749/manifest</manifestOfficial>
       </item>
-      
-      
-      
     </hasItems>
   </head>
   <surfaces>

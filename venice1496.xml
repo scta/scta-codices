@@ -5,6 +5,8 @@
 		<shortid>venice1496</shortid>
 		<title>Venice 1496</title>
 		<initial>P</initial>
+	  <place>Venice</place>
+	  <date>1496</date>
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

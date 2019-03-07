@@ -6,6 +6,8 @@
     <!-- just one, cause it is the first record, we made. the next will be Venice1490/2 -->
     <!-- we could add a numerical id as well e.g. <numberid></numberid> -->
     <title>Venice 1490 Printing</title>
+    <place>Venice</place>
+    <date>1490</date>
     <initial>P</initial>
     <hasItems>
       <item>

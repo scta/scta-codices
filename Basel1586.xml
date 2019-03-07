@@ -6,6 +6,8 @@
 		<title>Basel1586 Printing</title>
 		<description>Includes Robert Holcot Wisdom Commentary</description>
 		<initial>B1</initial>
+	  <place>Basel</place>
+	  <date>1586</date>
 		<!-- non unique unitial -->
 		<hasItems>
 			<item id="item1">

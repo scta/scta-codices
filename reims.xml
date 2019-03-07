@@ -5,8 +5,8 @@
 		<shortid>reims</shortid>
 		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
 		<title>Reims, Bibliothèque Municipale, ms. 506</title>
-		<initial>SV</initial>
-		<!-- svict -->
+		<initial>R</initial>
+		<date>1412</date>  <!-- see inside flap (folio 0v) for 1412 reference -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

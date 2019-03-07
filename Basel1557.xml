@@ -6,6 +6,8 @@
 	  <!-- contains Pico della Miradolla's Apologia along with other works -->
 		<title>Basel 1557 Printing</title>
 		<initial>B</initial>
+	  <place>Basel</place>
+	  <date>1557</date>
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
