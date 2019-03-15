@@ -11,6 +11,7 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>pal/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
 				<canvasBase>http://scta.info/iiif/pal/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>
