@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="Erlangen434">cod-hju67y</shortid>
+    <title>Universitatsbibliothek Erlangen-Nurnberg MS 434</title>
+    <initial>E</initial>
+    <!-- contains metaphysics commentary of Gonsalvus of Spain -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-hju67y/item1</shortid>
+        <canvasBase/>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
