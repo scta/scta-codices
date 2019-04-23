@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="CorpusChristi380">cod-hgt67y</shortid>
+    <title>Cambridge, Corpus Christi College, ms 380</title>
+    <initial>C</initial>
+    <!-- contains Speculum Fidei of Robert of Cricklade  -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>>cod-hgt67y/item1</shortid>
+        <canvasBase>https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/</canvasBase>
+        <manifestOfficial>https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+    
+  </surfaces>
+</codex>
