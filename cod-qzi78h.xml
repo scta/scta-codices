@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="BaselAX44">cod-qzi78h</shortid>
+    <title>Basel A X 44 </title>
+    <initial>B</initial>
+    <!-- contains Rise project questions -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <holdingInstitution>http://scta.info/resource/I-idfn1d</holdingInstitution>
+        <shortid>>cod-qzi78h/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial><!-- ecodices --></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+    
+  </surfaces>
+</codex>
