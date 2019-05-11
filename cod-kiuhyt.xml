@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="BrynMawr5">cod-kiuhyt</shortid>
+    <title>Philadelphia, Bryn Mawr, ms. 5</title>
+    <initial>B</initial>
+    <place>Germany</place>
+    <date>1454</date> <!-- 18 May 1454 -->
+    <!-- contains Bonaventure Book 2 of commentary on Lombard -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <holdingInstitution>http://scta.info/resource/I-oiytqw</holdingInstitution>
+        <!-- http://www.brynmawr.edu/library/speccoll/guides/ms5.shtml -->
+        <!-- http://bibliophilly.library.upenn.edu/viewer.php?id=MS%205#page/1/mode/2up -->
+        <shortid>>cod-kiuhyt/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial><!-- ecodices --></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+    
+  </surfaces>
+</codex>
