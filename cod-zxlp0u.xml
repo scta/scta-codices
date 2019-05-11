@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1576">cod-zxlp0u</shortid>
+    <title>Venice 1576</title>
+    <!-- contains decretales commentary of Hernicus Boich -->
+    <!-- see https://archive.org/details/bub_gb_ePuIB0WhTz8C/page/n278 -->
+    <place>Venice</place>
+    <date>1576</date>
+    <initial>V</initial>
+    <hasItems>
+      <item>
+        <label>National Central Library of Rome</label>
+        <canonical>true</canonical>
+        <shortid>cod-zxlp0u/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-avn3fd</holdingInstitution>
+        <callNumber/>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_ePuIB0WhTz8C/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <!-- page numbering causes count restart at ...156, 157A; 157A, 158A, 159A 160A, 157... -->
+  </surfaces>
+</codex>
