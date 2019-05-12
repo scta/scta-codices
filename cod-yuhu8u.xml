@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="clm28939">cod-yuhu8u</shortid>
+		<title>Munich Clm 28939</title>
+		<initial>B</initial> 
+	  <!-- contains copy of pontifical romano germanic from Plock -->
+		<hasItems>
+			<item>
+			  <label>Munich Clm 28939</label>
+				<canonical>true</canonical>
+			  <shortid>cod-yuhu8u/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+			  <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00059260/canvas/</canvasBase>
+			  <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00059260/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>
