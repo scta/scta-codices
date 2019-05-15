@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+	<head>
+		<type>manuscript</type>
+	  <shortid alias="WolfenbuettelCodGuelf173Helmst">cod-uyt67y</shortid>
+	  <title>Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 173 Helmst.</title>
+	  <initial>cod-uytew7</initial> 
+	  <!-- contains copy of Lombard's Sentences, at least book 1 -->
+	  <date>1456</date>
+	  <place>Erfurt</place>
+		<hasItems>
+			<item>
+			  <label>Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 173 Helmst.</label>
+				<canonical>true</canonical>
+			  <shortid>cod-uyt67y/item1</shortid>
+			  <holdingInstitution>http://scta.info/resource/I-qwio9i</holdingInstitution>
+			  <libraryRecord>http://diglib.hab.de/?db=mss&amp;list=ms&amp;id=173-helmst</libraryRecord>
+			  <canvasBase>https://iiif.hab.de/object/mss_173-helmst/canvas/</canvasBase>
+			  <manifestOfficial>https://iiif.hab.de/object/mss_173-helmst/manifest</manifestOfficial>
+			</item>
+		</hasItems>
+	</head>
+	<surfaces>
+	  
+	</surfaces>
+</codex>
