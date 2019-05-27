@@ -4,7 +4,7 @@
     <type>book</type>
     <shortid alias="Alonso1957">cod-i3uyer</shortid>
     <title>Alonso 1957 Edition</title>
-    <!-- unsure if Louvain is correct, title page is corrupted -->
+    <!-- an edition containing latin text of pseudo dionysius and peter of spain's commentary -->
     <initial>A</initial>
     <place></place>
     <date>1957</date>
