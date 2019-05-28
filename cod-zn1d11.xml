@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-zn1d11</shortid>
+    <title>Pittsburgh, University of Pittsburgh, ms 1474</title>
+    <!--contains abbreviation of scotus sentences commentary -->
+    <!-- catalogue summary: An abridgement by Rogerius Anglicus of Duns Scotus’s commentary on the Sententiae of Peter Lombard. -->
+    <initial>P</initial>
+    <place></place>
+    <date>1474</date> <!--from UPITT catalogue description Copied by Paulus Barianus, a Franciscan and professor of theology; dated August 4, 1474.-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-zn1d11/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-zdnenv</holdingInstitution>
+        <callNumber>http://pittcat.pitt.edu/cgi-bin/Pwebrecon.cgi?v3=1&amp;ti=1,1&amp;SEQ=20190528110148&amp;CallBrowse=1&amp;PID=X6t-qdOw6RMtKkDx5WNl6ZO3680Edk&amp;SID=2</callNumber>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
