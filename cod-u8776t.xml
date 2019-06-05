@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="tarPalArzCod2">cod-u8776t</shortid>
+    <title>Tarragona, Library of the Palacio Arzobispal, cod. 2</title> 
+    <!-- contains tractus de logical and syncategoreumata -->  
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-u8776t/item1</shortid>
+        <holdingInstitution/>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="reglat1731">cod-mny78u</shortid>
+    <title>Vatican, Reg. Lat, 1731</title> 
+    <!-- contains tractus de logical and syncategoreumata -->  
+    <initial>R</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-mny78u/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Reg.lat.1731/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Reg.lat.1731/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
