@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Berlin1863Vol1">cod-av3e2d</shortid>
+    <title>Berlin 1863, Volume 1</title>
+    <initial>Ba</initial>
+    <!-- contains Gerhard Loci Theologic Volume 1-->
+    <place>Berlin</place>
+    <date>1863</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-av3e2d/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial><!-- https://archive.org/details/LociTheologici --></manifestOfficial>
+        
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
