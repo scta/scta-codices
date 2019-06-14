@@ -11,8 +11,8 @@
         <canonical>true</canonical>
         <holdingInstitution>http://scta.info/resource/I-idfn1d</holdingInstitution>
         <shortid>>cod-qzi78h/item1</shortid>
-        <canvasBase></canvasBase>
-        <manifestOfficial><!-- ecodices --></manifestOfficial>
+        <canvasBase>https://www.e-codices.unifr.ch/metadata/iiif/ubb-A-X-0044/canvas/</canvasBase>
+        <manifestOfficial>https://www.e-codices.unifr.ch/metadata/iiif/ubb-A-X-0044/manifest.json</manifestOfficial>
       </item>
     </hasItems>
   </head>
