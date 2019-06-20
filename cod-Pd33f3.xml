@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains Geneva 1564 french complete work of Bullinger Decas -->
+  <head>
+    <type>book</type>
+    <shortid alias="Geneva1564">cod-Pd33f3</shortid>
+    <title>Geneva 1564</title>
+    <initial>G</initial>
+    <place>Geneva</place>
+    <date>1564</date>
+    <hasItems>
+      <item>
+        <label>Geneva 1564</label>
+        <canonical>true</canonical>
+        <shortid>cod-Pd33f3/item1</shortid>
+        <!--<holdingInstitution> needs id for Zentralbibliothek zurich </holdingInstitution>-->
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/3930498/canvas/</canvasBase>
+        <manifestOfficial>https://www.e-rara.ch/i3f/v20/3930498/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

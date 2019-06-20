@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains Bern 1558 german complete work of Bullinger Decas -->
+  <head>
+    <type>book</type>
+    <shortid alias="Bern1558">cod-U78DFf</shortid>
+    <title>Bern 1558</title>
+    <initial>B</initial>
+    <place>Bern</place>
+    <date>1558</date>
+    <hasItems>
+      <item>
+        <label>Bern 1558</label>
+        <canonical>true</canonical>
+        <shortid>cod-U78DFf/item1</shortid>
+        <!--<holdingInstitution> needs id for Zentralbibliothek zurich </holdingInstitution>-->
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/1314673/canvas</canvasBase>
+        <manifestOfficial>https://www.e-rara.ch/i3f/v20/1314673/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

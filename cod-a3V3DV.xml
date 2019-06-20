@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains zurich 1552 complete work of Bullinger  -->
+  <head>
+    <type>book</type>
+    <shortid alias="Zurich1552">cod-a3V3DV</shortid>
+    <title>Zurich 1552</title>
+    <initial>Z</initial>
+    <place>Zurich</place>
+    <date>1552</date>
+    <hasItems>
+      <item>
+        <label>Zurich 1552</label>
+        <canonical>true</canonical>
+        <shortid>cod-a3V3DV/item1</shortid>
+        <!--<holdingInstitution> needs id for Zentralbibliothek zurich </holdingInstitution>-->
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/781554/canvas/</canvasBase>
+        <manifestOfficial>https://www.e-rara.ch/i3f/v20/781554/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

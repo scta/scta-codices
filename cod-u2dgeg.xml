@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains London 1587 english complete work of Bullinger Decas -->
+  <head>
+    <type>book</type>
+    <shortid alias="London1587">cod-u2dgeg</shortid>
+    <title>London 1587</title>
+    <initial>L</initial>
+    <place>London</place>
+    <date>1587</date>
+    <hasItems>
+      <item>
+        <label>London 1587</label>
+        <canonical>true</canonical>
+        <shortid>cod-u2dgeg/item1</shortid>
+        <!--<holdingInstitution> </holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/fiftiegodlielear00bull/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

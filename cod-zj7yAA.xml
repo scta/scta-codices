@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains zurich 1551 decima 5 of Bullinger  -->
+  <head>
+    <type>book</type>
+    <shortid alias="Zurich1551">cod-zj7yAA</shortid>
+    <title>Zurich 1551</title>
+    <initial>Za</initial>
+    <place>Zurich</place>
+    <date>1551</date>
+    <hasItems>
+      <item>
+        <label>Zurich 1551</label>
+        <canonical>true</canonical>
+        <shortid>cod-zj7yAA/item1</shortid>
+        <!--<holdingInstitution> needs id for Zentralbibliothek zurich </holdingInstitution>-->
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/478847/canvas/</canvasBase>
+        <manifestOfficial>https://www.e-rara.ch/i3f/v20/478847/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
