@@ -6,7 +6,7 @@
 		<!-- we could add a numerical id as well e.g. <numberid></numberid> -->
 		<title>British Royal MS 10 A I</title>
 		<initial>L</initial>
-		<!-- sorb -->
+		<date>1415</date> <!-- folio 234v for dating -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>

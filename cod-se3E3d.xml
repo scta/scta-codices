@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains loci theologici of Melchior Cano  -->
+  <head>
+    <type>book</type>
+    <shortid alias="Louvain1564">cod-se3E3d</shortid>
+    <title>Louvain 1564</title>
+    <initial>L</initial>
+    <place>Louvain</place>
+    <date>1564</date>
+    <hasItems>
+      <item>
+        <label>Louvain 1564</label>
+        <canonical>true</canonical>
+        <shortid>cod-se3E3d/item1</shortid>
+        <canvasBase/>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <!-- contains loci theologici of Antoine Chandieu  -->
+  <head>
+    <type>book</type>
+    <shortid alias="">cod-uySe7d</shortid>
+    <title>Morges1580</title>
+    <initial>M</initial>
+    <place>Morges</place>
+    <date>1580</date>
+    <hasItems>
+      <item>
+        <label>Morges 1580</label>
+        <canonical>true</canonical>
+        <shortid>cod-uySe7d/item1</shortid>
+        <canvasBase/>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
