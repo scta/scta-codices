@@ -1,0 +1,118 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://scta.info/iiif/static/cod-u8776t/manifest",
+  "@type": "sc:Manifest",
+  "label": "Tarragona, Library of the Palacio Arzobispal, cod. 2",
+  "description": "Tarragona, Library of the Palacio Arzobispal, cod. 2",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sequences": [{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://scta.info/iiif/static/cod-u8776t/sequence/normal",
+    "@type": "sc:Sequence",
+    "label": "Current page order",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "canvases": [
+      {
+        "@id": "http://scta.info/iiif/cod-u8776t/canvas/1r",
+        "@type": "sc:Canvas",
+        "label": "1r",
+        "height": 2647,
+        "width": 1969,
+        "images": [{
+          "@id": "http://scta.info/iiif/cod-u8776t/annotation/1r-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "http://scta.info/iiif/cod-u8776t/canvas/1r",
+          "resource": {
+            "@id": "http://scta.info/iiif/cod-u8776t/res/1r",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 2647,
+            "width": 1969,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }]
+      },
+      {
+        "@id": "http://scta.info/iiif/cod-u8776t/canvas/1v",
+        "@type": "sc:Canvas",
+        "label": "1v",
+        "height": 2647,
+        "width": 1969,
+        "images": [{
+          "@id": "http://scta.info/iiif/cod-u8776t/annotation/1v-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "http://scta.info/iiif/cod-u8776t/canvas/1v",
+          "resource": {
+            "@id": "http://scta.info/iiif/cod-u8776t/res/1v",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 2647,
+            "width": 1969,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }]
+      },
+      {
+        "@id": "http://scta.info/iiif/cod-u8776t/canvas/2Ar",
+        "@type": "sc:Canvas",
+        "label": "2Ar",
+        "height": 2647,
+        "width": 1969,
+        "images": [{
+          "@id": "http://scta.info/iiif/cod-u8776t/annotation/2Ar-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "http://scta.info/iiif/cod-u8776t/canvas/2Ar",
+          "resource": {
+            "@id": "http://scta.info/iiif/cod-u8776t/res/2Ar",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 2647,
+            "width": 1969,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }]
+      },
+      {
+        "@id": "http://scta.info/iiif/cod-u8776t/canvas/2Av",
+        "@type": "sc:Canvas",
+        "label": "2Av",
+        "height": 2647,
+        "width": 1969,
+        "images": [{
+          "@id": "http://scta.info/iiif/cod-u8776t/annotation/2Av-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "on": "http://scta.info/iiif/cod-u8776t/canvas/2Av",
+          "resource": {
+            "@id": "http://scta.info/iiif/cod-u8776t/res/2Av",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 2647,
+            "width": 1969,
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }]
+      }
+    ]
+  }]
+}

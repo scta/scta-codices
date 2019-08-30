@@ -11,11 +11,55 @@
         <canonical>true</canonical>
         <shortid>cod-u8776t/item1</shortid>
         <holdingInstitution/>
-        <canvasBase></canvasBase>
-        <manifestOfficial></manifestOfficial>
+        <canvasBase>http://scta.info/iiif/cod-u8776t/canvas/</canvasBase>
+        <manifestOfficial>http://scta.info/iiif/codex/cod-u8776t/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
   <surfaces>
+    <surface>
+      <shortid>cod-u8776t/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-u8776t/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-u8776t/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-u8776t/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-u8776t/2Ar</shortid>
+      <label>2Ar</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-u8776t/2Ar/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>2Ar</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-u8776t/2Av</shortid>
+      <label>2Av</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-u8776t/2Av/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>2Av</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
   </surfaces>
 </codex>
