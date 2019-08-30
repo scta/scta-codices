@@ -32,7 +32,7 @@
             "width": 1969,
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "",
+              "@id": "https://loris2.scta.info/cod-u8776t/1r.jpg",
               "profile": "http://iiif.io/api/image/2/level2.json"
             }
           }
@@ -57,7 +57,7 @@
             "width": 1969,
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "",
+              "@id": "https://loris2.scta.info/cod-u8776t/1v.jpg",
               "profile": "http://iiif.io/api/image/2/level2.json"
             }
           }
@@ -82,7 +82,7 @@
             "width": 1969,
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "",
+              "@id": "https://loris2.scta.info/cod-u8776t/2Ar.jpg",
               "profile": "http://iiif.io/api/image/2/level2.json"
             }
           }
@@ -107,7 +107,7 @@
             "width": 1969,
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "",
+              "@id": "https://loris2.scta.info/cod-u8776t/2Av.jpg",
               "profile": "http://iiif.io/api/image/2/level2.json"
             }
           }
