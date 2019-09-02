@@ -6,11 +6,13 @@
     <title>Tarragona, Library of the Palacio Arzobispal, cod. 2</title>
     <!-- contains tractus de logical and syncategoreumata -->
     <initial>P</initial>
+    <date>1199A</date><!--13th century-->
     <hasItems>
       <item>
         <canonical>true</canonical>
         <shortid>cod-u8776t/item1</shortid>
         <holdingInstitution/>
+        <!-- https://arxiuenlinia.ahat.cat/Document/0000031316 -->
         <canvasBase>http://scta.info/iiif/cod-u8776t/canvas/</canvasBase>
         <manifestOfficial>http://scta.info/iiif/codex/cod-u8776t/manifest</manifestOfficial>
       </item>
