@@ -15,8 +15,8 @@
         <!-- http://www.brynmawr.edu/library/speccoll/guides/ms5.shtml -->
         <!-- http://bibliophilly.library.upenn.edu/viewer.php?id=MS%205#page/1/mode/2up -->
         <shortid>>cod-kiuhyt/item1</shortid>
-        <canvasBase></canvasBase>
-        <manifestOfficial><!-- ecodices --></manifestOfficial>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/BMC_MS5/manifest.json</manifestOfficial>
       </item>
     </hasItems>
   </head>

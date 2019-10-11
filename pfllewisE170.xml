@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="pflewisE170">pflewisE170</shortid>
+    <title>Free Library of Philadelphia, Philadelphia, Lewis E 170</title>
+    <initial>F</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>pflewisE170/item1</shortid>
+        <!--<holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>-->
+        <!--<libraryRecord>http://hdl.library.upenn.edu/1017/d/medren/9942864553503681</libraryRecord>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/lewis_e_170/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
