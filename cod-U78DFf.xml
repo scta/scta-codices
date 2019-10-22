@@ -14,8 +14,7 @@
         <canonical>true</canonical>
         <shortid>cod-U78DFf/item1</shortid>
         <!--<holdingInstitution> needs id for Zentralbibliothek zurich </holdingInstitution>-->
-        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/1314673/canvas
-          https://www.e-rara.ch/zuz/i3f/v20/1314673/canvas/ </canvasBase>
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/1314673/canvas/</canvasBase>
         <manifestOfficial>https://www.e-rara.ch/i3f/v20/1314673/manifest</manifestOfficial>
       </item>
     </hasItems>
