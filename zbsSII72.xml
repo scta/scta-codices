@@ -5,6 +5,7 @@
 		<shortid>zbsSII72</shortid>
 		<title>Switzerland, Solothurn, Zentralbibliothek, Cod. S II 72</title>
 		<initial>Z</initial> <!-- non unique initial helper for within file only -->
+	  <date>1099A</date><!--12th century, sometime after 1099; info manually pulled from e-codices -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
