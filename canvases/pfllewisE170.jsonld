@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": "https://iiif.io/api/presentation/2/context.json",
   "@id": "https://iiif.archivelab.org/iiif/lewis_e_170/manifest.json",
   "@type": "sc:Manifest",
   "attribution": "The Internet Archive",
