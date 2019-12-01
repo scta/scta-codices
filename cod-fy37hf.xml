@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="clm10077">cod-fy37hf</shortid>
+    <title>BSB clm 10077</title> <!-- contains fulda sacramentary -->
+    <initial>B</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-fy37hf/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00073766/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00073766/manifest</manifestOfficial>
+        <!--also: https://www.wdl.org/en/item/13478/manifest-->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
