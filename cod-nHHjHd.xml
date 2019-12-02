@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Rome1489">cod-nHHjHd</shortid>
+    <title>Rome 1489</title> <!-- contains Determinationes magistrales contra conclusiones Jannis Pici Miradulae http://scta.info/resource/ooij7j-->
+    <initial>R</initial>
+    <date>1489</date>
+    <place>Rome</place>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-nHHjHd/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/ita-bnc-in2-00001714-001/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
