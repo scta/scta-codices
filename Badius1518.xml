@@ -9,8 +9,9 @@
     <hasItems>
       <item>
         <shortid>Badius1518/item1</shortid>
-        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_Vh2_ZKXqbwEC/manifest.json</manifestOfficial>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148759/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148759/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
