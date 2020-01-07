@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="reglat316">cod-xxyx5x</shortid>
+    <title>Vatican, reg. lat. 873</title> <!-- contains Gelasianum Sacramentary -->
+    <initial>R</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-xxyx5x/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Reg.lat.316/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Reg.lat.316/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
