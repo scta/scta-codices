@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/cdf-schema/master/src/cdf.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Nuremberg1482">cod-Nuf2f2</shortid>
+    <title>Nuremberg 1482</title>
+    <!-- Contains Willam Of Melitona Liber4 SummaeHalensis  -->
+    <initial>N</initial>
+    <place>Nuremberg</place>
+    <date>1482</date>
+    <hasItems>
+      <item>
+        <label>Nuremberg 1482</label>
+        <canonical>true</canonical>
+        <shortid>cod-Nuf2f2/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/A336115/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
