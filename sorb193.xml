@@ -9,8 +9,8 @@
       <item>
         <canonical>true</canonical>
         <shortid>sorb193/item1</shortid>
-        <canvasBase>https://nubis.univ-paris1.fr/items/presentation/4853/canvas/</canvasBase>
-        <manifestOfficial>https://nubis.univ-paris1.fr/items/presentation/4853/manifest</manifestOfficial>
+        <canvasBase>https://nubis.univ-paris1.fr/iiif/4853/canvas/</canvasBase>
+        <manifestOfficial>https://nubis.univ-paris1.fr/iiif/4853/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
