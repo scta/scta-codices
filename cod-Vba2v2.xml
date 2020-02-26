@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Strasbourg1490">cod-Vba2v2</shortid>
+    <title>Strasbourg 1490</title>
+    <initial>S</initial>
+    <!-- contains Thomas of Strasbourg Sent Commentary-->
+    <hasItems>
+      <item>
+        <shortid>cod-Vba2v2/item1</shortid>
+        <!-- https://archive.org/details/A336050/-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/A336050/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
