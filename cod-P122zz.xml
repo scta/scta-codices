@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-P122zz</shortid>
+    <title>Padua, 1598</title>
+    <initial>P</initial>
+    <!-- contains Gerards of Siena book 1-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-P122zz/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10142549/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10142549/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
