@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/cdf-schema/master/src/cdf.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnflat12048">cod-hYupoi</shortid>
+    <title>BnF Latin, 12048</title>
+    <!-- Contains Gellone Sacramentary  -->
+    <initial>P</initial>
+    <!--<place>place</place>-->
+    <date>779A</date> <!-- from bnf manifest "0780-0800" -->
+    <hasItems>
+      <item>
+        <label>BnF Latin, 12048</label>
+        <canonical>true</canonical>
+        <shortid>cod-hYupoi/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b60000317/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b60000317/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

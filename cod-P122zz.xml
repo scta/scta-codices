@@ -10,6 +10,9 @@
       <item>
         <canonical>true</canonical>
         <shortid>cod-P122zz/item1</shortid>
+        <!-- https://opacplus.bsb-muenchen.de/title/BV001549126 
+        _Weiterer Identifikator: surn:nbn:de:bvb:12-bsb10142549-3
+        -->
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10142549/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10142549/manifest</manifestOfficial>
