@@ -36,7 +36,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00001.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00001.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -65,7 +65,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00002.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00002.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -94,7 +94,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00003.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00003.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -123,7 +123,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00004.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00004.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -152,7 +152,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00005.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00005.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -181,7 +181,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00006.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00006.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -210,7 +210,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00007.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00007.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -239,7 +239,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00008.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00008.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -268,7 +268,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00009.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00009.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -297,7 +297,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00010.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00010.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -326,7 +326,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00011.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00011.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -355,7 +355,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00012.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00012.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -384,7 +384,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00013.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00013.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -413,7 +413,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00014.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00014.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -442,7 +442,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00015.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00015.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -471,7 +471,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00016.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00016.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -500,7 +500,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00017.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00017.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -529,7 +529,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00018.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00018.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -558,7 +558,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00019.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00019.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -587,7 +587,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00020.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00020.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -616,7 +616,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00021.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00021.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -645,7 +645,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00022.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00022.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -674,7 +674,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00023.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00023.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -703,7 +703,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00024.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00024.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -732,7 +732,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00025.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00025.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -761,7 +761,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00026.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00026.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -790,7 +790,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00027.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00027.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -819,7 +819,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00028.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00028.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -848,7 +848,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00029.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00029.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -877,7 +877,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00030.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00030.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -906,7 +906,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00031.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00031.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -935,7 +935,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00032.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00032.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -964,7 +964,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00033.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00033.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -993,7 +993,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00034.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00034.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1022,7 +1022,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00035.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00035.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1051,7 +1051,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00036.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00036.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1080,7 +1080,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00037.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00037.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1109,7 +1109,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00038.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00038.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1138,7 +1138,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00039.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00039.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1167,7 +1167,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00040.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00040.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1196,7 +1196,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00041.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00041.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1225,7 +1225,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00042.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00042.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1254,7 +1254,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00043.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00043.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1283,7 +1283,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00044.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00044.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1312,7 +1312,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00045.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00045.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1341,7 +1341,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00046.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00046.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1370,7 +1370,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00047.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00047.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1399,7 +1399,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00048.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00048.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1428,7 +1428,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00049.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00049.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1457,7 +1457,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00050.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00050.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1486,7 +1486,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00051.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00051.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1515,7 +1515,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00052.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00052.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1544,7 +1544,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00053.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00053.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1573,7 +1573,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00054.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00054.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1602,7 +1602,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00055.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00055.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1631,7 +1631,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00056.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00056.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1660,7 +1660,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00057.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00057.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1689,7 +1689,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00058.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00058.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1718,7 +1718,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00059.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00059.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1747,7 +1747,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00060.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00060.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1776,7 +1776,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00061.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00061.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1805,7 +1805,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00062.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00062.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1834,7 +1834,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00063.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00063.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1863,7 +1863,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00064.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00064.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1892,7 +1892,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00065.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00065.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1921,7 +1921,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00066.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00066.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1950,7 +1950,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00067.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00067.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -1979,7 +1979,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00068.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00068.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2008,7 +2008,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00069.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00069.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2037,7 +2037,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00070.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00070.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2066,7 +2066,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00071.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00071.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2095,7 +2095,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00072.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00072.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2124,7 +2124,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00073.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00073.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2153,7 +2153,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00074.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00074.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2182,7 +2182,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00075.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00075.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2211,7 +2211,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00076.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00076.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2240,7 +2240,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00077.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00077.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2269,7 +2269,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00078.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00078.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2298,7 +2298,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00079.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00079.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2327,7 +2327,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00080.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00080.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2356,7 +2356,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00081.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00081.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2385,7 +2385,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00082.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00082.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2414,7 +2414,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00083.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00083.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2443,7 +2443,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00084.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00084.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2472,7 +2472,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00085.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00085.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2501,7 +2501,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00086.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00086.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2530,7 +2530,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00087.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00087.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2559,7 +2559,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00088.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00088.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2588,7 +2588,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00089.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00089.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2617,7 +2617,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00090.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00090.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2646,7 +2646,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00091.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00091.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2675,7 +2675,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00092.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00092.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2704,7 +2704,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00093.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00093.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2733,7 +2733,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00094.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00094.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2762,7 +2762,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00095.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00095.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2791,7 +2791,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00096.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00096.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2820,7 +2820,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00097.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00097.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2849,7 +2849,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00098.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00098.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2878,7 +2878,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00099.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00099.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2907,7 +2907,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00100.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00100.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2936,7 +2936,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00101.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00101.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2965,7 +2965,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00102.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00102.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -2994,7 +2994,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00103.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00103.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3023,7 +3023,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00104.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00104.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3052,7 +3052,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00105.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00105.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3081,7 +3081,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00106.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00106.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3110,7 +3110,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00107.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00107.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3139,7 +3139,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00108.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00108.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3168,7 +3168,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00109.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00109.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3197,7 +3197,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00110.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00110.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3226,7 +3226,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00111.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00111.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3255,7 +3255,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00112.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00112.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3284,7 +3284,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00113.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00113.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3313,7 +3313,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00114.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00114.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3342,7 +3342,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00115.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00115.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3371,7 +3371,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00116.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00116.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3400,7 +3400,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00117.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00117.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3429,7 +3429,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00118.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00118.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3458,7 +3458,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00119.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00119.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3487,7 +3487,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00120.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00120.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3516,7 +3516,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00121.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00121.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3545,7 +3545,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00122.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00122.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3574,7 +3574,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00123.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00123.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3603,7 +3603,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00124.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00124.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3632,7 +3632,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00125.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00125.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3661,7 +3661,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00126.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00126.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3690,7 +3690,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00127.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00127.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3719,7 +3719,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00128.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00128.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3748,7 +3748,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00129.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00129.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3777,7 +3777,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00130.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00130.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3806,7 +3806,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00131.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00131.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3835,7 +3835,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00132.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00132.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3864,7 +3864,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00133.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00133.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3893,7 +3893,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00134.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00134.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3922,7 +3922,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00135.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00135.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3951,7 +3951,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00136.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00136.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -3980,7 +3980,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00137.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00137.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4009,7 +4009,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00138.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00138.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4038,7 +4038,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00139.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00139.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4067,7 +4067,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00140.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00140.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4096,7 +4096,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00141.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00141.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4125,7 +4125,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00142.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00142.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4154,7 +4154,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00143.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00143.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4183,7 +4183,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00144.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00144.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4212,7 +4212,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00145.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00145.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4241,7 +4241,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00146.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00146.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4270,7 +4270,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00147.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00147.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4299,7 +4299,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00148.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00148.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4328,7 +4328,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00149.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00149.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4357,7 +4357,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00150.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00150.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4386,7 +4386,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00151.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00151.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4415,7 +4415,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00152.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00152.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4444,7 +4444,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00153.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00153.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4473,7 +4473,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00154.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00154.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4502,7 +4502,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00155.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00155.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4531,7 +4531,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00156.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00156.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4560,7 +4560,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00157.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00157.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4589,7 +4589,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00158.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00158.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4618,7 +4618,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00159.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00159.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4647,7 +4647,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00160.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00160.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4676,7 +4676,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00161.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00161.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4705,7 +4705,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00162.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00162.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4734,7 +4734,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00163.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00163.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4763,7 +4763,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00164.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00164.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4792,7 +4792,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00165.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00165.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4821,7 +4821,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00166.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00166.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4850,7 +4850,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00167.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00167.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4879,7 +4879,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00168.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00168.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4908,7 +4908,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00169.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00169.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4937,7 +4937,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00170.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00170.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4966,7 +4966,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00171.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00171.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -4995,7 +4995,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00172.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00172.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5024,7 +5024,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00173.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00173.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5053,7 +5053,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00174.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00174.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5082,7 +5082,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00175.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00175.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5111,7 +5111,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00176.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00176.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5140,7 +5140,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00177.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00177.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5169,7 +5169,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00178.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00178.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5198,7 +5198,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00179.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00179.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5227,7 +5227,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00180.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00180.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5256,7 +5256,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00181.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00181.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5285,7 +5285,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00182.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00182.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5314,7 +5314,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00183.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00183.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5343,7 +5343,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00184.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00184.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5372,7 +5372,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00185.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00185.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5401,7 +5401,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00186.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00186.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5430,7 +5430,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00187.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00187.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5459,7 +5459,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00188.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00188.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5488,7 +5488,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00189.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00189.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5517,7 +5517,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00190.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00190.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5546,7 +5546,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00191.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00191.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5575,7 +5575,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00192.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00192.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5604,7 +5604,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00193.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00193.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5633,7 +5633,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00194.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00194.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5662,7 +5662,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00195.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00195.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5691,7 +5691,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00196.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00196.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5720,7 +5720,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00197.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00197.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5749,7 +5749,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00198.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00198.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5778,7 +5778,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00199.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00199.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5807,7 +5807,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00200.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00200.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5836,7 +5836,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00201.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00201.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5865,7 +5865,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00202.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00202.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5894,7 +5894,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00203.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00203.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5923,7 +5923,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00204.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00204.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5952,7 +5952,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00205.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00205.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -5981,7 +5981,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00206.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00206.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6010,7 +6010,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00207.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00207.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6039,7 +6039,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00208.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00208.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6068,7 +6068,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00209.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00209.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6097,7 +6097,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00210.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00210.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6126,7 +6126,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00211.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00211.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6155,7 +6155,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00212.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00212.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6184,7 +6184,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00213.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00213.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6213,7 +6213,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00214.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00214.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6242,7 +6242,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00215.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00215.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6271,7 +6271,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00216.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00216.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6300,7 +6300,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00217.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00217.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6329,7 +6329,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00218.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00218.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6358,7 +6358,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00219.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00219.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6387,7 +6387,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00220.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00220.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6416,7 +6416,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00221.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00221.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6445,7 +6445,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00222.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00222.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6474,7 +6474,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00223.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00223.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6503,7 +6503,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00224.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00224.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6532,7 +6532,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00225.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00225.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6561,7 +6561,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00226.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00226.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6590,7 +6590,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00227.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00227.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6619,7 +6619,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00228.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00228.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6648,7 +6648,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00229.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00229.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6677,7 +6677,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00230.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00230.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6706,7 +6706,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00231.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00231.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6735,7 +6735,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00232.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00232.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6764,7 +6764,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00233.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00233.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6793,7 +6793,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00234.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00234.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6822,7 +6822,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00235.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00235.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6851,7 +6851,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00236.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00236.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6880,7 +6880,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00237.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00237.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6909,7 +6909,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00238.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00238.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6938,7 +6938,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00239.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00239.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6967,7 +6967,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00240.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00240.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -6996,7 +6996,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00241.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00241.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7025,7 +7025,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00242.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00242.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7054,7 +7054,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00243.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00243.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7083,7 +7083,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00244.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00244.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7112,7 +7112,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00245.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00245.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7141,7 +7141,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00246.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00246.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7170,7 +7170,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00247.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00247.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7199,7 +7199,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00248.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00248.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7228,7 +7228,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00249.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00249.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7257,7 +7257,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00250.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00250.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7286,7 +7286,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00251.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00251.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7315,7 +7315,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00252.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00252.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7344,7 +7344,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00253.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00253.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7373,7 +7373,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00254.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00254.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7402,7 +7402,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00255.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00255.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7431,7 +7431,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00256.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00256.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7460,7 +7460,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00257.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00257.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7489,7 +7489,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00258.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00258.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7518,7 +7518,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00259.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00259.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7547,7 +7547,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00260.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00260.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7576,7 +7576,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00261.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00261.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7605,7 +7605,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00262.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00262.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7634,7 +7634,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00263.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00263.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7663,7 +7663,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00264.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00264.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7692,7 +7692,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00265.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00265.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7721,7 +7721,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00266.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00266.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7750,7 +7750,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00267.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00267.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7779,7 +7779,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00268.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00268.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7808,7 +7808,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00269.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00269.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7837,7 +7837,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00270.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00270.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7866,7 +7866,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00271.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00271.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7895,7 +7895,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00272.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00272.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7924,7 +7924,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00273.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00273.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7953,7 +7953,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00274.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00274.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -7982,7 +7982,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00275.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00275.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8011,7 +8011,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00276.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00276.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8040,7 +8040,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00277.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00277.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8069,7 +8069,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00278.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00278.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8098,7 +8098,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00279.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00279.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8127,7 +8127,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00280.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00280.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8156,7 +8156,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00281.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00281.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8185,7 +8185,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00282.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00282.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8214,7 +8214,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00283.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00283.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8243,7 +8243,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00284.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00284.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8272,7 +8272,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00285.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00285.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8301,7 +8301,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00286.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00286.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8330,7 +8330,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00287.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00287.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8359,7 +8359,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00288.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00288.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8388,7 +8388,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00289.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00289.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8417,7 +8417,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00290.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00290.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8446,7 +8446,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00291.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00291.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8475,7 +8475,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00292.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00292.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8504,7 +8504,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00293.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00293.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8533,7 +8533,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00294.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00294.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8562,7 +8562,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00295.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00295.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8591,7 +8591,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00296.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00296.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8620,7 +8620,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00297.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00297.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8649,7 +8649,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00298.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00298.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8678,7 +8678,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00299.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00299.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8707,7 +8707,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00300.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00300.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8736,7 +8736,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00301.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00301.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8765,7 +8765,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00302.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00302.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8794,7 +8794,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00303.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00303.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8823,7 +8823,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00304.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00304.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8852,7 +8852,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00305.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00305.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8881,7 +8881,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00306.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00306.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8910,7 +8910,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00307.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00307.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8939,7 +8939,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00308.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00308.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8968,7 +8968,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00309.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00309.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -8997,7 +8997,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00310.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00310.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9026,7 +9026,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00311.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00311.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9055,7 +9055,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00312.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00312.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9084,7 +9084,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00313.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00313.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9113,7 +9113,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00314.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00314.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9142,7 +9142,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00315.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00315.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9171,7 +9171,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00316.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00316.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9200,7 +9200,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00317.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00317.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9229,7 +9229,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00318.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00318.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9258,7 +9258,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00319.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00319.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9287,7 +9287,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00320.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00320.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9316,7 +9316,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00321.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00321.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9345,7 +9345,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00322.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00322.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9374,7 +9374,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00323.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00323.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9403,7 +9403,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00324.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00324.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9432,7 +9432,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00325.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00325.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9461,7 +9461,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00326.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00326.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9490,7 +9490,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00327.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00327.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9519,7 +9519,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00328.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00328.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9548,7 +9548,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00329.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00329.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9577,7 +9577,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00330.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00330.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9606,7 +9606,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00331.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00331.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9635,7 +9635,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00332.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00332.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9664,7 +9664,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00333.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00333.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9693,7 +9693,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00334.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00334.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9722,7 +9722,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00335.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00335.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9751,7 +9751,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00336.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00336.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9780,7 +9780,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00337.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00337.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9809,7 +9809,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00338.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00338.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9838,7 +9838,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00339.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00339.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9867,7 +9867,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00340.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00340.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9896,7 +9896,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00341.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00341.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9925,7 +9925,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00342.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00342.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9954,7 +9954,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00343.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00343.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -9983,7 +9983,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00344.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00344.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10012,7 +10012,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00345.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00345.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10041,7 +10041,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00346.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00346.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10070,7 +10070,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00347.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00347.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10099,7 +10099,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00348.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00348.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10128,7 +10128,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00349.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00349.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10157,7 +10157,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00350.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00350.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10186,7 +10186,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00351.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00351.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10215,7 +10215,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00352.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00352.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10244,7 +10244,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00353.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00353.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10273,7 +10273,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00354.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00354.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10302,7 +10302,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00355.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00355.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10331,7 +10331,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00356.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00356.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10360,7 +10360,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00357.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00357.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10389,7 +10389,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00358.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00358.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10418,7 +10418,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00359.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00359.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10447,7 +10447,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00360.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00360.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10476,7 +10476,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00361.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00361.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10505,7 +10505,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00362.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00362.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10534,7 +10534,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00363.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00363.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10563,7 +10563,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00364.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00364.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10592,7 +10592,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00365.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00365.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10621,7 +10621,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00366.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00366.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10650,7 +10650,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00367.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00367.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10679,7 +10679,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00368.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00368.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10708,7 +10708,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00369.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00369.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10737,7 +10737,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00370.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00370.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10766,7 +10766,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00371.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00371.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10795,7 +10795,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00372.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00372.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10824,7 +10824,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00373.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00373.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10853,7 +10853,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00374.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00374.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10882,7 +10882,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00375.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00375.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10911,7 +10911,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00376.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00376.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10940,7 +10940,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00377.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00377.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10969,7 +10969,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00378.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00378.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -10998,7 +10998,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00379.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00379.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11027,7 +11027,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00380.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00380.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11056,7 +11056,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00381.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00381.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11085,7 +11085,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00382.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00382.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11114,7 +11114,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00383.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00383.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11143,7 +11143,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00384.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00384.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11172,7 +11172,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00385.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00385.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11201,7 +11201,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00386.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00386.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11230,7 +11230,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00387.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00387.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11259,7 +11259,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00388.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00388.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11288,7 +11288,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00389.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00389.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11317,7 +11317,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00390.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00390.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11346,7 +11346,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00391.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00391.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11375,7 +11375,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00392.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00392.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11404,7 +11404,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00393.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00393.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11433,7 +11433,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00394.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00394.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11462,7 +11462,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00395.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00395.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11491,7 +11491,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00396.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00396.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11520,7 +11520,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00397.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00397.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11549,7 +11549,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00398.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00398.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11578,7 +11578,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00399.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00399.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11607,7 +11607,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00400.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00400.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11636,7 +11636,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00401.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00401.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11665,7 +11665,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00402.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00402.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11694,7 +11694,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00403.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00403.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11723,7 +11723,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00404.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00404.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11752,7 +11752,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00405.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00405.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11781,7 +11781,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00406.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00406.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11810,7 +11810,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00407.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00407.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11839,7 +11839,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00408.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00408.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11868,7 +11868,7 @@
                 "width": 2272,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00409.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00409.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11897,7 +11897,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00410.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00410.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11926,7 +11926,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00411.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00411.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
@@ -11955,7 +11955,7 @@
                 "width": 2086,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://loris2.scta.info/tara/tara-00412.jpg",
+                  "@id": "https://loris2.scta.info/tara/tara-00412.jpg",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }
