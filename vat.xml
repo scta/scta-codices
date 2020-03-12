@@ -6,6 +6,7 @@
     <!-- we could add a numerical id as well e.g. <numberid></numberid> -->
     <title>Città del Vaticano, Biblioteca Apostolica Vaticana, ms. Cod. Vat. lat. 4284</title>
     <initial>V</initial>
+    <date>1414</date>  <!-- 188r, column B for date -->
     <hasItems>
       <item>
         <canonical>true</canonical>
