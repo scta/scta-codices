@@ -4231,5 +4231,16 @@
         </ISurface>
       </hasISurfaces>
     </surface>
+    <surface>
+      <shortid>vat/192v</shortid>
+      <label>192v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>vat/192v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>V192v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
   </surfaces>
 </codex>
