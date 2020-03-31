@@ -8668,6 +8668,60 @@
       },
       {
         "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://scta.info/iiif/sorb/canvas/S161Br",
+        "@type": "sc:Canvas",
+        "label": "folio 161Br",
+        "height": 2411,
+        "width": 1792,
+        "images": [{
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "http://scta.info/iiif/sorb/annotation/S161Br-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "http://scta.info/iiif/sorb/res/S161Br.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://loris2.scta.info/sorb/S161Br.jpg",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            },
+            "height": 2411,
+            "width": 1792
+          },
+          "on": "http://scta.info/iiif/sorb/canvas/S161Br"
+        }]
+      },
+      {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://scta.info/iiif/sorb/canvas/S161Bv",
+        "@type": "sc:Canvas",
+        "label": "folio 161Bv",
+        "height": 2411,
+        "width": 1792,
+        "images": [{
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "http://scta.info/iiif/sorb/annotation/S161Bv-image",
+          "@type": "oa:Annotation",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "http://scta.info/iiif/sorb/res/S161Bv.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://loris2.scta.info/sorb/S161Bv.jpg",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            },
+            "height": 2411,
+            "width": 1792
+          },
+          "on": "http://scta.info/iiif/sorb/canvas/S161Bv"
+        }]
+      },
+      {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
         "@id": "http://scta.info/iiif/sorb/canvas/S162r",
         "@type": "sc:Canvas",
         "label": "folio 162r",

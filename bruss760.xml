@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>bruss760</shortid>
+    <title>Brüssel, Koninklijke Bibliotheek van België, ms. 760 (1715)</title>
+    <initial>B</initial>
+    <!-- contains labertus de monte sentences commentary -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>bruss760/item1</shortid>
+        <canvasBase>http://scta.info/iiif/bruss760/canvas/</canvasBase>
+        <manifestOfficial/>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
