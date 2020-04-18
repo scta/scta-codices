@@ -39,7 +39,7 @@
             "height": 5760,
             "width": 4179,
             "service": {
-              "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0036/0000003625/00000001.jpx",
               "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
             }
@@ -64,7 +64,7 @@
             "height": 5760,
             "width": 4179,
             "service": {
-              "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0036/0000003625/00000002.jpx",
               "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
             }
@@ -89,7 +89,7 @@
             "height": 5760,
             "width": 3777,
             "service": {
-              "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+              "@context": "http://iiif.io/api/image/2/context.json",
               "@id": "https://iiif.ub.uni-leipzig.de/fcgi-bin/iipsrv.fcgi?iiif=/j2k/0000/0036/0000003625/00000003.jpx",
               "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
             }

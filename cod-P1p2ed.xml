@@ -11,6 +11,7 @@
     <place>France</place> <!-- or west germany; place from fragmentarium  -->
     <hasItems>
       <item>
+        <label>Leipzig, Universitätsbibliothek, Fragment. lat. 268 CodexItem</label>
         <canonical>true</canonical>
         <shortid>cod-P1p2ed/item1</shortid>
         <!-- https://www.fragmentarium.ms/overview/F-41n7 -->
