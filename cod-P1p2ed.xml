@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="leipzigFragmLat268">cod-P1p2ed</shortid>
+    
+    <title>Leipzig, Universitätsbibliothek, Fragment. lat. 268</title>
+    <initial>L</initial>
+    <!-- small fragment containing part of Gratian p2c6q1 and q3 -->
+    <date>1233A</date> <!-- date from fragmentarium 2nd third of the 13 century -->
+    <place>France</place> <!-- or west germany; place from fragmentarium  -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-P1p2ed</shortid>
+        <!-- https://www.fragmentarium.ms/overview/F-41n7 -->
+        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-41n7/annotation/https://iiif.ub.uni-leipzig.de/0000003625/</canvasBase>
+        <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-41n7/manifest.json</manifestOfficial>
+        <!-- Question: is leipzig going to be minting its own IDs for this fragment? or will should Fragmentarium be considered the canonical source -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-P1p2ed/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-P1p2ed/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>00000001.jpx.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-P1p2ed/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-P1p2ed/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>00000002.jpx.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>

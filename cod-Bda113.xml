@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Badius1516">cod-Bda113</shortid>
+    <title>Badius 1516</title>
+    <initial>Ba</initial>
+    <!-- contains John Mair's Book IV -->
+    <place>Paris</place>
+    <date>1516</date>
+    <hasItems>
+      <item>
+        <label>BSB, BV010664801</label>
+        <canonical>true</canonical>
+        <shortid>cod-Bda113/BV010664801</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- "https://opacplus.bsb-muenchen.de/title/BV010664801", -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196616/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196616/manifest</manifestOfficial>
+      </item>
+      <!-- bsb has two copies; above copy seems better -->
+      <item>
+        <label>BSB, BV001438714</label>
+        <canonical>false</canonical>
+        <shortid>cod-Bda113/BV001438714</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- "https://opacplus.bsb-muenchen.de/title/BV001438714 -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196612/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196612/manifest</manifestOfficial>
+      </item>
+      
+      
+      
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
