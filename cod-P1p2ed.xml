@@ -14,7 +14,7 @@
         <canonical>true</canonical>
         <shortid>cod-P1p2ed/item1</shortid>
         <!-- https://www.fragmentarium.ms/overview/F-41n7 -->
-        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-41n7/annotation/https://iiif.ub.uni-leipzig.de/0000003625/</canvasBase>
+        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-41n7/canvas/https://iiif.ub.uni-leipzig.de/0000003625/</canvasBase>
         <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-41n7/manifest.json</manifestOfficial>
         <!-- Question: is leipzig going to be minting its own IDs for this fragment? or will should Fragmentarium be considered the canonical source -->
       </item>
