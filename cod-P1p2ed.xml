@@ -12,7 +12,7 @@
     <hasItems>
       <item>
         <canonical>true</canonical>
-        <shortid>cod-P1p2ed</shortid>
+        <shortid>cod-P1p2ed/item1</shortid>
         <!-- https://www.fragmentarium.ms/overview/F-41n7 -->
         <canvasBase>https://fragmentarium.ms/metadata/iiif/F-41n7/annotation/https://iiif.ub.uni-leipzig.de/0000003625/</canvasBase>
         <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-41n7/manifest.json</manifestOfficial>
