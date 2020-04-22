@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="NAL1761">cod-v7avna</shortid>
+    <title>Paris, Bibliothèque nationale de France, nouvelles acquisitions latines 1761.</title>
+    <initial>P</initial>
+    <!-- contains copy of first recension of gratian's Decretum -->
+    <date>1199A</date><!-- 13th century date retrieved from Biblissima -->
+    <hasItems>
+      <item>
+        <label>NAL 1761</label>
+        <canonical>true</canonical>
+        <shortid>cod-v7avna/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <!-- see https://iiif.biblissima.fr/collections/manifest/27beabf7278b7e3e89fb29314d91ab5206459381 -->
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b8555842b/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b8555842b/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
