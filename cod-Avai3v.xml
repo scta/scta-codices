@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="archCapSPietroC118">cod-Avai3v</shortid>
+    <title>Arch. Cap. S. Pietro. C. 118</title> <!-- contains CanonumCollectioAnselmiana -->
+    <initial>A</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-Avai3v/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.C.118/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.C.118/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
