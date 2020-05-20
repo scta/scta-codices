@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codex>
-	<head>
-		<type>book</type>
-		<shortid>paris1512</shortid>
-	  <!-- contains wodeham abbreviatio  -->
-		<title>Paris 1512 Printing</title>
-		<initial>B</initial>
-		<hasItems>
-			<item>
-				<canonical>true</canonical>
-			  <shortid>paris1512/item1</shortid>
-				<!-- item 1 -->
-				<holdingLibrary/>
-				<callNumber></callNumber>
-				<canvasBase></canvasBase>
-				<manifestOfficial></manifestOfficial>
-			</item>
-		</hasItems>
-	</head>
-	<surfaces>
-	  
-	</surfaces>
+  <head>
+    <type>book</type>
+    <shortid>paris1512</shortid>
+    <!-- contains wodeham abbreviatio  -->
+    <title>Paris 1512 Printing</title>
+    <initial>B</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>paris1512/item1</shortid>
+        <!-- item 1 -->
+        <!-- 
+          
+          Publication date 1512
+          Usage Public Domain Mark 1.0
+          Topics bub_upload
+          Publisher a Johanne Granion eiusdem ciuitatis bibliopola in claustro Brunello prope scholas Decretorum e regione diue virginis Marie
+          Collection europeanlibraries
+          Digitizing sponsor Google
+          Book from the collections of National Central Library of Rome
+          Language Latin
+          Addeddate 2014-11-13 17:34:29
+          Foldoutcount 0
+          Google-id 78Pf7B8ON9gC
+          Identifier bub_gb_78Pf7B8ON9gC
+          Identifier-ark ark:/13960/t7jq3zb23
+          Ocr ABBYY FineReader 11.0
+          Pages 352
+          Scanner google
+          Source http://books.google.com/books?id=78Pf7B8ON9gC&hl=&source=gbs_api
+          Year 1512
+-->
+        <holdingLibrary/>
+        <callNumber></callNumber>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_78Pf7B8ON9gC/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
 </codex>
