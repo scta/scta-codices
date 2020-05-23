@@ -4,11 +4,11 @@
     <type>book</type>
     <shortid>Badius1520b</shortid>
     <title>Badius 1520, Volume II</title>
-    <initial>Ba</initial>
+    <initial>Bb</initial>
     <!-- contains henry of ghents summa quaestionum ordinariarum -->
     <hasItems>
       <item>
-        <shortid>Badius1520a/item1</shortid>
+        <shortid>Badius1520b/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!-- https://opacplus.bsb-muenchen.de/title/BV035274124 -->
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10858863/canvas/</canvasBase>
