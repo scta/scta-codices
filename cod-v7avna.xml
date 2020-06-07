@@ -22,88 +22,88 @@
   </head>
   <surfaces>
     <surface>
-      <shortid>cod-v7avna/plat supérieur</shortid>
+      <shortid>cod-v7avna/f1</shortid>
       <label>plat supérieur</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/plat supérieur/item1</shortid>
+          <shortid>cod-v7avna/f1/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f1</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/contreplat sup.</shortid>
+      <shortid>cod-v7avna/f2</shortid>
       <label>contreplat sup.</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/contreplat sup./item1</shortid>
+          <shortid>cod-v7avna/f2/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f2</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde recto</shortid>
+      <shortid>cod-v7avna/f3</shortid>
       <label>page de garde recto</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde recto/item1</shortid>
+          <shortid>cod-v7avna/f3/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f3</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde verso</shortid>
+      <shortid>cod-v7avna/f4</shortid>
       <label>page de garde verso</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde verso/item1</shortid>
+          <shortid>cod-v7avna/f4/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f4</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde recto</shortid>
+      <shortid>cod-v7avna/f5</shortid>
       <label>page de garde recto</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde recto/item1</shortid>
+          <shortid>cod-v7avna/f5/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f5</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde verso</shortid>
+      <shortid>cod-v7avna/f6</shortid>
       <label>page de garde verso</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde verso/item1</shortid>
+          <shortid>cod-v7avna/f6/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f6</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde recto</shortid>
+      <shortid>cod-v7avna/f7</shortid>
       <label>page de garde recto</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde recto/item1</shortid>
+          <shortid>cod-v7avna/f7/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f7</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-v7avna/page de garde verso</shortid>
+      <shortid>cod-v7avna/f8</shortid>
       <label>page de garde verso</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-v7avna/page de garde verso/item1</shortid>
+          <shortid>cod-v7avna/f8/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>f8</canvasslug>
         </ISurface>
