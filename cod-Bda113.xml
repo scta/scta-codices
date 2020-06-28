@@ -4,7 +4,7 @@
     <type>book</type>
     <shortid alias="Badius1516">cod-Bda113</shortid>
     <title>Badius 1516</title>
-    <initial>Ba</initial>
+    <initial>B</initial>
     <!-- contains John Mair's Book IV -->
     <place>Paris</place>
     <date>1516</date>
@@ -12,7 +12,7 @@
       <item>
         <label>BSB, BV010664801</label>
         <canonical>true</canonical>
-        <shortid>cod-Bda113/BV010664801</shortid>
+        <shortid>cod-Bda113/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!-- "https://opacplus.bsb-muenchen.de/title/BV010664801", -->
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196616/canvas/</canvasBase>
