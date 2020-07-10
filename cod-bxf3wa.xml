@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnf13413">cod-bxf3wa</shortid>
+    <title>Paris, Bibliothèque nationale de France, Latin 13413</title>
+    <initial>P</initial>
+    <!-- contains anselm monologion and other texts -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-bxf3wa/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <!-- see https://gallica.bnf.fr/ark:/12148/btv1b10542363x -->
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10542363x/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10542363x/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

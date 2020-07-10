@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1610">cod-pZe2q1</shortid>
+    <!-- contains Tomus quartus of Dionysii Petavii 
+    see https://www.google.com/books/edition/Dionysii_Petavii_Opus_de_theologicis_dog/opGNIu4KMAYC 
+    -->
+    <title>Paris 1650</title>
+    <initial>P</initial>
+    <place>Paris</place>
+    <date>1650</date>
+    <hasItems>
+      <item>
+        <label>Paris 1650</label>
+        <canonical>true</canonical>
+        <shortid>cod-pZe2q1/item1</shortid>
+        <!--<holdingInstitution> current copy for google books seems to be from Lyon Public Library</holdingInstitution>-->
+        <canvasBase>http://scta.info/iiif/cod-pZe2q1/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-pZe2q1/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
