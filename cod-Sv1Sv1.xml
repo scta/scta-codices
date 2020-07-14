@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-Sv1Sv1</shortid>
+    <title>Seckau 1938</title>
+    <initial>Sm</initial>
+    <place>Seckau</place>
+    <date>1938</date>
+    <!-- contains anselm texts -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-Sv1Sv1/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <!-- https://archive.org/details/sanselmicantuari01anse -->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/sanselmicantuari01anse/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

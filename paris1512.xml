@@ -6,6 +6,9 @@
     <!-- contains wodeham abbreviatio  -->
     <title>Paris 1512 Printing</title>
     <initial>B</initial>
+    <place>Paris</place>
+    <date>1512</date>
+    <!--<publisher> should point to id for Iohannes Granion</publisher>-->
     <hasItems>
       <item>
         <canonical>true</canonical>
