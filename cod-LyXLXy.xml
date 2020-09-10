@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Lyon1495">cod-LyXLXy</shortid>
+    <title>Lyon 1495</title>
+    <initial>L</initial>
+    <!-- Contains Ockham's scriptum -->
+    <place>Lyon</place>
+    <date>1495</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-Bda113/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--<editor></editor>  Molitor Augustinus (editor??) or Johann Trechsel (editor/publisher -->
+        <!-- https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193294/manifest -->
+        <!-- https://reader.digitale-sammlungen.de/resolve/display/bsb11193294.html -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193294/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11193294/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
