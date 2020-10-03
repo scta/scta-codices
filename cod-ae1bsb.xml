@@ -12,8 +12,7 @@
       <item>
         <!-- Venice 1503 bsb10812712  
             canvas skips in BSB manifest for the following folios
-            6v-7r, 50v-51r, 75v-76r, 87v-88r 111v-112r  158v-159r  und 162v-163r
-        -->
+        6v-7r, 50v-51r, 75v-76r, 87v-88r 111v-112r  158v-159r  und 162v-163r -->
         <canonical>true</canonical>
         <shortid>cod-ae1bsb/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
