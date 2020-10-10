@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Genoa1585">cod-TxxxqU</shortid>
+    <title>Genoa 1585</title>
+    <initial>G</initial>
+    <!-- contains Thomas of Strasbourg sentences commentary-->
+    <place>Geona</place>
+    <date>1585</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-TxxxqU/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--https://opacplus.bsb-muenchen.de/title/BV001357486-->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
