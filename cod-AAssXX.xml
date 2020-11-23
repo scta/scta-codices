@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-AAssXX</shortid>
+    <title>Venice 1562</title> <!-- editio Juntina secunda, vol. VIII (Venezia, 1562) -->
+    <initial>V</initial>
+    <date>1562</date>
+    <place>Venice</place>
+    <!-- contains Latin Metaphyscis and Averroes Commentary -->
+    <hasItems>
+      <item>
+        <!-- archive copy comes from Toronto -->
+        <canonical>true</canonical>
+        <shortid>cod-AAssXX/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
