@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Wittenberg1521">cod-8jWitP</shortid>
+    <title>Wittenberg 1521</title>
+    <initial>G</initial>
+    <!-- contains 1521 Wittenberg Melancthon Loci Communes-->
+    <place>Wittenberg</place>
+    <date>1521</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-8jWitP/item1</shortid>
+        <!--<holdingInstitution>Zentralbibliothek Zürich, Ro 300</holdingInstitution>-->
+        <!--https://doi.org/10.3931/e-rara-24721 -->
+        <!--https://www.e-rara.ch/zuz/doi/10.3931/e-rara-24721-->
+        <canvasBase>https://www.e-rara.ch/zuz/i3f/v20/7753032/canvas/</canvasBase>
+        <manifestOfficial>https://www.e-rara.ch/i3f/v20/7753032/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
