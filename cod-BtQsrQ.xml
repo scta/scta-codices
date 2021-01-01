@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Cologne1512">cod-BtQsrQ</shortid>
+    <title>Cologne 1507</title>
+    <!-- [Köln] : Quentel, 1507 -->
+    <initial>C</initial>
+    <place>Cologne</place>
+    <date>1512</date>
+    <!-- contains copy of auctoritates -->
+    <hasItems>
+      <item>
+        <label>Cologne 1507</label>
+        <canonical>true</canonical>
+        <shortid>cod-BtQsrQ/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- https://reader.digitale-sammlungen.de/resolve/display/bsb11111828.html -->
+        <!-- https://opacplus.bsb-muenchen.de/title/BV010641918 -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11111828/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11111828/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

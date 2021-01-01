@@ -6,6 +6,8 @@
     <!-- contains manifestation of Auctoritates Aristotles -->
     <title>Paris 1490 Printing</title>
     <initial>P</initial>
+    <place>Paris</place>
+    <date>1490</date>
     <hasItems>
       <item>
         <canonical>true</canonical>
