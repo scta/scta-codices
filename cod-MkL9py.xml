@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-MkL9py</shortid>
+    <title>Hanau, 1615</title>
+    <initial>H</initial>
+    <place>Hanau</place><!--Hanovia -->
+    <date>1615</date>
+    <!-- contains Amandus Polanus von Polansdorf Syntagma Theologiae Christianae-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-MkL9py/item1</shortid>
+        <!-- https://opacplus.bsb-muenchen.de/title/BV001510456 -->
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00014667/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00014667/manifest</manifestOfficial>
+        <!-- manifest does not work; will have to load via pdf; 
+          if manifest ever works, coordinates will likely need to be converted from pdf to canvas coords -->
+
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
