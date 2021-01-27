@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-TRYUgt</shortid>
+    <title>Ms. Vaticano, Biblioteca Apostolica Vaticana, Vat lat. 4353</title>
+    <!-- contains kilvington sentences commentary f. 1–60.-->
+    <initial>V</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-TRYUgt/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.4353/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.4353/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
