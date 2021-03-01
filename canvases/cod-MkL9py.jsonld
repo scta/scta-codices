@@ -15094,6 +15094,64 @@
         },
         {
           "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-MkL9py/canvas/519B",
+          "@type": "sc:Canvas",
+          "label": "519B",
+          "height": 3413,
+          "width": 2063,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://scta.info/iiif/cod-MkL9py/annotation/519B",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://scta.info/iiif/cod-MkL9py/res/519B",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-MkL9py/519B.jpg",
+                  "profile": "http://iiif.io/api/image/1/level2.json"
+                },
+                "height": 3413,
+                "width": 2063
+              },
+              "on": "http://scta.info/iiif/cod-MkL9py/canvas/519B"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-MkL9py/canvas/520B",
+          "@type": "sc:Canvas",
+          "label": "520B",
+          "height": 3413,
+          "width": 2063,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://scta.info/iiif/cod-MkL9py/annotation/520B",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://scta.info/iiif/cod-MkL9py/res/520B",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-MkL9py/520B.jpg",
+                  "profile": "http://iiif.io/api/image/1/level2.json"
+                },
+                "height": 3413,
+                "width": 2063
+              },
+              "on": "http://scta.info/iiif/cod-MkL9py/canvas/520B"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
           "@id": "https://scta.info/iiif/cod-MkL9py/canvas/521",
           "@type": "sc:Canvas",
           "label": "521",
