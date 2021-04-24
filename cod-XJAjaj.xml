@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-XJAjaj</shortid>
+    <title>Vatican City, Biblioteca Apostolica Vaticana, vat. lat. 1082</title>
+    <!-- contains ripa sentences commentary -->
+    <initial>V</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-XJAjaj/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Vat.lat.1082/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Vat.lat.1082/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>

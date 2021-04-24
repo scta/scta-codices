@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-PAjajP</shortid>
+    <title>Paris, Bibliothèque Nationale, Lat 15369</title> Paris, nat. lat. 15369 <!-- contains Ripa Sentences commentary  -->
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>bnf15893/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9067248n/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067248n/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
