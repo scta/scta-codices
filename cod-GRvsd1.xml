@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codex>
-  <witness id="cod-GRvsd1" canonical="true">
-    <slug>cod-GRvsd1</slug>
-    <title>Cordoba 1699</title>
-    <initial>cod-GRvsd1</initial>
-  </witness>
   <head>
     <type>book</type>
     <shortid alias="Cordoba 1699">cod-GRvsd1</shortid>
