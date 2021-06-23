@@ -17,6 +17,11 @@
         <!-- https://opacplus.bsb-muenchen.de/title/BV001735842", -->
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10990854/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10990854/manifest</manifestOfficial>
+        <!-- note that the images uploaded through iiif manifest to transkribus seem to be slightly different than 
+          images currently served by bsb manifest which messess up the coordinate collection; 
+          so i've put the images on the scta loris server and created a scta manifest that uses bsb canvas ids, 
+          but points to the scta loris server 
+          -->
       </item>
     </hasItems>
   </head>
