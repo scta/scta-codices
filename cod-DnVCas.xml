@@ -16,7 +16,7 @@
         <!-- would prefer to be using BSB images, but they changed them after collection coordinates -->
         <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148366/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148366/manifest</manifestOfficial>-->
-        <canvasBase>http://scta.info/iiif/cod-DnVCas/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-DnVCas/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-DnVCas/manifest</manifestOfficial>
       </item>
     </hasItems>
