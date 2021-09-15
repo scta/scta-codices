@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="PL40">cod-xci40P</shortid>
+    <title>PL 40</title>
+    <initial>P</initial>
+    <!-- Patrologia volume 40  -->
+    <place>Paris</place>
+    <date>1845</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-xci40P/item1</shortid>
+        <!--<holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>-->
+        <!--
+          https://opacplus.bsb-muenchen.de/title/BV001535260
+        -->
+        <!--https://archive.org/details/PatrologiaeLatina40/page/n119/mode/2up (p. 231-232)-->
+        <!--http://www.augustinus.it/latino/enchiridion/index.htm-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/PatrologiaeLatina40/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
