@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="PL38">cod-xci38P</shortid>
+    <title>PL 38</title>
+    <initial>P</initial>
+    <!-- Patrologia volume 38  -->
+    <place>Paris</place>
+    <date>1845</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-xci38P/item1</shortid>
+        <!--http://www.augustinus.it/latino/enchiridion/index.htm-->
+        <canvasBase><!--https://iiif.archivelab.org/iiif/--></canvasBase>
+        <manifestOfficial><!--https://iiif.archivelab.org/iiif/PatrologiaeLatina38/manifest.json doesn't seem to exist yet--></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
+<witness id="cod-AAHz87">
+  <slug>cod-AAHz87</slug>
+  <title>BSB Clm 17059</title>
+  <initial>cod-AAHz87</initial>
+  <!-- https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00073147/manifest -->
+</witness>
