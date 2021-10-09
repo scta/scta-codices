@@ -10,8 +10,8 @@
 			<item>
 				<canonical>true</canonical>
 			  <shortid>zbsSII72/item1</shortid>
-				<canvasBase>http://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/canvas/</canvasBase>
-				<manifestOfficial>http://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/manifest.json</manifestOfficial>
+				<canvasBase>https://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/canvas/</canvasBase>
+				<manifestOfficial>https://www.e-codices.unifr.ch/metadata/iiif/zbs-SII-0072/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>
