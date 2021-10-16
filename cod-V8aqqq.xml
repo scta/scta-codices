@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-V8aqqq</shortid>
+    <title>Paris 1513</title>
+    <initial>P</initial>
+    <!-- contains commentary of Cortese, Paolo-->
+    <place>Paris</place>
+    <date>1513</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-V8aqqq/item1</shortid>
+        <!--https://opacplus.bsb-muenchen.de/title/BV001397877 -->
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase><!--https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00023051/canvas/--></canvasBase>
+        <manifestOfficial><!--https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00023051/manifest--></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
