@@ -3,7 +3,7 @@
   <head>
     <type>book</type>
     <shortid>cod-vzXPK8</shortid>
-    <title>London, Bill, 1618</title>
+    <title>London, 1618</title>
     <!-- contains de causa Dei by Thomas Bradwardine -->
     <initial>L</initial>
     <place>London</place>
@@ -13,8 +13,8 @@
         <canonical>true</canonical>
         <shortid>cod-vzXPK8/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
-        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634627/canvas/</canvasBase>
-        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634627/manifest</manifestOfficial>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11204259/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11204259/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
