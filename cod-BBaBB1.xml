@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Strassburg1481-1">cod-BBaBB1</shortid>
+    <title>Strassburg, 1481, v. 1</title>
+    <initial>S</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-BBaBB1/item1</shortid>
+        <holdingInstitution><!-- universitat erfurt --></holdingInstitution>
+        <libraryRecord>https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00000254</libraryRecord>
+        <canvasBase>https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2//ufb_derivate_00000064/canvas/</canvasBase>
+        <manifestOfficial>https://dhb.thulb.uni-jena.de/api/iiif/presentation/v2/ufb_derivate_00000064/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
