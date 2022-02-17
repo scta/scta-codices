@@ -44,7 +44,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_1r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_1r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6776,
@@ -72,7 +72,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_1v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_1v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6594,
@@ -100,7 +100,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_2r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_2r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6933,
@@ -128,7 +128,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_2v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_2v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6448,
@@ -156,7 +156,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_3r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_3r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6784,
@@ -184,7 +184,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_3v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_3v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6488,
@@ -212,7 +212,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_4r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_4r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6784,
@@ -240,7 +240,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_4v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_4v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6570,
@@ -268,7 +268,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_5r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_5r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6713,
@@ -296,7 +296,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_5v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_5v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6467,
@@ -324,7 +324,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_6r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_6r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6660,
@@ -352,7 +352,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_6v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_6v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6459,
@@ -380,7 +380,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_7r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_7r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6661,
@@ -408,7 +408,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_7v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_7v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6408,
@@ -436,7 +436,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_8r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_8r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6752,
@@ -464,7 +464,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_8v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_8v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6421,
@@ -492,7 +492,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_9r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_9r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6697,
@@ -520,7 +520,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_9v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_9v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6483,
@@ -548,7 +548,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_10r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_10r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6812,
@@ -576,7 +576,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_10v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_10v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6484,
@@ -604,7 +604,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_11r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_11r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6693,
@@ -632,7 +632,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_11v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_11v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6460,
@@ -660,7 +660,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_12r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_12r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6663,
@@ -688,7 +688,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_12v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_12v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6458,
@@ -716,7 +716,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_13r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_13r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6657,
@@ -744,7 +744,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_13v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_13v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6553,
@@ -772,7 +772,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_14r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_14r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6623,
@@ -800,7 +800,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_14v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_14v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6456,
@@ -828,7 +828,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_15r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_15r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6676,
@@ -856,7 +856,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_15v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_15v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6449,
@@ -884,7 +884,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_16r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_16r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6649,
@@ -912,7 +912,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_16v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_16v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6539,
@@ -940,7 +940,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_17r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_17r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6615,
@@ -968,7 +968,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_17v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_17v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6552,
@@ -996,7 +996,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_18r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_18r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6717,
@@ -1024,7 +1024,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_18v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_18v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6462,
@@ -1052,7 +1052,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_19r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_19r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6630,
@@ -1080,7 +1080,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_19v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_19v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6543,
@@ -1108,7 +1108,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_20r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_20r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6584,
@@ -1136,7 +1136,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_20v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_20v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6458,
@@ -1164,7 +1164,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_21r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_21r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6687,
@@ -1192,7 +1192,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_21v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_21v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6479,
@@ -1220,7 +1220,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_22r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_22r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6646,
@@ -1248,7 +1248,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_22v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_22v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6503,
@@ -1276,7 +1276,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_23r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_23r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6648,
@@ -1304,7 +1304,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_23v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_23v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6475,
@@ -1332,7 +1332,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_24r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_24r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6567,
@@ -1360,7 +1360,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_24v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_24v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6467,
@@ -1388,7 +1388,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_25r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_25r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6468,
@@ -1416,7 +1416,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_25v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_25v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6574,
@@ -1444,7 +1444,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_26r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_26r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6584,
@@ -1472,7 +1472,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_26v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_26v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6412,
@@ -1500,7 +1500,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_27r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_27r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6634,
@@ -1528,7 +1528,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_27v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_27v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6532,
@@ -1556,7 +1556,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_28r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_28r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6586,
@@ -1584,7 +1584,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_28v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_28v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6499,
@@ -1612,7 +1612,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_29r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_29r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6576,
@@ -1640,7 +1640,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_29v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_29v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6485,
@@ -1668,7 +1668,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_30r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_30r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6679,
@@ -1696,7 +1696,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_30v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_30v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6529,
@@ -1724,7 +1724,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_31r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_31r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6664,
@@ -1752,7 +1752,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_31v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_31v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6508,
@@ -1780,7 +1780,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_32r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_32r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6593,
@@ -1808,7 +1808,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_32v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_32v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6500,
@@ -1836,7 +1836,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_33r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_33r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6627,
@@ -1864,7 +1864,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_33v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_33v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6409,
@@ -1892,7 +1892,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_34r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_34r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6392,
@@ -1920,7 +1920,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_34v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_34v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6310,
@@ -1948,7 +1948,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_35r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_35r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6512,
@@ -1976,7 +1976,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_35v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_35v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6399,
@@ -2004,7 +2004,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_36r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_36r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6543,
@@ -2032,7 +2032,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_36v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_36v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6505,
@@ -2060,7 +2060,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_37r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_37r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6510,
@@ -2088,7 +2088,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_37v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_37v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6448,
@@ -2116,7 +2116,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_38r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_38r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6584,
@@ -2144,7 +2144,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_38v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_38v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6487,
@@ -2172,7 +2172,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_39r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_39r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6487,
@@ -2200,7 +2200,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_39v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_39v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6439,
@@ -2228,7 +2228,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_40r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_40r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6575,
@@ -2256,7 +2256,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_40v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_40v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6466,
@@ -2284,7 +2284,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_41r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_41r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6530,
@@ -2312,7 +2312,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_41v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_41v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6494,
@@ -2340,7 +2340,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_42r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_42r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6502,
@@ -2368,7 +2368,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_42v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_42v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6456,
@@ -2396,7 +2396,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_43r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_43r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6556,
@@ -2424,7 +2424,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_43v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_43v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6328,
@@ -2452,7 +2452,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_44r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_44r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6645,
@@ -2480,7 +2480,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_44v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_44v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6426,
@@ -2508,7 +2508,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_45r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_45r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6550,
@@ -2536,7 +2536,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_45v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_45v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6411,
@@ -2564,7 +2564,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_46r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_46r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6563,
@@ -2592,7 +2592,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_46v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_46v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6357,
@@ -2620,7 +2620,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_47r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_47r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6627,
@@ -2648,7 +2648,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_47v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_47v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6344,
@@ -2676,7 +2676,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_48r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_48r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6666,
@@ -2704,7 +2704,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_48v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_48v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6431,
@@ -2732,7 +2732,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_49r",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_49r",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6585,
@@ -2760,7 +2760,7 @@
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://kb-images.kb.dk/public/ms/gks1363/1363,4_49v",
+              "@id": "https://kb-images.kb.dk/public/ms/gks1363/1363,4_49v",
               "profile": "http://iiif.io/api/image/2/level2.json"
             },
             "height": 6410,

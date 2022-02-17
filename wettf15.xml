@@ -9,8 +9,8 @@
 			<item>
 				<canonical>true</canonical>
 				<shortid>wettf15/item1</shortid>
-				<canvasBase>http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/canvas/</canvasBase>
-				<manifestOfficial>http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json</manifestOfficial>
+				<canvasBase>https://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/canvas/</canvasBase>
+				<manifestOfficial>https://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json</manifestOfficial>
 			</item>
 		</hasItems>
 	</head>
