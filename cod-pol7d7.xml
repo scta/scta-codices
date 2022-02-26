@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-pol7d7</shortid>
+    <title>Krakow, Biblioteka Jagiellonska, MS lat. 700 III (CC.VIII.25)</title>
+    <initial>K</initial>
+    <!-- contains manifestation of Compendium moralium notabilium -->
+    <date>1419</date> <!-- 1419 comes for catalogue -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pol7d7/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <!-- https://polona.pl/item/compendium-moralium-notabilium,OTIyODg0MDM/\ -->
+        <canvasBase>https://zas.bn.org.pl/iiif/92288403/</canvasBase> <!-- example item id: https://zas.bn.org.pl/iiif/92288403/96932573.tif/info.json -->
+        <manifestOfficial>https://polona.pl/iiif/item/OTIyODg0MDM/manifest.json</manifestOfficial> 
+        <!-- this is a version 3 manifest and doesn't seem well created; it uses example.org in annotation ids
+        and is use info.json as "item id" 
+        
+        it will probably be easiest to create a custom 2.0 manifest -->
+        -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

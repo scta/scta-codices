@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-acbnnn</shortid>
+    <title>Vatican, Biblioteca Apostolica Vaticana, Arch. Cap. S. Pietro, H.48</title>
+    <initial>A</initial>
+    <!-- contains manifestation of Compendium moralium notabilium -->
+    <date>1299A</date> <!-- 14th century (aka after 1299) -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-acbnnn/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.H.48/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.H.48/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
