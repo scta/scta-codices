@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-klc89d</shortid>
+    <title>Klosterneuberg, Stiftsbibliothek, CCl. 381</title>
+    <initial>Ka</initial>
+    <!-- contains manifestation of Compendium moralium notabilium ff.1-252 (c.1409-13) [HMML 5353]-->
+    <date>1409</date> <!-- (1409-13) sometime after 1409-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-klc89d/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <!-- https://manuscripta.at/diglit/AT5000-381/0001 -->
+        <canvasBase>https://manuscripta.at/diglit/iiif/AT5000-381/canvas/</canvasBase> 
+        <manifestOfficial>https://manuscripta.at/diglit/iiif/AT5000-381/manifest.json</manifestOfficial> 
+        <!-- 
+          manifest seems ok, but the IIIF server seems broken and only serving thumnails
+          manifest could be update to point to loris served images while still using the same canvas ids
+        -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
