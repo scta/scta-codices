@@ -6,11 +6,6 @@
   "navDate": "1683-01-01T00:00:00Z",
   "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
   "attribution": "Bayerische Staatsbibliothek",
-  "service": {
-    "@context": "http://iiif.io/api/search/1/context.json",
-    "@id": "https://api.digitale-sammlungen.de/iiif/services/search/v1/bsb10325399",
-    "profile": "http://iiif.io/api/search/1/search"
-  },
   "seeAlso": [
     {
       "@id": "https://mdz-nbn-resolving.de/details:bsb10325399",
