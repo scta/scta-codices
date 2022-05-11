@@ -3,7 +3,6 @@
   "@id": "https://nubis.univ-paris1.fr/iiif/ark:/15733/1t2h/manifest",
   "@type": "sc:Manifest",
   "label": "Adami de Voodam opus super Sententias",
-  "license": "Licence Ouverte Etalab",
   "attribution": "Fourni par la Bibliothèque de la Sorbonne",
   "related": {
     "@id": "https://nubis.univ-paris1.fr/ark:/15733/1t2h",
