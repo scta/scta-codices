@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1477">cod-iiuytd</shortid>
+    <title>Venice 1477</title>
+    <!-- contains lombard's Sentences -->
+    <place>Venice</place>
+    <date>1477</date>
+    <initial>V</initial>
+    <hasItems>
+      <item>
+        <!--<label></label>-->
+        <canonical>true</canonical>
+        <shortid>cod-iiuytd/item1</shortid>
+        <!--<holdingInstitution>Staatsbibliothek Berlin </holdingInstitution>-->
+        <callNumber/>
+        <!-- http://resolver.staatsbibliothek-berlin.de/SBB000202AC00000000
+          	https://content.staatsbibliothek-berlin.de/dc/PPN891242295.mets.xml
+        -->
+        <canvasBase>https://content.staatsbibliothek-berlin.de/dc/</canvasBase> <!-- endpattern = 891242295-0001/canvas -->
+        <manifestOfficial>https://content.staatsbibliothek-berlin.de/dc/891242295/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

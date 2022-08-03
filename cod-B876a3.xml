@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1517v3">cod-B876a3</shortid>
+    <title>Paris 1517, vol. 3</title>
+    <initial>P</initial>
+    <!-- Bassolis Sent Commentary -->
+    <place>Paris</place>
+    <date>1517</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-B876a3/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--https://opacplus.bsb-muenchen.de/title/ ?? -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148506/canvas</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148506/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+
+  </surfaces>
+</codex>
