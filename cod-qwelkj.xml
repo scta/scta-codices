@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="TolouseMs256">cod-qwelkj</shortid>
+    <title>Toulouse, Bibliothèque Rosalis, ms. 246</title>
+    <!-- contains wodeham's abbreviatio and perhaps some other texts -->
+    <!--<place></place>-->
+    <date>1300A</date><!-- Gallica catalogue record suggest Publication date :  1301-1500 -->
+    <initial>V</initial>
+    <hasItems>
+      <item>
+        <!--<label></label>-->
+        <canonical>true</canonical>
+        <shortid>cod-qwelkj/item1</shortid>
+        <!--<holdingInstitution>Tolouse, Bibliothèque Rosalis</holdingInstitution>-->
+        <callNumber/>
+        <!--https://archivesetmanuscrits.bnf.fr/ark:/12148/cc1116675/cN96238-->
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10560123f/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10560123f/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
