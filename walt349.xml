@@ -5,6 +5,25 @@
 		<shortid>walt349</shortid>
 		<title>Baltimore, Walters, W. 349</title>
 		<initial>W</initial>
+	  <!--Notes
+	    
+	    Contatins commentary of Richard of Mediavilla 
+	    
+      With the help of Leslie Morgan in our Modern Languages department, 
+      I think we have been able to verify and determine almost the exact place that W.349 originates from.
+
+      It was copied in 1474 by a person who calls himself Timothy of Scledo and he says the book belongs to the place of San Francesco scledi (pertinet ad locum sancti francisco scledi) (See colophon at end of codex)
+
+      Scledus is the Latin named used for modern day “Schio" (https://en.wikipedia.org/wiki/Schio)
+      Moreover Wikipedia says there is a still a church in Schio that dates to the early 15th century called the Church of St. Francis and it was originally part of a Franciscan Convent.
+      But this further corroborates the identification because Timothy identifies himself as a Franciscan.
+
+      "San Francesco (St. Francis’) church, dating from the early 15th century.
+      The church is now part of a complex of buildings, superimposed in time, which were used formerly by the Monastery dei Frati Minori (1437-1806) and then by Schio’s civil hospital (the Baratto Institute 1807-1959) and now a home for the elderly." (https://en.wikipedia.org/wiki/Schio)
+
+      Now, we just need to figure out how it gets from Schio to the Walters in 1912. (Since it became a civil hospital in 1807, I wonder if this was a time when books began to be sold off.) 
+
+	  -->
 		<hasItems>
 			<item>
 				<canonical>true</canonical>
