@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1562v5">cod-AAadcg</shortid>
+    <title>Juntina, Venice 1562, v. 5</title>
+    <initial>J</initial>
+    <!-- Juntina Aristotle Averroes on De Caelog, Meterologia, De Generatione et Corruptione, De Plantis-->
+    <place>Venice</place>
+    <date>1562</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-AAadcg/item1</shortid>
+        <canvasBase>https://scta.info/iiif/cod-AAadcg/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-AAadcg/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

@@ -12,6 +12,7 @@
 				<shortid>bnf/item1</shortid>
 				<canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b105065487/canvas/</canvasBase>
 				<manifestOfficial>http://gallica.bnf.fr/iiif/ark:/12148/btv1b105065487/manifest.json</manifestOfficial>
+			  <!-- replacement manfiest in single pages and color: https://gallica.bnf.fr/ark:/12148/btv1b525156460 -->
 			</item>
 		</hasItems>
 	</head>
