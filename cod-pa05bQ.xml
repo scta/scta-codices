@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Rome1605Q">cod-pa05bQ</shortid>
+    <title>Roma 1605, Quodlibeta</title>
+    <initial>J</initial>
+    <!-- Contains Aureoli Quodlibeta-->
+    <place>Rome</place>
+    <date>1605</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pa05bQ/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634443/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634443/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
