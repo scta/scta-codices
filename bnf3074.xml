@@ -12,6 +12,7 @@
         <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
         <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/canvas/</canvasBase>
         <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032783k/manifest.json</manifestOfficial>
+        <!-- color copy single pages https://gallica.bnf.fr/iiif/ark:/12148/btv1b525156460/manifest.json -->
       </item>
     </hasItems>
   </head>

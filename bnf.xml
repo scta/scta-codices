@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <codex>
+  <!-- DEPRECIATED; this file is replaced by bnf3074 and should be deleted; it should also be deleted in canvases directory -->
 	<head>
 		<type>manuscript</type>
 		<shortid>bnf</shortid>

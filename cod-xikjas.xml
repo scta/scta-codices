@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnf16622">cod-xikjas</shortid>
+    <!-- contains De informatione principum of Durand of Champange-->
+    <title>Paris, Bnf, Lat. 16622</title>
+    <initial>P</initial>
+    
+    <!--<place>Paris</place>-->
+    <date>1401</date> <!-- bnf manifest reports 1401-1500 -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-xci40P/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/manifest.json</manifestOfficial>
+        <!-- this manifet is of black and white double sided, so I think I'm going to temp custom images that are cut into singles -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
