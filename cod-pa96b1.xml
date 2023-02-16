@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1596">cod-pa96b1</shortid>
+    <title>Paris 1596</title> <!-- contains book 1 of Peter Aureoli's Scriptum -->
+    <initial>P</initial>
+    <place>Paris</place>
+    <date>1596</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pa96b1/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148499/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148499/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
