@@ -14,11 +14,10 @@
         <canonical>true</canonical>
         <shortid>cod-xikjas/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
-        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/canvas/</canvasBase>
-        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/manifest.json</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/cod-xikjas/canvas/</canvasBase><!--https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/canvas/-->
+        <manifestOfficial>https://scta.info/iiif/cod-xikjas/manifest</manifestOfficial>
+        <!--https://gallica.bnf.fr/iiif/ark:/12148/btv1b90676696/manifest.json-->
         <!-- this manifet is of black and white double sided, so I think I'm going to temp custom images that are cut into singles -->
-        https://scta.info/iiif/#{slug}/canvas/#{label}
-        https://scta.info/iiif/#{slug}/manifest
       </item>
     </hasItems>
   </head>
