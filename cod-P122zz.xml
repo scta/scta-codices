@@ -16,7 +16,7 @@
         _Weiterer Identifikator: surn:nbn:de:bvb:12-bsb10142549-3
         -->
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
-        <canvasBase>https://scta.info/iiif/cod-xikjas/canvas/</canvasBase><!-- using custom canvas base, beause BSB has changed images since time of coordinate extraction -->
+        <canvasBase>https://scta.info/iiif/cod-P122zz/canvas/</canvasBase><!-- using custom canvas base, beause BSB has changed images since time of coordinate extraction -->
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10142549/manifest</manifestOfficial>
         <!-- canvas 51 and 52 are repeats of 53 and 54; 51 and 52 have been skipped-->
       </item>
