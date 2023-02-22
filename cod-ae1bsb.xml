@@ -17,7 +17,7 @@
         <shortid>cod-ae1bsb/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!-- https://opacplus.bsb-muenchen.de/title/BV037312969 -->
-        <canvasBase>https://scta.info/iiif/cod-P122zz/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-ae1bsb/canvas/</canvasBase>
         <!-- using custom canvas base, beause BSB has changed images since time of coordinate extraction -->
         <!--https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10812712/canvas/-->
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10812712/manifest</manifestOfficial>
