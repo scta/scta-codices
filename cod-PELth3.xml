@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Augsburg1503">cod-PELth3</shortid>
+    <title>Augsburg 1503, v. 3</title>
+    <initial>A</initial>
+    <!-- contains part 3 of Pelbartus Aureum Rosarium-->
+    <place>Augsburg</place>
+    <!-- place is a litlte fuzzy; bsb also suggest Hagenaw -->
+    <date>1503</date><!-- colophon on surface/canvas 336 of volume 1for date -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-PELth3/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--
+          https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/manifest
+        -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
