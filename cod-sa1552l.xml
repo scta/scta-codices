@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Salamanca1552">cod-sa1552l</shortid>
+    <title>Salamanca 1552</title>
+    <initial>S</initial>
+    <!-- contains book 4 of Palude's Sent Commentary-->
+    <place>Salamanca</place>
+    <date>1552</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-sa1552l/item1</shortid>
+        
+        <!--
+          https://books.google.com/books?id=wgNzvfRKBP8C
+          
+          Bibliographic information
+          QR code for D. Petri a Palude ... Lucubrationum Opus in quartum Sententiaru[m]
+          Title	D. Petri a Palude ... Lucubrationum Opus in quartum Sententiaru[m]
+          Author	Pierre de La Palud
+          Publisher	excudebat Andreas à Portonariis, 1552
+          Original from	the Complutense University of Madrid
+          Digitized	Apr 7, 2009
+          Length	497 pages
+
+        -->
+        <canvasBase>https://scta.info/iiif/cod-sa1552l/canvas/</canvasBase><!--using custom canvases but images have changes since coordinate extraction -->
+        <manifestOfficial>https://scta.info/iiif/codex/cod-sa1552l/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
