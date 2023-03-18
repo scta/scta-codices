@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1509v4">cod-ve09v4</shortid>
+    <title>Venice 1509 v. 4</title>
+    <initial>V</initial>
+    <!-- contains book 4 of Richard de mediavilla's Sentences commentary-->
+    <place>Venice</place>
+    <date>1509</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ve09v4/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- https://mdz-nbn-resolving.de/details:bsb10149154 -->
+        <!-- 4th of 4 volumes: 
+          https://www.digitale-sammlungen.de/en/search?filter=volumes%3A%22bsb10149152%2FBV014329295%22
+          -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149154/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149154/manifest</manifestOfficial>
+        
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1507v1">cod-ve07v1</shortid>
+    <title>Venice 1507 v. 1</title>
+    <initial>V</initial>
+    <!-- contains book 1 of Richard de mediavilla's Sentences commentary-->
+    <place>Venice</place>
+    <date>1507</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ve09v2/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- https://mdz-nbn-resolving.de/details:bsb10149150 -->
+        <!-- 1st of 4 volumes edited by Soardus
+          https://www.digitale-sammlungen.de/en/search?filter=volumes%3A%22bsb10149152%2FBV014329295%22
+          -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149150/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149150/manifest</manifestOfficial>
+        
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>

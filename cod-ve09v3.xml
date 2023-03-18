@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1509v3">cod-ve09v3</shortid>
+    <title>Venice 1509 v. 3</title>
+    <initial>V</initial>
+    <!-- contains book 3 of Richard de mediavilla's Sentences commentary-->
+    <place>Venice</place>
+    <date>1509</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ve09v3/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!-- https://mdz-nbn-resolving.de/details:bsb10149152 -->
+        <!-- 3rd of 4 volumes: 
+          https://www.digitale-sammlungen.de/en/search?filter=volumes%3A%22bsb10149152%2FBV014329295%22
+          -->
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149152/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149152/manifest</manifestOfficial>
+        
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
