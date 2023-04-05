@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Roma1605v2">cod-pa05b2</shortid>
+    <title>Roma 1605, Book 2</title> <!-- contains book 2 of Peter Aureoli's Sent Commentary -->
+    <initial>R</initial>
+    <place>Roma</place>
+    <date>1605</date>
+    <!-- editor Aloisii Zanetti -->
+    <!-- contains book 4 -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pa05b2/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634440/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634440/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
