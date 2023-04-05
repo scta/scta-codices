@@ -14,14 +14,16 @@
         <canonical>true</canonical>
         <shortid>cod-DdMDdC/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
-        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634722/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-DdMDdC/canvas/</canvasBase>
+        <!-- alt canvas because BSB has changed images since coordinate capture 
+          https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634722/canvas/ -->
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10634722/manifest</manifestOfficial>
         <!-- bsb 0046 and 0047 are duplicates and therefore skipped -->
       </item>
     </hasItems>
   </head>
   <surfaces>
-
+    
     <surface>
       <shortid>cod-DdMDdC/1r</shortid>
       <label>1r</label>
@@ -29,11 +31,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/1r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>21</canvasslug>
+          <canvasslug>1r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/1v</shortid>
       <label>1v</label>
@@ -41,11 +42,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/1v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>22</canvasslug>
+          <canvasslug>1v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/2r</shortid>
       <label>2r</label>
@@ -53,11 +53,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/2r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>23</canvasslug>
+          <canvasslug>2r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/2v</shortid>
       <label>2v</label>
@@ -65,11 +64,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/2v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>24</canvasslug>
+          <canvasslug>2v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/3r</shortid>
       <label>3r</label>
@@ -77,11 +75,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/3r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>25</canvasslug>
+          <canvasslug>3r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/3v</shortid>
       <label>3v</label>
@@ -89,11 +86,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/3v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>26</canvasslug>
+          <canvasslug>3v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/4r</shortid>
       <label>4r</label>
@@ -101,11 +97,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/4r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>27</canvasslug>
+          <canvasslug>4r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/4v</shortid>
       <label>4v</label>
@@ -113,11 +108,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/4v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>28</canvasslug>
+          <canvasslug>4v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/5r</shortid>
       <label>5r</label>
@@ -125,11 +119,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/5r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>29</canvasslug>
+          <canvasslug>5r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/5v</shortid>
       <label>5v</label>
@@ -137,11 +130,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/5v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>30</canvasslug>
+          <canvasslug>5v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/6r</shortid>
       <label>6r</label>
@@ -149,11 +141,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/6r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>31</canvasslug>
+          <canvasslug>6r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/6v</shortid>
       <label>6v</label>
@@ -161,11 +152,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/6v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>32</canvasslug>
+          <canvasslug>6v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/7r</shortid>
       <label>7r</label>
@@ -173,11 +163,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/7r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>33</canvasslug>
+          <canvasslug>7r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/7v</shortid>
       <label>7v</label>
@@ -185,11 +174,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/7v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>34</canvasslug>
+          <canvasslug>7v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/8r</shortid>
       <label>8r</label>
@@ -197,11 +185,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/8r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>35</canvasslug>
+          <canvasslug>8r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/8v</shortid>
       <label>8v</label>
@@ -209,11 +196,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/8v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>36</canvasslug>
+          <canvasslug>8v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/9r</shortid>
       <label>9r</label>
@@ -221,11 +207,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/9r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>37</canvasslug>
+          <canvasslug>9r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/9v</shortid>
       <label>9v</label>
@@ -233,11 +218,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/9v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>38</canvasslug>
+          <canvasslug>9v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/10r</shortid>
       <label>10r</label>
@@ -245,11 +229,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/10r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>39</canvasslug>
+          <canvasslug>10r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/10v</shortid>
       <label>10v</label>
@@ -257,11 +240,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/10v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>40</canvasslug>
+          <canvasslug>10v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/11r</shortid>
       <label>11r</label>
@@ -269,11 +251,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/11r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>41</canvasslug>
+          <canvasslug>11r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/11v</shortid>
       <label>11v</label>
@@ -281,11 +262,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/11v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>42</canvasslug>
+          <canvasslug>11v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/12r</shortid>
       <label>12r</label>
@@ -293,11 +273,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/12r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>43</canvasslug>
+          <canvasslug>12r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/12v</shortid>
       <label>12v</label>
@@ -305,11 +284,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/12v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>44</canvasslug>
+          <canvasslug>12v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/13r</shortid>
       <label>13r</label>
@@ -317,11 +295,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/13r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>45</canvasslug>
+          <canvasslug>13r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/13v</shortid>
       <label>13v</label>
@@ -329,11 +306,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/13v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>48</canvasslug>
+          <canvasslug>13v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/14r</shortid>
       <label>14r</label>
@@ -341,11 +317,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/14r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>49</canvasslug>
+          <canvasslug>14r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/14v</shortid>
       <label>14v</label>
@@ -353,11 +328,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/14v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>50</canvasslug>
+          <canvasslug>14v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/15r</shortid>
       <label>15r</label>
@@ -365,11 +339,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/15r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>51</canvasslug>
+          <canvasslug>15r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/15v</shortid>
       <label>15v</label>
@@ -377,11 +350,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/15v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>52</canvasslug>
+          <canvasslug>15v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/16r</shortid>
       <label>16r</label>
@@ -389,11 +361,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/16r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>53</canvasslug>
+          <canvasslug>16r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/16v</shortid>
       <label>16v</label>
@@ -401,11 +372,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/16v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>54</canvasslug>
+          <canvasslug>16v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/17r</shortid>
       <label>17r</label>
@@ -413,11 +383,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/17r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>55</canvasslug>
+          <canvasslug>17r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/17v</shortid>
       <label>17v</label>
@@ -425,11 +394,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/17v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>56</canvasslug>
+          <canvasslug>17v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/18r</shortid>
       <label>18r</label>
@@ -437,11 +405,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/18r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>57</canvasslug>
+          <canvasslug>18r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/18v</shortid>
       <label>18v</label>
@@ -449,11 +416,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/18v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>58</canvasslug>
+          <canvasslug>18v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/19r</shortid>
       <label>19r</label>
@@ -461,11 +427,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/19r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>59</canvasslug>
+          <canvasslug>19r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/19v</shortid>
       <label>19v</label>
@@ -473,11 +438,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/19v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>60</canvasslug>
+          <canvasslug>19v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/20r</shortid>
       <label>20r</label>
@@ -485,11 +449,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/20r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>61</canvasslug>
+          <canvasslug>20r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/20v</shortid>
       <label>20v</label>
@@ -497,11 +460,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/20v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>62</canvasslug>
+          <canvasslug>20v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/21r</shortid>
       <label>21r</label>
@@ -509,11 +471,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/21r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>63</canvasslug>
+          <canvasslug>21r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/21v</shortid>
       <label>21v</label>
@@ -521,11 +482,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/21v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>64</canvasslug>
+          <canvasslug>21v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/22r</shortid>
       <label>22r</label>
@@ -533,11 +493,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/22r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>65</canvasslug>
+          <canvasslug>22r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/22v</shortid>
       <label>22v</label>
@@ -545,11 +504,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/22v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>66</canvasslug>
+          <canvasslug>22v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/23r</shortid>
       <label>23r</label>
@@ -557,11 +515,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/23r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>67</canvasslug>
+          <canvasslug>23r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/23v</shortid>
       <label>23v</label>
@@ -569,11 +526,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/23v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>68</canvasslug>
+          <canvasslug>23v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/24r</shortid>
       <label>24r</label>
@@ -581,11 +537,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/24r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>69</canvasslug>
+          <canvasslug>24r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/24v</shortid>
       <label>24v</label>
@@ -593,11 +548,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/24v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>70</canvasslug>
+          <canvasslug>24v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/25r</shortid>
       <label>25r</label>
@@ -605,11 +559,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/25r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>71</canvasslug>
+          <canvasslug>25r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/25v</shortid>
       <label>25v</label>
@@ -617,11 +570,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/25v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>72</canvasslug>
+          <canvasslug>25v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/26r</shortid>
       <label>26r</label>
@@ -629,11 +581,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/26r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>73</canvasslug>
+          <canvasslug>26r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/26v</shortid>
       <label>26v</label>
@@ -641,11 +592,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/26v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>74</canvasslug>
+          <canvasslug>26v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/27r</shortid>
       <label>27r</label>
@@ -653,11 +603,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/27r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>75</canvasslug>
+          <canvasslug>27r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/27v</shortid>
       <label>27v</label>
@@ -665,11 +614,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/27v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>76</canvasslug>
+          <canvasslug>27v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/28r</shortid>
       <label>28r</label>
@@ -677,11 +625,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/28r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>77</canvasslug>
+          <canvasslug>28r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/28v</shortid>
       <label>28v</label>
@@ -689,11 +636,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/28v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>78</canvasslug>
+          <canvasslug>28v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/29r</shortid>
       <label>29r</label>
@@ -701,11 +647,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/29r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>79</canvasslug>
+          <canvasslug>29r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/29v</shortid>
       <label>29v</label>
@@ -713,11 +658,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/29v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>80</canvasslug>
+          <canvasslug>29v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/30r</shortid>
       <label>30r</label>
@@ -725,11 +669,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/30r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>81</canvasslug>
+          <canvasslug>30r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/30v</shortid>
       <label>30v</label>
@@ -737,11 +680,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/30v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>82</canvasslug>
+          <canvasslug>30v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/31r</shortid>
       <label>31r</label>
@@ -749,11 +691,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/31r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>83</canvasslug>
+          <canvasslug>31r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/31v</shortid>
       <label>31v</label>
@@ -761,11 +702,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/31v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>84</canvasslug>
+          <canvasslug>31v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/32r</shortid>
       <label>32r</label>
@@ -773,11 +713,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/32r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>85</canvasslug>
+          <canvasslug>32r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/32v</shortid>
       <label>32v</label>
@@ -785,11 +724,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/32v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>86</canvasslug>
+          <canvasslug>32v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/33r</shortid>
       <label>33r</label>
@@ -797,11 +735,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/33r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>87</canvasslug>
+          <canvasslug>33r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/33v</shortid>
       <label>33v</label>
@@ -809,11 +746,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/33v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>88</canvasslug>
+          <canvasslug>33v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/34r</shortid>
       <label>34r</label>
@@ -821,11 +757,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/34r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>89</canvasslug>
+          <canvasslug>34r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/34v</shortid>
       <label>34v</label>
@@ -833,11 +768,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/34v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>90</canvasslug>
+          <canvasslug>34v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/35r</shortid>
       <label>35r</label>
@@ -845,11 +779,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/35r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>91</canvasslug>
+          <canvasslug>35r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/35v</shortid>
       <label>35v</label>
@@ -857,11 +790,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/35v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>92</canvasslug>
+          <canvasslug>35v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/36r</shortid>
       <label>36r</label>
@@ -869,11 +801,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/36r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>93</canvasslug>
+          <canvasslug>36r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/36v</shortid>
       <label>36v</label>
@@ -881,11 +812,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/36v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>94</canvasslug>
+          <canvasslug>36v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/37r</shortid>
       <label>37r</label>
@@ -893,11 +823,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/37r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>95</canvasslug>
+          <canvasslug>37r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/37v</shortid>
       <label>37v</label>
@@ -905,11 +834,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/37v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>96</canvasslug>
+          <canvasslug>37v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/38r</shortid>
       <label>38r</label>
@@ -917,11 +845,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/38r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>97</canvasslug>
+          <canvasslug>38r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/38v</shortid>
       <label>38v</label>
@@ -929,11 +856,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/38v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>98</canvasslug>
+          <canvasslug>38v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/39r</shortid>
       <label>39r</label>
@@ -941,11 +867,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/39r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>99</canvasslug>
+          <canvasslug>39r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/39v</shortid>
       <label>39v</label>
@@ -953,11 +878,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/39v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>100</canvasslug>
+          <canvasslug>39v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/40r</shortid>
       <label>40r</label>
@@ -965,11 +889,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/40r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>101</canvasslug>
+          <canvasslug>40r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/40v</shortid>
       <label>40v</label>
@@ -977,11 +900,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/40v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>102</canvasslug>
+          <canvasslug>40v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/41r</shortid>
       <label>41r</label>
@@ -989,11 +911,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/41r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>103</canvasslug>
+          <canvasslug>41r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/41v</shortid>
       <label>41v</label>
@@ -1001,11 +922,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/41v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>104</canvasslug>
+          <canvasslug>41v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/42r</shortid>
       <label>42r</label>
@@ -1013,11 +933,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/42r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>105</canvasslug>
+          <canvasslug>42r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/42v</shortid>
       <label>42v</label>
@@ -1025,11 +944,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/42v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>106</canvasslug>
+          <canvasslug>42v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/43r</shortid>
       <label>43r</label>
@@ -1037,11 +955,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/43r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>107</canvasslug>
+          <canvasslug>43r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/43v</shortid>
       <label>43v</label>
@@ -1049,11 +966,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/43v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>108</canvasslug>
+          <canvasslug>43v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/44r</shortid>
       <label>44r</label>
@@ -1061,11 +977,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/44r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>109</canvasslug>
+          <canvasslug>44r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/44v</shortid>
       <label>44v</label>
@@ -1073,11 +988,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/44v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>110</canvasslug>
+          <canvasslug>44v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/45r</shortid>
       <label>45r</label>
@@ -1085,11 +999,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/45r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>111</canvasslug>
+          <canvasslug>45r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/45v</shortid>
       <label>45v</label>
@@ -1097,11 +1010,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/45v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>112</canvasslug>
+          <canvasslug>45v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/46r</shortid>
       <label>46r</label>
@@ -1109,11 +1021,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/46r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>113</canvasslug>
+          <canvasslug>46r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/46v</shortid>
       <label>46v</label>
@@ -1121,11 +1032,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/46v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>114</canvasslug>
+          <canvasslug>46v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/47r</shortid>
       <label>47r</label>
@@ -1133,11 +1043,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/47r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>115</canvasslug>
+          <canvasslug>47r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/47v</shortid>
       <label>47v</label>
@@ -1145,11 +1054,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/47v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>116</canvasslug>
+          <canvasslug>47v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/48r</shortid>
       <label>48r</label>
@@ -1157,11 +1065,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/48r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>117</canvasslug>
+          <canvasslug>48r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/48v</shortid>
       <label>48v</label>
@@ -1169,11 +1076,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/48v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>118</canvasslug>
+          <canvasslug>48v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/49r</shortid>
       <label>49r</label>
@@ -1181,11 +1087,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/49r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>119</canvasslug>
+          <canvasslug>49r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/49v</shortid>
       <label>49v</label>
@@ -1193,11 +1098,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/49v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>120</canvasslug>
+          <canvasslug>49v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/50r</shortid>
       <label>50r</label>
@@ -1205,11 +1109,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/50r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>121</canvasslug>
+          <canvasslug>50r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/50v</shortid>
       <label>50v</label>
@@ -1217,11 +1120,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/50v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>122</canvasslug>
+          <canvasslug>50v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/51r</shortid>
       <label>51r</label>
@@ -1229,11 +1131,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/51r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>123</canvasslug>
+          <canvasslug>51r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/51v</shortid>
       <label>51v</label>
@@ -1241,11 +1142,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/51v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>124</canvasslug>
+          <canvasslug>51v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/52r</shortid>
       <label>52r</label>
@@ -1253,11 +1153,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/52r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>125</canvasslug>
+          <canvasslug>52r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/52v</shortid>
       <label>52v</label>
@@ -1265,11 +1164,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/52v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>126</canvasslug>
+          <canvasslug>52v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/53r</shortid>
       <label>53r</label>
@@ -1277,11 +1175,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/53r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>127</canvasslug>
+          <canvasslug>53r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/53v</shortid>
       <label>53v</label>
@@ -1289,11 +1186,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/53v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>128</canvasslug>
+          <canvasslug>53v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/54r</shortid>
       <label>54r</label>
@@ -1301,11 +1197,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/54r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>129</canvasslug>
+          <canvasslug>54r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/54v</shortid>
       <label>54v</label>
@@ -1313,11 +1208,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/54v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>130</canvasslug>
+          <canvasslug>54v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/55r</shortid>
       <label>55r</label>
@@ -1325,11 +1219,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/55r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>131</canvasslug>
+          <canvasslug>55r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/55v</shortid>
       <label>55v</label>
@@ -1337,11 +1230,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/55v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>132</canvasslug>
+          <canvasslug>55v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/56r</shortid>
       <label>56r</label>
@@ -1349,11 +1241,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/56r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>133</canvasslug>
+          <canvasslug>56r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/56v</shortid>
       <label>56v</label>
@@ -1361,11 +1252,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/56v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>134</canvasslug>
+          <canvasslug>56v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/57r</shortid>
       <label>57r</label>
@@ -1373,11 +1263,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/57r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>135</canvasslug>
+          <canvasslug>57r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/57v</shortid>
       <label>57v</label>
@@ -1385,11 +1274,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/57v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>136</canvasslug>
+          <canvasslug>57v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/58r</shortid>
       <label>58r</label>
@@ -1397,11 +1285,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/58r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>137</canvasslug>
+          <canvasslug>58r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/58v</shortid>
       <label>58v</label>
@@ -1409,11 +1296,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/58v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>138</canvasslug>
+          <canvasslug>58v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/59r</shortid>
       <label>59r</label>
@@ -1421,11 +1307,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/59r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>139</canvasslug>
+          <canvasslug>59r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/59v</shortid>
       <label>59v</label>
@@ -1433,11 +1318,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/59v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>140</canvasslug>
+          <canvasslug>59v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/60r</shortid>
       <label>60r</label>
@@ -1445,11 +1329,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/60r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>141</canvasslug>
+          <canvasslug>60r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/60v</shortid>
       <label>60v</label>
@@ -1457,11 +1340,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/60v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>142</canvasslug>
+          <canvasslug>60v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/61r</shortid>
       <label>61r</label>
@@ -1469,11 +1351,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/61r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>143</canvasslug>
+          <canvasslug>61r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/61v</shortid>
       <label>61v</label>
@@ -1481,11 +1362,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/61v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>144</canvasslug>
+          <canvasslug>61v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/62r</shortid>
       <label>62r</label>
@@ -1493,11 +1373,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/62r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>145</canvasslug>
+          <canvasslug>62r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/62v</shortid>
       <label>62v</label>
@@ -1505,11 +1384,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/62v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>146</canvasslug>
+          <canvasslug>62v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/63r</shortid>
       <label>63r</label>
@@ -1517,11 +1395,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/63r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>147</canvasslug>
+          <canvasslug>63r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/63v</shortid>
       <label>63v</label>
@@ -1529,11 +1406,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/63v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>148</canvasslug>
+          <canvasslug>63v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/64r</shortid>
       <label>64r</label>
@@ -1541,11 +1417,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/64r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>149</canvasslug>
+          <canvasslug>64r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/64v</shortid>
       <label>64v</label>
@@ -1553,11 +1428,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/64v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>150</canvasslug>
+          <canvasslug>64v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/65r</shortid>
       <label>65r</label>
@@ -1565,11 +1439,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/65r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>151</canvasslug>
+          <canvasslug>65r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/65v</shortid>
       <label>65v</label>
@@ -1577,11 +1450,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/65v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>152</canvasslug>
+          <canvasslug>65v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/66r</shortid>
       <label>66r</label>
@@ -1589,11 +1461,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/66r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>153</canvasslug>
+          <canvasslug>66r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/66v</shortid>
       <label>66v</label>
@@ -1601,11 +1472,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/66v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>154</canvasslug>
+          <canvasslug>66v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/67r</shortid>
       <label>67r</label>
@@ -1613,11 +1483,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/67r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>155</canvasslug>
+          <canvasslug>67r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/67v</shortid>
       <label>67v</label>
@@ -1625,11 +1494,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/67v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>156</canvasslug>
+          <canvasslug>67v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/68r</shortid>
       <label>68r</label>
@@ -1637,11 +1505,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/68r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>157</canvasslug>
+          <canvasslug>68r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/68v</shortid>
       <label>68v</label>
@@ -1649,11 +1516,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/68v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>158</canvasslug>
+          <canvasslug>68v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/69r</shortid>
       <label>69r</label>
@@ -1661,11 +1527,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/69r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>159</canvasslug>
+          <canvasslug>69r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/69v</shortid>
       <label>69v</label>
@@ -1673,11 +1538,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/69v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>160</canvasslug>
+          <canvasslug>69v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/70r</shortid>
       <label>70r</label>
@@ -1685,11 +1549,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/70r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>161</canvasslug>
+          <canvasslug>70r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/70v</shortid>
       <label>70v</label>
@@ -1697,11 +1560,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/70v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>162</canvasslug>
+          <canvasslug>70v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/71r</shortid>
       <label>71r</label>
@@ -1709,11 +1571,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/71r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>163</canvasslug>
+          <canvasslug>71r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/71v</shortid>
       <label>71v</label>
@@ -1721,11 +1582,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/71v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>164</canvasslug>
+          <canvasslug>71v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/72r</shortid>
       <label>72r</label>
@@ -1733,11 +1593,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/72r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>165</canvasslug>
+          <canvasslug>72r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/72v</shortid>
       <label>72v</label>
@@ -1745,11 +1604,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/72v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>166</canvasslug>
+          <canvasslug>72v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/73r</shortid>
       <label>73r</label>
@@ -1757,11 +1615,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/73r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>167</canvasslug>
+          <canvasslug>73r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/73v</shortid>
       <label>73v</label>
@@ -1769,11 +1626,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/73v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>168</canvasslug>
+          <canvasslug>73v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/74r</shortid>
       <label>74r</label>
@@ -1781,11 +1637,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/74r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>169</canvasslug>
+          <canvasslug>74r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/74v</shortid>
       <label>74v</label>
@@ -1793,11 +1648,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/74v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>170</canvasslug>
+          <canvasslug>74v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/75r</shortid>
       <label>75r</label>
@@ -1805,11 +1659,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/75r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>171</canvasslug>
+          <canvasslug>75r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/75v</shortid>
       <label>75v</label>
@@ -1817,11 +1670,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/75v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>172</canvasslug>
+          <canvasslug>75v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/76r</shortid>
       <label>76r</label>
@@ -1829,11 +1681,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/76r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>173</canvasslug>
+          <canvasslug>76r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/76v</shortid>
       <label>76v</label>
@@ -1841,11 +1692,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/76v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>174</canvasslug>
+          <canvasslug>76v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/77r</shortid>
       <label>77r</label>
@@ -1853,11 +1703,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/77r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>175</canvasslug>
+          <canvasslug>77r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/77v</shortid>
       <label>77v</label>
@@ -1865,11 +1714,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/77v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>176</canvasslug>
+          <canvasslug>77v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/78r</shortid>
       <label>78r</label>
@@ -1877,11 +1725,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/78r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>177</canvasslug>
+          <canvasslug>78r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/78v</shortid>
       <label>78v</label>
@@ -1889,11 +1736,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/78v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>178</canvasslug>
+          <canvasslug>78v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/79r</shortid>
       <label>79r</label>
@@ -1901,11 +1747,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/79r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>179</canvasslug>
+          <canvasslug>79r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/79v</shortid>
       <label>79v</label>
@@ -1913,11 +1758,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/79v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>180</canvasslug>
+          <canvasslug>79v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/80r</shortid>
       <label>80r</label>
@@ -1925,11 +1769,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/80r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>181</canvasslug>
+          <canvasslug>80r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/80v</shortid>
       <label>80v</label>
@@ -1937,11 +1780,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/80v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>182</canvasslug>
+          <canvasslug>80v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/81r</shortid>
       <label>81r</label>
@@ -1949,11 +1791,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/81r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>183</canvasslug>
+          <canvasslug>81r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/81v</shortid>
       <label>81v</label>
@@ -1961,11 +1802,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/81v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>184</canvasslug>
+          <canvasslug>81v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/82r</shortid>
       <label>82r</label>
@@ -1973,11 +1813,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/82r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>185</canvasslug>
+          <canvasslug>82r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/82v</shortid>
       <label>82v</label>
@@ -1985,11 +1824,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/82v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>186</canvasslug>
+          <canvasslug>82v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/83r</shortid>
       <label>83r</label>
@@ -1997,11 +1835,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/83r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>187</canvasslug>
+          <canvasslug>83r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/83v</shortid>
       <label>83v</label>
@@ -2009,11 +1846,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/83v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>188</canvasslug>
+          <canvasslug>83v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/84r</shortid>
       <label>84r</label>
@@ -2021,11 +1857,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/84r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>189</canvasslug>
+          <canvasslug>84r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/84v</shortid>
       <label>84v</label>
@@ -2033,11 +1868,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/84v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>190</canvasslug>
+          <canvasslug>84v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/85r</shortid>
       <label>85r</label>
@@ -2045,11 +1879,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/85r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>191</canvasslug>
+          <canvasslug>85r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/85v</shortid>
       <label>85v</label>
@@ -2057,11 +1890,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/85v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>192</canvasslug>
+          <canvasslug>85v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/86r</shortid>
       <label>86r</label>
@@ -2069,11 +1901,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/86r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>193</canvasslug>
+          <canvasslug>86r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/86v</shortid>
       <label>86v</label>
@@ -2081,11 +1912,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/86v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>194</canvasslug>
+          <canvasslug>86v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/87r</shortid>
       <label>87r</label>
@@ -2093,11 +1923,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/87r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>195</canvasslug>
+          <canvasslug>87r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/87v</shortid>
       <label>87v</label>
@@ -2105,11 +1934,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/87v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>196</canvasslug>
+          <canvasslug>87v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/88r</shortid>
       <label>88r</label>
@@ -2117,11 +1945,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/88r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>197</canvasslug>
+          <canvasslug>88r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/88v</shortid>
       <label>88v</label>
@@ -2129,11 +1956,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/88v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>198</canvasslug>
+          <canvasslug>88v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/89r</shortid>
       <label>89r</label>
@@ -2141,11 +1967,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/89r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>199</canvasslug>
+          <canvasslug>89r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/89v</shortid>
       <label>89v</label>
@@ -2153,11 +1978,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/89v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>200</canvasslug>
+          <canvasslug>89v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/90r</shortid>
       <label>90r</label>
@@ -2165,11 +1989,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/90r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>201</canvasslug>
+          <canvasslug>90r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/90v</shortid>
       <label>90v</label>
@@ -2177,11 +2000,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/90v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>202</canvasslug>
+          <canvasslug>90v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/91r</shortid>
       <label>91r</label>
@@ -2189,11 +2011,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/91r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>203</canvasslug>
+          <canvasslug>91r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/91v</shortid>
       <label>91v</label>
@@ -2201,11 +2022,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/91v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>204</canvasslug>
+          <canvasslug>91v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/92r</shortid>
       <label>92r</label>
@@ -2213,11 +2033,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/92r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>205</canvasslug>
+          <canvasslug>92r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/92v</shortid>
       <label>92v</label>
@@ -2225,11 +2044,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/92v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>206</canvasslug>
+          <canvasslug>92v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/93r</shortid>
       <label>93r</label>
@@ -2237,11 +2055,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/93r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>207</canvasslug>
+          <canvasslug>93r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/93v</shortid>
       <label>93v</label>
@@ -2249,11 +2066,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/93v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>208</canvasslug>
+          <canvasslug>93v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/94r</shortid>
       <label>94r</label>
@@ -2261,11 +2077,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/94r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>209</canvasslug>
+          <canvasslug>94r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/94v</shortid>
       <label>94v</label>
@@ -2273,11 +2088,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/94v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>210</canvasslug>
+          <canvasslug>94v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/95r</shortid>
       <label>95r</label>
@@ -2285,11 +2099,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/95r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>211</canvasslug>
+          <canvasslug>95r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/95v</shortid>
       <label>95v</label>
@@ -2297,11 +2110,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/95v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>212</canvasslug>
+          <canvasslug>95v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/96r</shortid>
       <label>96r</label>
@@ -2309,11 +2121,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/96r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>213</canvasslug>
+          <canvasslug>96r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/96v</shortid>
       <label>96v</label>
@@ -2321,11 +2132,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/96v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>214</canvasslug>
+          <canvasslug>96v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/97r</shortid>
       <label>97r</label>
@@ -2333,11 +2143,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/97r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>215</canvasslug>
+          <canvasslug>97r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/97v</shortid>
       <label>97v</label>
@@ -2345,11 +2154,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/97v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>216</canvasslug>
+          <canvasslug>97v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/98r</shortid>
       <label>98r</label>
@@ -2357,11 +2165,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/98r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>217</canvasslug>
+          <canvasslug>98r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/98v</shortid>
       <label>98v</label>
@@ -2369,11 +2176,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/98v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>218</canvasslug>
+          <canvasslug>98v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/99r</shortid>
       <label>99r</label>
@@ -2381,11 +2187,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/99r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>219</canvasslug>
+          <canvasslug>99r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/99v</shortid>
       <label>99v</label>
@@ -2393,11 +2198,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/99v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>220</canvasslug>
+          <canvasslug>99v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/100r</shortid>
       <label>100r</label>
@@ -2405,11 +2209,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/100r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>221</canvasslug>
+          <canvasslug>100r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/100v</shortid>
       <label>100v</label>
@@ -2417,11 +2220,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/100v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>222</canvasslug>
+          <canvasslug>100v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/101r</shortid>
       <label>101r</label>
@@ -2429,11 +2231,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/101r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>223</canvasslug>
+          <canvasslug>101r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/101v</shortid>
       <label>101v</label>
@@ -2441,11 +2242,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/101v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>224</canvasslug>
+          <canvasslug>101v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/102r</shortid>
       <label>102r</label>
@@ -2453,11 +2253,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/102r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>225</canvasslug>
+          <canvasslug>102r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/102v</shortid>
       <label>102v</label>
@@ -2465,11 +2264,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/102v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>226</canvasslug>
+          <canvasslug>102v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/103r</shortid>
       <label>103r</label>
@@ -2477,11 +2275,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/103r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>227</canvasslug>
+          <canvasslug>103r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/103v</shortid>
       <label>103v</label>
@@ -2489,11 +2286,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/103v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>228</canvasslug>
+          <canvasslug>103v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/104r</shortid>
       <label>104r</label>
@@ -2501,11 +2297,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/104r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>229</canvasslug>
+          <canvasslug>104r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/104v</shortid>
       <label>104v</label>
@@ -2513,11 +2308,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/104v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>230</canvasslug>
+          <canvasslug>104v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/105r</shortid>
       <label>105r</label>
@@ -2525,11 +2319,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/105r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>231</canvasslug>
+          <canvasslug>105r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/105v</shortid>
       <label>105v</label>
@@ -2537,11 +2330,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/105v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>232</canvasslug>
+          <canvasslug>105v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/106r</shortid>
       <label>106r</label>
@@ -2549,11 +2341,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/106r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>233</canvasslug>
+          <canvasslug>106r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/106v</shortid>
       <label>106v</label>
@@ -2561,11 +2352,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/106v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>234</canvasslug>
+          <canvasslug>106v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/107r</shortid>
       <label>107r</label>
@@ -2573,11 +2363,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/107r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>235</canvasslug>
+          <canvasslug>107r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/107v</shortid>
       <label>107v</label>
@@ -2585,11 +2374,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/107v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>236</canvasslug>
+          <canvasslug>107v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/108r</shortid>
       <label>108r</label>
@@ -2597,11 +2385,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/108r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>237</canvasslug>
+          <canvasslug>108r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/108v</shortid>
       <label>108v</label>
@@ -2609,11 +2396,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/108v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>238</canvasslug>
+          <canvasslug>108v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/109r</shortid>
       <label>109r</label>
@@ -2621,11 +2407,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/109r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>239</canvasslug>
+          <canvasslug>109r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/109v</shortid>
       <label>109v</label>
@@ -2633,11 +2418,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/109v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>240</canvasslug>
+          <canvasslug>109v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/110r</shortid>
       <label>110r</label>
@@ -2645,11 +2429,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/110r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>241</canvasslug>
+          <canvasslug>110r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/110v</shortid>
       <label>110v</label>
@@ -2657,11 +2440,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/110v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>242</canvasslug>
+          <canvasslug>110v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/111r</shortid>
       <label>111r</label>
@@ -2669,11 +2451,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/111r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>243</canvasslug>
+          <canvasslug>111r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/111v</shortid>
       <label>111v</label>
@@ -2681,11 +2462,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/111v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>244</canvasslug>
+          <canvasslug>111v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/112r</shortid>
       <label>112r</label>
@@ -2693,11 +2473,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/112r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>245</canvasslug>
+          <canvasslug>112r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/112v</shortid>
       <label>112v</label>
@@ -2705,11 +2484,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/112v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>246</canvasslug>
+          <canvasslug>112v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/113r</shortid>
       <label>113r</label>
@@ -2717,11 +2495,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/113r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>247</canvasslug>
+          <canvasslug>113r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/113v</shortid>
       <label>113v</label>
@@ -2729,11 +2506,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/113v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>248</canvasslug>
+          <canvasslug>113v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/114r</shortid>
       <label>114r</label>
@@ -2741,11 +2517,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/114r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>249</canvasslug>
+          <canvasslug>114r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/114v</shortid>
       <label>114v</label>
@@ -2753,11 +2528,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/114v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>250</canvasslug>
+          <canvasslug>114v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/115r</shortid>
       <label>115r</label>
@@ -2765,11 +2539,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/115r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>251</canvasslug>
+          <canvasslug>115r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/115v</shortid>
       <label>115v</label>
@@ -2777,11 +2550,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/115v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>252</canvasslug>
+          <canvasslug>115v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/116r</shortid>
       <label>116r</label>
@@ -2789,11 +2561,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/116r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>253</canvasslug>
+          <canvasslug>116r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/116v</shortid>
       <label>116v</label>
@@ -2801,11 +2572,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/116v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>254</canvasslug>
+          <canvasslug>116v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/117r</shortid>
       <label>117r</label>
@@ -2813,11 +2583,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/117r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>255</canvasslug>
+          <canvasslug>117r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/117v</shortid>
       <label>117v</label>
@@ -2825,11 +2594,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/117v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>256</canvasslug>
+          <canvasslug>117v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/118r</shortid>
       <label>118r</label>
@@ -2837,11 +2605,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/118r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>257</canvasslug>
+          <canvasslug>118r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/118v</shortid>
       <label>118v</label>
@@ -2849,11 +2616,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/118v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>258</canvasslug>
+          <canvasslug>118v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/119r</shortid>
       <label>119r</label>
@@ -2861,11 +2627,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/119r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>259</canvasslug>
+          <canvasslug>119r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/119v</shortid>
       <label>119v</label>
@@ -2873,11 +2638,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/119v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>260</canvasslug>
+          <canvasslug>119v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/120r</shortid>
       <label>120r</label>
@@ -2885,11 +2649,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/120r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>261</canvasslug>
+          <canvasslug>120r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/120v</shortid>
       <label>120v</label>
@@ -2897,11 +2660,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/120v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>262</canvasslug>
+          <canvasslug>120v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/121r</shortid>
       <label>121r</label>
@@ -2909,11 +2671,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/121r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>263</canvasslug>
+          <canvasslug>121r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/121v</shortid>
       <label>121v</label>
@@ -2921,11 +2682,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/121v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>264</canvasslug>
+          <canvasslug>121v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/122r</shortid>
       <label>122r</label>
@@ -2933,11 +2693,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/122r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>265</canvasslug>
+          <canvasslug>122r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/122v</shortid>
       <label>122v</label>
@@ -2945,11 +2704,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/122v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>266</canvasslug>
+          <canvasslug>122v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/123r</shortid>
       <label>123r</label>
@@ -2957,11 +2715,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/123r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>267</canvasslug>
+          <canvasslug>123r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/123v</shortid>
       <label>123v</label>
@@ -2969,11 +2726,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/123v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>268</canvasslug>
+          <canvasslug>123v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/124r</shortid>
       <label>124r</label>
@@ -2981,11 +2737,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/124r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>269</canvasslug>
+          <canvasslug>124r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/124v</shortid>
       <label>124v</label>
@@ -2993,11 +2748,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/124v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>270</canvasslug>
+          <canvasslug>124v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/125r</shortid>
       <label>125r</label>
@@ -3005,11 +2759,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/125r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>271</canvasslug>
+          <canvasslug>125r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/125v</shortid>
       <label>125v</label>
@@ -3017,11 +2770,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/125v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>272</canvasslug>
+          <canvasslug>125v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/126r</shortid>
       <label>126r</label>
@@ -3029,11 +2781,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/126r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>273</canvasslug>
+          <canvasslug>126r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/126v</shortid>
       <label>126v</label>
@@ -3041,11 +2792,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/126v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>274</canvasslug>
+          <canvasslug>126v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/127r</shortid>
       <label>127r</label>
@@ -3053,11 +2803,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/127r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>275</canvasslug>
+          <canvasslug>127r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/127v</shortid>
       <label>127v</label>
@@ -3065,11 +2814,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/127v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>276</canvasslug>
+          <canvasslug>127v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/128r</shortid>
       <label>128r</label>
@@ -3077,11 +2825,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/128r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>277</canvasslug>
+          <canvasslug>128r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/128v</shortid>
       <label>128v</label>
@@ -3089,11 +2836,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/128v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>278</canvasslug>
+          <canvasslug>128v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/129r</shortid>
       <label>129r</label>
@@ -3101,11 +2847,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/129r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>279</canvasslug>
+          <canvasslug>129r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/129v</shortid>
       <label>129v</label>
@@ -3113,11 +2858,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/129v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>280</canvasslug>
+          <canvasslug>129v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/130r</shortid>
       <label>130r</label>
@@ -3125,11 +2869,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/130r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>281</canvasslug>
+          <canvasslug>130r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/130v</shortid>
       <label>130v</label>
@@ -3137,11 +2880,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/130v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>282</canvasslug>
+          <canvasslug>130v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/131r</shortid>
       <label>131r</label>
@@ -3149,11 +2891,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/131r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>283</canvasslug>
+          <canvasslug>131r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/131v</shortid>
       <label>131v</label>
@@ -3161,11 +2902,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/131v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>284</canvasslug>
+          <canvasslug>131v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/132r</shortid>
       <label>132r</label>
@@ -3173,11 +2913,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/132r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>285</canvasslug>
+          <canvasslug>132r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/132v</shortid>
       <label>132v</label>
@@ -3185,11 +2924,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/132v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>286</canvasslug>
+          <canvasslug>132v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/133r</shortid>
       <label>133r</label>
@@ -3197,11 +2935,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/133r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>287</canvasslug>
+          <canvasslug>133r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/133v</shortid>
       <label>133v</label>
@@ -3209,11 +2946,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/133v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>288</canvasslug>
+          <canvasslug>133v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/134r</shortid>
       <label>134r</label>
@@ -3221,11 +2957,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/134r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>289</canvasslug>
+          <canvasslug>134r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/134v</shortid>
       <label>134v</label>
@@ -3233,11 +2968,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/134v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>290</canvasslug>
+          <canvasslug>134v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/135r</shortid>
       <label>135r</label>
@@ -3245,11 +2979,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/135r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>291</canvasslug>
+          <canvasslug>135r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/135v</shortid>
       <label>135v</label>
@@ -3257,11 +2990,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/135v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>292</canvasslug>
+          <canvasslug>135v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/136r</shortid>
       <label>136r</label>
@@ -3269,11 +3001,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/136r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>293</canvasslug>
+          <canvasslug>136r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/136v</shortid>
       <label>136v</label>
@@ -3281,11 +3012,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/136v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>294</canvasslug>
+          <canvasslug>136v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/137r</shortid>
       <label>137r</label>
@@ -3293,11 +3023,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/137r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>295</canvasslug>
+          <canvasslug>137r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/137v</shortid>
       <label>137v</label>
@@ -3305,11 +3034,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/137v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>296</canvasslug>
+          <canvasslug>137v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/138r</shortid>
       <label>138r</label>
@@ -3317,11 +3045,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/138r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>297</canvasslug>
+          <canvasslug>138r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/138v</shortid>
       <label>138v</label>
@@ -3329,11 +3056,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/138v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>298</canvasslug>
+          <canvasslug>138v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/139r</shortid>
       <label>139r</label>
@@ -3341,11 +3067,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/139r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>299</canvasslug>
+          <canvasslug>139r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/139v</shortid>
       <label>139v</label>
@@ -3353,11 +3078,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/139v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>300</canvasslug>
+          <canvasslug>139v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/140r</shortid>
       <label>140r</label>
@@ -3365,11 +3089,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/140r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>301</canvasslug>
+          <canvasslug>140r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/140v</shortid>
       <label>140v</label>
@@ -3377,11 +3100,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/140v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>302</canvasslug>
+          <canvasslug>140v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/141r</shortid>
       <label>141r</label>
@@ -3389,11 +3111,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/141r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>303</canvasslug>
+          <canvasslug>141r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/141v</shortid>
       <label>141v</label>
@@ -3401,11 +3122,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/141v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>304</canvasslug>
+          <canvasslug>141v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/142r</shortid>
       <label>142r</label>
@@ -3413,11 +3133,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/142r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>305</canvasslug>
+          <canvasslug>142r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/142v</shortid>
       <label>142v</label>
@@ -3425,11 +3144,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/142v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>306</canvasslug>
+          <canvasslug>142v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/143r</shortid>
       <label>143r</label>
@@ -3437,11 +3155,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/143r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>307</canvasslug>
+          <canvasslug>143r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/143v</shortid>
       <label>143v</label>
@@ -3449,11 +3166,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/143v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>308</canvasslug>
+          <canvasslug>143v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/144r</shortid>
       <label>144r</label>
@@ -3461,11 +3177,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/144r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>309</canvasslug>
+          <canvasslug>144r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/144v</shortid>
       <label>144v</label>
@@ -3473,11 +3188,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/144v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>310</canvasslug>
+          <canvasslug>144v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/145r</shortid>
       <label>145r</label>
@@ -3485,11 +3199,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/145r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>311</canvasslug>
+          <canvasslug>145r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/145v</shortid>
       <label>145v</label>
@@ -3497,11 +3210,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/145v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>312</canvasslug>
+          <canvasslug>145v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/146r</shortid>
       <label>146r</label>
@@ -3509,11 +3221,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/146r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>313</canvasslug>
+          <canvasslug>146r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/146v</shortid>
       <label>146v</label>
@@ -3521,11 +3232,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/146v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>314</canvasslug>
+          <canvasslug>146v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/147r</shortid>
       <label>147r</label>
@@ -3533,11 +3243,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/147r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>315</canvasslug>
+          <canvasslug>147r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/147v</shortid>
       <label>147v</label>
@@ -3545,11 +3254,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/147v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>316</canvasslug>
+          <canvasslug>147v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/148r</shortid>
       <label>148r</label>
@@ -3557,11 +3265,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/148r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>317</canvasslug>
+          <canvasslug>148r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/148v</shortid>
       <label>148v</label>
@@ -3569,11 +3276,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/148v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>318</canvasslug>
+          <canvasslug>148v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/149r</shortid>
       <label>149r</label>
@@ -3581,11 +3287,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/149r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>319</canvasslug>
+          <canvasslug>149r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/149v</shortid>
       <label>149v</label>
@@ -3593,11 +3298,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/149v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>320</canvasslug>
+          <canvasslug>149v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/150r</shortid>
       <label>150r</label>
@@ -3605,11 +3309,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/150r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>321</canvasslug>
+          <canvasslug>150r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/150v</shortid>
       <label>150v</label>
@@ -3617,11 +3320,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/150v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>322</canvasslug>
+          <canvasslug>150v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/151r</shortid>
       <label>151r</label>
@@ -3629,11 +3331,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/151r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>323</canvasslug>
+          <canvasslug>151r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/151v</shortid>
       <label>151v</label>
@@ -3641,11 +3342,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/151v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>324</canvasslug>
+          <canvasslug>151v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/152r</shortid>
       <label>152r</label>
@@ -3653,11 +3353,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/152r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>325</canvasslug>
+          <canvasslug>152r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/152v</shortid>
       <label>152v</label>
@@ -3665,11 +3364,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/152v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>326</canvasslug>
+          <canvasslug>152v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/153r</shortid>
       <label>153r</label>
@@ -3677,11 +3375,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/153r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>327</canvasslug>
+          <canvasslug>153r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/153v</shortid>
       <label>153v</label>
@@ -3689,11 +3386,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/153v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>328</canvasslug>
+          <canvasslug>153v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/154r</shortid>
       <label>154r</label>
@@ -3701,11 +3397,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/154r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>329</canvasslug>
+          <canvasslug>154r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/154v</shortid>
       <label>154v</label>
@@ -3713,11 +3408,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/154v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>330</canvasslug>
+          <canvasslug>154v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/155r</shortid>
       <label>155r</label>
@@ -3725,11 +3419,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/155r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>331</canvasslug>
+          <canvasslug>155r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/155v</shortid>
       <label>155v</label>
@@ -3737,11 +3430,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/155v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>332</canvasslug>
+          <canvasslug>155v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/156r</shortid>
       <label>156r</label>
@@ -3749,11 +3441,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/156r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>333</canvasslug>
+          <canvasslug>156r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/156v</shortid>
       <label>156v</label>
@@ -3761,11 +3452,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/156v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>334</canvasslug>
+          <canvasslug>156v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/157r</shortid>
       <label>157r</label>
@@ -3773,11 +3463,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/157r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>335</canvasslug>
+          <canvasslug>157r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/157v</shortid>
       <label>157v</label>
@@ -3785,11 +3474,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/157v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>336</canvasslug>
+          <canvasslug>157v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/158r</shortid>
       <label>158r</label>
@@ -3797,11 +3485,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/158r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>337</canvasslug>
+          <canvasslug>158r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/158v</shortid>
       <label>158v</label>
@@ -3809,11 +3496,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/158v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>338</canvasslug>
+          <canvasslug>158v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/159r</shortid>
       <label>159r</label>
@@ -3821,11 +3507,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/159r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>339</canvasslug>
+          <canvasslug>159r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/159v</shortid>
       <label>159v</label>
@@ -3833,11 +3518,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/159v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>340</canvasslug>
+          <canvasslug>159v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/160r</shortid>
       <label>160r</label>
@@ -3845,11 +3529,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/160r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>341</canvasslug>
+          <canvasslug>160r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/160v</shortid>
       <label>160v</label>
@@ -3857,11 +3540,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/160v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>342</canvasslug>
+          <canvasslug>160v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/161r</shortid>
       <label>161r</label>
@@ -3869,11 +3551,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/161r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>343</canvasslug>
+          <canvasslug>161r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/161v</shortid>
       <label>161v</label>
@@ -3881,11 +3562,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/161v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>344</canvasslug>
+          <canvasslug>161v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/162r</shortid>
       <label>162r</label>
@@ -3893,11 +3573,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/162r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>345</canvasslug>
+          <canvasslug>162r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/162v</shortid>
       <label>162v</label>
@@ -3905,11 +3584,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/162v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>346</canvasslug>
+          <canvasslug>162v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/163r</shortid>
       <label>163r</label>
@@ -3917,11 +3595,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/163r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>347</canvasslug>
+          <canvasslug>163r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/163v</shortid>
       <label>163v</label>
@@ -3929,11 +3606,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/163v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>348</canvasslug>
+          <canvasslug>163v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/164r</shortid>
       <label>164r</label>
@@ -3941,11 +3617,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/164r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>349</canvasslug>
+          <canvasslug>164r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/164v</shortid>
       <label>164v</label>
@@ -3953,11 +3628,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/164v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>350</canvasslug>
+          <canvasslug>164v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/165r</shortid>
       <label>165r</label>
@@ -3965,11 +3639,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/165r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>351</canvasslug>
+          <canvasslug>165r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/165v</shortid>
       <label>165v</label>
@@ -3977,11 +3650,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/165v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>352</canvasslug>
+          <canvasslug>165v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/166r</shortid>
       <label>166r</label>
@@ -3989,11 +3661,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/166r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>353</canvasslug>
+          <canvasslug>166r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/166v</shortid>
       <label>166v</label>
@@ -4001,11 +3672,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/166v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>354</canvasslug>
+          <canvasslug>166v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/167r</shortid>
       <label>167r</label>
@@ -4013,11 +3683,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/167r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>355</canvasslug>
+          <canvasslug>167r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/167v</shortid>
       <label>167v</label>
@@ -4025,11 +3694,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/167v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>356</canvasslug>
+          <canvasslug>167v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/168r</shortid>
       <label>168r</label>
@@ -4037,11 +3705,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/168r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>357</canvasslug>
+          <canvasslug>168r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/168v</shortid>
       <label>168v</label>
@@ -4049,11 +3716,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/168v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>358</canvasslug>
+          <canvasslug>168v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/169r</shortid>
       <label>169r</label>
@@ -4061,11 +3727,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/169r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>359</canvasslug>
+          <canvasslug>169r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/169v</shortid>
       <label>169v</label>
@@ -4073,11 +3738,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/169v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>360</canvasslug>
+          <canvasslug>169v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/170r</shortid>
       <label>170r</label>
@@ -4085,11 +3749,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/170r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>361</canvasslug>
+          <canvasslug>170r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/170v</shortid>
       <label>170v</label>
@@ -4097,11 +3760,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/170v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>362</canvasslug>
+          <canvasslug>170v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/171r</shortid>
       <label>171r</label>
@@ -4109,11 +3771,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/171r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>363</canvasslug>
+          <canvasslug>171r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/171v</shortid>
       <label>171v</label>
@@ -4121,11 +3782,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/171v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>364</canvasslug>
+          <canvasslug>171v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/172r</shortid>
       <label>172r</label>
@@ -4133,11 +3793,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/172r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>365</canvasslug>
+          <canvasslug>172r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/172v</shortid>
       <label>172v</label>
@@ -4145,11 +3804,10 @@
         <ISurface>
           <shortid>cod-DdMDdC/172v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>366</canvasslug>
+          <canvasslug>172v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
     <surface>
       <shortid>cod-DdMDdC/173r</shortid>
       <label>173r</label>
@@ -4157,7 +3815,7 @@
         <ISurface>
           <shortid>cod-DdMDdC/173r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>367</canvasslug>
+          <canvasslug>173r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4168,10 +3826,9 @@
         <ISurface>
           <shortid>cod-DdMDdC/173v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>368</canvasslug>
+          <canvasslug>173v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
-
   </surfaces>
 </codex>
