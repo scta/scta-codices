@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-bxxqqq</shortid>
+    <title>Paris, Bibliothèque Nationale de France, Nouv. acq. lat. 2469</title>
+    <initial>B</initial>
+    <!-- contains manifestation of Compendium moralium notabilium 
+      Paris, Bibliothèque Nationale de France, Nouv. acq. lat. 2469, ff.1r-230v (1404) -->
+    <date>1404</date><!-- date needs source -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-bxxqqq/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <canvasBase>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036097h/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036097h/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

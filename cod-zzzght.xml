@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-zzzght</shortid>
+    <title>Vatican, Biblioteca Apostolica Vaticana, Regin. lat. 1526</title>
+    <initial>D</initial>
+    <!-- contains manifestation of Compendium moralium notabilium 
+      57.	**Vatican, Biblioteca Apostolica Vaticana, Regin. lat. 1526 (14th c.?)-->
+    <date>1299A</date><!-- 14th century ?-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-zzzght/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Reg.lat.1526/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Reg.lat.1526/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

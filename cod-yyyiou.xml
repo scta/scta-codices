@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-yyyiou</shortid>
+    <title>Vatican, Biblioteca Apostolica Vaticana, Ross. 429 (IX.119)</title>
+    <initial>C</initial>
+    <!-- contains manifestation of Compendium moralium notabilium 
+      58.	Vatican, Biblioteca Apostolica Vaticana, Ross. 429 (IX.119), ff.1-159 (15th c.)-->
+    <date>1399A</date><!-- 15th century-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-yyyiou/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-i9ujd3</holdingInstitution>
+        <canvasBase>https://digi.vatlib.it/iiif/MSS_Ross.429/canvas/</canvasBase>
+        <manifestOfficial>https://digi.vatlib.it/iiif/MSS_Ross.429/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
