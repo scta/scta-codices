@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-b3rug1</shortid>
+    <title>Bruges, Bibliothèque Publique, 494</title>
+    <initial>R</initial>
+    <!-- contains manifestation of Compendium moralium notabilium 
+      61.	Vatican, Biblioteca Apostolica Vaticana, Vat. lat. 8175, ff.1r-230r (14th c.)-->
+    <date>1399A</date>
+    <!-- 15th century-->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-b3rug1/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://sharedcanvas.be/IIIF/manifests/B_OB_MS494/canvases/</canvasBase> <!-- NOTE canvas id ends with random hash -->
+        <manifestOfficial>https://sharedcanvas.be/IIIF/manifests/B_OB_MS494</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+
+  </surfaces>
+</codex>
