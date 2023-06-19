@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-u78xV9</shortid>
+    <title>Vives, Paris, 1891, volume 9</title>
+    <initial>V</initial>
+    <date>1891</date>
+    <place>Paris</place>
+    <!-- contains Book I d3-13 of Scotus Ordinatio -->
+    <hasItems>
+      <item>
+        <!-- archive copy comes from Toronto -->
+        <canonical>true</canonical>
+        <shortid>cod-u78xV9/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/operaomni09duns/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
