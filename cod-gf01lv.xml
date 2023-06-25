@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-gf01lv</shortid>
+    <title>Louvain 1904</title>
+    <initial>L</initial>
+    <place>Louvain</place>
+    <date>1904</date>
+    <!-- contains quodlibets 1-4 of Godfrey of Fontaines -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-gf01lv/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <!-- https://archive.org/details/sanselmicantuari01anse -->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/lesquatrepremier00godf/manifest.json</manifestOfficial> <!-- not in copyright as noted on iiif.org page; also obious form 1904 date -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+   
+
+  </surfaces>
+</codex>
