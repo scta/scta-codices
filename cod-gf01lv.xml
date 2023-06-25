@@ -15,6 +15,7 @@
         <!--<holdingInstitution></holdingInstitution>-->
         <!-- https://archive.org/details/sanselmicantuari01anse -->
         <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        
         <manifestOfficial>https://iiif.archivelab.org/iiif/lesquatrepremier00godf/manifest.json</manifestOfficial>
         <!-- not in copyright as noted on iiif.org page; also obious form 1904 date -->
       </item>
@@ -28,7 +29,7 @@
         <ISurface>
           <shortid>cod-gf01lv/1/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$23</canvasslug>
+          <canvasslug>lesquatrepremier00godf$23/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -39,7 +40,7 @@
         <ISurface>
           <shortid>cod-gf01lv/2/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$24</canvasslug>
+          <canvasslug>lesquatrepremier00godf$24/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -50,7 +51,7 @@
         <ISurface>
           <shortid>cod-gf01lv/3/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$25</canvasslug>
+          <canvasslug>lesquatrepremier00godf$25/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -61,7 +62,7 @@
         <ISurface>
           <shortid>cod-gf01lv/4/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$26</canvasslug>
+          <canvasslug>lesquatrepremier00godf$26/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -72,7 +73,7 @@
         <ISurface>
           <shortid>cod-gf01lv/5/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$27</canvasslug>
+          <canvasslug>lesquatrepremier00godf$27/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -83,7 +84,7 @@
         <ISurface>
           <shortid>cod-gf01lv/6/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$28</canvasslug>
+          <canvasslug>lesquatrepremier00godf$28/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -94,7 +95,7 @@
         <ISurface>
           <shortid>cod-gf01lv/7/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$29</canvasslug>
+          <canvasslug>lesquatrepremier00godf$29/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -105,7 +106,7 @@
         <ISurface>
           <shortid>cod-gf01lv/8/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$30</canvasslug>
+          <canvasslug>lesquatrepremier00godf$30/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -116,7 +117,7 @@
         <ISurface>
           <shortid>cod-gf01lv/9/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$31</canvasslug>
+          <canvasslug>lesquatrepremier00godf$31/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -127,7 +128,7 @@
         <ISurface>
           <shortid>cod-gf01lv/10/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$32</canvasslug>
+          <canvasslug>lesquatrepremier00godf$32/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -138,7 +139,7 @@
         <ISurface>
           <shortid>cod-gf01lv/11/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$33</canvasslug>
+          <canvasslug>lesquatrepremier00godf$33/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -149,7 +150,7 @@
         <ISurface>
           <shortid>cod-gf01lv/12/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$34</canvasslug>
+          <canvasslug>lesquatrepremier00godf$34/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -160,7 +161,7 @@
         <ISurface>
           <shortid>cod-gf01lv/13/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$35</canvasslug>
+          <canvasslug>lesquatrepremier00godf$35/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -171,7 +172,7 @@
         <ISurface>
           <shortid>cod-gf01lv/14/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$36</canvasslug>
+          <canvasslug>lesquatrepremier00godf$36/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -182,7 +183,7 @@
         <ISurface>
           <shortid>cod-gf01lv/15/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$37</canvasslug>
+          <canvasslug>lesquatrepremier00godf$37/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -193,7 +194,7 @@
         <ISurface>
           <shortid>cod-gf01lv/16/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$38</canvasslug>
+          <canvasslug>lesquatrepremier00godf$38/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -204,7 +205,7 @@
         <ISurface>
           <shortid>cod-gf01lv/17/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$39</canvasslug>
+          <canvasslug>lesquatrepremier00godf$39/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -215,7 +216,7 @@
         <ISurface>
           <shortid>cod-gf01lv/18/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$40</canvasslug>
+          <canvasslug>lesquatrepremier00godf$40/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -226,7 +227,7 @@
         <ISurface>
           <shortid>cod-gf01lv/19/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$41</canvasslug>
+          <canvasslug>lesquatrepremier00godf$41/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -237,7 +238,7 @@
         <ISurface>
           <shortid>cod-gf01lv/20/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$42</canvasslug>
+          <canvasslug>lesquatrepremier00godf$42/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -248,7 +249,7 @@
         <ISurface>
           <shortid>cod-gf01lv/21/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$43</canvasslug>
+          <canvasslug>lesquatrepremier00godf$43/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -259,7 +260,7 @@
         <ISurface>
           <shortid>cod-gf01lv/22/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$44</canvasslug>
+          <canvasslug>lesquatrepremier00godf$44/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -270,7 +271,7 @@
         <ISurface>
           <shortid>cod-gf01lv/23/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$45</canvasslug>
+          <canvasslug>lesquatrepremier00godf$45/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -281,7 +282,7 @@
         <ISurface>
           <shortid>cod-gf01lv/24/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$46</canvasslug>
+          <canvasslug>lesquatrepremier00godf$46/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -292,7 +293,7 @@
         <ISurface>
           <shortid>cod-gf01lv/25/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$47</canvasslug>
+          <canvasslug>lesquatrepremier00godf$47/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -303,7 +304,7 @@
         <ISurface>
           <shortid>cod-gf01lv/26/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$48</canvasslug>
+          <canvasslug>lesquatrepremier00godf$48/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -314,7 +315,7 @@
         <ISurface>
           <shortid>cod-gf01lv/27/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$49</canvasslug>
+          <canvasslug>lesquatrepremier00godf$49/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -325,7 +326,7 @@
         <ISurface>
           <shortid>cod-gf01lv/28/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$50</canvasslug>
+          <canvasslug>lesquatrepremier00godf$50/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -336,7 +337,7 @@
         <ISurface>
           <shortid>cod-gf01lv/29/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$51</canvasslug>
+          <canvasslug>lesquatrepremier00godf$51/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -347,7 +348,7 @@
         <ISurface>
           <shortid>cod-gf01lv/30/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$52</canvasslug>
+          <canvasslug>lesquatrepremier00godf$52/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -358,7 +359,7 @@
         <ISurface>
           <shortid>cod-gf01lv/31/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$53</canvasslug>
+          <canvasslug>lesquatrepremier00godf$53/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -369,7 +370,7 @@
         <ISurface>
           <shortid>cod-gf01lv/32/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$54</canvasslug>
+          <canvasslug>lesquatrepremier00godf$54/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -380,7 +381,7 @@
         <ISurface>
           <shortid>cod-gf01lv/33/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$55</canvasslug>
+          <canvasslug>lesquatrepremier00godf$55/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -391,7 +392,7 @@
         <ISurface>
           <shortid>cod-gf01lv/34/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$56</canvasslug>
+          <canvasslug>lesquatrepremier00godf$56/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -402,7 +403,7 @@
         <ISurface>
           <shortid>cod-gf01lv/35/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$57</canvasslug>
+          <canvasslug>lesquatrepremier00godf$57/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -413,7 +414,7 @@
         <ISurface>
           <shortid>cod-gf01lv/36/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$58</canvasslug>
+          <canvasslug>lesquatrepremier00godf$58/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -424,7 +425,7 @@
         <ISurface>
           <shortid>cod-gf01lv/37/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$59</canvasslug>
+          <canvasslug>lesquatrepremier00godf$59/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -435,7 +436,7 @@
         <ISurface>
           <shortid>cod-gf01lv/38/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$60</canvasslug>
+          <canvasslug>lesquatrepremier00godf$60/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -446,7 +447,7 @@
         <ISurface>
           <shortid>cod-gf01lv/39/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$61</canvasslug>
+          <canvasslug>lesquatrepremier00godf$61/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -457,7 +458,7 @@
         <ISurface>
           <shortid>cod-gf01lv/40/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$62</canvasslug>
+          <canvasslug>lesquatrepremier00godf$62/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -468,7 +469,7 @@
         <ISurface>
           <shortid>cod-gf01lv/41/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$63</canvasslug>
+          <canvasslug>lesquatrepremier00godf$63/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -479,7 +480,7 @@
         <ISurface>
           <shortid>cod-gf01lv/42/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$64</canvasslug>
+          <canvasslug>lesquatrepremier00godf$64/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -490,7 +491,7 @@
         <ISurface>
           <shortid>cod-gf01lv/43/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$65</canvasslug>
+          <canvasslug>lesquatrepremier00godf$65/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -501,7 +502,7 @@
         <ISurface>
           <shortid>cod-gf01lv/44/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$66</canvasslug>
+          <canvasslug>lesquatrepremier00godf$66/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -512,7 +513,7 @@
         <ISurface>
           <shortid>cod-gf01lv/45/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$67</canvasslug>
+          <canvasslug>lesquatrepremier00godf$67/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -523,7 +524,7 @@
         <ISurface>
           <shortid>cod-gf01lv/46/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$68</canvasslug>
+          <canvasslug>lesquatrepremier00godf$68/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -534,7 +535,7 @@
         <ISurface>
           <shortid>cod-gf01lv/47/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$69</canvasslug>
+          <canvasslug>lesquatrepremier00godf$69/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -545,7 +546,7 @@
         <ISurface>
           <shortid>cod-gf01lv/48/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$70</canvasslug>
+          <canvasslug>lesquatrepremier00godf$70/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -556,7 +557,7 @@
         <ISurface>
           <shortid>cod-gf01lv/49/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$71</canvasslug>
+          <canvasslug>lesquatrepremier00godf$71/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -567,7 +568,7 @@
         <ISurface>
           <shortid>cod-gf01lv/50/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$72</canvasslug>
+          <canvasslug>lesquatrepremier00godf$72/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -578,7 +579,7 @@
         <ISurface>
           <shortid>cod-gf01lv/51/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$73</canvasslug>
+          <canvasslug>lesquatrepremier00godf$73/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -589,7 +590,7 @@
         <ISurface>
           <shortid>cod-gf01lv/52/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$74</canvasslug>
+          <canvasslug>lesquatrepremier00godf$74/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -600,7 +601,7 @@
         <ISurface>
           <shortid>cod-gf01lv/53/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$75</canvasslug>
+          <canvasslug>lesquatrepremier00godf$75/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -611,7 +612,7 @@
         <ISurface>
           <shortid>cod-gf01lv/54/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$76</canvasslug>
+          <canvasslug>lesquatrepremier00godf$76/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -622,7 +623,7 @@
         <ISurface>
           <shortid>cod-gf01lv/55/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$77</canvasslug>
+          <canvasslug>lesquatrepremier00godf$77/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -633,7 +634,7 @@
         <ISurface>
           <shortid>cod-gf01lv/56/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$78</canvasslug>
+          <canvasslug>lesquatrepremier00godf$78/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -644,7 +645,7 @@
         <ISurface>
           <shortid>cod-gf01lv/57/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$79</canvasslug>
+          <canvasslug>lesquatrepremier00godf$79/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -655,7 +656,7 @@
         <ISurface>
           <shortid>cod-gf01lv/58/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$80</canvasslug>
+          <canvasslug>lesquatrepremier00godf$80/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -666,7 +667,7 @@
         <ISurface>
           <shortid>cod-gf01lv/59/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$81</canvasslug>
+          <canvasslug>lesquatrepremier00godf$81/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -677,7 +678,7 @@
         <ISurface>
           <shortid>cod-gf01lv/60/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$82</canvasslug>
+          <canvasslug>lesquatrepremier00godf$82/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -688,7 +689,7 @@
         <ISurface>
           <shortid>cod-gf01lv/61/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$83</canvasslug>
+          <canvasslug>lesquatrepremier00godf$83/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -699,7 +700,7 @@
         <ISurface>
           <shortid>cod-gf01lv/62/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$84</canvasslug>
+          <canvasslug>lesquatrepremier00godf$84/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -710,7 +711,7 @@
         <ISurface>
           <shortid>cod-gf01lv/63/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$85</canvasslug>
+          <canvasslug>lesquatrepremier00godf$85/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -721,7 +722,7 @@
         <ISurface>
           <shortid>cod-gf01lv/64/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$86</canvasslug>
+          <canvasslug>lesquatrepremier00godf$86/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -732,7 +733,7 @@
         <ISurface>
           <shortid>cod-gf01lv/65/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$87</canvasslug>
+          <canvasslug>lesquatrepremier00godf$87/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -743,7 +744,7 @@
         <ISurface>
           <shortid>cod-gf01lv/66/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$88</canvasslug>
+          <canvasslug>lesquatrepremier00godf$88/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -754,7 +755,7 @@
         <ISurface>
           <shortid>cod-gf01lv/67/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$89</canvasslug>
+          <canvasslug>lesquatrepremier00godf$89/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -765,7 +766,7 @@
         <ISurface>
           <shortid>cod-gf01lv/68/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$90</canvasslug>
+          <canvasslug>lesquatrepremier00godf$90/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -776,7 +777,7 @@
         <ISurface>
           <shortid>cod-gf01lv/69/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$91</canvasslug>
+          <canvasslug>lesquatrepremier00godf$91/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -787,7 +788,7 @@
         <ISurface>
           <shortid>cod-gf01lv/70/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$92</canvasslug>
+          <canvasslug>lesquatrepremier00godf$92/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -798,7 +799,7 @@
         <ISurface>
           <shortid>cod-gf01lv/71/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$93</canvasslug>
+          <canvasslug>lesquatrepremier00godf$93/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -809,7 +810,7 @@
         <ISurface>
           <shortid>cod-gf01lv/72/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$94</canvasslug>
+          <canvasslug>lesquatrepremier00godf$94/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -820,7 +821,7 @@
         <ISurface>
           <shortid>cod-gf01lv/73/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$95</canvasslug>
+          <canvasslug>lesquatrepremier00godf$95/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -831,7 +832,7 @@
         <ISurface>
           <shortid>cod-gf01lv/74/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$96</canvasslug>
+          <canvasslug>lesquatrepremier00godf$96/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -842,7 +843,7 @@
         <ISurface>
           <shortid>cod-gf01lv/75/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$97</canvasslug>
+          <canvasslug>lesquatrepremier00godf$97/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -853,7 +854,7 @@
         <ISurface>
           <shortid>cod-gf01lv/76/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$98</canvasslug>
+          <canvasslug>lesquatrepremier00godf$98/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -864,7 +865,7 @@
         <ISurface>
           <shortid>cod-gf01lv/77/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$99</canvasslug>
+          <canvasslug>lesquatrepremier00godf$99/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -875,7 +876,7 @@
         <ISurface>
           <shortid>cod-gf01lv/78/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$100</canvasslug>
+          <canvasslug>lesquatrepremier00godf$100/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -886,7 +887,7 @@
         <ISurface>
           <shortid>cod-gf01lv/79/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$101</canvasslug>
+          <canvasslug>lesquatrepremier00godf$101/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -897,7 +898,7 @@
         <ISurface>
           <shortid>cod-gf01lv/80/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$102</canvasslug>
+          <canvasslug>lesquatrepremier00godf$102/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -908,7 +909,7 @@
         <ISurface>
           <shortid>cod-gf01lv/81/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$103</canvasslug>
+          <canvasslug>lesquatrepremier00godf$103/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -919,7 +920,7 @@
         <ISurface>
           <shortid>cod-gf01lv/82/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$104</canvasslug>
+          <canvasslug>lesquatrepremier00godf$104/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -930,7 +931,7 @@
         <ISurface>
           <shortid>cod-gf01lv/83/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$105</canvasslug>
+          <canvasslug>lesquatrepremier00godf$105/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -941,7 +942,7 @@
         <ISurface>
           <shortid>cod-gf01lv/84/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$106</canvasslug>
+          <canvasslug>lesquatrepremier00godf$106/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -952,7 +953,7 @@
         <ISurface>
           <shortid>cod-gf01lv/85/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$107</canvasslug>
+          <canvasslug>lesquatrepremier00godf$107/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -963,7 +964,7 @@
         <ISurface>
           <shortid>cod-gf01lv/86/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$108</canvasslug>
+          <canvasslug>lesquatrepremier00godf$108/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -974,7 +975,7 @@
         <ISurface>
           <shortid>cod-gf01lv/87/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$109</canvasslug>
+          <canvasslug>lesquatrepremier00godf$109/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -985,7 +986,7 @@
         <ISurface>
           <shortid>cod-gf01lv/88/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$110</canvasslug>
+          <canvasslug>lesquatrepremier00godf$110/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -996,7 +997,7 @@
         <ISurface>
           <shortid>cod-gf01lv/89/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$111</canvasslug>
+          <canvasslug>lesquatrepremier00godf$111/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1007,7 +1008,7 @@
         <ISurface>
           <shortid>cod-gf01lv/90/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$112</canvasslug>
+          <canvasslug>lesquatrepremier00godf$112/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1018,7 +1019,7 @@
         <ISurface>
           <shortid>cod-gf01lv/91/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$113</canvasslug>
+          <canvasslug>lesquatrepremier00godf$113/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1029,7 +1030,7 @@
         <ISurface>
           <shortid>cod-gf01lv/92/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$114</canvasslug>
+          <canvasslug>lesquatrepremier00godf$114/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1040,7 +1041,7 @@
         <ISurface>
           <shortid>cod-gf01lv/93/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$115</canvasslug>
+          <canvasslug>lesquatrepremier00godf$115/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1051,7 +1052,7 @@
         <ISurface>
           <shortid>cod-gf01lv/94/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$116</canvasslug>
+          <canvasslug>lesquatrepremier00godf$116/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1062,7 +1063,7 @@
         <ISurface>
           <shortid>cod-gf01lv/95/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$117</canvasslug>
+          <canvasslug>lesquatrepremier00godf$117/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1073,7 +1074,7 @@
         <ISurface>
           <shortid>cod-gf01lv/96/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$118</canvasslug>
+          <canvasslug>lesquatrepremier00godf$118/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1084,7 +1085,7 @@
         <ISurface>
           <shortid>cod-gf01lv/97/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$119</canvasslug>
+          <canvasslug>lesquatrepremier00godf$119/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1095,7 +1096,7 @@
         <ISurface>
           <shortid>cod-gf01lv/98/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$120</canvasslug>
+          <canvasslug>lesquatrepremier00godf$120/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1106,7 +1107,7 @@
         <ISurface>
           <shortid>cod-gf01lv/99/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$121</canvasslug>
+          <canvasslug>lesquatrepremier00godf$121/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1117,7 +1118,7 @@
         <ISurface>
           <shortid>cod-gf01lv/100/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$122</canvasslug>
+          <canvasslug>lesquatrepremier00godf$122/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1128,7 +1129,7 @@
         <ISurface>
           <shortid>cod-gf01lv/101/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$123</canvasslug>
+          <canvasslug>lesquatrepremier00godf$123/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1139,7 +1140,7 @@
         <ISurface>
           <shortid>cod-gf01lv/102/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$124</canvasslug>
+          <canvasslug>lesquatrepremier00godf$124/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1150,7 +1151,7 @@
         <ISurface>
           <shortid>cod-gf01lv/103/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$125</canvasslug>
+          <canvasslug>lesquatrepremier00godf$125/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1161,7 +1162,7 @@
         <ISurface>
           <shortid>cod-gf01lv/104/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$126</canvasslug>
+          <canvasslug>lesquatrepremier00godf$126/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1172,7 +1173,7 @@
         <ISurface>
           <shortid>cod-gf01lv/105/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$127</canvasslug>
+          <canvasslug>lesquatrepremier00godf$127/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1183,7 +1184,7 @@
         <ISurface>
           <shortid>cod-gf01lv/106/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$128</canvasslug>
+          <canvasslug>lesquatrepremier00godf$128/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1194,7 +1195,7 @@
         <ISurface>
           <shortid>cod-gf01lv/107/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$129</canvasslug>
+          <canvasslug>lesquatrepremier00godf$129/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1205,7 +1206,7 @@
         <ISurface>
           <shortid>cod-gf01lv/108/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$130</canvasslug>
+          <canvasslug>lesquatrepremier00godf$130/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1216,7 +1217,7 @@
         <ISurface>
           <shortid>cod-gf01lv/109/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$131</canvasslug>
+          <canvasslug>lesquatrepremier00godf$131/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1227,7 +1228,7 @@
         <ISurface>
           <shortid>cod-gf01lv/110/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$132</canvasslug>
+          <canvasslug>lesquatrepremier00godf$132/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1238,7 +1239,7 @@
         <ISurface>
           <shortid>cod-gf01lv/111/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$133</canvasslug>
+          <canvasslug>lesquatrepremier00godf$133/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1249,7 +1250,7 @@
         <ISurface>
           <shortid>cod-gf01lv/112/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$134</canvasslug>
+          <canvasslug>lesquatrepremier00godf$134/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1260,7 +1261,7 @@
         <ISurface>
           <shortid>cod-gf01lv/113/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$135</canvasslug>
+          <canvasslug>lesquatrepremier00godf$135/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1271,7 +1272,7 @@
         <ISurface>
           <shortid>cod-gf01lv/114/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$136</canvasslug>
+          <canvasslug>lesquatrepremier00godf$136/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1282,7 +1283,7 @@
         <ISurface>
           <shortid>cod-gf01lv/115/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$137</canvasslug>
+          <canvasslug>lesquatrepremier00godf$137/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1293,7 +1294,7 @@
         <ISurface>
           <shortid>cod-gf01lv/116/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$138</canvasslug>
+          <canvasslug>lesquatrepremier00godf$138/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1304,7 +1305,7 @@
         <ISurface>
           <shortid>cod-gf01lv/117/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$139</canvasslug>
+          <canvasslug>lesquatrepremier00godf$139/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1315,7 +1316,7 @@
         <ISurface>
           <shortid>cod-gf01lv/118/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$140</canvasslug>
+          <canvasslug>lesquatrepremier00godf$140/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1326,7 +1327,7 @@
         <ISurface>
           <shortid>cod-gf01lv/119/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$141</canvasslug>
+          <canvasslug>lesquatrepremier00godf$141/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1337,7 +1338,7 @@
         <ISurface>
           <shortid>cod-gf01lv/120/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$142</canvasslug>
+          <canvasslug>lesquatrepremier00godf$142/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1348,7 +1349,7 @@
         <ISurface>
           <shortid>cod-gf01lv/121/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$143</canvasslug>
+          <canvasslug>lesquatrepremier00godf$143/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1359,7 +1360,7 @@
         <ISurface>
           <shortid>cod-gf01lv/122/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$144</canvasslug>
+          <canvasslug>lesquatrepremier00godf$144/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1370,7 +1371,7 @@
         <ISurface>
           <shortid>cod-gf01lv/123/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$145</canvasslug>
+          <canvasslug>lesquatrepremier00godf$145/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1381,7 +1382,7 @@
         <ISurface>
           <shortid>cod-gf01lv/124/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$146</canvasslug>
+          <canvasslug>lesquatrepremier00godf$146/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1392,7 +1393,7 @@
         <ISurface>
           <shortid>cod-gf01lv/125/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$147</canvasslug>
+          <canvasslug>lesquatrepremier00godf$147/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1403,7 +1404,7 @@
         <ISurface>
           <shortid>cod-gf01lv/126/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$148</canvasslug>
+          <canvasslug>lesquatrepremier00godf$148/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1414,7 +1415,7 @@
         <ISurface>
           <shortid>cod-gf01lv/127/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$149</canvasslug>
+          <canvasslug>lesquatrepremier00godf$149/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1425,7 +1426,7 @@
         <ISurface>
           <shortid>cod-gf01lv/128/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$150</canvasslug>
+          <canvasslug>lesquatrepremier00godf$150/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1436,7 +1437,7 @@
         <ISurface>
           <shortid>cod-gf01lv/129/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$151</canvasslug>
+          <canvasslug>lesquatrepremier00godf$151/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1447,7 +1448,7 @@
         <ISurface>
           <shortid>cod-gf01lv/130/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$152</canvasslug>
+          <canvasslug>lesquatrepremier00godf$152/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1458,7 +1459,7 @@
         <ISurface>
           <shortid>cod-gf01lv/131/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$153</canvasslug>
+          <canvasslug>lesquatrepremier00godf$153/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1469,7 +1470,7 @@
         <ISurface>
           <shortid>cod-gf01lv/132/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$154</canvasslug>
+          <canvasslug>lesquatrepremier00godf$154/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1480,7 +1481,7 @@
         <ISurface>
           <shortid>cod-gf01lv/133/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$155</canvasslug>
+          <canvasslug>lesquatrepremier00godf$155/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1491,7 +1492,7 @@
         <ISurface>
           <shortid>cod-gf01lv/134/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$156</canvasslug>
+          <canvasslug>lesquatrepremier00godf$156/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1502,7 +1503,7 @@
         <ISurface>
           <shortid>cod-gf01lv/135/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$157</canvasslug>
+          <canvasslug>lesquatrepremier00godf$157/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1513,7 +1514,7 @@
         <ISurface>
           <shortid>cod-gf01lv/136/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$158</canvasslug>
+          <canvasslug>lesquatrepremier00godf$158/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1524,7 +1525,7 @@
         <ISurface>
           <shortid>cod-gf01lv/137/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$159</canvasslug>
+          <canvasslug>lesquatrepremier00godf$159/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1535,7 +1536,7 @@
         <ISurface>
           <shortid>cod-gf01lv/138/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$160</canvasslug>
+          <canvasslug>lesquatrepremier00godf$160/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1546,7 +1547,7 @@
         <ISurface>
           <shortid>cod-gf01lv/139/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$161</canvasslug>
+          <canvasslug>lesquatrepremier00godf$161/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1557,7 +1558,7 @@
         <ISurface>
           <shortid>cod-gf01lv/140/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$162</canvasslug>
+          <canvasslug>lesquatrepremier00godf$162/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1568,7 +1569,7 @@
         <ISurface>
           <shortid>cod-gf01lv/141/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$163</canvasslug>
+          <canvasslug>lesquatrepremier00godf$163/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1579,7 +1580,7 @@
         <ISurface>
           <shortid>cod-gf01lv/142/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$164</canvasslug>
+          <canvasslug>lesquatrepremier00godf$164/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1590,7 +1591,7 @@
         <ISurface>
           <shortid>cod-gf01lv/143/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$165</canvasslug>
+          <canvasslug>lesquatrepremier00godf$165/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1601,7 +1602,7 @@
         <ISurface>
           <shortid>cod-gf01lv/144/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$166</canvasslug>
+          <canvasslug>lesquatrepremier00godf$166/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1612,7 +1613,7 @@
         <ISurface>
           <shortid>cod-gf01lv/145/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$167</canvasslug>
+          <canvasslug>lesquatrepremier00godf$167/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1623,7 +1624,7 @@
         <ISurface>
           <shortid>cod-gf01lv/146/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$168</canvasslug>
+          <canvasslug>lesquatrepremier00godf$168/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1634,7 +1635,7 @@
         <ISurface>
           <shortid>cod-gf01lv/147/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$169</canvasslug>
+          <canvasslug>lesquatrepremier00godf$169/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1645,7 +1646,7 @@
         <ISurface>
           <shortid>cod-gf01lv/148/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$170</canvasslug>
+          <canvasslug>lesquatrepremier00godf$170/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1656,7 +1657,7 @@
         <ISurface>
           <shortid>cod-gf01lv/149/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$171</canvasslug>
+          <canvasslug>lesquatrepremier00godf$171/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1667,7 +1668,7 @@
         <ISurface>
           <shortid>cod-gf01lv/150/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$172</canvasslug>
+          <canvasslug>lesquatrepremier00godf$172/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1678,7 +1679,7 @@
         <ISurface>
           <shortid>cod-gf01lv/151/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$173</canvasslug>
+          <canvasslug>lesquatrepremier00godf$173/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1689,7 +1690,7 @@
         <ISurface>
           <shortid>cod-gf01lv/152/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$174</canvasslug>
+          <canvasslug>lesquatrepremier00godf$174/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1700,7 +1701,7 @@
         <ISurface>
           <shortid>cod-gf01lv/153/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$175</canvasslug>
+          <canvasslug>lesquatrepremier00godf$175/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1711,7 +1712,7 @@
         <ISurface>
           <shortid>cod-gf01lv/154/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$176</canvasslug>
+          <canvasslug>lesquatrepremier00godf$176/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1722,7 +1723,7 @@
         <ISurface>
           <shortid>cod-gf01lv/155/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$177</canvasslug>
+          <canvasslug>lesquatrepremier00godf$177/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1733,7 +1734,7 @@
         <ISurface>
           <shortid>cod-gf01lv/156/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$178</canvasslug>
+          <canvasslug>lesquatrepremier00godf$178/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1744,7 +1745,7 @@
         <ISurface>
           <shortid>cod-gf01lv/157/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$179</canvasslug>
+          <canvasslug>lesquatrepremier00godf$179/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1755,7 +1756,7 @@
         <ISurface>
           <shortid>cod-gf01lv/158/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$180</canvasslug>
+          <canvasslug>lesquatrepremier00godf$180/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1766,7 +1767,7 @@
         <ISurface>
           <shortid>cod-gf01lv/159/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$181</canvasslug>
+          <canvasslug>lesquatrepremier00godf$181/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1777,7 +1778,7 @@
         <ISurface>
           <shortid>cod-gf01lv/160/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$182</canvasslug>
+          <canvasslug>lesquatrepremier00godf$182/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1788,7 +1789,7 @@
         <ISurface>
           <shortid>cod-gf01lv/161/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$183</canvasslug>
+          <canvasslug>lesquatrepremier00godf$183/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1799,7 +1800,7 @@
         <ISurface>
           <shortid>cod-gf01lv/162/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$184</canvasslug>
+          <canvasslug>lesquatrepremier00godf$184/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1810,7 +1811,7 @@
         <ISurface>
           <shortid>cod-gf01lv/163/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$185</canvasslug>
+          <canvasslug>lesquatrepremier00godf$185/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1821,7 +1822,7 @@
         <ISurface>
           <shortid>cod-gf01lv/164/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$186</canvasslug>
+          <canvasslug>lesquatrepremier00godf$186/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1832,7 +1833,7 @@
         <ISurface>
           <shortid>cod-gf01lv/165/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$187</canvasslug>
+          <canvasslug>lesquatrepremier00godf$187/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1843,7 +1844,7 @@
         <ISurface>
           <shortid>cod-gf01lv/166/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$188</canvasslug>
+          <canvasslug>lesquatrepremier00godf$188/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1854,7 +1855,7 @@
         <ISurface>
           <shortid>cod-gf01lv/167/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$189</canvasslug>
+          <canvasslug>lesquatrepremier00godf$189/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1865,7 +1866,7 @@
         <ISurface>
           <shortid>cod-gf01lv/168/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$190</canvasslug>
+          <canvasslug>lesquatrepremier00godf$190/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1876,7 +1877,7 @@
         <ISurface>
           <shortid>cod-gf01lv/169/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$191</canvasslug>
+          <canvasslug>lesquatrepremier00godf$191/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1887,7 +1888,7 @@
         <ISurface>
           <shortid>cod-gf01lv/170/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$192</canvasslug>
+          <canvasslug>lesquatrepremier00godf$192/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1898,7 +1899,7 @@
         <ISurface>
           <shortid>cod-gf01lv/171/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$193</canvasslug>
+          <canvasslug>lesquatrepremier00godf$193/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1909,7 +1910,7 @@
         <ISurface>
           <shortid>cod-gf01lv/172/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$194</canvasslug>
+          <canvasslug>lesquatrepremier00godf$194/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1920,7 +1921,7 @@
         <ISurface>
           <shortid>cod-gf01lv/173/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$195</canvasslug>
+          <canvasslug>lesquatrepremier00godf$195/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1931,7 +1932,7 @@
         <ISurface>
           <shortid>cod-gf01lv/174/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$196</canvasslug>
+          <canvasslug>lesquatrepremier00godf$196/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1942,7 +1943,7 @@
         <ISurface>
           <shortid>cod-gf01lv/175/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$197</canvasslug>
+          <canvasslug>lesquatrepremier00godf$197/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1953,7 +1954,7 @@
         <ISurface>
           <shortid>cod-gf01lv/176/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$198</canvasslug>
+          <canvasslug>lesquatrepremier00godf$198/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1964,7 +1965,7 @@
         <ISurface>
           <shortid>cod-gf01lv/177/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$199</canvasslug>
+          <canvasslug>lesquatrepremier00godf$199/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1975,7 +1976,7 @@
         <ISurface>
           <shortid>cod-gf01lv/178/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$200</canvasslug>
+          <canvasslug>lesquatrepremier00godf$200/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1986,7 +1987,7 @@
         <ISurface>
           <shortid>cod-gf01lv/179/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$201</canvasslug>
+          <canvasslug>lesquatrepremier00godf$201/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1997,7 +1998,7 @@
         <ISurface>
           <shortid>cod-gf01lv/180/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$202</canvasslug>
+          <canvasslug>lesquatrepremier00godf$202/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2008,7 +2009,7 @@
         <ISurface>
           <shortid>cod-gf01lv/181/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$203</canvasslug>
+          <canvasslug>lesquatrepremier00godf$203/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2019,7 +2020,7 @@
         <ISurface>
           <shortid>cod-gf01lv/182/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$204</canvasslug>
+          <canvasslug>lesquatrepremier00godf$204/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2030,7 +2031,7 @@
         <ISurface>
           <shortid>cod-gf01lv/183/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$205</canvasslug>
+          <canvasslug>lesquatrepremier00godf$205/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2041,7 +2042,7 @@
         <ISurface>
           <shortid>cod-gf01lv/184/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$206</canvasslug>
+          <canvasslug>lesquatrepremier00godf$206/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2052,7 +2053,7 @@
         <ISurface>
           <shortid>cod-gf01lv/185/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$207</canvasslug>
+          <canvasslug>lesquatrepremier00godf$207/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2063,7 +2064,7 @@
         <ISurface>
           <shortid>cod-gf01lv/186/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$208</canvasslug>
+          <canvasslug>lesquatrepremier00godf$208/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2074,7 +2075,7 @@
         <ISurface>
           <shortid>cod-gf01lv/187/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$209</canvasslug>
+          <canvasslug>lesquatrepremier00godf$209/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2085,7 +2086,7 @@
         <ISurface>
           <shortid>cod-gf01lv/188/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$210</canvasslug>
+          <canvasslug>lesquatrepremier00godf$210/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2096,7 +2097,7 @@
         <ISurface>
           <shortid>cod-gf01lv/189/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$211</canvasslug>
+          <canvasslug>lesquatrepremier00godf$211/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2107,7 +2108,7 @@
         <ISurface>
           <shortid>cod-gf01lv/190/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$212</canvasslug>
+          <canvasslug>lesquatrepremier00godf$212/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2118,7 +2119,7 @@
         <ISurface>
           <shortid>cod-gf01lv/191/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$213</canvasslug>
+          <canvasslug>lesquatrepremier00godf$213/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2129,7 +2130,7 @@
         <ISurface>
           <shortid>cod-gf01lv/192/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$214</canvasslug>
+          <canvasslug>lesquatrepremier00godf$214/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2140,7 +2141,7 @@
         <ISurface>
           <shortid>cod-gf01lv/193/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$215</canvasslug>
+          <canvasslug>lesquatrepremier00godf$215/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2151,7 +2152,7 @@
         <ISurface>
           <shortid>cod-gf01lv/194/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$216</canvasslug>
+          <canvasslug>lesquatrepremier00godf$216/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2162,7 +2163,7 @@
         <ISurface>
           <shortid>cod-gf01lv/195/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$217</canvasslug>
+          <canvasslug>lesquatrepremier00godf$217/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2173,7 +2174,7 @@
         <ISurface>
           <shortid>cod-gf01lv/196/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$218</canvasslug>
+          <canvasslug>lesquatrepremier00godf$218/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2184,7 +2185,7 @@
         <ISurface>
           <shortid>cod-gf01lv/197/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$219</canvasslug>
+          <canvasslug>lesquatrepremier00godf$219/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2195,7 +2196,7 @@
         <ISurface>
           <shortid>cod-gf01lv/198/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$220</canvasslug>
+          <canvasslug>lesquatrepremier00godf$220/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2206,7 +2207,7 @@
         <ISurface>
           <shortid>cod-gf01lv/199/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$221</canvasslug>
+          <canvasslug>lesquatrepremier00godf$221/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2217,7 +2218,7 @@
         <ISurface>
           <shortid>cod-gf01lv/200/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$222</canvasslug>
+          <canvasslug>lesquatrepremier00godf$222/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2228,7 +2229,7 @@
         <ISurface>
           <shortid>cod-gf01lv/201/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$223</canvasslug>
+          <canvasslug>lesquatrepremier00godf$223/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2239,7 +2240,7 @@
         <ISurface>
           <shortid>cod-gf01lv/202/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$224</canvasslug>
+          <canvasslug>lesquatrepremier00godf$224/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2250,7 +2251,7 @@
         <ISurface>
           <shortid>cod-gf01lv/203/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$225</canvasslug>
+          <canvasslug>lesquatrepremier00godf$225/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2261,7 +2262,7 @@
         <ISurface>
           <shortid>cod-gf01lv/204/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$226</canvasslug>
+          <canvasslug>lesquatrepremier00godf$226/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2272,7 +2273,7 @@
         <ISurface>
           <shortid>cod-gf01lv/205/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$227</canvasslug>
+          <canvasslug>lesquatrepremier00godf$227/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2283,7 +2284,7 @@
         <ISurface>
           <shortid>cod-gf01lv/206/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$228</canvasslug>
+          <canvasslug>lesquatrepremier00godf$228/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2294,7 +2295,7 @@
         <ISurface>
           <shortid>cod-gf01lv/207/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$229</canvasslug>
+          <canvasslug>lesquatrepremier00godf$229/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2305,7 +2306,7 @@
         <ISurface>
           <shortid>cod-gf01lv/208/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$230</canvasslug>
+          <canvasslug>lesquatrepremier00godf$230/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2316,7 +2317,7 @@
         <ISurface>
           <shortid>cod-gf01lv/209/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$231</canvasslug>
+          <canvasslug>lesquatrepremier00godf$231/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2327,7 +2328,7 @@
         <ISurface>
           <shortid>cod-gf01lv/210/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$232</canvasslug>
+          <canvasslug>lesquatrepremier00godf$232/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2338,7 +2339,7 @@
         <ISurface>
           <shortid>cod-gf01lv/211/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$233</canvasslug>
+          <canvasslug>lesquatrepremier00godf$233/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2349,7 +2350,7 @@
         <ISurface>
           <shortid>cod-gf01lv/212/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$234</canvasslug>
+          <canvasslug>lesquatrepremier00godf$234/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2360,7 +2361,7 @@
         <ISurface>
           <shortid>cod-gf01lv/213/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$235</canvasslug>
+          <canvasslug>lesquatrepremier00godf$235/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2371,7 +2372,7 @@
         <ISurface>
           <shortid>cod-gf01lv/214/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$236</canvasslug>
+          <canvasslug>lesquatrepremier00godf$236/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2382,7 +2383,7 @@
         <ISurface>
           <shortid>cod-gf01lv/215/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$237</canvasslug>
+          <canvasslug>lesquatrepremier00godf$237/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2393,7 +2394,7 @@
         <ISurface>
           <shortid>cod-gf01lv/216/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$238</canvasslug>
+          <canvasslug>lesquatrepremier00godf$238/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2404,7 +2405,7 @@
         <ISurface>
           <shortid>cod-gf01lv/217/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$239</canvasslug>
+          <canvasslug>lesquatrepremier00godf$239/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2415,7 +2416,7 @@
         <ISurface>
           <shortid>cod-gf01lv/218/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$240</canvasslug>
+          <canvasslug>lesquatrepremier00godf$240/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2426,7 +2427,7 @@
         <ISurface>
           <shortid>cod-gf01lv/219/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$241</canvasslug>
+          <canvasslug>lesquatrepremier00godf$241/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2437,7 +2438,7 @@
         <ISurface>
           <shortid>cod-gf01lv/220/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$242</canvasslug>
+          <canvasslug>lesquatrepremier00godf$242/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2448,7 +2449,7 @@
         <ISurface>
           <shortid>cod-gf01lv/221/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$243</canvasslug>
+          <canvasslug>lesquatrepremier00godf$243/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2459,7 +2460,7 @@
         <ISurface>
           <shortid>cod-gf01lv/222/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$244</canvasslug>
+          <canvasslug>lesquatrepremier00godf$244/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2470,7 +2471,7 @@
         <ISurface>
           <shortid>cod-gf01lv/223/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$245</canvasslug>
+          <canvasslug>lesquatrepremier00godf$245/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2481,7 +2482,7 @@
         <ISurface>
           <shortid>cod-gf01lv/224/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$246</canvasslug>
+          <canvasslug>lesquatrepremier00godf$246/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2492,7 +2493,7 @@
         <ISurface>
           <shortid>cod-gf01lv/225/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$247</canvasslug>
+          <canvasslug>lesquatrepremier00godf$247/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2503,7 +2504,7 @@
         <ISurface>
           <shortid>cod-gf01lv/226/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$248</canvasslug>
+          <canvasslug>lesquatrepremier00godf$248/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2514,7 +2515,7 @@
         <ISurface>
           <shortid>cod-gf01lv/227/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$249</canvasslug>
+          <canvasslug>lesquatrepremier00godf$249/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2525,7 +2526,7 @@
         <ISurface>
           <shortid>cod-gf01lv/228/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$250</canvasslug>
+          <canvasslug>lesquatrepremier00godf$250/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2536,7 +2537,7 @@
         <ISurface>
           <shortid>cod-gf01lv/229/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$251</canvasslug>
+          <canvasslug>lesquatrepremier00godf$251/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2547,7 +2548,7 @@
         <ISurface>
           <shortid>cod-gf01lv/230/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$252</canvasslug>
+          <canvasslug>lesquatrepremier00godf$252/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2558,7 +2559,7 @@
         <ISurface>
           <shortid>cod-gf01lv/231/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$253</canvasslug>
+          <canvasslug>lesquatrepremier00godf$253/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2569,7 +2570,7 @@
         <ISurface>
           <shortid>cod-gf01lv/232/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$254</canvasslug>
+          <canvasslug>lesquatrepremier00godf$254/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2580,7 +2581,7 @@
         <ISurface>
           <shortid>cod-gf01lv/233/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$255</canvasslug>
+          <canvasslug>lesquatrepremier00godf$255/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2591,7 +2592,7 @@
         <ISurface>
           <shortid>cod-gf01lv/234/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$256</canvasslug>
+          <canvasslug>lesquatrepremier00godf$256/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2602,7 +2603,7 @@
         <ISurface>
           <shortid>cod-gf01lv/235/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$257</canvasslug>
+          <canvasslug>lesquatrepremier00godf$257/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2613,7 +2614,7 @@
         <ISurface>
           <shortid>cod-gf01lv/236/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$258</canvasslug>
+          <canvasslug>lesquatrepremier00godf$258/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2624,7 +2625,7 @@
         <ISurface>
           <shortid>cod-gf01lv/237/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$259</canvasslug>
+          <canvasslug>lesquatrepremier00godf$259/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2635,7 +2636,7 @@
         <ISurface>
           <shortid>cod-gf01lv/238/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$260</canvasslug>
+          <canvasslug>lesquatrepremier00godf$260/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2646,7 +2647,7 @@
         <ISurface>
           <shortid>cod-gf01lv/239/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$261</canvasslug>
+          <canvasslug>lesquatrepremier00godf$261/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2657,7 +2658,7 @@
         <ISurface>
           <shortid>cod-gf01lv/240/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$262</canvasslug>
+          <canvasslug>lesquatrepremier00godf$262/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2668,7 +2669,7 @@
         <ISurface>
           <shortid>cod-gf01lv/241/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$263</canvasslug>
+          <canvasslug>lesquatrepremier00godf$263/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2679,7 +2680,7 @@
         <ISurface>
           <shortid>cod-gf01lv/242/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$264</canvasslug>
+          <canvasslug>lesquatrepremier00godf$264/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2690,7 +2691,7 @@
         <ISurface>
           <shortid>cod-gf01lv/243/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$265</canvasslug>
+          <canvasslug>lesquatrepremier00godf$265/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2701,7 +2702,7 @@
         <ISurface>
           <shortid>cod-gf01lv/244/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$266</canvasslug>
+          <canvasslug>lesquatrepremier00godf$266/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2712,7 +2713,7 @@
         <ISurface>
           <shortid>cod-gf01lv/245/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$267</canvasslug>
+          <canvasslug>lesquatrepremier00godf$267/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2723,7 +2724,7 @@
         <ISurface>
           <shortid>cod-gf01lv/246/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$268</canvasslug>
+          <canvasslug>lesquatrepremier00godf$268/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2734,7 +2735,7 @@
         <ISurface>
           <shortid>cod-gf01lv/247/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$269</canvasslug>
+          <canvasslug>lesquatrepremier00godf$269/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2745,7 +2746,7 @@
         <ISurface>
           <shortid>cod-gf01lv/248/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$270</canvasslug>
+          <canvasslug>lesquatrepremier00godf$270/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2756,7 +2757,7 @@
         <ISurface>
           <shortid>cod-gf01lv/249/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$271</canvasslug>
+          <canvasslug>lesquatrepremier00godf$271/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2767,7 +2768,7 @@
         <ISurface>
           <shortid>cod-gf01lv/250/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$272</canvasslug>
+          <canvasslug>lesquatrepremier00godf$272/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2778,7 +2779,7 @@
         <ISurface>
           <shortid>cod-gf01lv/251/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$273</canvasslug>
+          <canvasslug>lesquatrepremier00godf$273/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2789,7 +2790,7 @@
         <ISurface>
           <shortid>cod-gf01lv/252/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$274</canvasslug>
+          <canvasslug>lesquatrepremier00godf$274/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2800,7 +2801,7 @@
         <ISurface>
           <shortid>cod-gf01lv/253/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$275</canvasslug>
+          <canvasslug>lesquatrepremier00godf$275/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2811,7 +2812,7 @@
         <ISurface>
           <shortid>cod-gf01lv/254/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$276</canvasslug>
+          <canvasslug>lesquatrepremier00godf$276/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2822,7 +2823,7 @@
         <ISurface>
           <shortid>cod-gf01lv/255/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$277</canvasslug>
+          <canvasslug>lesquatrepremier00godf$277/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2833,7 +2834,7 @@
         <ISurface>
           <shortid>cod-gf01lv/256/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$278</canvasslug>
+          <canvasslug>lesquatrepremier00godf$278/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2844,7 +2845,7 @@
         <ISurface>
           <shortid>cod-gf01lv/257/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$279</canvasslug>
+          <canvasslug>lesquatrepremier00godf$279/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2855,7 +2856,7 @@
         <ISurface>
           <shortid>cod-gf01lv/258/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$280</canvasslug>
+          <canvasslug>lesquatrepremier00godf$280/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2866,7 +2867,7 @@
         <ISurface>
           <shortid>cod-gf01lv/259/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$281</canvasslug>
+          <canvasslug>lesquatrepremier00godf$281/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2877,7 +2878,7 @@
         <ISurface>
           <shortid>cod-gf01lv/260/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$282</canvasslug>
+          <canvasslug>lesquatrepremier00godf$282/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2888,7 +2889,7 @@
         <ISurface>
           <shortid>cod-gf01lv/261/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$283</canvasslug>
+          <canvasslug>lesquatrepremier00godf$283/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2899,7 +2900,7 @@
         <ISurface>
           <shortid>cod-gf01lv/262/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$284</canvasslug>
+          <canvasslug>lesquatrepremier00godf$284/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2910,7 +2911,7 @@
         <ISurface>
           <shortid>cod-gf01lv/263/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$285</canvasslug>
+          <canvasslug>lesquatrepremier00godf$285/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2921,7 +2922,7 @@
         <ISurface>
           <shortid>cod-gf01lv/264/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$286</canvasslug>
+          <canvasslug>lesquatrepremier00godf$286/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2932,7 +2933,7 @@
         <ISurface>
           <shortid>cod-gf01lv/265/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$287</canvasslug>
+          <canvasslug>lesquatrepremier00godf$287/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2943,7 +2944,7 @@
         <ISurface>
           <shortid>cod-gf01lv/266/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$288</canvasslug>
+          <canvasslug>lesquatrepremier00godf$288/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2954,7 +2955,7 @@
         <ISurface>
           <shortid>cod-gf01lv/267/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$289</canvasslug>
+          <canvasslug>lesquatrepremier00godf$289/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2965,7 +2966,7 @@
         <ISurface>
           <shortid>cod-gf01lv/268/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$290</canvasslug>
+          <canvasslug>lesquatrepremier00godf$290/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2976,7 +2977,7 @@
         <ISurface>
           <shortid>cod-gf01lv/269/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$291</canvasslug>
+          <canvasslug>lesquatrepremier00godf$291/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2987,7 +2988,7 @@
         <ISurface>
           <shortid>cod-gf01lv/270/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$292</canvasslug>
+          <canvasslug>lesquatrepremier00godf$292/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2998,7 +2999,7 @@
         <ISurface>
           <shortid>cod-gf01lv/271/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$293</canvasslug>
+          <canvasslug>lesquatrepremier00godf$293/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3009,7 +3010,7 @@
         <ISurface>
           <shortid>cod-gf01lv/272/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$294</canvasslug>
+          <canvasslug>lesquatrepremier00godf$294/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3020,7 +3021,7 @@
         <ISurface>
           <shortid>cod-gf01lv/273/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$295</canvasslug>
+          <canvasslug>lesquatrepremier00godf$295/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3031,7 +3032,7 @@
         <ISurface>
           <shortid>cod-gf01lv/274/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$296</canvasslug>
+          <canvasslug>lesquatrepremier00godf$296/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3042,7 +3043,7 @@
         <ISurface>
           <shortid>cod-gf01lv/275/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$297</canvasslug>
+          <canvasslug>lesquatrepremier00godf$297/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3053,7 +3054,7 @@
         <ISurface>
           <shortid>cod-gf01lv/276/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$298</canvasslug>
+          <canvasslug>lesquatrepremier00godf$298/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3064,7 +3065,7 @@
         <ISurface>
           <shortid>cod-gf01lv/277/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$299</canvasslug>
+          <canvasslug>lesquatrepremier00godf$299/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3075,7 +3076,7 @@
         <ISurface>
           <shortid>cod-gf01lv/278/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$300</canvasslug>
+          <canvasslug>lesquatrepremier00godf$300/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3086,7 +3087,7 @@
         <ISurface>
           <shortid>cod-gf01lv/279/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$301</canvasslug>
+          <canvasslug>lesquatrepremier00godf$301/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3097,7 +3098,7 @@
         <ISurface>
           <shortid>cod-gf01lv/280/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$302</canvasslug>
+          <canvasslug>lesquatrepremier00godf$302/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3108,7 +3109,7 @@
         <ISurface>
           <shortid>cod-gf01lv/281/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$303</canvasslug>
+          <canvasslug>lesquatrepremier00godf$303/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3119,7 +3120,7 @@
         <ISurface>
           <shortid>cod-gf01lv/282/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$304</canvasslug>
+          <canvasslug>lesquatrepremier00godf$304/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3130,7 +3131,7 @@
         <ISurface>
           <shortid>cod-gf01lv/283/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$305</canvasslug>
+          <canvasslug>lesquatrepremier00godf$305/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3141,7 +3142,7 @@
         <ISurface>
           <shortid>cod-gf01lv/284/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$306</canvasslug>
+          <canvasslug>lesquatrepremier00godf$306/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3152,7 +3153,7 @@
         <ISurface>
           <shortid>cod-gf01lv/285/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$307</canvasslug>
+          <canvasslug>lesquatrepremier00godf$307/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3163,7 +3164,7 @@
         <ISurface>
           <shortid>cod-gf01lv/286/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$308</canvasslug>
+          <canvasslug>lesquatrepremier00godf$308/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3174,7 +3175,7 @@
         <ISurface>
           <shortid>cod-gf01lv/287/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$309</canvasslug>
+          <canvasslug>lesquatrepremier00godf$309/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3185,7 +3186,7 @@
         <ISurface>
           <shortid>cod-gf01lv/288/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$310</canvasslug>
+          <canvasslug>lesquatrepremier00godf$310/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3196,7 +3197,7 @@
         <ISurface>
           <shortid>cod-gf01lv/289/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$311</canvasslug>
+          <canvasslug>lesquatrepremier00godf$311/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3207,7 +3208,7 @@
         <ISurface>
           <shortid>cod-gf01lv/290/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$312</canvasslug>
+          <canvasslug>lesquatrepremier00godf$312/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3218,7 +3219,7 @@
         <ISurface>
           <shortid>cod-gf01lv/291/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$313</canvasslug>
+          <canvasslug>lesquatrepremier00godf$313/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3229,7 +3230,7 @@
         <ISurface>
           <shortid>cod-gf01lv/292/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$314</canvasslug>
+          <canvasslug>lesquatrepremier00godf$314/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3240,7 +3241,7 @@
         <ISurface>
           <shortid>cod-gf01lv/293/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$315</canvasslug>
+          <canvasslug>lesquatrepremier00godf$315/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3251,7 +3252,7 @@
         <ISurface>
           <shortid>cod-gf01lv/294/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$316</canvasslug>
+          <canvasslug>lesquatrepremier00godf$316/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3262,7 +3263,7 @@
         <ISurface>
           <shortid>cod-gf01lv/295/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$317</canvasslug>
+          <canvasslug>lesquatrepremier00godf$317/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3273,7 +3274,7 @@
         <ISurface>
           <shortid>cod-gf01lv/296/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$318</canvasslug>
+          <canvasslug>lesquatrepremier00godf$318/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3284,7 +3285,7 @@
         <ISurface>
           <shortid>cod-gf01lv/297/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$319</canvasslug>
+          <canvasslug>lesquatrepremier00godf$319/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3295,7 +3296,7 @@
         <ISurface>
           <shortid>cod-gf01lv/298/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$320</canvasslug>
+          <canvasslug>lesquatrepremier00godf$320/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3306,7 +3307,7 @@
         <ISurface>
           <shortid>cod-gf01lv/299/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$321</canvasslug>
+          <canvasslug>lesquatrepremier00godf$321/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3317,7 +3318,7 @@
         <ISurface>
           <shortid>cod-gf01lv/300/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$322</canvasslug>
+          <canvasslug>lesquatrepremier00godf$322/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3328,7 +3329,7 @@
         <ISurface>
           <shortid>cod-gf01lv/301/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$323</canvasslug>
+          <canvasslug>lesquatrepremier00godf$323/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3339,7 +3340,7 @@
         <ISurface>
           <shortid>cod-gf01lv/302/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$324</canvasslug>
+          <canvasslug>lesquatrepremier00godf$324/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3350,7 +3351,7 @@
         <ISurface>
           <shortid>cod-gf01lv/303/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$325</canvasslug>
+          <canvasslug>lesquatrepremier00godf$325/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3361,7 +3362,7 @@
         <ISurface>
           <shortid>cod-gf01lv/304/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$326</canvasslug>
+          <canvasslug>lesquatrepremier00godf$326/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3372,7 +3373,7 @@
         <ISurface>
           <shortid>cod-gf01lv/305/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$327</canvasslug>
+          <canvasslug>lesquatrepremier00godf$327/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3383,7 +3384,7 @@
         <ISurface>
           <shortid>cod-gf01lv/306/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$328</canvasslug>
+          <canvasslug>lesquatrepremier00godf$328/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3394,7 +3395,7 @@
         <ISurface>
           <shortid>cod-gf01lv/307/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$329</canvasslug>
+          <canvasslug>lesquatrepremier00godf$329/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3405,7 +3406,7 @@
         <ISurface>
           <shortid>cod-gf01lv/308/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$330</canvasslug>
+          <canvasslug>lesquatrepremier00godf$330/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3416,7 +3417,7 @@
         <ISurface>
           <shortid>cod-gf01lv/309/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$331</canvasslug>
+          <canvasslug>lesquatrepremier00godf$331/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3427,7 +3428,7 @@
         <ISurface>
           <shortid>cod-gf01lv/310/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$332</canvasslug>
+          <canvasslug>lesquatrepremier00godf$332/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3438,7 +3439,7 @@
         <ISurface>
           <shortid>cod-gf01lv/311/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$333</canvasslug>
+          <canvasslug>lesquatrepremier00godf$333/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3449,7 +3450,7 @@
         <ISurface>
           <shortid>cod-gf01lv/312/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$334</canvasslug>
+          <canvasslug>lesquatrepremier00godf$334/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3460,7 +3461,7 @@
         <ISurface>
           <shortid>cod-gf01lv/313/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$335</canvasslug>
+          <canvasslug>lesquatrepremier00godf$335/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3471,7 +3472,7 @@
         <ISurface>
           <shortid>cod-gf01lv/314/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$336</canvasslug>
+          <canvasslug>lesquatrepremier00godf$336/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3482,7 +3483,7 @@
         <ISurface>
           <shortid>cod-gf01lv/315/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$337</canvasslug>
+          <canvasslug>lesquatrepremier00godf$337/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3493,7 +3494,7 @@
         <ISurface>
           <shortid>cod-gf01lv/316/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$338</canvasslug>
+          <canvasslug>lesquatrepremier00godf$338/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3504,7 +3505,7 @@
         <ISurface>
           <shortid>cod-gf01lv/317/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$339</canvasslug>
+          <canvasslug>lesquatrepremier00godf$339/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3515,7 +3516,7 @@
         <ISurface>
           <shortid>cod-gf01lv/318/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$340</canvasslug>
+          <canvasslug>lesquatrepremier00godf$340/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3526,7 +3527,7 @@
         <ISurface>
           <shortid>cod-gf01lv/319/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$341</canvasslug>
+          <canvasslug>lesquatrepremier00godf$341/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3537,7 +3538,7 @@
         <ISurface>
           <shortid>cod-gf01lv/320/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$342</canvasslug>
+          <canvasslug>lesquatrepremier00godf$342/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3548,7 +3549,7 @@
         <ISurface>
           <shortid>cod-gf01lv/321/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$343</canvasslug>
+          <canvasslug>lesquatrepremier00godf$343/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3559,7 +3560,7 @@
         <ISurface>
           <shortid>cod-gf01lv/322/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$344</canvasslug>
+          <canvasslug>lesquatrepremier00godf$344/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3570,7 +3571,7 @@
         <ISurface>
           <shortid>cod-gf01lv/323/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$345</canvasslug>
+          <canvasslug>lesquatrepremier00godf$345/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3581,7 +3582,7 @@
         <ISurface>
           <shortid>cod-gf01lv/324/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$346</canvasslug>
+          <canvasslug>lesquatrepremier00godf$346/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3592,7 +3593,7 @@
         <ISurface>
           <shortid>cod-gf01lv/325/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$347</canvasslug>
+          <canvasslug>lesquatrepremier00godf$347/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3603,7 +3604,7 @@
         <ISurface>
           <shortid>cod-gf01lv/326/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$348</canvasslug>
+          <canvasslug>lesquatrepremier00godf$348/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3614,7 +3615,7 @@
         <ISurface>
           <shortid>cod-gf01lv/327/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$349</canvasslug>
+          <canvasslug>lesquatrepremier00godf$349/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3625,7 +3626,7 @@
         <ISurface>
           <shortid>cod-gf01lv/328/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$350</canvasslug>
+          <canvasslug>lesquatrepremier00godf$350/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3636,7 +3637,7 @@
         <ISurface>
           <shortid>cod-gf01lv/329/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$351</canvasslug>
+          <canvasslug>lesquatrepremier00godf$351/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3647,7 +3648,7 @@
         <ISurface>
           <shortid>cod-gf01lv/330/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$352</canvasslug>
+          <canvasslug>lesquatrepremier00godf$352/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3658,7 +3659,7 @@
         <ISurface>
           <shortid>cod-gf01lv/331/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$353</canvasslug>
+          <canvasslug>lesquatrepremier00godf$353/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3669,7 +3670,7 @@
         <ISurface>
           <shortid>cod-gf01lv/332/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$354</canvasslug>
+          <canvasslug>lesquatrepremier00godf$354/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3680,7 +3681,7 @@
         <ISurface>
           <shortid>cod-gf01lv/333/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$355</canvasslug>
+          <canvasslug>lesquatrepremier00godf$355/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3691,7 +3692,7 @@
         <ISurface>
           <shortid>cod-gf01lv/334/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$356</canvasslug>
+          <canvasslug>lesquatrepremier00godf$356/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3702,7 +3703,7 @@
         <ISurface>
           <shortid>cod-gf01lv/335/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$357</canvasslug>
+          <canvasslug>lesquatrepremier00godf$357/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3713,7 +3714,7 @@
         <ISurface>
           <shortid>cod-gf01lv/336/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$358</canvasslug>
+          <canvasslug>lesquatrepremier00godf$358/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3724,7 +3725,7 @@
         <ISurface>
           <shortid>cod-gf01lv/337/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$359</canvasslug>
+          <canvasslug>lesquatrepremier00godf$359/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3735,7 +3736,7 @@
         <ISurface>
           <shortid>cod-gf01lv/338/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$360</canvasslug>
+          <canvasslug>lesquatrepremier00godf$360/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3746,7 +3747,7 @@
         <ISurface>
           <shortid>cod-gf01lv/339/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$361</canvasslug>
+          <canvasslug>lesquatrepremier00godf$361/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3757,7 +3758,7 @@
         <ISurface>
           <shortid>cod-gf01lv/340/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$362</canvasslug>
+          <canvasslug>lesquatrepremier00godf$362/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3768,7 +3769,7 @@
         <ISurface>
           <shortid>cod-gf01lv/341/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$363</canvasslug>
+          <canvasslug>lesquatrepremier00godf$363/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3779,7 +3780,7 @@
         <ISurface>
           <shortid>cod-gf01lv/342/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$364</canvasslug>
+          <canvasslug>lesquatrepremier00godf$364/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3790,7 +3791,7 @@
         <ISurface>
           <shortid>cod-gf01lv/343/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$365</canvasslug>
+          <canvasslug>lesquatrepremier00godf$365/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3801,7 +3802,7 @@
         <ISurface>
           <shortid>cod-gf01lv/344/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$366</canvasslug>
+          <canvasslug>lesquatrepremier00godf$366/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3812,7 +3813,7 @@
         <ISurface>
           <shortid>cod-gf01lv/345/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$367</canvasslug>
+          <canvasslug>lesquatrepremier00godf$367/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3823,7 +3824,7 @@
         <ISurface>
           <shortid>cod-gf01lv/346/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$368</canvasslug>
+          <canvasslug>lesquatrepremier00godf$368/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3834,7 +3835,7 @@
         <ISurface>
           <shortid>cod-gf01lv/347/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$369</canvasslug>
+          <canvasslug>lesquatrepremier00godf$369/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3845,7 +3846,7 @@
         <ISurface>
           <shortid>cod-gf01lv/348/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$370</canvasslug>
+          <canvasslug>lesquatrepremier00godf$370/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3856,7 +3857,7 @@
         <ISurface>
           <shortid>cod-gf01lv/349/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$371</canvasslug>
+          <canvasslug>lesquatrepremier00godf$371/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3867,7 +3868,7 @@
         <ISurface>
           <shortid>cod-gf01lv/350/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$372</canvasslug>
+          <canvasslug>lesquatrepremier00godf$372/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3878,7 +3879,7 @@
         <ISurface>
           <shortid>cod-gf01lv/351/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$373</canvasslug>
+          <canvasslug>lesquatrepremier00godf$373/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3889,7 +3890,7 @@
         <ISurface>
           <shortid>cod-gf01lv/352/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$374</canvasslug>
+          <canvasslug>lesquatrepremier00godf$374/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3900,7 +3901,7 @@
         <ISurface>
           <shortid>cod-gf01lv/353/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$375</canvasslug>
+          <canvasslug>lesquatrepremier00godf$375/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3911,7 +3912,7 @@
         <ISurface>
           <shortid>cod-gf01lv/354/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$376</canvasslug>
+          <canvasslug>lesquatrepremier00godf$376/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3922,7 +3923,7 @@
         <ISurface>
           <shortid>cod-gf01lv/355/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$377</canvasslug>
+          <canvasslug>lesquatrepremier00godf$377/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3933,7 +3934,7 @@
         <ISurface>
           <shortid>cod-gf01lv/356/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$378</canvasslug>
+          <canvasslug>lesquatrepremier00godf$378/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3944,7 +3945,7 @@
         <ISurface>
           <shortid>cod-gf01lv/357/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$379</canvasslug>
+          <canvasslug>lesquatrepremier00godf$379/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3955,7 +3956,7 @@
         <ISurface>
           <shortid>cod-gf01lv/358/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$380</canvasslug>
+          <canvasslug>lesquatrepremier00godf$380/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3966,7 +3967,7 @@
         <ISurface>
           <shortid>cod-gf01lv/359/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$381</canvasslug>
+          <canvasslug>lesquatrepremier00godf$381/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3977,7 +3978,7 @@
         <ISurface>
           <shortid>cod-gf01lv/360/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$382</canvasslug>
+          <canvasslug>lesquatrepremier00godf$382/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3988,7 +3989,7 @@
         <ISurface>
           <shortid>cod-gf01lv/361/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$383</canvasslug>
+          <canvasslug>lesquatrepremier00godf$383/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3999,7 +4000,7 @@
         <ISurface>
           <shortid>cod-gf01lv/362/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$384</canvasslug>
+          <canvasslug>lesquatrepremier00godf$384/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4010,7 +4011,7 @@
         <ISurface>
           <shortid>cod-gf01lv/363/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>lesquatrepremier00godf$385</canvasslug>
+          <canvasslug>lesquatrepremier00godf$385/canvas</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
