@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="NewYork1919v2">cod-ui8u89</shortid>
+    <title>New York, 1919, v. 2</title>
+    <initial>P</initial>
+    <date>1919</date>
+    <place>New York</place>
+    <!-- contains latin version of Athanasius Creed (amoun many other creeds) -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ui8u89/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <!--The Creeds Of Christendom, with a History and Critical Notes: Volume 2, The Greek and  Latin creeds, with translations by Schaff, Philip, 1819-1893; -->
+        <!--https://archive.org/details/TheCreedsOfChristendomV2/page/66/mode/2up-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/TheCreedsOfChristendomV2/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
