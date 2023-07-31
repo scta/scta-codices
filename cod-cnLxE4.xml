@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-cnLxE4</shortid>
+    <title>Rome, 1888, Vol. 4</title>
+    <initial>L</initial>
+    <place>Rome</place>
+    <date>1888</date>
+    <!-- contains Leonine Edition of summa theologica of Aquinas -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-cnLxE4/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/operaomniaiussui04thom/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
