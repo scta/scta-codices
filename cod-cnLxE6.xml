@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-cnLxE6</shortid>
+    <title>Rome, 1891, Vol. 6</title>
+    <initial>L</initial>
+    <place>Rome</place>
+    <date>1891</date>
+    <!-- contains Leonine Edition of summa theologica of Aquinas -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-cnLxE6/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/operaomniaiussui06thom/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
