@@ -158,11 +158,11 @@
     </surface>
     
     <surface>
-      <shortid>cod-ve07v1/5v</shortid>
+      <shortid>cod-ve07v1/5Bv</shortid>
       <label>5v</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-ve09v1/5v/item1</shortid>
+          <shortid>cod-ve09v1/5Bv/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>24</canvasslug>
         </ISurface>
