@@ -18,7 +18,7 @@
         <!-- https://zas.bn.org.pl/iiif/92288403/canvas/; no longer working canvas base -->
         <!-- created a custom v2 manifest from institutions v3 manifest with slightly different canvas base because their canvas id was confused -->
         <!-- example item id: https://zas.bn.org.pl/iiif/92288403/96932573.tif/info.json -->
-        <manifestOfficial>https://scta.info/iiif/codex/cod-pol7d7</manifestOfficial>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-pol7d7/manifest</manifestOfficial>
         <!-- https://polona.pl/iiif/item/OTIyODg0MDM/manifest.json; manifest link no longer works -->
         <!-- this is a version 3 manifest and doesn't seem well created; it uses example.org in annotation ids
         and is use info.json as "item id" 

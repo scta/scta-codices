@@ -11,7 +11,7 @@
         <shortid>sorb193/item1</shortid>
         <canvasBase>https://scta.info/iiif/sorb193/canvas/</canvasBase>
         <!-- old canvas base for no longer working manifest: https://nubis.univ-paris1.fr/iiif/ark:/15733/1t2h/canvas/ -->
-        <manifestOfficial></manifestOfficial>
+        <manifestOfficial>https://scta.info/iiif/codex/sorb193/manifest</manifestOfficial>
         <!--old manifest that is no longer working: https://nubis.univ-paris1.fr/iiif/ark:/15733/1t2h/manifest-->
       </item>
     </hasItems>
