@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1691v1">cod-pipoql</shortid>
+    <title>Paris 1696, v. 1</title>
+    <initial>P</initial>
+    <place>Paris</place>
+    <date>1696</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pipoql/item1</shortid>
+        <holdingInstitution></holdingInstitution>
+        <!-- 1696 https://books.google.com/books?id=X6sdDG_it9MC -->
+        <canvasBase>https://scta.info/iiif/pipoql/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/pipoql/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
