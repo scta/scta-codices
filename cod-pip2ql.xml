@@ -13,8 +13,8 @@
         <shortid>cod-pip2ql/item1</shortid>
         <holdingInstitution></holdingInstitution>
         <!-- 1696 https://books.google.com/books?id=X6sdDG_it9MC -->
-        <canvasBase>https://scta.info/iiif/pip2ql/canvas/</canvasBase>
-        <manifestOfficial>https://scta.info/iiif/codex/pip2ql/manifest</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/cod-pip2ql/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-pip2ql/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>

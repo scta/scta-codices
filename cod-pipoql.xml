@@ -13,8 +13,8 @@
         <shortid>cod-pipoql/item1</shortid>
         <holdingInstitution/>
         <!-- 1696 https://books.google.com/books?id=X6sdDG_it9MC -->
-        <canvasBase>https://scta.info/iiif/pipoql/canvas/</canvasBase>
-        <manifestOfficial>https://scta.info/iiif/codex/pipoql/manifest</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/cod-pipoql/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-pipoql/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
