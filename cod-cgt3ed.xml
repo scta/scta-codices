@@ -24,7 +24,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/1r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f5/canvas</canvasslug>
+          <canvasslug>f5</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -36,7 +36,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/1v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f6/canvas</canvasslug>
+          <canvasslug>f6</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -48,7 +48,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/2r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f7/canvas</canvasslug>
+          <canvasslug>f7</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -60,7 +60,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/2v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f8/canvas</canvasslug>
+          <canvasslug>f8</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -72,7 +72,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/3r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f9/canvas</canvasslug>
+          <canvasslug>f9</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -84,7 +84,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/3v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f10/canvas</canvasslug>
+          <canvasslug>f10</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -96,7 +96,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/4r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f11/canvas</canvasslug>
+          <canvasslug>f11</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -108,7 +108,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/4v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f12/canvas</canvasslug>
+          <canvasslug>f12</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -120,7 +120,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/5r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f13/canvas</canvasslug>
+          <canvasslug>f13</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -132,7 +132,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/5v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f14/canvas</canvasslug>
+          <canvasslug>f14</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -144,7 +144,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/6r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f15/canvas</canvasslug>
+          <canvasslug>f15</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -156,7 +156,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/6v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f16/canvas</canvasslug>
+          <canvasslug>f16</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -168,7 +168,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/7r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f17/canvas</canvasslug>
+          <canvasslug>f17</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -180,7 +180,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/7v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f18/canvas</canvasslug>
+          <canvasslug>f18</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -192,7 +192,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/8r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f19/canvas</canvasslug>
+          <canvasslug>f19</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -204,7 +204,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/8v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f20/canvas</canvasslug>
+          <canvasslug>f20</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -216,7 +216,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/9r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f21/canvas</canvasslug>
+          <canvasslug>f21</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -228,7 +228,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/9v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f22/canvas</canvasslug>
+          <canvasslug>f22</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -240,7 +240,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/10r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f23/canvas</canvasslug>
+          <canvasslug>f23</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -252,7 +252,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/10v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f24/canvas</canvasslug>
+          <canvasslug>f24</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -264,7 +264,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/11r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f25/canvas</canvasslug>
+          <canvasslug>f25</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -276,7 +276,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/11v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f26/canvas</canvasslug>
+          <canvasslug>f26</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -288,7 +288,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/12r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f27/canvas</canvasslug>
+          <canvasslug>f27</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -300,7 +300,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/12v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f28/canvas</canvasslug>
+          <canvasslug>f28</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -312,7 +312,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/13r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f29/canvas</canvasslug>
+          <canvasslug>f29</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -324,7 +324,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/13v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f30/canvas</canvasslug>
+          <canvasslug>f30</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -336,7 +336,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/14r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f31/canvas</canvasslug>
+          <canvasslug>f31</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -348,7 +348,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/14v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f32/canvas</canvasslug>
+          <canvasslug>f32</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -360,7 +360,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/15r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f33/canvas</canvasslug>
+          <canvasslug>f33</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -372,7 +372,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/15v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f34/canvas</canvasslug>
+          <canvasslug>f34</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -384,7 +384,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/16r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f35/canvas</canvasslug>
+          <canvasslug>f35</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -396,7 +396,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/16v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f36/canvas</canvasslug>
+          <canvasslug>f36</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -408,7 +408,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/17r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f37/canvas</canvasslug>
+          <canvasslug>f37</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -420,7 +420,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/17v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f38/canvas</canvasslug>
+          <canvasslug>f38</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -432,7 +432,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/18r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f39/canvas</canvasslug>
+          <canvasslug>f39</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -444,7 +444,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/18v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f40/canvas</canvasslug>
+          <canvasslug>f40</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -456,7 +456,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/19r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f41/canvas</canvasslug>
+          <canvasslug>f41</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -468,7 +468,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/19v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f42/canvas</canvasslug>
+          <canvasslug>f42</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -480,7 +480,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/20r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f43/canvas</canvasslug>
+          <canvasslug>f43</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -492,7 +492,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/20v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f44/canvas</canvasslug>
+          <canvasslug>f44</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -504,7 +504,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/21r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f45/canvas</canvasslug>
+          <canvasslug>f45</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -516,7 +516,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/21v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f46/canvas</canvasslug>
+          <canvasslug>f46</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -528,7 +528,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/22r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f47/canvas</canvasslug>
+          <canvasslug>f47</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -540,7 +540,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/22v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f48/canvas</canvasslug>
+          <canvasslug>f48</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -552,7 +552,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/23r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f49/canvas</canvasslug>
+          <canvasslug>f49</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -564,7 +564,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/23v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f50/canvas</canvasslug>
+          <canvasslug>f50</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -576,7 +576,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/24r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f51/canvas</canvasslug>
+          <canvasslug>f51</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -588,7 +588,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/24v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f52/canvas</canvasslug>
+          <canvasslug>f52</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -600,7 +600,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/25r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f53/canvas</canvasslug>
+          <canvasslug>f53</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -612,7 +612,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/25v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f54/canvas</canvasslug>
+          <canvasslug>f54</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -624,7 +624,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/26r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f55/canvas</canvasslug>
+          <canvasslug>f55</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -636,7 +636,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/26v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f56/canvas</canvasslug>
+          <canvasslug>f56</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -648,7 +648,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/27r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f57/canvas</canvasslug>
+          <canvasslug>f57</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -660,7 +660,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/27v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f58/canvas</canvasslug>
+          <canvasslug>f58</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -672,7 +672,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/28r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f59/canvas</canvasslug>
+          <canvasslug>f59</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -684,7 +684,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/28v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f60/canvas</canvasslug>
+          <canvasslug>f60</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -696,7 +696,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/29r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f61/canvas</canvasslug>
+          <canvasslug>f61</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -708,7 +708,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/29v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f62/canvas</canvasslug>
+          <canvasslug>f62</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -720,7 +720,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/30r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f63/canvas</canvasslug>
+          <canvasslug>f63</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -732,7 +732,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/30v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f64/canvas</canvasslug>
+          <canvasslug>f64</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -744,7 +744,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/31r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f65/canvas</canvasslug>
+          <canvasslug>f65</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -756,7 +756,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/31v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f66/canvas</canvasslug>
+          <canvasslug>f66</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -768,7 +768,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/32r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f67/canvas</canvasslug>
+          <canvasslug>f67</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -780,7 +780,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/32v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f68/canvas</canvasslug>
+          <canvasslug>f68</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -792,7 +792,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/33r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f69/canvas</canvasslug>
+          <canvasslug>f69</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -804,7 +804,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/33v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f70/canvas</canvasslug>
+          <canvasslug>f70</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -816,7 +816,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/34r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f71/canvas</canvasslug>
+          <canvasslug>f71</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -828,7 +828,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/34v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f72/canvas</canvasslug>
+          <canvasslug>f72</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -840,7 +840,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/35r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f73/canvas</canvasslug>
+          <canvasslug>f73</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -852,7 +852,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/35v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f74/canvas</canvasslug>
+          <canvasslug>f74</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -864,7 +864,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/36r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f75/canvas</canvasslug>
+          <canvasslug>f75</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -876,7 +876,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/36v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f76/canvas</canvasslug>
+          <canvasslug>f76</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -888,7 +888,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/37r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f77/canvas</canvasslug>
+          <canvasslug>f77</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -900,7 +900,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/37v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f78/canvas</canvasslug>
+          <canvasslug>f78</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -912,7 +912,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/38r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f79/canvas</canvasslug>
+          <canvasslug>f79</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -924,7 +924,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/38v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f80/canvas</canvasslug>
+          <canvasslug>f80</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -936,7 +936,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/39r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f81/canvas</canvasslug>
+          <canvasslug>f81</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -948,7 +948,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/39v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f82/canvas</canvasslug>
+          <canvasslug>f82</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -960,7 +960,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/40r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f83/canvas</canvasslug>
+          <canvasslug>f83</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -972,7 +972,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/40v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f84/canvas</canvasslug>
+          <canvasslug>f84</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -984,7 +984,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/41r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f85/canvas</canvasslug>
+          <canvasslug>f85</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -996,7 +996,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/41v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f86/canvas</canvasslug>
+          <canvasslug>f86</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1008,7 +1008,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/42r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f87/canvas</canvasslug>
+          <canvasslug>f87</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1020,7 +1020,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/42v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f88/canvas</canvasslug>
+          <canvasslug>f88</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1032,7 +1032,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/43r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f89/canvas</canvasslug>
+          <canvasslug>f89</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1044,7 +1044,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/43v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f90/canvas</canvasslug>
+          <canvasslug>f90</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1056,7 +1056,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/44r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f91/canvas</canvasslug>
+          <canvasslug>f91</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1068,7 +1068,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/44v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f92/canvas</canvasslug>
+          <canvasslug>f92</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1080,7 +1080,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/45r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f93/canvas</canvasslug>
+          <canvasslug>f93</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1092,7 +1092,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/45v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f94/canvas</canvasslug>
+          <canvasslug>f94</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1104,7 +1104,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/46r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f95/canvas</canvasslug>
+          <canvasslug>f95</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1116,7 +1116,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/46v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f96/canvas</canvasslug>
+          <canvasslug>f96</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1128,7 +1128,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/47r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f97/canvas</canvasslug>
+          <canvasslug>f97</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1140,7 +1140,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/47v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f98/canvas</canvasslug>
+          <canvasslug>f98</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1152,7 +1152,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/48r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f99/canvas</canvasslug>
+          <canvasslug>f99</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1164,7 +1164,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/48v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f100/canvas</canvasslug>
+          <canvasslug>f100</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1176,7 +1176,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/49r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f101/canvas</canvasslug>
+          <canvasslug>f101</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1188,7 +1188,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/49v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f102/canvas</canvasslug>
+          <canvasslug>f102</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1200,7 +1200,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/50r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f103/canvas</canvasslug>
+          <canvasslug>f103</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1212,7 +1212,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/50v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f104/canvas</canvasslug>
+          <canvasslug>f104</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1224,7 +1224,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/51r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f105/canvas</canvasslug>
+          <canvasslug>f105</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1236,7 +1236,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/51v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f106/canvas</canvasslug>
+          <canvasslug>f106</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1248,7 +1248,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/52r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f107/canvas</canvasslug>
+          <canvasslug>f107</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1260,7 +1260,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/52v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f108/canvas</canvasslug>
+          <canvasslug>f108</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1272,7 +1272,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/53r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f109/canvas</canvasslug>
+          <canvasslug>f109</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1284,7 +1284,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/53v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f110/canvas</canvasslug>
+          <canvasslug>f110</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1296,7 +1296,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/54r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f111/canvas</canvasslug>
+          <canvasslug>f111</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1308,7 +1308,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/54v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f112/canvas</canvasslug>
+          <canvasslug>f112</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1320,7 +1320,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/55r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f113/canvas</canvasslug>
+          <canvasslug>f113</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1332,7 +1332,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/55v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f114/canvas</canvasslug>
+          <canvasslug>f114</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1344,7 +1344,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/56r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f115/canvas</canvasslug>
+          <canvasslug>f115</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1356,7 +1356,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/56v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f116/canvas</canvasslug>
+          <canvasslug>f116</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1368,7 +1368,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/57r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f117/canvas</canvasslug>
+          <canvasslug>f117</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1380,7 +1380,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/57v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f118/canvas</canvasslug>
+          <canvasslug>f118</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1392,7 +1392,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/58r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f119/canvas</canvasslug>
+          <canvasslug>f119</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1404,7 +1404,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/58v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f120/canvas</canvasslug>
+          <canvasslug>f120</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1416,7 +1416,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/59r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f121/canvas</canvasslug>
+          <canvasslug>f121</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1428,7 +1428,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/59v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f122/canvas</canvasslug>
+          <canvasslug>f122</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1440,7 +1440,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/60r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f123/canvas</canvasslug>
+          <canvasslug>f123</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1452,7 +1452,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/60v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f124/canvas</canvasslug>
+          <canvasslug>f124</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1464,7 +1464,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/61r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f125/canvas</canvasslug>
+          <canvasslug>f125</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1476,7 +1476,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/61v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f126/canvas</canvasslug>
+          <canvasslug>f126</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1488,7 +1488,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/62r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f127/canvas</canvasslug>
+          <canvasslug>f127</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1500,7 +1500,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/62v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f128/canvas</canvasslug>
+          <canvasslug>f128</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1512,7 +1512,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/63r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f129/canvas</canvasslug>
+          <canvasslug>f129</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1524,7 +1524,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/63v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f130/canvas</canvasslug>
+          <canvasslug>f130</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1536,7 +1536,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/64r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f131/canvas</canvasslug>
+          <canvasslug>f131</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1548,7 +1548,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/64v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f132/canvas</canvasslug>
+          <canvasslug>f132</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1560,7 +1560,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/65r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f133/canvas</canvasslug>
+          <canvasslug>f133</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1572,7 +1572,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/65v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f134/canvas</canvasslug>
+          <canvasslug>f134</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1584,7 +1584,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/66r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f135/canvas</canvasslug>
+          <canvasslug>f135</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1596,7 +1596,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/66v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f136/canvas</canvasslug>
+          <canvasslug>f136</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1608,7 +1608,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/67r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f137/canvas</canvasslug>
+          <canvasslug>f137</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1620,7 +1620,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/67v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f138/canvas</canvasslug>
+          <canvasslug>f138</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1632,7 +1632,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/68r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f139/canvas</canvasslug>
+          <canvasslug>f139</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1644,7 +1644,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/68v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f140/canvas</canvasslug>
+          <canvasslug>f140</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1656,7 +1656,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/69r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f141/canvas</canvasslug>
+          <canvasslug>f141</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1668,7 +1668,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/69v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f142/canvas</canvasslug>
+          <canvasslug>f142</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1680,7 +1680,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/70r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f143/canvas</canvasslug>
+          <canvasslug>f143</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1692,7 +1692,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/70v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f144/canvas</canvasslug>
+          <canvasslug>f144</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1704,7 +1704,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/71r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f145/canvas</canvasslug>
+          <canvasslug>f145</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1716,7 +1716,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/71v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f146/canvas</canvasslug>
+          <canvasslug>f146</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1728,7 +1728,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/72r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f147/canvas</canvasslug>
+          <canvasslug>f147</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1740,7 +1740,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/72v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f148/canvas</canvasslug>
+          <canvasslug>f148</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1752,7 +1752,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/73r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f149/canvas</canvasslug>
+          <canvasslug>f149</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1764,7 +1764,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/73v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f150/canvas</canvasslug>
+          <canvasslug>f150</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1776,7 +1776,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/74r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f151/canvas</canvasslug>
+          <canvasslug>f151</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1788,7 +1788,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/74v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f152/canvas</canvasslug>
+          <canvasslug>f152</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1800,7 +1800,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/75r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f153/canvas</canvasslug>
+          <canvasslug>f153</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1812,7 +1812,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/75v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f154/canvas</canvasslug>
+          <canvasslug>f154</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1824,7 +1824,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/76r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f155/canvas</canvasslug>
+          <canvasslug>f155</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1836,7 +1836,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/76v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f156/canvas</canvasslug>
+          <canvasslug>f156</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1848,7 +1848,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/77r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f157/canvas</canvasslug>
+          <canvasslug>f157</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1860,7 +1860,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/77v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f158/canvas</canvasslug>
+          <canvasslug>f158</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1872,7 +1872,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/78r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f159/canvas</canvasslug>
+          <canvasslug>f159</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1884,7 +1884,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/78v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f160/canvas</canvasslug>
+          <canvasslug>f160</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1896,7 +1896,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/79r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f161/canvas</canvasslug>
+          <canvasslug>f161</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1908,7 +1908,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/79v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f162/canvas</canvasslug>
+          <canvasslug>f162</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1920,7 +1920,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/80r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f163/canvas</canvasslug>
+          <canvasslug>f163</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1932,7 +1932,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/80v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f164/canvas</canvasslug>
+          <canvasslug>f164</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1944,7 +1944,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/81r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f165/canvas</canvasslug>
+          <canvasslug>f165</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1956,7 +1956,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/81v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f166/canvas</canvasslug>
+          <canvasslug>f166</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1968,7 +1968,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/82r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f167/canvas</canvasslug>
+          <canvasslug>f167</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1980,7 +1980,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/82v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f168/canvas</canvasslug>
+          <canvasslug>f168</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1992,7 +1992,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/83r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f169/canvas</canvasslug>
+          <canvasslug>f169</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2004,7 +2004,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/83v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f170/canvas</canvasslug>
+          <canvasslug>f170</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2016,7 +2016,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/84r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f171/canvas</canvasslug>
+          <canvasslug>f171</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2028,7 +2028,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/84v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f172/canvas</canvasslug>
+          <canvasslug>f172</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2040,7 +2040,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/85r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f173/canvas</canvasslug>
+          <canvasslug>f173</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2052,7 +2052,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/85v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f174/canvas</canvasslug>
+          <canvasslug>f174</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2064,7 +2064,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/86r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f175/canvas</canvasslug>
+          <canvasslug>f175</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2076,7 +2076,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/86v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f176/canvas</canvasslug>
+          <canvasslug>f176</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2088,7 +2088,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/87r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f177/canvas</canvasslug>
+          <canvasslug>f177</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2100,7 +2100,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/87v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f178/canvas</canvasslug>
+          <canvasslug>f178</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2112,7 +2112,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/88r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f179/canvas</canvasslug>
+          <canvasslug>f179</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2124,7 +2124,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/88v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f180/canvas</canvasslug>
+          <canvasslug>f180</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2136,7 +2136,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/89r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f181/canvas</canvasslug>
+          <canvasslug>f181</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2148,7 +2148,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/89v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f182/canvas</canvasslug>
+          <canvasslug>f182</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2160,7 +2160,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/90r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f183/canvas</canvasslug>
+          <canvasslug>f183</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2172,7 +2172,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/90v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f184/canvas</canvasslug>
+          <canvasslug>f184</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2184,7 +2184,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/91r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f185/canvas</canvasslug>
+          <canvasslug>f185</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2196,7 +2196,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/91v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f186/canvas</canvasslug>
+          <canvasslug>f186</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2208,7 +2208,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/92r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f187/canvas</canvasslug>
+          <canvasslug>f187</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2220,7 +2220,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/92v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f188/canvas</canvasslug>
+          <canvasslug>f188</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2232,7 +2232,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/93r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f189/canvas</canvasslug>
+          <canvasslug>f189</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2244,7 +2244,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/93v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f190/canvas</canvasslug>
+          <canvasslug>f190</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2256,7 +2256,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/94r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f191/canvas</canvasslug>
+          <canvasslug>f191</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2268,7 +2268,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/94v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f192/canvas</canvasslug>
+          <canvasslug>f192</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2280,7 +2280,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/95r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f193/canvas</canvasslug>
+          <canvasslug>f193</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2292,7 +2292,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/95v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f194/canvas</canvasslug>
+          <canvasslug>f194</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2304,7 +2304,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/96r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f195/canvas</canvasslug>
+          <canvasslug>f195</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2316,7 +2316,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/96v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f196/canvas</canvasslug>
+          <canvasslug>f196</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2328,7 +2328,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/97r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f197/canvas</canvasslug>
+          <canvasslug>f197</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2340,7 +2340,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/97v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f198/canvas</canvasslug>
+          <canvasslug>f198</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2352,7 +2352,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/98r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f199/canvas</canvasslug>
+          <canvasslug>f199</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2364,7 +2364,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/98v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f200/canvas</canvasslug>
+          <canvasslug>f200</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2376,7 +2376,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/99r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f201/canvas</canvasslug>
+          <canvasslug>f201</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2388,7 +2388,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/99v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f202/canvas</canvasslug>
+          <canvasslug>f202</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2400,7 +2400,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/100r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f203/canvas</canvasslug>
+          <canvasslug>f203</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2412,7 +2412,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/100v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f204/canvas</canvasslug>
+          <canvasslug>f204</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2424,7 +2424,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/101r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f205/canvas</canvasslug>
+          <canvasslug>f205</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2436,7 +2436,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/101v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f206/canvas</canvasslug>
+          <canvasslug>f206</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2448,7 +2448,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/102r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f207/canvas</canvasslug>
+          <canvasslug>f207</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2460,7 +2460,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/102v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f208/canvas</canvasslug>
+          <canvasslug>f208</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2472,7 +2472,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/103r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f209/canvas</canvasslug>
+          <canvasslug>f209</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2484,7 +2484,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/103v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f210/canvas</canvasslug>
+          <canvasslug>f210</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2496,7 +2496,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/104r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f211/canvas</canvasslug>
+          <canvasslug>f211</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2508,7 +2508,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/104v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f212/canvas</canvasslug>
+          <canvasslug>f212</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2520,7 +2520,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/105r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f213/canvas</canvasslug>
+          <canvasslug>f213</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2532,7 +2532,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/105v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f214/canvas</canvasslug>
+          <canvasslug>f214</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2544,7 +2544,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/106r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f215/canvas</canvasslug>
+          <canvasslug>f215</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2556,7 +2556,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/106v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f216/canvas</canvasslug>
+          <canvasslug>f216</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2568,7 +2568,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/107r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f217/canvas</canvasslug>
+          <canvasslug>f217</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2580,7 +2580,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/107v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f218/canvas</canvasslug>
+          <canvasslug>f218</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2592,7 +2592,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/108r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f219/canvas</canvasslug>
+          <canvasslug>f219</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2604,7 +2604,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/108v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f220/canvas</canvasslug>
+          <canvasslug>f220</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2616,7 +2616,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/109r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f221/canvas</canvasslug>
+          <canvasslug>f221</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2628,7 +2628,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/109v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f222/canvas</canvasslug>
+          <canvasslug>f222</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2640,7 +2640,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/110r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f223/canvas</canvasslug>
+          <canvasslug>f223</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2652,7 +2652,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/110v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f224/canvas</canvasslug>
+          <canvasslug>f224</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2664,7 +2664,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/111r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f225/canvas</canvasslug>
+          <canvasslug>f225</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2676,7 +2676,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/111v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f226/canvas</canvasslug>
+          <canvasslug>f226</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2688,7 +2688,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/112r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f227/canvas</canvasslug>
+          <canvasslug>f227</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2700,7 +2700,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/112v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f228/canvas</canvasslug>
+          <canvasslug>f228</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2712,7 +2712,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/113r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f229/canvas</canvasslug>
+          <canvasslug>f229</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2724,7 +2724,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/113v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f230/canvas</canvasslug>
+          <canvasslug>f230</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2736,7 +2736,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/114r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f231/canvas</canvasslug>
+          <canvasslug>f231</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2748,7 +2748,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/114v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f232/canvas</canvasslug>
+          <canvasslug>f232</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2760,7 +2760,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/115r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f233/canvas</canvasslug>
+          <canvasslug>f233</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2772,7 +2772,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/115v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f234/canvas</canvasslug>
+          <canvasslug>f234</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2784,7 +2784,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/116r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f235/canvas</canvasslug>
+          <canvasslug>f235</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2796,7 +2796,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/116v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f236/canvas</canvasslug>
+          <canvasslug>f236</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2808,7 +2808,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/117r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f237/canvas</canvasslug>
+          <canvasslug>f237</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2820,7 +2820,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/117v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f238/canvas</canvasslug>
+          <canvasslug>f238</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2832,7 +2832,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/118r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f239/canvas</canvasslug>
+          <canvasslug>f239</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2844,7 +2844,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/118v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f240/canvas</canvasslug>
+          <canvasslug>f240</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2856,7 +2856,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/119r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f241/canvas</canvasslug>
+          <canvasslug>f241</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2868,7 +2868,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/119v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f242/canvas</canvasslug>
+          <canvasslug>f242</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2880,7 +2880,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/120r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f243/canvas</canvasslug>
+          <canvasslug>f243</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2892,7 +2892,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/120v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f244/canvas</canvasslug>
+          <canvasslug>f244</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2904,7 +2904,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/121r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f245/canvas</canvasslug>
+          <canvasslug>f245</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2916,7 +2916,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/121v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f246/canvas</canvasslug>
+          <canvasslug>f246</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2928,7 +2928,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/122r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f247/canvas</canvasslug>
+          <canvasslug>f247</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2940,7 +2940,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/122v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f248/canvas</canvasslug>
+          <canvasslug>f248</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2952,7 +2952,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/123r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f249/canvas</canvasslug>
+          <canvasslug>f249</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2964,7 +2964,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/123v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f250/canvas</canvasslug>
+          <canvasslug>f250</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2976,7 +2976,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/124r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f251/canvas</canvasslug>
+          <canvasslug>f251</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2988,7 +2988,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/124v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f252/canvas</canvasslug>
+          <canvasslug>f252</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3000,7 +3000,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/125r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f253/canvas</canvasslug>
+          <canvasslug>f253</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3012,7 +3012,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/125v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f254/canvas</canvasslug>
+          <canvasslug>f254</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3024,7 +3024,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/126r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f255/canvas</canvasslug>
+          <canvasslug>f255</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3036,7 +3036,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/126v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f256/canvas</canvasslug>
+          <canvasslug>f256</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3048,7 +3048,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/127r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f257/canvas</canvasslug>
+          <canvasslug>f257</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3060,7 +3060,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/127v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f258/canvas</canvasslug>
+          <canvasslug>f258</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3072,7 +3072,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/128r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f259/canvas</canvasslug>
+          <canvasslug>f259</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3084,7 +3084,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/128v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f260/canvas</canvasslug>
+          <canvasslug>f260</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3096,7 +3096,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/129r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f261/canvas</canvasslug>
+          <canvasslug>f261</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3108,7 +3108,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/129v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f262/canvas</canvasslug>
+          <canvasslug>f262</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3120,7 +3120,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/130r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f263/canvas</canvasslug>
+          <canvasslug>f263</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3132,7 +3132,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/130v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f264/canvas</canvasslug>
+          <canvasslug>f264</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3144,7 +3144,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/131r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f265/canvas</canvasslug>
+          <canvasslug>f265</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3156,7 +3156,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/131v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f266/canvas</canvasslug>
+          <canvasslug>f266</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3168,7 +3168,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/132r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f267/canvas</canvasslug>
+          <canvasslug>f267</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3180,7 +3180,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/132v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f268/canvas</canvasslug>
+          <canvasslug>f268</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3192,7 +3192,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/133r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f269/canvas</canvasslug>
+          <canvasslug>f269</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3204,7 +3204,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/133v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f270/canvas</canvasslug>
+          <canvasslug>f270</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3216,7 +3216,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/134r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f271/canvas</canvasslug>
+          <canvasslug>f271</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3228,7 +3228,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/134v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f272/canvas</canvasslug>
+          <canvasslug>f272</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3240,7 +3240,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/135r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f273/canvas</canvasslug>
+          <canvasslug>f273</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3252,7 +3252,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/135v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f274/canvas</canvasslug>
+          <canvasslug>f274</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3264,7 +3264,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/136r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f275/canvas</canvasslug>
+          <canvasslug>f275</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3276,7 +3276,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/136v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f276/canvas</canvasslug>
+          <canvasslug>f276</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3288,7 +3288,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/137r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f277/canvas</canvasslug>
+          <canvasslug>f277</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3300,7 +3300,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/137v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f278/canvas</canvasslug>
+          <canvasslug>f278</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3312,7 +3312,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/138r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f279/canvas</canvasslug>
+          <canvasslug>f279</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3324,7 +3324,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/138v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f280/canvas</canvasslug>
+          <canvasslug>f280</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3336,7 +3336,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/139r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f281/canvas</canvasslug>
+          <canvasslug>f281</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3348,7 +3348,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/139v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f282/canvas</canvasslug>
+          <canvasslug>f282</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3360,7 +3360,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/140r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f283/canvas</canvasslug>
+          <canvasslug>f283</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3372,7 +3372,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/140v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f284/canvas</canvasslug>
+          <canvasslug>f284</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3384,7 +3384,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/141r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f285/canvas</canvasslug>
+          <canvasslug>f285</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3396,7 +3396,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/141v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f286/canvas</canvasslug>
+          <canvasslug>f286</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3408,7 +3408,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/142r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f287/canvas</canvasslug>
+          <canvasslug>f287</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3420,7 +3420,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/142v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f288/canvas</canvasslug>
+          <canvasslug>f288</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3432,7 +3432,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/143r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f289/canvas</canvasslug>
+          <canvasslug>f289</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3444,7 +3444,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/143v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f290/canvas</canvasslug>
+          <canvasslug>f290</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3456,7 +3456,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/144r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f291/canvas</canvasslug>
+          <canvasslug>f291</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3468,7 +3468,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/144v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f292/canvas</canvasslug>
+          <canvasslug>f292</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3480,7 +3480,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/145r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f293/canvas</canvasslug>
+          <canvasslug>f293</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3492,7 +3492,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/145v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f294/canvas</canvasslug>
+          <canvasslug>f294</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3504,7 +3504,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/146r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f295/canvas</canvasslug>
+          <canvasslug>f295</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3516,7 +3516,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/146v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f296/canvas</canvasslug>
+          <canvasslug>f296</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3528,7 +3528,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/147r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f297/canvas</canvasslug>
+          <canvasslug>f297</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3540,7 +3540,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/147v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f298/canvas</canvasslug>
+          <canvasslug>f298</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3552,7 +3552,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/148r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f299/canvas</canvasslug>
+          <canvasslug>f299</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3564,7 +3564,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/148v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f300/canvas</canvasslug>
+          <canvasslug>f300</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3576,7 +3576,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/149r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f301/canvas</canvasslug>
+          <canvasslug>f301</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3588,7 +3588,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/149v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f302/canvas</canvasslug>
+          <canvasslug>f302</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3600,7 +3600,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/150r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f303/canvas</canvasslug>
+          <canvasslug>f303</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3612,7 +3612,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/150v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f304/canvas</canvasslug>
+          <canvasslug>f304</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3624,7 +3624,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/151r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f305/canvas</canvasslug>
+          <canvasslug>f305</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3636,7 +3636,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/151v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f306/canvas</canvasslug>
+          <canvasslug>f306</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3648,7 +3648,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/152r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f307/canvas</canvasslug>
+          <canvasslug>f307</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3660,7 +3660,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/152v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f308/canvas</canvasslug>
+          <canvasslug>f308</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3672,7 +3672,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/153r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f309/canvas</canvasslug>
+          <canvasslug>f309</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3684,7 +3684,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/153v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f310/canvas</canvasslug>
+          <canvasslug>f310</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3696,7 +3696,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/154r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f311/canvas</canvasslug>
+          <canvasslug>f311</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3708,7 +3708,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/154v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f312/canvas</canvasslug>
+          <canvasslug>f312</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3720,7 +3720,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/155r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f313/canvas</canvasslug>
+          <canvasslug>f313</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3732,7 +3732,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/155v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f314/canvas</canvasslug>
+          <canvasslug>f314</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3744,7 +3744,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/156r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f315/canvas</canvasslug>
+          <canvasslug>f315</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3756,7 +3756,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/156v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f316/canvas</canvasslug>
+          <canvasslug>f316</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3768,7 +3768,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/157r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f317/canvas</canvasslug>
+          <canvasslug>f317</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3780,7 +3780,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/157v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f318/canvas</canvasslug>
+          <canvasslug>f318</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3792,7 +3792,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/158r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f319/canvas</canvasslug>
+          <canvasslug>f319</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3804,7 +3804,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/158v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f320/canvas</canvasslug>
+          <canvasslug>f320</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3816,7 +3816,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/159r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f321/canvas</canvasslug>
+          <canvasslug>f321</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3828,7 +3828,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/159v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f322/canvas</canvasslug>
+          <canvasslug>f322</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3840,7 +3840,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/160r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f323/canvas</canvasslug>
+          <canvasslug>f323</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3852,7 +3852,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/160v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f324/canvas</canvasslug>
+          <canvasslug>f324</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3864,7 +3864,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/161r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f325/canvas</canvasslug>
+          <canvasslug>f325</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3876,7 +3876,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/161v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f326/canvas</canvasslug>
+          <canvasslug>f326</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3888,7 +3888,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/162r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f329/canvas</canvasslug>
+          <canvasslug>f329</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3900,7 +3900,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/162v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f330/canvas</canvasslug>
+          <canvasslug>f330</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3912,7 +3912,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/163r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f331/canvas</canvasslug>
+          <canvasslug>f331</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3924,7 +3924,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/163v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f332/canvas</canvasslug>
+          <canvasslug>f332</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3936,7 +3936,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/164r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f333/canvas</canvasslug>
+          <canvasslug>f333</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3948,7 +3948,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/164v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f334/canvas</canvasslug>
+          <canvasslug>f334</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3960,7 +3960,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/165r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f335/canvas</canvasslug>
+          <canvasslug>f335</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3972,7 +3972,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/165v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f336/canvas</canvasslug>
+          <canvasslug>f336</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3984,7 +3984,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/166r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f337/canvas</canvasslug>
+          <canvasslug>f337</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3996,7 +3996,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/166v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f338/canvas</canvasslug>
+          <canvasslug>f338</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4008,7 +4008,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/167r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f339/canvas</canvasslug>
+          <canvasslug>f339</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4020,7 +4020,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/167v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f340/canvas</canvasslug>
+          <canvasslug>f340</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4032,7 +4032,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/168r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f341/canvas</canvasslug>
+          <canvasslug>f341</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4044,7 +4044,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/168v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f342/canvas</canvasslug>
+          <canvasslug>f342</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4056,7 +4056,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/169r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f343/canvas</canvasslug>
+          <canvasslug>f343</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4068,7 +4068,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/169v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f344/canvas</canvasslug>
+          <canvasslug>f344</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4080,7 +4080,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/170r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f345/canvas</canvasslug>
+          <canvasslug>f345</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4092,7 +4092,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/170v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f346/canvas</canvasslug>
+          <canvasslug>f346</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4104,7 +4104,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/171r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f347/canvas</canvasslug>
+          <canvasslug>f347</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4116,7 +4116,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/171v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f348/canvas</canvasslug>
+          <canvasslug>f348</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4128,7 +4128,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/172r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f349/canvas</canvasslug>
+          <canvasslug>f349</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4140,7 +4140,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/172v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f350/canvas</canvasslug>
+          <canvasslug>f350</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4152,7 +4152,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/173r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f351/canvas</canvasslug>
+          <canvasslug>f351</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4164,7 +4164,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/173v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f352/canvas</canvasslug>
+          <canvasslug>f352</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4176,7 +4176,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/174r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f353/canvas</canvasslug>
+          <canvasslug>f353</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4188,7 +4188,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/174v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f354/canvas</canvasslug>
+          <canvasslug>f354</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4200,7 +4200,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/175r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f355/canvas</canvasslug>
+          <canvasslug>f355</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4212,7 +4212,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/175v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f356/canvas</canvasslug>
+          <canvasslug>f356</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4224,7 +4224,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/176r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f357/canvas</canvasslug>
+          <canvasslug>f357</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4236,7 +4236,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/176v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f358/canvas</canvasslug>
+          <canvasslug>f358</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4248,7 +4248,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/177r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f359/canvas</canvasslug>
+          <canvasslug>f359</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4260,7 +4260,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/177v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f360/canvas</canvasslug>
+          <canvasslug>f360</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4272,7 +4272,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/178r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f361/canvas</canvasslug>
+          <canvasslug>f361</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4284,7 +4284,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/178v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f362/canvas</canvasslug>
+          <canvasslug>f362</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4296,7 +4296,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/179r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f363/canvas</canvasslug>
+          <canvasslug>f363</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4308,7 +4308,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/179v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f364/canvas</canvasslug>
+          <canvasslug>f364</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4320,7 +4320,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/180r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f365/canvas</canvasslug>
+          <canvasslug>f365</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4332,7 +4332,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/180v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f366/canvas</canvasslug>
+          <canvasslug>f366</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4344,7 +4344,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/181r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f367/canvas</canvasslug>
+          <canvasslug>f367</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4356,7 +4356,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/181v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f368/canvas</canvasslug>
+          <canvasslug>f368</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4368,7 +4368,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/182r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f369/canvas</canvasslug>
+          <canvasslug>f369</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4380,7 +4380,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/182v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f370/canvas</canvasslug>
+          <canvasslug>f370</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4392,7 +4392,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/183r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f371/canvas</canvasslug>
+          <canvasslug>f371</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4404,7 +4404,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/183v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f372/canvas</canvasslug>
+          <canvasslug>f372</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4416,7 +4416,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/184r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f373/canvas</canvasslug>
+          <canvasslug>f373</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4428,7 +4428,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/184v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f374/canvas</canvasslug>
+          <canvasslug>f374</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4440,7 +4440,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/185r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f375/canvas</canvasslug>
+          <canvasslug>f375</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4452,7 +4452,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/185v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f376/canvas</canvasslug>
+          <canvasslug>f376</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4464,7 +4464,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/186r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f377/canvas</canvasslug>
+          <canvasslug>f377</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4476,7 +4476,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/186v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f378/canvas</canvasslug>
+          <canvasslug>f378</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4488,7 +4488,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/187r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f379/canvas</canvasslug>
+          <canvasslug>f379</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4500,7 +4500,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/187v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f380/canvas</canvasslug>
+          <canvasslug>f380</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4512,7 +4512,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/188r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f381/canvas</canvasslug>
+          <canvasslug>f381</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4524,7 +4524,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/188v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f382/canvas</canvasslug>
+          <canvasslug>f382</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4536,7 +4536,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/189r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f383/canvas</canvasslug>
+          <canvasslug>f383</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4548,7 +4548,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/189v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f384/canvas</canvasslug>
+          <canvasslug>f384</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4560,7 +4560,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/190r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f385/canvas</canvasslug>
+          <canvasslug>f385</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4572,7 +4572,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/190v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f386/canvas</canvasslug>
+          <canvasslug>f386</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4584,7 +4584,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/191r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f387/canvas</canvasslug>
+          <canvasslug>f387</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4596,7 +4596,7 @@
         <ISurface>
           <shortid>cod-cgt3ed/191v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>f388/canvas</canvasslug>
+          <canvasslug>f388</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
