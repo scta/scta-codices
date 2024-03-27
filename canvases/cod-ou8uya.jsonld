@@ -1,0 +1,281 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "@id": "https://scta.info/iiif/cod-ou8uya/manifest",
+  "@type": "sc:Manifest",
+  "label": "Manifest for cod-ou8uya",
+  "description": "Manifest for cod-ou8uya",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sequences": [
+    {
+      "@context": "https://iiif.io/api/presentation/2/context.json",
+      "@id": "https://scta.info/iiif/cod-ou8uya/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/1r",
+          "@type": "sc:Canvas",
+          "label": "1r",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/1r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/1r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/1r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/1r.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/1v",
+          "@type": "sc:Canvas",
+          "label": "1v",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/1v-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/1v",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/1v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/1v.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/2r",
+          "@type": "sc:Canvas",
+          "label": "2r",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/2r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/2r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/2r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/2r.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/2v",
+          "@type": "sc:Canvas",
+          "label": "2v",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/2v-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/2v",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/2v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/2v.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/3r",
+          "@type": "sc:Canvas",
+          "label": "3r",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/3r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/3r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/3r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/3r.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/3v",
+          "@type": "sc:Canvas",
+          "label": "3v",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/3v-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/3v",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/3v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/3v.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/4r",
+          "@type": "sc:Canvas",
+          "label": "4r",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/4r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/4r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/4r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/4r.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/4v",
+          "@type": "sc:Canvas",
+          "label": "4v",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/4v-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/4v",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/4v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/4v.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-ou8uya/canvas/5r",
+          "@type": "sc:Canvas",
+          "label": "5r",
+          "height": 9922,
+          "width": 7667,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-ou8uya/annotation/5r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-ou8uya/canvas/5r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-ou8uya/res/5r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9922,
+                "width": 7667,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/cod-ou8uya/5r.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

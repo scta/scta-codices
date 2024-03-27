@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-ou8uya</shortid>
+    <title>Oxford, Oriel 15</title>
+    <initial>O</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ou8uya/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://scta.info/iiif/cod-ou8uya/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-ou8uya/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-ou8uya/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/2r</shortid>
+      <label>2r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/2r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>2r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/2v</shortid>
+      <label>2v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/2v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>2v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/3r</shortid>
+      <label>3r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/3r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>3r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/3v</shortid>
+      <label>3v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/3v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>3v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/4r</shortid>
+      <label>4r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/4r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>4r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/4v</shortid>
+      <label>4v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/4v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>4v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface> <surface>
+      <shortid>cod-ou8uya/5r</shortid>
+      <label>5r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ou8uya/5r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>5r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>
