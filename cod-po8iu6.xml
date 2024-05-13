@@ -30,13 +30,13 @@
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-po8iu6/1r</shortid>
-      <label>1r</label>
+      <shortid>cod-po8iu6/1v</shortid>
+      <label>1v</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-po8iu6/1r/item1</shortid>
+          <shortid>cod-po8iu6/1v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>1r</canvasslug>
+          <canvasslug>1v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
