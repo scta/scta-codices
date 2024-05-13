@@ -65,7 +65,7 @@
                 "width": 4888,
                 "service": {
                   "@context": "https://iiif.io/api/image/2/context.json",
-                  "@id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss535_cuid29488/1",
+                  "@id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss535_cuid29488/2",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 }
               }
