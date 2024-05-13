@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<witness id="cod-po8iu6">
+  <slug>cod-po8iu6</slug>
+  <title>New York, NYU, mss 535, frag 056</title>
+  <initial>cod-po8iu6</initial>
+  <!--https://image1.dlib.nyu.edu:8183/iiif/2/photo%2Ffales_mss535_cuid29488%2Ffales_mss535_cuid29488_n000002_d.jp2/full/2000,/0/default.jpg-->
+</witness>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="NYUm535f056">cod-po8iu6</shortid>
+    <title>New York, NYU, mss 535, frag 056</title>
+    <initial>N</initial>
+    <!-- fragment of Johannes Monachus -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-po8iu6/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <libraryRecord>https://findingaids.library.nyu.edu/fales/mss_535/images/mkkwhjq3/</libraryRecord>
+        <canvasBase>https://scta.info/iiif/cod-po8iu6/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/cod-po8iu6/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-po8iu6/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-po8iu6/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-po8iu6/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-po8iu6/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>

@@ -1,0 +1,78 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "@id": "https://scta.info/iiif/cod-po8iu6/manifest",
+  "@type": "sc:Manifest",
+  "label": "Manifest for cod-po8iu6",
+  "description": "Manifest for cod-po8iu6",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "sequences": [
+    {
+      "@context": "https://iiif.io/api/presentation/2/context.json",
+      "@id": "https://scta.info/iiif/cod-po8iu6/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-po8iu6/canvas/1r",
+          "@type": "sc:Canvas",
+          "label": "1r",
+          "height": 6636,
+          "width": 4907,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-po8iu6/annotation/1r-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-po8iu6/canvas/1r",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-po8iu6/res/1r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6636,
+                "width": 4907,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss535_cuid29488/1",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/cod-po8iu6/canvas/1v",
+          "@type": "sc:Canvas",
+          "label": "1v",
+          "height": 6655,
+          "width": 4888,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/cod-po8iu6/annotation/1v-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/cod-po8iu6/canvas/1v",
+              "resource": {
+                "@id": "https://scta.info/iiif/cod-po8iu6/res/1v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6655,
+                "width": 4888,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://sites.dlib.nyu.edu/viewer/api/image/photos/fales_mss535_cuid29488/1",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
