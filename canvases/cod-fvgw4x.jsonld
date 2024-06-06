@@ -1,0 +1,75 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Victoria, B.C., University of Victoria Libraries, Fragm.Lat.8",
+  "seeAlso": "https://fragmentarium.ms/overview/F-vgw4",
+  "sequences": [
+    {
+      "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/sequence/Sequence-4738.json",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/F-vgw4/recto.jp2.json",
+          "@type": "sc:Canvas",
+          "label": "recto",
+          "height": 5210,
+          "width": 3764,
+          "images": [
+            {
+              "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/annotation/F-vgw4/recto.jp2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/F-vgw4/recto.jp2.json",
+              "resource": {
+                "@id": "https://fragmentarium.ms:443/loris/F-vgw4/recto.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5210,
+                "width": 3764,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://fragmentarium.ms:443/loris/F-vgw4/recto.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/F-vgw4/verso.jp2.json",
+          "@type": "sc:Canvas",
+          "label": "verso",
+          "height": 5210,
+          "width": 3764,
+          "images": [
+            {
+              "@id": "https://fragmentarium.ms/metadata/iiif/F-vgw4/annotation/F-vgw4/verso.jp2.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/F-vgw4/verso.jp2.json",
+              "resource": {
+                "@id": "https://fragmentarium.ms:443/loris/F-vgw4/verso.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 5210,
+                "width": 3764,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://fragmentarium.ms:443/loris/F-vgw4/verso.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

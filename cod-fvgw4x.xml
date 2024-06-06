@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-fvgw4x</shortid>
+    <title>Canada, Victoria, B.C., Fragm. Lat. 8</title>
+    <initial>V</initial>
+    <!-- fragment containing abbreviations of Henry of Ghent's quodlibets -->
+    <hasItems>
+      <item>
+        <shortid>cod-fvgw4x/item1</shortid>
+        <!--<holdingInstitution>uvic</holdingInstitution>-->
+        <canvasBase>"https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/</canvasBase>
+        <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-vgw4/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-fvgw4x/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-fvgw4x/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>recto.jp2.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-fvgw4x/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-fvgw4x/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>verso.jp2.json</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>
