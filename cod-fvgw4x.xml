@@ -23,7 +23,7 @@
         <ISurface>
           <shortid>cod-fvgw4x/1r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>recto.jp2.json</canvasslug>
+          <canvasslug>F-vgw4/recto.jp2.json</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -34,7 +34,7 @@
         <ISurface>
           <shortid>cod-fvgw4x/1v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>verso.jp2.json</canvasslug>
+          <canvasslug>F-vgw4/verso.jp2.json</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
