@@ -10,7 +10,7 @@
       <item>
         <shortid>cod-fvgw4x/item1</shortid>
         <!--<holdingInstitution>uvic</holdingInstitution>-->
-        <canvasBase>"https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/</canvasBase>
+        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-vgw4/canvas/</canvasBase>
         <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-vgw4/manifest.json</manifestOfficial>
       </item>
     </hasItems>

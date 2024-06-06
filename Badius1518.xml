@@ -12,7 +12,7 @@
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148759/canvas/</canvasBase>-->
         <canvasBase>https://scta.info/iiif/Badius1518/canvas/</canvasBase>
-        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148759/manifest</manifestOfficial>
+        <!--<manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148759/manifest</manifestOfficial>-->
         <manifestOfficial>https://scta.info/iiif/codex/Badius1518/manifest</manifestOfficial>
         <!-- bsb changed canvas and image alignment after coordinate collection; so until there is a desire to re-collect coordinates
           i'm moveing to a custom manifest with self-hosted images from Transkribus export -->
