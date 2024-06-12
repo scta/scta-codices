@@ -4,11 +4,12 @@
     <type>manuscript</type>
     <shortid alias="LewisE163">cod-yuhyqa</shortid>
     <title>Free Library of Pennsylvania, Philadelphia, Lewis E 163</title>
-    <!-- contains copy of decretals -->
+    <!-- contains copy of commentary on 5th book of decretals by Niccolo de Tudeschi (sometimes refered to as Panormitanus) https://en.wikipedia.org/wiki/Panormitanus -->
     <initial>L</initial>
     <hasItems>
       <item>
         <label>Free Library of Pennsylvania, Philadelphia, Lewis E 163</label>
+        <!-- see https://archive.org/details/lewis_e_163 -->
         <canonical>true</canonical>
         <shortid>cod-yuhyqa/item1</shortid>
         <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
