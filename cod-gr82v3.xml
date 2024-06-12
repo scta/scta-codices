@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type> 
+    <shortid>cod-gr82v3</shortid>
+    <title>Rome 1582, v. 3</title>
+    <initial>R</initial>
+    <place>Rome</place>
+    <date>1582</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-gr82v3/item1</shortid>
+        <!--<canvasBase>http://scta.info/iiif/Rome1582/canvas/</canvasBase>-->
+        <!--<manifestOfficial>https://scta.info/iiif/codex/Rome1582/manifest</manifestOfficial>-->
+        <manifestOfficial>https://iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0014rx8d/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  
+  </surfaces>
+</codex>

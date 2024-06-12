@@ -26,6 +26,8 @@
         <!--Publisher	Petit, 1535
         Original from	Austrian National Library
         Digitized	Sep 1, 2011-->
+        
+        <!-- see also https://books.google.com/books?id=G8NLAAAAcAAJ --> 
         <canvasBase>https://scta.info/iiif/cod-gh333a/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-gh333a/manifest</manifestOfficial>
       </item>
