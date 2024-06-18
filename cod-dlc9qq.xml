@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="bnflatin12926">cod-dlc9qq</shortid>
+    <title>Bnf, Latin 12926</title>
+    <!-- contains text of de las casas apologia -->
+    <initial>L</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-dlc9qq/item1</shortid>
+        <!-- https://archivesetmanuscrits.bnf.fr/ark:/12148/cc740535 -->
+        <holdingInstitution>http://scta.info/resource/I-dfja3n</holdingInstitution>
+        <canvasBase>http://gallica.bnf.fr/iiif/ark:/12148/btv1b9080777g/canvas/</canvasBase>
+        <manifestOfficial>https://gallica.bnf.fr/iiif/ark:/12148/btv1b9080777g/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
