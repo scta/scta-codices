@@ -1,0 +1,43 @@
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="NYUm535f067">cod-pzxxyz</shortid>
+    <title>New York, NYU, mss 535, frag 067</title>
+    <initial>N</initial>
+    <!-- fragment of Thomas Aquinas Summa Contra Gentiles Book 3, cc. 4-9 -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-pzxxyz/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <libraryRecord>https://findingaids.library.nyu.edu/fales/mss_535/images/mkkwhjq3/</libraryRecord>
+        <canvasBase>https://scta.info/iiif/cod-pzxxyz/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/cod-pzxxyz/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-pzxxyz/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-pzxxyz/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-pzxxyz/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-pzxxyz/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>
