@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-u78x12</shortid>
+    <title>Vives, Paris, 1893, volume 12</title>
+    <initial>V</initial>
+    <date>1893</date>
+    <place>Paris</place>
+    <!-- contains Book II d.3 and 14 of Scotus Ordinatio -->
+    <hasItems>
+      <item>
+        <!-- archive copy comes from Toronto -->
+        <canonical>true</canonical>
+        <shortid>cod-u78x12/item1</shortid>
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archivelab.org/iiif/operaomni12duns/manifest.json</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
