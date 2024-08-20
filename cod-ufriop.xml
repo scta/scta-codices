@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-ufriop</shortid>
+    <title>Universitätsbibliothek Freiburg i. Br., Hs. 160</title>
+    <initial>F</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ufriop/item1</shortid>
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+        <!--
+          https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor=kid%3A1655671375&type=allfields
+          https://dl.ub.uni-freiburg.de/diglit/hs160 -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
