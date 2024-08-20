@@ -11,9 +11,9 @@
     <hasItems>
       <item>
         <canonical>true</canonical>
-        <shortid>cod-cod-g8e0r7/item1</shortid>
-        <canvasBase/>
-        <manifestOfficial><!-- https://archive.org/details/LociTheologici --></manifestOfficial>
+        <shortid>cod-g8e0r7/item1</shortid>
+        <canvasBase>https://scta.info/iiif/cod-g8e0r7/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-g8e0r7/manifest</manifestOfficial>
         <!--
           https://archive.org/details/LociTheologici
           https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10398064/manifest
