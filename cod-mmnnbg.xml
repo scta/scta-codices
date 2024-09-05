@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-mmnnbg</shortid>
+    <title>New York, Morgan Library, MS M.1021.40</title>
+    <!-- contains fragment of Aquinas Sent book 1, d. 17, q. 1 -->
+    <initial>M</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-mmnnbg/item1</shortid>
+        <!--<holdingInstitution>Owned by the Morgan Library</holdingInstitution>-->
+        <canvasBase></canvasBase>
+        <manifestOfficial></manifestOfficial>
+        <!-- currently no manifest available -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
