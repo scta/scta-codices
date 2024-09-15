@@ -2,7 +2,7 @@
 <codex>
   <head>
     <type>book</type>
-    <shortid alias="Paris1519">cod-uhs9uk</shortid>
+    <shortid alias="Paris1519">cod-uhs8uk</shortid>
     <title>Paris, 1519</title>
     <!-- contains sentences commentary of John Mair Book 2 (redaction b) 1519 edited/pub by Granion -->
     <initial>P</initial>
@@ -12,12 +12,12 @@
       <item>
         <label>Paris, 1519</label>
         <canonical>true</canonical>
-        <shortid>cod-uhs9uk/item1</shortid>
+        <shortid>cod-uhs8uk/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!-- see also https://www.digitale-sammlungen.de/en/details/bsb10196615 -->
-        <canvasBase>https://scta.info/iiif/cod-uhs9uk/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-uhs8uk/canvas/</canvasBase>
         <!-- bsb manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196615/manifest -->
-        <manifestOfficial>https://scta.info/iiif/codex/cod-uhs9uk/manifest</manifestOfficial>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-uhs8uk/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
