@@ -15,7 +15,7 @@
         <shortid>cod-Bda113/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!-- "https://opacplus.bsb-muenchen.de/title/BV010664801", -->
-        <canvasBase>https://scta.info/iiif/cod-uhs8uk/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-jmUUUK/canvas/</canvasBase>
         <!--https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196616/canvas/-->
         <manifestOfficial>https://scta.info/iiif/codex/cod-jmUUUK/manifest</manifestOfficial>
         <!--https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196616/manifest-->

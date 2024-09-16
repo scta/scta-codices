@@ -14,7 +14,7 @@
         <canonical>true</canonical>
         <shortid>cod-jmUUUK/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
-        <canvasBase>https://scta.info/iiif/cod-uhs8uk/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-jmUUUK/canvas/</canvasBase>
         <!--bsb canvas base https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196614/canvas/-->
         <manifestOfficial>https://scta.info/iiif/codex/cod-jmUUUK/manifest</manifestOfficial>
         <!--bsb manifest https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196614/manifest-->
