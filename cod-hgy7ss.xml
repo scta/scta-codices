@@ -15,7 +15,7 @@
         <label/>
         <canonical>true</canonical>
         <shortid>cod-hgy7ss/item1</shortid>
-        <canvasBase>https://scta.info/iiif/cod-uhs8uk/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-hgy7ss/canvas/</canvasBase>
         <!-- https://iiif.archive.org/iiif/2/dethesaurisdoced00casa/manifest.json -->
         <!-- archive.org copy is a digital copy of the same ms described and held here: https://repository.library.brown.edu/studio/item/bdr:733989/ -->
         <manifestOfficial>https://scta.info/iiif/codex/cod-hgy7ss/manifest</manifestOfficial>
