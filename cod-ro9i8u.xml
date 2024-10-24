@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-ro9i8u</shortid>
+    <title>Vernadsky National Library of Ukraine, fonds 305, 152</title>
+    <initial>D</initial>
+    <!--  contains Stefan Yavorksy opus philosophicae-->
+    <date>1693</date>
+    <!-- dbcheck date -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-ro9i8u/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://scta.info/iiif/cod-ro9i8u/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-ro9i8u/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

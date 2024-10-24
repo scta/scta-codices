@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-r7yv7v</shortid>
+    <title>Vernadsky National Library of Ukraine, fonds 8, 60</title>
+    <initial>M</initial>
+    <!--  contains Stefan Yavorksy opus philosophicae-->
+    <date>1693</date>
+    <!-- dbcheck date -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-r7yv7v/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://scta.info/iiif/cod-r7yv7v/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-r7yv7v/manifest</manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>
