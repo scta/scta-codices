@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-dodedi</shortid>
+    <title>Edinburgh 1871</title>
+    <!-- contains ripa sentences commentary -->
+    <initial>E</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-dodedi/item1</shortid>
+        <!--<holdingInstitution></holdingInstitution>-->
+        <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/TheCityOfGodV1/manifest.json</manifestOfficial>
+        <!-- https://www.gutenberg.org/files/45304/45304-h/45304-h.htm#Page_48 -->
+        <!--https://books.google.com/books?id=OykMAAAAIAAJ-->
+        <!--https://archive.org/details/TheCityOfGodV1-->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces> </surfaces>
+</codex>
