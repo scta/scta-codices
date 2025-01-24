@@ -602,13 +602,13 @@
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-hbbgut/27</shortid>
+      <shortid>cod-hbbgut/27r</shortid>
       <label>27</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-hbbgut/27/item1</shortid>
+          <shortid>cod-hbbgut/27r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>27</canvasslug>
+          <canvasslug>27r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>

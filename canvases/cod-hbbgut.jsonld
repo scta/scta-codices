@@ -1553,27 +1553,27 @@
         },
         {
           "@context": "https://iiif.io/api/presentation/2/context.json",
-          "@id": "https://scta.info/iiif/cod-hbbgut/canvas/27.r",
+          "@id": "https://scta.info/iiif/cod-hbbgut/canvas/27r",
           "@type": "sc:Canvas",
-          "label": "27.r",
+          "label": "27r",
           "height": 3456,
           "width": 2304,
           "images": [
             {
               "@context": "https://iiif.io/api/presentation/2/context.json",
-              "@id": "https://scta.info/iiif/cod-hbbgut/annotation/27.r-image",
+              "@id": "https://scta.info/iiif/cod-hbbgut/annotation/27r-image",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://scta.info/iiif/cod-hbbgut/canvas/27.r",
+              "on": "https://scta.info/iiif/cod-hbbgut/canvas/27r",
               "resource": {
-                "@id": "https://scta.info/iiif/cod-hbbgut/res/27.r",
+                "@id": "https://scta.info/iiif/cod-hbbgut/res/27r",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 3456,
                 "width": 2304,
                 "service": {
                   "@context": "https://iiif.io/api/image/2/context.json",
-                  "@id": "https://loris2.scta.info/cod-hbbgut/27.r.jpg",
+                  "@id": "https://loris2.scta.info/cod-hbbgut/27r.jpg",
                   "profile": "https://iiif.io/api/image/2/level2.json"
                 }
               }
