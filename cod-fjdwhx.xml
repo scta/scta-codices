@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid>cod-fjdwhx</shortid>
+    <title>Canada, Victoria, B.C., Fragm. Lat. 7</title>
+    <initial>V</initial>
+    <!-- fragment containing abbreviations of Henry of Ghent's quodlibets -->
+    <hasItems>
+      <item>
+        <shortid>cod-fjdwhx/item1</shortid>
+        <!--<holdingInstitution>uvic</holdingInstitution>-->
+        <canvasBase>https://fragmentarium.ms/metadata/iiif/F-jdwh/canvas/</canvasBase>
+        <manifestOfficial>https://fragmentarium.ms/metadata/iiif/F-jdwh/manifest.json</manifestOfficial>
+      </item>
+      <!--  -->
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

@@ -15,10 +15,11 @@
         <label/>
         <canonical>true</canonical>
         <shortid>cod-hgy7ss/item1</shortid>
-        <canvasBase>https://scta.info/iiif/cod-hgy7ss/canvas/</canvasBase>
         <!-- https://iiif.archive.org/iiif/2/dethesaurisdoced00casa/manifest.json -->
         <!-- archive.org copy is a digital copy of the same ms described and held here: https://repository.library.brown.edu/studio/item/bdr:733989/ -->
+        <canvasBase>https://scta.info/iiif/cod-hgy7ss/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-hgy7ss/manifest</manifestOfficial>
+        <!-- 2025-01-25: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>

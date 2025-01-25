@@ -21,7 +21,7 @@
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10149151/manifest</manifestOfficial>-->
         <canvasBase>https://scta.info/iiif/cod-ve09v2/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-ve09v2/manifest</manifestOfficial>
-
+        <!-- 2025-01-25: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>

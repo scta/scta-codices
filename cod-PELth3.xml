@@ -24,6 +24,9 @@
           But I think there is a missing page in the BSB manifest
           so when this page gets added, ids and/or labels will need to be adjusted 
           -->
+        <canvasBase>https://scta.info/iiif/cod-PELth3/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-PELth3/manifest</manifestOfficial>
+        <!-- 2025-01-25: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>

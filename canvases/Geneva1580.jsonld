@@ -16,6 +16,2906 @@
       "canvases": [
         {
           "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f1",
+          "@type": "sc:Canvas",
+          "label": "f1",
+          "height": 2054,
+          "width": 1286,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f1-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f1",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f1",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2054,
+                "width": 1286,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f1.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f2",
+          "@type": "sc:Canvas",
+          "label": "f2",
+          "height": 2100,
+          "width": 1307,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f2-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f2",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f2",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2100,
+                "width": 1307,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f2.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f3",
+          "@type": "sc:Canvas",
+          "label": "f3",
+          "height": 2046,
+          "width": 1187,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f3-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f3",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f3",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2046,
+                "width": 1187,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f3.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f4",
+          "@type": "sc:Canvas",
+          "label": "f4",
+          "height": 2024,
+          "width": 1269,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f4-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f4",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f4",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2024,
+                "width": 1269,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f4.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f5",
+          "@type": "sc:Canvas",
+          "label": "f5",
+          "height": 2032,
+          "width": 1280,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f5-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f5",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f5",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1280,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f5.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f6",
+          "@type": "sc:Canvas",
+          "label": "f6",
+          "height": 2029,
+          "width": 1264,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f6-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f6",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f6",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2029,
+                "width": 1264,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f6.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f7",
+          "@type": "sc:Canvas",
+          "label": "f7",
+          "height": 2026,
+          "width": 1277,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f7-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f7",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f7",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2026,
+                "width": 1277,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f7.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f8",
+          "@type": "sc:Canvas",
+          "label": "f8",
+          "height": 2130,
+          "width": 1318,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f8-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f8",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f8",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2130,
+                "width": 1318,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f8.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f9",
+          "@type": "sc:Canvas",
+          "label": "f9",
+          "height": 2035,
+          "width": 1278,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f9-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f9",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f9",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1278,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f9.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f10",
+          "@type": "sc:Canvas",
+          "label": "f10",
+          "height": 2034,
+          "width": 1260,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f10-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f10",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f10",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1260,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f10.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f11",
+          "@type": "sc:Canvas",
+          "label": "f11",
+          "height": 2034,
+          "width": 1271,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f11-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f11",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f11",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1271,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f11.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f12",
+          "@type": "sc:Canvas",
+          "label": "f12",
+          "height": 2031,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f12-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f12",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f12",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f12.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f13",
+          "@type": "sc:Canvas",
+          "label": "f13",
+          "height": 2033,
+          "width": 1266,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f13-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f13",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f13",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2033,
+                "width": 1266,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f13.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f14",
+          "@type": "sc:Canvas",
+          "label": "f14",
+          "height": 2067,
+          "width": 1265,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f14-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f14",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f14",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2067,
+                "width": 1265,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f14.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f15",
+          "@type": "sc:Canvas",
+          "label": "f15",
+          "height": 2057,
+          "width": 1246,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f15-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f15",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f15",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2057,
+                "width": 1246,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f15.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f16",
+          "@type": "sc:Canvas",
+          "label": "f16",
+          "height": 2060,
+          "width": 1276,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f16-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f16",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f16",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2060,
+                "width": 1276,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f16.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f17",
+          "@type": "sc:Canvas",
+          "label": "f17",
+          "height": 2034,
+          "width": 1260,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f17-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f17",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f17",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1260,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f17.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f18",
+          "@type": "sc:Canvas",
+          "label": "f18",
+          "height": 2040,
+          "width": 1285,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f18-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f18",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f18",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2040,
+                "width": 1285,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f18.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f19",
+          "@type": "sc:Canvas",
+          "label": "f19",
+          "height": 2052,
+          "width": 1328,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f19-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f19",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f19",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2052,
+                "width": 1328,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f19.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f20",
+          "@type": "sc:Canvas",
+          "label": "f20",
+          "height": 2032,
+          "width": 1309,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f20-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f20",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f20",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1309,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f20.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f21",
+          "@type": "sc:Canvas",
+          "label": "f21",
+          "height": 2039,
+          "width": 1306,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f21-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f21",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f21",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2039,
+                "width": 1306,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f21.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f22",
+          "@type": "sc:Canvas",
+          "label": "f22",
+          "height": 2049,
+          "width": 1291,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f22-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f22",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f22",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2049,
+                "width": 1291,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f22.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f23",
+          "@type": "sc:Canvas",
+          "label": "f23",
+          "height": 2037,
+          "width": 1305,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f23-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f23",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f23",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1305,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f23.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f24",
+          "@type": "sc:Canvas",
+          "label": "f24",
+          "height": 2032,
+          "width": 1249,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f24-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f24",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f24",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1249,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f24.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f25",
+          "@type": "sc:Canvas",
+          "label": "f25",
+          "height": 2036,
+          "width": 1299,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f25-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f25",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f25",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1299,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f25.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f26",
+          "@type": "sc:Canvas",
+          "label": "f26",
+          "height": 2065,
+          "width": 1281,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f26-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f26",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f26",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2065,
+                "width": 1281,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f26.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f27",
+          "@type": "sc:Canvas",
+          "label": "f27",
+          "height": 2039,
+          "width": 1302,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f27-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f27",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f27",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2039,
+                "width": 1302,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f27.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f28",
+          "@type": "sc:Canvas",
+          "label": "f28",
+          "height": 2060,
+          "width": 1282,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f28-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f28",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f28",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2060,
+                "width": 1282,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f28.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f29",
+          "@type": "sc:Canvas",
+          "label": "f29",
+          "height": 2034,
+          "width": 1302,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f29-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f29",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f29",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1302,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f29.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f30",
+          "@type": "sc:Canvas",
+          "label": "f30",
+          "height": 2071,
+          "width": 1295,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f30-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f30",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f30",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2071,
+                "width": 1295,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f30.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f31",
+          "@type": "sc:Canvas",
+          "label": "f31",
+          "height": 2038,
+          "width": 1294,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f31-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f31",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f31",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2038,
+                "width": 1294,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f31.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f32",
+          "@type": "sc:Canvas",
+          "label": "f32",
+          "height": 2039,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f32-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f32",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f32",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2039,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f32.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f33",
+          "@type": "sc:Canvas",
+          "label": "f33",
+          "height": 2040,
+          "width": 1289,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f33-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f33",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f33",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2040,
+                "width": 1289,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f33.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f34",
+          "@type": "sc:Canvas",
+          "label": "f34",
+          "height": 2039,
+          "width": 1300,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f34-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f34",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f34",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2039,
+                "width": 1300,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f34.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f35",
+          "@type": "sc:Canvas",
+          "label": "f35",
+          "height": 2046,
+          "width": 1277,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f35-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f35",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f35",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2046,
+                "width": 1277,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f35.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f36",
+          "@type": "sc:Canvas",
+          "label": "f36",
+          "height": 2065,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f36-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f36",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f36",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2065,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f36.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f37",
+          "@type": "sc:Canvas",
+          "label": "f37",
+          "height": 2040,
+          "width": 1318,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f37-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f37",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f37",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2040,
+                "width": 1318,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f37.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f38",
+          "@type": "sc:Canvas",
+          "label": "f38",
+          "height": 2064,
+          "width": 1268,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f38-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f38",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f38",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2064,
+                "width": 1268,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f38.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f39",
+          "@type": "sc:Canvas",
+          "label": "f39",
+          "height": 2035,
+          "width": 1305,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f39-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f39",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f39",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1305,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f39.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f40",
+          "@type": "sc:Canvas",
+          "label": "f40",
+          "height": 2025,
+          "width": 1276,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f40-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f40",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f40",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2025,
+                "width": 1276,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f40.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f41",
+          "@type": "sc:Canvas",
+          "label": "f41",
+          "height": 2034,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f41-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f41",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f41",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f41.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f42",
+          "@type": "sc:Canvas",
+          "label": "f42",
+          "height": 2073,
+          "width": 1289,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f42-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f42",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f42",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2073,
+                "width": 1289,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f42.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f43",
+          "@type": "sc:Canvas",
+          "label": "f43",
+          "height": 2034,
+          "width": 1276,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f43-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f43",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f43",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1276,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f43.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f44",
+          "@type": "sc:Canvas",
+          "label": "f44",
+          "height": 2071,
+          "width": 1284,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f44-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f44",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f44",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2071,
+                "width": 1284,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f44.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f45",
+          "@type": "sc:Canvas",
+          "label": "f45",
+          "height": 2031,
+          "width": 1275,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f45-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f45",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f45",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1275,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f45.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f46",
+          "@type": "sc:Canvas",
+          "label": "f46",
+          "height": 2071,
+          "width": 1293,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f46-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f46",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f46",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2071,
+                "width": 1293,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f46.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f47",
+          "@type": "sc:Canvas",
+          "label": "f47",
+          "height": 2031,
+          "width": 1313,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f47-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f47",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f47",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1313,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f47.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f48",
+          "@type": "sc:Canvas",
+          "label": "f48",
+          "height": 2067,
+          "width": 1298,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f48-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f48",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f48",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2067,
+                "width": 1298,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f48.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f49",
+          "@type": "sc:Canvas",
+          "label": "f49",
+          "height": 2037,
+          "width": 1292,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f49-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f49",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f49",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1292,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f49.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f50",
+          "@type": "sc:Canvas",
+          "label": "f50",
+          "height": 2038,
+          "width": 1296,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f50-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f50",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f50",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2038,
+                "width": 1296,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f50.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f51",
+          "@type": "sc:Canvas",
+          "label": "f51",
+          "height": 2037,
+          "width": 1309,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f51-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f51",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f51",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1309,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f51.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f52",
+          "@type": "sc:Canvas",
+          "label": "f52",
+          "height": 2055,
+          "width": 1282,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f52-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f52",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f52",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2055,
+                "width": 1282,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f52.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f53",
+          "@type": "sc:Canvas",
+          "label": "f53",
+          "height": 2031,
+          "width": 1299,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f53-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f53",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f53",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1299,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f53.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f54",
+          "@type": "sc:Canvas",
+          "label": "f54",
+          "height": 2112,
+          "width": 1342,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f54-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f54",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f54",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2112,
+                "width": 1342,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f54.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f55",
+          "@type": "sc:Canvas",
+          "label": "f55",
+          "height": 2032,
+          "width": 1299,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f55-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f55",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f55",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1299,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f55.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f56",
+          "@type": "sc:Canvas",
+          "label": "f56",
+          "height": 2068,
+          "width": 1277,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f56-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f56",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f56",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2068,
+                "width": 1277,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f56.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f57",
+          "@type": "sc:Canvas",
+          "label": "f57",
+          "height": 2035,
+          "width": 1283,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f57-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f57",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f57",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1283,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f57.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f58",
+          "@type": "sc:Canvas",
+          "label": "f58",
+          "height": 2068,
+          "width": 1283,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f58-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f58",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f58",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2068,
+                "width": 1283,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f58.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f59",
+          "@type": "sc:Canvas",
+          "label": "f59",
+          "height": 2034,
+          "width": 1299,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f59-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f59",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f59",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1299,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f59.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f60",
+          "@type": "sc:Canvas",
+          "label": "f60",
+          "height": 2026,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f60-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f60",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f60",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2026,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f60.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f61",
+          "@type": "sc:Canvas",
+          "label": "f61",
+          "height": 2035,
+          "width": 1293,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f61-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f61",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f61",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1293,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f61.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f62",
+          "@type": "sc:Canvas",
+          "label": "f62",
+          "height": 2064,
+          "width": 1288,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f62-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f62",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f62",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2064,
+                "width": 1288,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f62.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f63",
+          "@type": "sc:Canvas",
+          "label": "f63",
+          "height": 2035,
+          "width": 1319,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f63-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f63",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f63",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1319,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f63.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f64",
+          "@type": "sc:Canvas",
+          "label": "f64",
+          "height": 2026,
+          "width": 1282,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f64-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f64",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f64",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2026,
+                "width": 1282,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f64.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f65",
+          "@type": "sc:Canvas",
+          "label": "f65",
+          "height": 2032,
+          "width": 1291,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f65-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f65",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f65",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1291,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f65.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f66",
+          "@type": "sc:Canvas",
+          "label": "f66",
+          "height": 2049,
+          "width": 1291,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f66-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f66",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f66",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2049,
+                "width": 1291,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f66.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f67",
+          "@type": "sc:Canvas",
+          "label": "f67",
+          "height": 2032,
+          "width": 1296,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f67-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f67",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f67",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2032,
+                "width": 1296,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f67.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f68",
+          "@type": "sc:Canvas",
+          "label": "f68",
+          "height": 2027,
+          "width": 1260,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f68-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f68",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f68",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2027,
+                "width": 1260,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f68.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f69",
+          "@type": "sc:Canvas",
+          "label": "f69",
+          "height": 2028,
+          "width": 1274,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f69-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f69",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f69",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2028,
+                "width": 1274,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f69.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f70",
+          "@type": "sc:Canvas",
+          "label": "f70",
+          "height": 2044,
+          "width": 1279,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f70-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f70",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f70",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2044,
+                "width": 1279,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f70.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f71",
+          "@type": "sc:Canvas",
+          "label": "f71",
+          "height": 2035,
+          "width": 1284,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f71-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f71",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f71",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1284,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f71.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f72",
+          "@type": "sc:Canvas",
+          "label": "f72",
+          "height": 2028,
+          "width": 1273,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f72-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f72",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f72",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2028,
+                "width": 1273,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f72.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f73",
+          "@type": "sc:Canvas",
+          "label": "f73",
+          "height": 2034,
+          "width": 1264,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f73-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f73",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f73",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1264,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f73.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f74",
+          "@type": "sc:Canvas",
+          "label": "f74",
+          "height": 2036,
+          "width": 1279,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f74-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f74",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f74",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1279,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f74.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f75",
+          "@type": "sc:Canvas",
+          "label": "f75",
+          "height": 2036,
+          "width": 1272,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f75-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f75",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f75",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1272,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f75.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f76",
+          "@type": "sc:Canvas",
+          "label": "f76",
+          "height": 2061,
+          "width": 1284,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f76-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f76",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f76",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2061,
+                "width": 1284,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f76.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f77",
+          "@type": "sc:Canvas",
+          "label": "f77",
+          "height": 2035,
+          "width": 1265,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f77-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f77",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f77",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2035,
+                "width": 1265,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f77.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f78",
+          "@type": "sc:Canvas",
+          "label": "f78",
+          "height": 2033,
+          "width": 1270,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f78-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f78",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f78",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2033,
+                "width": 1270,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f78.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f79",
+          "@type": "sc:Canvas",
+          "label": "f79",
+          "height": 2038,
+          "width": 1278,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f79-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f79",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f79",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2038,
+                "width": 1278,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f79.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f80",
+          "@type": "sc:Canvas",
+          "label": "f80",
+          "height": 2055,
+          "width": 1286,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f80-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f80",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f80",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2055,
+                "width": 1286,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f80.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f81",
+          "@type": "sc:Canvas",
+          "label": "f81",
+          "height": 2036,
+          "width": 1263,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f81-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f81",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f81",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1263,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f81.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f82",
+          "@type": "sc:Canvas",
+          "label": "f82",
+          "height": 2038,
+          "width": 1292,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f82-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f82",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f82",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2038,
+                "width": 1292,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f82.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f83",
+          "@type": "sc:Canvas",
+          "label": "f83",
+          "height": 2026,
+          "width": 1307,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f83-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f83",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f83",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2026,
+                "width": 1307,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f83.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f84",
+          "@type": "sc:Canvas",
+          "label": "f84",
+          "height": 2036,
+          "width": 1273,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f84-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f84",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f84",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1273,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f84.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f85",
+          "@type": "sc:Canvas",
+          "label": "f85",
+          "height": 2036,
+          "width": 1298,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f85-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f85",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f85",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1298,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f85.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f86",
+          "@type": "sc:Canvas",
+          "label": "f86",
+          "height": 2037,
+          "width": 1235,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f86-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f86",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f86",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1235,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f86.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f87",
+          "@type": "sc:Canvas",
+          "label": "f87",
+          "height": 2034,
+          "width": 1287,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f87-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f87",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f87",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1287,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f87.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f88",
+          "@type": "sc:Canvas",
+          "label": "f88",
+          "height": 2034,
+          "width": 1273,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f88-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f88",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f88",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1273,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f88.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f89",
+          "@type": "sc:Canvas",
+          "label": "f89",
+          "height": 2036,
+          "width": 1290,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f89-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f89",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f89",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1290,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f89.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f90",
+          "@type": "sc:Canvas",
+          "label": "f90",
+          "height": 2030,
+          "width": 1262,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f90-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f90",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f90",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2030,
+                "width": 1262,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f90.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f91",
+          "@type": "sc:Canvas",
+          "label": "f91",
+          "height": 2028,
+          "width": 1282,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f91-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f91",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f91",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2028,
+                "width": 1282,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f91.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f92",
+          "@type": "sc:Canvas",
+          "label": "f92",
+          "height": 2031,
+          "width": 1277,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f92-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f92",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f92",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1277,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f92.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f93",
+          "@type": "sc:Canvas",
+          "label": "f93",
+          "height": 2036,
+          "width": 1291,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f93-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f93",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f93",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2036,
+                "width": 1291,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f93.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f94",
+          "@type": "sc:Canvas",
+          "label": "f94",
+          "height": 2034,
+          "width": 1264,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f94-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f94",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f94",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1264,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f94.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f95",
+          "@type": "sc:Canvas",
+          "label": "f95",
+          "height": 2037,
+          "width": 1279,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f95-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f95",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f95",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1279,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f95.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f96",
+          "@type": "sc:Canvas",
+          "label": "f96",
+          "height": 2030,
+          "width": 1259,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f96-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f96",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f96",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2030,
+                "width": 1259,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f96.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f97",
+          "@type": "sc:Canvas",
+          "label": "f97",
+          "height": 2037,
+          "width": 1291,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f97-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f97",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f97",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2037,
+                "width": 1291,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f97.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f98",
+          "@type": "sc:Canvas",
+          "label": "f98",
+          "height": 2031,
+          "width": 1278,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f98-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f98",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f98",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2031,
+                "width": 1278,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f98.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f99",
+          "@type": "sc:Canvas",
+          "label": "f99",
+          "height": 2038,
+          "width": 1297,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f99-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f99",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f99",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2038,
+                "width": 1297,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f99.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://scta.info/iiif/Geneva1580/canvas/f100",
+          "@type": "sc:Canvas",
+          "label": "f100",
+          "height": 2034,
+          "width": 1232,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/presentation/2/context.json",
+              "@id": "https://scta.info/iiif/Geneva1580/annotation/f100-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://scta.info/iiif/Geneva1580/canvas/f100",
+              "resource": {
+                "@id": "https://scta.info/iiif/Geneva1580/res/f100",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2034,
+                "width": 1232,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://loris2.scta.info/Geneva1580/f100.jpg",
+                  "profile": "https://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
           "@id": "https://scta.info/iiif/Geneva1580/canvas/1",
           "@type": "sc:Canvas",
           "label": "1",

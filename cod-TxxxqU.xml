@@ -14,12 +14,19 @@
         <shortid>cod-TxxxqU/item1</shortid>
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <!--https://opacplus.bsb-muenchen.de/title/BV001357486-->
-        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/canvas/</canvasBase>
-        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/manifest</manifestOfficial>
+        <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148420/manifest</manifestOfficial>-->
+        <!-- bsb images have changed after annotation creation -->
+        <canvasBase>https://scta.info/iiif/cod-TxxxqU/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-TxxxqU/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
   <surfaces>
+    
+    
+    <!--
+      old surfaaces
     <surface>
       <shortid>cod-TxxxqU/1r</shortid>
       <label>1r</label>
@@ -4651,8 +4658,8 @@
         </ISurface>
       </hasISurfaces>
     </surface>
-    <!-- end of first part -->
-    <!-- beginning of second part folio numbers restart -->
+    <!-\- end of first part -\->
+    <!-\- beginning of second part folio numbers restart -\->
     <surface>
       <shortid>cod-TxxxqU/P2_1r</shortid>
       <label>P2 1r</label>
@@ -9624,6 +9631,6 @@
           <canvasslug>924</canvasslug>
         </ISurface>
       </hasISurfaces>
-    </surface>
+    </surface>-->
   </surfaces>
 </codex>

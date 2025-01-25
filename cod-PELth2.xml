@@ -18,13 +18,18 @@
         <!--
           https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059611/manifest
         -->
-        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059611/canvas/</canvasBase>
+        <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059611/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059611/manifest</manifestOfficial>
+        bsb canvas numbers and images have changed
+        -->
+        <canvasBase>https://scta.info/iiif/cod-PELth2/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-PELth2/manifest</manifestOfficial>
+        <!-- 2025-01-25: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
   <surfaces>
-    <surface>
+      <surface>
       <shortid>cod-PELth2/1</shortid>
       <label>1</label>
       <hasISurfaces>
