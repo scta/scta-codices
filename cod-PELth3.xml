@@ -18,8 +18,8 @@
         <!--
           https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/manifest
         -->
-        <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/canvas/</canvasBase>
-        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/manifest</manifestOfficial>
+        <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059612/manifest</manifestOfficial>-->
         <!-- NOTE: there are no marked page numbers in codex, so page numbers currently match BSB canvas numbers
           But I think there is a missing page in the BSB manifest
           so when this page gets added, ids and/or labels will need to be adjusted 
