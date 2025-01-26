@@ -249,28 +249,6 @@
       </hasISurfaces>
     </surface>
     <surface>
-      <shortid>cod-ve07v1/5Br</shortid>
-      <label>5Br</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>cod-ve07v1/5Br/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>5Br</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>cod-ve07v1/5Bv</shortid>
-      <label>5Bv</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>cod-ve07v1/5Bv/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>5Bv</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
       <shortid>cod-ve07v1/5r</shortid>
       <label>5r</label>
       <hasISurfaces>
@@ -289,6 +267,28 @@
           <shortid>cod-ve07v1/5v/item1</shortid>
           <canonical>true</canonical>
           <canvasslug>5v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-ve07v1/5Br</shortid>
+      <label>5Br</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ve07v1/5Br/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>5Br</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-ve07v1/5Bv</shortid>
+      <label>5Bv</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-ve07v1/5Bv/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>5Bv</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
