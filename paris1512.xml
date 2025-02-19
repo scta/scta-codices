@@ -42,7 +42,7 @@
         <holdingLibrary/>
         <callNumber/>
         <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archivelab.org/iiif/bub_gb_78Pf7B8ON9gC/manifest.json</manifestOfficial>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/bub_gb_78Pf7B8ON9gC/manifest.json</manifestOfficial>
       </item>
     </hasItems>
   </head>
