@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid>cod-vaz8a2</shortid>
+    <title>Antwerp 1621, v. 2</title>
+    <initial>A</initial>
+    <!--  contains Grabriel Vazquez commentary on questions 27-64 and 106-114 of the first part of the summa theologiae-->
+    <date>1621</date>
+    <place>Antwerp</place>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-vaz8a2/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <canvasBase>https://scta.info/iiif/cod-vaz8a2/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-vaz8a2/manifest</manifestOfficial>
+        <!-- official bsb manifest https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10325812/manifest -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

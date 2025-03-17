@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Venice1745">cod-uas16v</shortid>
+    <title>Venice 1745 v. 16</title>
+    <initial>V</initial>
+    <!-- contains part of Suarez commentary on Aquinas Summa theologicae-->
+    <place>Venice</place>
+    <date>1745</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-uas16v/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--<canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059900/canvas/</canvasBase>
+        <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11059900/manifest</manifestOfficial>
+        bsb images are changing after coord annotations have been collected
+        -->
+        <!-- volume 16 of 1745 opera omnia of work by suarez -->
+        <canvasBase>https://scta.info/iiif/cod-uas16v/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-uas16v/manifest</manifestOfficial>
+        <!-- images not yet deposited in bkup archive -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+
