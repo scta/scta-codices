@@ -10,8 +10,8 @@
         <canonical>true</canonical>
         <shortid>maz/item1</shortid>
         <!-- service example http://mazarinum.bibliotheque-mazarine.fr/i/?IIIF=/37/36/c3/b8/3736c3b8-13bd-4874-8920-0db428b9d6e5/iiif/751063002_MSS000915_0000000_0007.tif/full/full/0/default.jpg-->
-        <canvasBase>http://scta.info/iiif/maz/canvas/</canvasBase>
-        <manifestOfficial>http://scta.info/iiif/codex/maz/manifest</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/maz/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/maz/manifest</manifestOfficial>
       </item>
     </hasItems>
   </head>
