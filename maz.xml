@@ -23,7 +23,7 @@
         <ISurface>
           <shortid>maz/1r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0007</canvasslug>
+          <canvasslug>1r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -34,7 +34,7 @@
         <ISurface>
           <shortid>maz/1v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0008</canvasslug>
+          <canvasslug>1v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -45,7 +45,7 @@
         <ISurface>
           <shortid>maz/2r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0009</canvasslug>
+          <canvasslug>2r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -56,7 +56,7 @@
         <ISurface>
           <shortid>maz/2v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0010</canvasslug>
+          <canvasslug>2v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -67,7 +67,7 @@
         <ISurface>
           <shortid>maz/3r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0011</canvasslug>
+          <canvasslug>3r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -78,51 +78,7 @@
         <ISurface>
           <shortid>maz/3v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0012</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>maz/4r</shortid>
-      <label>4r</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>maz/4r/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>0013</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>maz/4v</shortid>
-      <label>4v</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>maz/4v/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>0014</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>maz/5r</shortid>
-      <label>5r</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>maz/5r/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>0015</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>maz/5v</shortid>
-      <label>5v</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>maz/5v/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>0016</canvasslug>
+          <canvasslug>3v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -133,7 +89,7 @@
         <ISurface>
           <shortid>maz/6r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0017</canvasslug>
+          <canvasslug>6r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -144,7 +100,7 @@
         <ISurface>
           <shortid>maz/6v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0018</canvasslug>
+          <canvasslug>6v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -155,7 +111,7 @@
         <ISurface>
           <shortid>maz/7r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0019</canvasslug>
+          <canvasslug>7r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -166,7 +122,7 @@
         <ISurface>
           <shortid>maz/7v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0020</canvasslug>
+          <canvasslug>7v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -177,7 +133,7 @@
         <ISurface>
           <shortid>maz/8r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0021</canvasslug>
+          <canvasslug>8r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -188,7 +144,7 @@
         <ISurface>
           <shortid>maz/8v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0022</canvasslug>
+          <canvasslug>8v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -199,7 +155,7 @@
         <ISurface>
           <shortid>maz/9r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0023</canvasslug>
+          <canvasslug>9r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -210,7 +166,7 @@
         <ISurface>
           <shortid>maz/9v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0024</canvasslug>
+          <canvasslug>9v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -221,7 +177,7 @@
         <ISurface>
           <shortid>maz/10r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0025</canvasslug>
+          <canvasslug>10r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -232,7 +188,7 @@
         <ISurface>
           <shortid>maz/10v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0026</canvasslug>
+          <canvasslug>10v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -243,7 +199,7 @@
         <ISurface>
           <shortid>maz/11r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0027</canvasslug>
+          <canvasslug>11r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -254,7 +210,7 @@
         <ISurface>
           <shortid>maz/11v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0028</canvasslug>
+          <canvasslug>11v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -265,7 +221,7 @@
         <ISurface>
           <shortid>maz/12r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0029</canvasslug>
+          <canvasslug>12r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -276,7 +232,7 @@
         <ISurface>
           <shortid>maz/12v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0030</canvasslug>
+          <canvasslug>12v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -287,7 +243,7 @@
         <ISurface>
           <shortid>maz/13r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0031</canvasslug>
+          <canvasslug>13r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -298,7 +254,7 @@
         <ISurface>
           <shortid>maz/13v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0032</canvasslug>
+          <canvasslug>13v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -309,7 +265,7 @@
         <ISurface>
           <shortid>maz/14r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0033</canvasslug>
+          <canvasslug>14r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -320,7 +276,7 @@
         <ISurface>
           <shortid>maz/14v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0034</canvasslug>
+          <canvasslug>14v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -331,7 +287,7 @@
         <ISurface>
           <shortid>maz/15r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0035</canvasslug>
+          <canvasslug>15r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -342,7 +298,7 @@
         <ISurface>
           <shortid>maz/15v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0036</canvasslug>
+          <canvasslug>15v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -353,7 +309,7 @@
         <ISurface>
           <shortid>maz/16r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0037</canvasslug>
+          <canvasslug>16r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -364,7 +320,7 @@
         <ISurface>
           <shortid>maz/16v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0038</canvasslug>
+          <canvasslug>16v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -375,7 +331,7 @@
         <ISurface>
           <shortid>maz/17r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0039</canvasslug>
+          <canvasslug>17r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -386,7 +342,7 @@
         <ISurface>
           <shortid>maz/17v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0040</canvasslug>
+          <canvasslug>17v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -397,7 +353,7 @@
         <ISurface>
           <shortid>maz/18r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0041</canvasslug>
+          <canvasslug>18r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -408,7 +364,7 @@
         <ISurface>
           <shortid>maz/18v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0042</canvasslug>
+          <canvasslug>18v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -419,7 +375,7 @@
         <ISurface>
           <shortid>maz/19r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0043</canvasslug>
+          <canvasslug>19r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -430,7 +386,7 @@
         <ISurface>
           <shortid>maz/19v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0044</canvasslug>
+          <canvasslug>19v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -441,7 +397,7 @@
         <ISurface>
           <shortid>maz/20r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0045</canvasslug>
+          <canvasslug>20r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -452,7 +408,7 @@
         <ISurface>
           <shortid>maz/20v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0046</canvasslug>
+          <canvasslug>20v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -463,7 +419,7 @@
         <ISurface>
           <shortid>maz/21r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0047</canvasslug>
+          <canvasslug>21r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -474,7 +430,7 @@
         <ISurface>
           <shortid>maz/21v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0048</canvasslug>
+          <canvasslug>21v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -485,7 +441,7 @@
         <ISurface>
           <shortid>maz/22r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0049</canvasslug>
+          <canvasslug>22r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -496,7 +452,7 @@
         <ISurface>
           <shortid>maz/22v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0050</canvasslug>
+          <canvasslug>22v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -507,7 +463,7 @@
         <ISurface>
           <shortid>maz/23r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0051</canvasslug>
+          <canvasslug>23r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -518,7 +474,7 @@
         <ISurface>
           <shortid>maz/23v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0052</canvasslug>
+          <canvasslug>23v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -529,7 +485,7 @@
         <ISurface>
           <shortid>maz/24r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0053</canvasslug>
+          <canvasslug>24r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -540,7 +496,7 @@
         <ISurface>
           <shortid>maz/24v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0054</canvasslug>
+          <canvasslug>24v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -551,7 +507,7 @@
         <ISurface>
           <shortid>maz/25r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0055</canvasslug>
+          <canvasslug>25r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -562,7 +518,7 @@
         <ISurface>
           <shortid>maz/25v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0056</canvasslug>
+          <canvasslug>25v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -573,7 +529,7 @@
         <ISurface>
           <shortid>maz/26r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0057</canvasslug>
+          <canvasslug>26r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -584,7 +540,7 @@
         <ISurface>
           <shortid>maz/26v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0058</canvasslug>
+          <canvasslug>26v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -595,7 +551,7 @@
         <ISurface>
           <shortid>maz/27r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0059</canvasslug>
+          <canvasslug>27r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -606,7 +562,7 @@
         <ISurface>
           <shortid>maz/27v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0060</canvasslug>
+          <canvasslug>27v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -617,7 +573,7 @@
         <ISurface>
           <shortid>maz/28r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0061</canvasslug>
+          <canvasslug>28r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -628,7 +584,7 @@
         <ISurface>
           <shortid>maz/28v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0062</canvasslug>
+          <canvasslug>28v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -639,7 +595,7 @@
         <ISurface>
           <shortid>maz/29r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0063</canvasslug>
+          <canvasslug>29r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -650,7 +606,7 @@
         <ISurface>
           <shortid>maz/29v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0064</canvasslug>
+          <canvasslug>29v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -661,7 +617,7 @@
         <ISurface>
           <shortid>maz/30r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0065</canvasslug>
+          <canvasslug>30r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -672,7 +628,7 @@
         <ISurface>
           <shortid>maz/30v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0066</canvasslug>
+          <canvasslug>30v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -683,7 +639,7 @@
         <ISurface>
           <shortid>maz/31r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0067</canvasslug>
+          <canvasslug>31r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -694,7 +650,7 @@
         <ISurface>
           <shortid>maz/31v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0068</canvasslug>
+          <canvasslug>31v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -705,7 +661,7 @@
         <ISurface>
           <shortid>maz/32r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0069</canvasslug>
+          <canvasslug>32r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -716,7 +672,7 @@
         <ISurface>
           <shortid>maz/32v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0070</canvasslug>
+          <canvasslug>32v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -727,7 +683,7 @@
         <ISurface>
           <shortid>maz/33r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0071</canvasslug>
+          <canvasslug>33r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -738,7 +694,7 @@
         <ISurface>
           <shortid>maz/33v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0072</canvasslug>
+          <canvasslug>33v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -749,7 +705,7 @@
         <ISurface>
           <shortid>maz/34r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0073</canvasslug>
+          <canvasslug>34r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -760,7 +716,7 @@
         <ISurface>
           <shortid>maz/34v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0074</canvasslug>
+          <canvasslug>34v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -771,7 +727,7 @@
         <ISurface>
           <shortid>maz/35r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0075</canvasslug>
+          <canvasslug>35r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -782,7 +738,7 @@
         <ISurface>
           <shortid>maz/35v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0076</canvasslug>
+          <canvasslug>35v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -793,7 +749,7 @@
         <ISurface>
           <shortid>maz/36r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0077</canvasslug>
+          <canvasslug>36r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -804,7 +760,7 @@
         <ISurface>
           <shortid>maz/36v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0078</canvasslug>
+          <canvasslug>36v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -815,7 +771,7 @@
         <ISurface>
           <shortid>maz/37r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0079</canvasslug>
+          <canvasslug>37r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -826,7 +782,7 @@
         <ISurface>
           <shortid>maz/37v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0080</canvasslug>
+          <canvasslug>37v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -837,7 +793,7 @@
         <ISurface>
           <shortid>maz/38r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0081</canvasslug>
+          <canvasslug>38r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -848,7 +804,7 @@
         <ISurface>
           <shortid>maz/38v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0082</canvasslug>
+          <canvasslug>38v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -859,7 +815,7 @@
         <ISurface>
           <shortid>maz/39r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0083</canvasslug>
+          <canvasslug>39r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -870,7 +826,7 @@
         <ISurface>
           <shortid>maz/39v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0084</canvasslug>
+          <canvasslug>39v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -881,7 +837,7 @@
         <ISurface>
           <shortid>maz/40r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0085</canvasslug>
+          <canvasslug>40r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -892,7 +848,7 @@
         <ISurface>
           <shortid>maz/40v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0086</canvasslug>
+          <canvasslug>40v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -903,7 +859,7 @@
         <ISurface>
           <shortid>maz/41r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0087</canvasslug>
+          <canvasslug>41r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -914,7 +870,7 @@
         <ISurface>
           <shortid>maz/41v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0088</canvasslug>
+          <canvasslug>41v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -925,7 +881,7 @@
         <ISurface>
           <shortid>maz/42r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0089</canvasslug>
+          <canvasslug>42r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -936,7 +892,7 @@
         <ISurface>
           <shortid>maz/42v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0090</canvasslug>
+          <canvasslug>42v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -947,7 +903,7 @@
         <ISurface>
           <shortid>maz/43r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0091</canvasslug>
+          <canvasslug>43r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -958,7 +914,7 @@
         <ISurface>
           <shortid>maz/43v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0092</canvasslug>
+          <canvasslug>43v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -969,7 +925,7 @@
         <ISurface>
           <shortid>maz/44r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0093</canvasslug>
+          <canvasslug>44r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -980,7 +936,7 @@
         <ISurface>
           <shortid>maz/44v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0094</canvasslug>
+          <canvasslug>44v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -991,7 +947,7 @@
         <ISurface>
           <shortid>maz/45r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0095</canvasslug>
+          <canvasslug>45r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1002,7 +958,7 @@
         <ISurface>
           <shortid>maz/45v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0096</canvasslug>
+          <canvasslug>45v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1013,7 +969,7 @@
         <ISurface>
           <shortid>maz/46r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0097</canvasslug>
+          <canvasslug>46r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1024,7 +980,7 @@
         <ISurface>
           <shortid>maz/46v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0098</canvasslug>
+          <canvasslug>46v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1035,7 +991,7 @@
         <ISurface>
           <shortid>maz/47r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0099</canvasslug>
+          <canvasslug>47r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1046,7 +1002,7 @@
         <ISurface>
           <shortid>maz/47v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0100</canvasslug>
+          <canvasslug>47v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1057,7 +1013,7 @@
         <ISurface>
           <shortid>maz/48r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0101</canvasslug>
+          <canvasslug>48r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1068,7 +1024,7 @@
         <ISurface>
           <shortid>maz/48v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0102</canvasslug>
+          <canvasslug>48v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1079,7 +1035,7 @@
         <ISurface>
           <shortid>maz/49r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0103</canvasslug>
+          <canvasslug>49r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1090,7 +1046,7 @@
         <ISurface>
           <shortid>maz/49v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0104</canvasslug>
+          <canvasslug>49v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1101,7 +1057,7 @@
         <ISurface>
           <shortid>maz/50r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0105</canvasslug>
+          <canvasslug>50r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1112,7 +1068,7 @@
         <ISurface>
           <shortid>maz/50v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0106</canvasslug>
+          <canvasslug>50v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1123,7 +1079,7 @@
         <ISurface>
           <shortid>maz/51r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0107</canvasslug>
+          <canvasslug>51r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1134,7 +1090,7 @@
         <ISurface>
           <shortid>maz/51v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0108</canvasslug>
+          <canvasslug>51v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1145,7 +1101,7 @@
         <ISurface>
           <shortid>maz/52r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0109</canvasslug>
+          <canvasslug>52r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1156,7 +1112,7 @@
         <ISurface>
           <shortid>maz/52v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0110</canvasslug>
+          <canvasslug>52v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1167,7 +1123,7 @@
         <ISurface>
           <shortid>maz/53r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0111</canvasslug>
+          <canvasslug>53r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1178,7 +1134,7 @@
         <ISurface>
           <shortid>maz/53v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0112</canvasslug>
+          <canvasslug>53v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1189,7 +1145,7 @@
         <ISurface>
           <shortid>maz/54r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0113</canvasslug>
+          <canvasslug>54r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1200,7 +1156,7 @@
         <ISurface>
           <shortid>maz/54v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0114</canvasslug>
+          <canvasslug>54v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1211,7 +1167,7 @@
         <ISurface>
           <shortid>maz/55r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0115</canvasslug>
+          <canvasslug>55r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1222,7 +1178,7 @@
         <ISurface>
           <shortid>maz/55v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0116</canvasslug>
+          <canvasslug>55v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1233,7 +1189,7 @@
         <ISurface>
           <shortid>maz/56r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0117</canvasslug>
+          <canvasslug>56r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1244,7 +1200,7 @@
         <ISurface>
           <shortid>maz/56v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0118</canvasslug>
+          <canvasslug>56v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1255,7 +1211,7 @@
         <ISurface>
           <shortid>maz/57r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0119</canvasslug>
+          <canvasslug>57r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1266,7 +1222,7 @@
         <ISurface>
           <shortid>maz/57v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0120</canvasslug>
+          <canvasslug>57v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1277,7 +1233,7 @@
         <ISurface>
           <shortid>maz/58r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0121</canvasslug>
+          <canvasslug>58r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1288,7 +1244,7 @@
         <ISurface>
           <shortid>maz/58v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0122</canvasslug>
+          <canvasslug>58v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1299,7 +1255,7 @@
         <ISurface>
           <shortid>maz/59r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0123</canvasslug>
+          <canvasslug>59r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1310,7 +1266,7 @@
         <ISurface>
           <shortid>maz/59v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0124</canvasslug>
+          <canvasslug>59v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1321,7 +1277,7 @@
         <ISurface>
           <shortid>maz/60r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0125</canvasslug>
+          <canvasslug>60r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1332,7 +1288,7 @@
         <ISurface>
           <shortid>maz/60v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0126</canvasslug>
+          <canvasslug>60v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1343,7 +1299,7 @@
         <ISurface>
           <shortid>maz/61r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0127</canvasslug>
+          <canvasslug>61r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1354,7 +1310,7 @@
         <ISurface>
           <shortid>maz/61v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0128</canvasslug>
+          <canvasslug>61v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1365,7 +1321,7 @@
         <ISurface>
           <shortid>maz/62r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0129</canvasslug>
+          <canvasslug>62r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1376,7 +1332,7 @@
         <ISurface>
           <shortid>maz/62v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0130</canvasslug>
+          <canvasslug>62v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1387,7 +1343,7 @@
         <ISurface>
           <shortid>maz/63r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0131</canvasslug>
+          <canvasslug>63r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1398,7 +1354,7 @@
         <ISurface>
           <shortid>maz/63v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0132</canvasslug>
+          <canvasslug>63v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1409,7 +1365,7 @@
         <ISurface>
           <shortid>maz/64r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0133</canvasslug>
+          <canvasslug>64r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1420,7 +1376,7 @@
         <ISurface>
           <shortid>maz/64v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0134</canvasslug>
+          <canvasslug>64v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1431,7 +1387,7 @@
         <ISurface>
           <shortid>maz/65r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0135</canvasslug>
+          <canvasslug>65r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1442,7 +1398,7 @@
         <ISurface>
           <shortid>maz/65v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0136</canvasslug>
+          <canvasslug>65v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1453,7 +1409,7 @@
         <ISurface>
           <shortid>maz/66r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0137</canvasslug>
+          <canvasslug>66r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1464,7 +1420,7 @@
         <ISurface>
           <shortid>maz/66v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0138</canvasslug>
+          <canvasslug>66v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1475,7 +1431,7 @@
         <ISurface>
           <shortid>maz/67r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0139</canvasslug>
+          <canvasslug>67r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1486,7 +1442,7 @@
         <ISurface>
           <shortid>maz/67v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0140</canvasslug>
+          <canvasslug>67v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1497,7 +1453,7 @@
         <ISurface>
           <shortid>maz/68r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0141</canvasslug>
+          <canvasslug>68r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1508,7 +1464,7 @@
         <ISurface>
           <shortid>maz/68v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0142</canvasslug>
+          <canvasslug>68v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1519,7 +1475,7 @@
         <ISurface>
           <shortid>maz/69r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0143</canvasslug>
+          <canvasslug>69r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1530,7 +1486,7 @@
         <ISurface>
           <shortid>maz/69v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0144</canvasslug>
+          <canvasslug>69v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1541,7 +1497,7 @@
         <ISurface>
           <shortid>maz/70r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0145</canvasslug>
+          <canvasslug>70r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1552,7 +1508,7 @@
         <ISurface>
           <shortid>maz/70v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0146</canvasslug>
+          <canvasslug>70v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1563,7 +1519,7 @@
         <ISurface>
           <shortid>maz/71r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0147</canvasslug>
+          <canvasslug>71r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1574,7 +1530,7 @@
         <ISurface>
           <shortid>maz/71v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0148</canvasslug>
+          <canvasslug>71v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1585,7 +1541,7 @@
         <ISurface>
           <shortid>maz/72r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0149</canvasslug>
+          <canvasslug>72r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1596,7 +1552,7 @@
         <ISurface>
           <shortid>maz/72v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0150</canvasslug>
+          <canvasslug>72v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1607,7 +1563,7 @@
         <ISurface>
           <shortid>maz/73r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0151</canvasslug>
+          <canvasslug>73r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1618,7 +1574,7 @@
         <ISurface>
           <shortid>maz/73v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0152</canvasslug>
+          <canvasslug>73v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1629,7 +1585,7 @@
         <ISurface>
           <shortid>maz/74r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0153</canvasslug>
+          <canvasslug>74r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1640,7 +1596,7 @@
         <ISurface>
           <shortid>maz/74v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0154</canvasslug>
+          <canvasslug>74v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1651,7 +1607,7 @@
         <ISurface>
           <shortid>maz/75r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0155</canvasslug>
+          <canvasslug>75r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1662,7 +1618,7 @@
         <ISurface>
           <shortid>maz/75v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0156</canvasslug>
+          <canvasslug>75v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1673,7 +1629,7 @@
         <ISurface>
           <shortid>maz/76r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0157</canvasslug>
+          <canvasslug>76r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1684,7 +1640,7 @@
         <ISurface>
           <shortid>maz/76v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0158</canvasslug>
+          <canvasslug>76v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1695,7 +1651,7 @@
         <ISurface>
           <shortid>maz/77r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0159</canvasslug>
+          <canvasslug>77r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1706,7 +1662,7 @@
         <ISurface>
           <shortid>maz/77v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0160</canvasslug>
+          <canvasslug>77v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1717,7 +1673,7 @@
         <ISurface>
           <shortid>maz/78r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0161</canvasslug>
+          <canvasslug>78r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1728,7 +1684,7 @@
         <ISurface>
           <shortid>maz/78v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0162</canvasslug>
+          <canvasslug>78v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1739,7 +1695,7 @@
         <ISurface>
           <shortid>maz/79r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0163</canvasslug>
+          <canvasslug>79r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1750,7 +1706,7 @@
         <ISurface>
           <shortid>maz/79v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0164</canvasslug>
+          <canvasslug>79v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1761,7 +1717,7 @@
         <ISurface>
           <shortid>maz/80r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0165</canvasslug>
+          <canvasslug>80r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1772,7 +1728,7 @@
         <ISurface>
           <shortid>maz/80v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0166</canvasslug>
+          <canvasslug>80v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1783,7 +1739,7 @@
         <ISurface>
           <shortid>maz/81r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0167</canvasslug>
+          <canvasslug>81r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1794,7 +1750,7 @@
         <ISurface>
           <shortid>maz/81v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0168</canvasslug>
+          <canvasslug>81v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1805,7 +1761,7 @@
         <ISurface>
           <shortid>maz/82r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0169</canvasslug>
+          <canvasslug>82r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1816,7 +1772,7 @@
         <ISurface>
           <shortid>maz/82v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0170</canvasslug>
+          <canvasslug>82v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1827,7 +1783,7 @@
         <ISurface>
           <shortid>maz/83r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0171</canvasslug>
+          <canvasslug>83r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1838,7 +1794,7 @@
         <ISurface>
           <shortid>maz/83v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0172</canvasslug>
+          <canvasslug>83v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1849,7 +1805,7 @@
         <ISurface>
           <shortid>maz/84r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0173</canvasslug>
+          <canvasslug>84r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1860,7 +1816,7 @@
         <ISurface>
           <shortid>maz/84v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0174</canvasslug>
+          <canvasslug>84v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1871,7 +1827,7 @@
         <ISurface>
           <shortid>maz/85r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0175</canvasslug>
+          <canvasslug>85r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1882,7 +1838,7 @@
         <ISurface>
           <shortid>maz/85v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0176</canvasslug>
+          <canvasslug>85v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1893,7 +1849,7 @@
         <ISurface>
           <shortid>maz/86r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0177</canvasslug>
+          <canvasslug>86r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1904,7 +1860,7 @@
         <ISurface>
           <shortid>maz/86v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0178</canvasslug>
+          <canvasslug>86v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1915,7 +1871,7 @@
         <ISurface>
           <shortid>maz/87r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0179</canvasslug>
+          <canvasslug>87r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1926,7 +1882,7 @@
         <ISurface>
           <shortid>maz/87v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0180</canvasslug>
+          <canvasslug>87v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1937,7 +1893,7 @@
         <ISurface>
           <shortid>maz/88r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0181</canvasslug>
+          <canvasslug>88r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1948,7 +1904,7 @@
         <ISurface>
           <shortid>maz/88v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0182</canvasslug>
+          <canvasslug>88v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1959,7 +1915,7 @@
         <ISurface>
           <shortid>maz/89r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0183</canvasslug>
+          <canvasslug>89r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1970,7 +1926,7 @@
         <ISurface>
           <shortid>maz/89v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0184</canvasslug>
+          <canvasslug>89v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1981,7 +1937,7 @@
         <ISurface>
           <shortid>maz/90r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0185</canvasslug>
+          <canvasslug>90r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -1992,7 +1948,7 @@
         <ISurface>
           <shortid>maz/90v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0186</canvasslug>
+          <canvasslug>90v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2003,7 +1959,7 @@
         <ISurface>
           <shortid>maz/91r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0187</canvasslug>
+          <canvasslug>91r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2014,7 +1970,7 @@
         <ISurface>
           <shortid>maz/91v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0188</canvasslug>
+          <canvasslug>91v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2025,7 +1981,7 @@
         <ISurface>
           <shortid>maz/92r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0189</canvasslug>
+          <canvasslug>92r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2036,7 +1992,7 @@
         <ISurface>
           <shortid>maz/92v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0190</canvasslug>
+          <canvasslug>92v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2047,7 +2003,7 @@
         <ISurface>
           <shortid>maz/93r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0191</canvasslug>
+          <canvasslug>93r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2058,7 +2014,7 @@
         <ISurface>
           <shortid>maz/93v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0192</canvasslug>
+          <canvasslug>93v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2069,7 +2025,7 @@
         <ISurface>
           <shortid>maz/94r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0193</canvasslug>
+          <canvasslug>94r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2080,7 +2036,7 @@
         <ISurface>
           <shortid>maz/94v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0194</canvasslug>
+          <canvasslug>94v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2091,7 +2047,7 @@
         <ISurface>
           <shortid>maz/95r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0195</canvasslug>
+          <canvasslug>95r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2102,7 +2058,7 @@
         <ISurface>
           <shortid>maz/95v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0196</canvasslug>
+          <canvasslug>95v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2113,7 +2069,7 @@
         <ISurface>
           <shortid>maz/96r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0197</canvasslug>
+          <canvasslug>96r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2124,7 +2080,7 @@
         <ISurface>
           <shortid>maz/96v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0198</canvasslug>
+          <canvasslug>96v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2135,7 +2091,7 @@
         <ISurface>
           <shortid>maz/97r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0199</canvasslug>
+          <canvasslug>97r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2146,7 +2102,7 @@
         <ISurface>
           <shortid>maz/97v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0200</canvasslug>
+          <canvasslug>97v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2157,7 +2113,7 @@
         <ISurface>
           <shortid>maz/98r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0201</canvasslug>
+          <canvasslug>98r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2168,7 +2124,7 @@
         <ISurface>
           <shortid>maz/98v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0202</canvasslug>
+          <canvasslug>98v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2179,7 +2135,7 @@
         <ISurface>
           <shortid>maz/99r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0203</canvasslug>
+          <canvasslug>99r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2190,7 +2146,7 @@
         <ISurface>
           <shortid>maz/99v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0204</canvasslug>
+          <canvasslug>99v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2201,7 +2157,7 @@
         <ISurface>
           <shortid>maz/100r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0205</canvasslug>
+          <canvasslug>100r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2212,7 +2168,7 @@
         <ISurface>
           <shortid>maz/100v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0206</canvasslug>
+          <canvasslug>100v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2223,7 +2179,7 @@
         <ISurface>
           <shortid>maz/101r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0207</canvasslug>
+          <canvasslug>101r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2234,7 +2190,7 @@
         <ISurface>
           <shortid>maz/101v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0208</canvasslug>
+          <canvasslug>101v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2245,7 +2201,7 @@
         <ISurface>
           <shortid>maz/102r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0209</canvasslug>
+          <canvasslug>102r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2256,7 +2212,7 @@
         <ISurface>
           <shortid>maz/102v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0210</canvasslug>
+          <canvasslug>102v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2267,7 +2223,7 @@
         <ISurface>
           <shortid>maz/103r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0211</canvasslug>
+          <canvasslug>103r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2278,7 +2234,7 @@
         <ISurface>
           <shortid>maz/103v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0212</canvasslug>
+          <canvasslug>103v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2289,7 +2245,7 @@
         <ISurface>
           <shortid>maz/104r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0213</canvasslug>
+          <canvasslug>104r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2300,7 +2256,7 @@
         <ISurface>
           <shortid>maz/104v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0214</canvasslug>
+          <canvasslug>104v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2311,7 +2267,7 @@
         <ISurface>
           <shortid>maz/105r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0215</canvasslug>
+          <canvasslug>105r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2322,7 +2278,7 @@
         <ISurface>
           <shortid>maz/105v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0216</canvasslug>
+          <canvasslug>105v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2333,7 +2289,7 @@
         <ISurface>
           <shortid>maz/106r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0217</canvasslug>
+          <canvasslug>106r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2344,7 +2300,7 @@
         <ISurface>
           <shortid>maz/106v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0218</canvasslug>
+          <canvasslug>106v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2355,7 +2311,7 @@
         <ISurface>
           <shortid>maz/107r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0219</canvasslug>
+          <canvasslug>107r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2366,7 +2322,7 @@
         <ISurface>
           <shortid>maz/107v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0220</canvasslug>
+          <canvasslug>107v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2377,7 +2333,7 @@
         <ISurface>
           <shortid>maz/108r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0221</canvasslug>
+          <canvasslug>108r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2388,7 +2344,7 @@
         <ISurface>
           <shortid>maz/108v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0222</canvasslug>
+          <canvasslug>108v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2399,7 +2355,7 @@
         <ISurface>
           <shortid>maz/109r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0223</canvasslug>
+          <canvasslug>109r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2410,7 +2366,7 @@
         <ISurface>
           <shortid>maz/109v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0224</canvasslug>
+          <canvasslug>109v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2421,7 +2377,7 @@
         <ISurface>
           <shortid>maz/110r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0225</canvasslug>
+          <canvasslug>110r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2432,7 +2388,7 @@
         <ISurface>
           <shortid>maz/110v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0226</canvasslug>
+          <canvasslug>110v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2443,7 +2399,7 @@
         <ISurface>
           <shortid>maz/111r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0227</canvasslug>
+          <canvasslug>111r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2454,7 +2410,7 @@
         <ISurface>
           <shortid>maz/111v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0228</canvasslug>
+          <canvasslug>111v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2465,7 +2421,7 @@
         <ISurface>
           <shortid>maz/112r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0229</canvasslug>
+          <canvasslug>112r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2476,7 +2432,7 @@
         <ISurface>
           <shortid>maz/112v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0230</canvasslug>
+          <canvasslug>112v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2487,7 +2443,7 @@
         <ISurface>
           <shortid>maz/113r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0231</canvasslug>
+          <canvasslug>113r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2498,7 +2454,7 @@
         <ISurface>
           <shortid>maz/113v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0232</canvasslug>
+          <canvasslug>113v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2509,7 +2465,7 @@
         <ISurface>
           <shortid>maz/114r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0233</canvasslug>
+          <canvasslug>114r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2520,7 +2476,7 @@
         <ISurface>
           <shortid>maz/114v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0234</canvasslug>
+          <canvasslug>114v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2531,7 +2487,7 @@
         <ISurface>
           <shortid>maz/115r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0235</canvasslug>
+          <canvasslug>115r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2542,7 +2498,7 @@
         <ISurface>
           <shortid>maz/115v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0236</canvasslug>
+          <canvasslug>115v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2553,7 +2509,7 @@
         <ISurface>
           <shortid>maz/116r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0237</canvasslug>
+          <canvasslug>116r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2564,7 +2520,7 @@
         <ISurface>
           <shortid>maz/116v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0238</canvasslug>
+          <canvasslug>116v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2575,7 +2531,7 @@
         <ISurface>
           <shortid>maz/117r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0239</canvasslug>
+          <canvasslug>117r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2586,7 +2542,7 @@
         <ISurface>
           <shortid>maz/117v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0240</canvasslug>
+          <canvasslug>117v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2597,7 +2553,7 @@
         <ISurface>
           <shortid>maz/118r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0241</canvasslug>
+          <canvasslug>118r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2608,7 +2564,7 @@
         <ISurface>
           <shortid>maz/118v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0242</canvasslug>
+          <canvasslug>118v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2619,7 +2575,7 @@
         <ISurface>
           <shortid>maz/119r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0243</canvasslug>
+          <canvasslug>119r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2630,7 +2586,7 @@
         <ISurface>
           <shortid>maz/119v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0244</canvasslug>
+          <canvasslug>119v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2641,7 +2597,7 @@
         <ISurface>
           <shortid>maz/120r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0245</canvasslug>
+          <canvasslug>120r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2652,7 +2608,7 @@
         <ISurface>
           <shortid>maz/120v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0246</canvasslug>
+          <canvasslug>120v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2663,7 +2619,7 @@
         <ISurface>
           <shortid>maz/121r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0247</canvasslug>
+          <canvasslug>121r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2674,7 +2630,7 @@
         <ISurface>
           <shortid>maz/121v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0248</canvasslug>
+          <canvasslug>121v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2685,7 +2641,7 @@
         <ISurface>
           <shortid>maz/122r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0249</canvasslug>
+          <canvasslug>122r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2696,7 +2652,7 @@
         <ISurface>
           <shortid>maz/122v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0250</canvasslug>
+          <canvasslug>122v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2707,7 +2663,7 @@
         <ISurface>
           <shortid>maz/123r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0251</canvasslug>
+          <canvasslug>123r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2718,7 +2674,7 @@
         <ISurface>
           <shortid>maz/123v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0252</canvasslug>
+          <canvasslug>123v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2729,7 +2685,7 @@
         <ISurface>
           <shortid>maz/124r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0253</canvasslug>
+          <canvasslug>124r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2740,7 +2696,7 @@
         <ISurface>
           <shortid>maz/124v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0254</canvasslug>
+          <canvasslug>124v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2751,7 +2707,7 @@
         <ISurface>
           <shortid>maz/125r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0255</canvasslug>
+          <canvasslug>125r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2762,7 +2718,7 @@
         <ISurface>
           <shortid>maz/125v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0256</canvasslug>
+          <canvasslug>125v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2773,7 +2729,7 @@
         <ISurface>
           <shortid>maz/126r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0257</canvasslug>
+          <canvasslug>126r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2784,7 +2740,7 @@
         <ISurface>
           <shortid>maz/126v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0258</canvasslug>
+          <canvasslug>126v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2795,7 +2751,7 @@
         <ISurface>
           <shortid>maz/127r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0259</canvasslug>
+          <canvasslug>127r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2806,7 +2762,7 @@
         <ISurface>
           <shortid>maz/127v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0260</canvasslug>
+          <canvasslug>127v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2817,7 +2773,7 @@
         <ISurface>
           <shortid>maz/128r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0261</canvasslug>
+          <canvasslug>128r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2828,7 +2784,7 @@
         <ISurface>
           <shortid>maz/128v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0262</canvasslug>
+          <canvasslug>128v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2839,7 +2795,7 @@
         <ISurface>
           <shortid>maz/129r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0263</canvasslug>
+          <canvasslug>129r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2850,7 +2806,7 @@
         <ISurface>
           <shortid>maz/129v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0264</canvasslug>
+          <canvasslug>129v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2861,7 +2817,7 @@
         <ISurface>
           <shortid>maz/130r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0265</canvasslug>
+          <canvasslug>130r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2872,7 +2828,7 @@
         <ISurface>
           <shortid>maz/130v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0266</canvasslug>
+          <canvasslug>130v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2883,7 +2839,7 @@
         <ISurface>
           <shortid>maz/131r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0267</canvasslug>
+          <canvasslug>131r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2894,7 +2850,7 @@
         <ISurface>
           <shortid>maz/131v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0268</canvasslug>
+          <canvasslug>131v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2905,7 +2861,7 @@
         <ISurface>
           <shortid>maz/132r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0269</canvasslug>
+          <canvasslug>132r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2916,7 +2872,7 @@
         <ISurface>
           <shortid>maz/132v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0270</canvasslug>
+          <canvasslug>132v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2927,7 +2883,7 @@
         <ISurface>
           <shortid>maz/133r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0271</canvasslug>
+          <canvasslug>133r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2938,7 +2894,7 @@
         <ISurface>
           <shortid>maz/133v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0272</canvasslug>
+          <canvasslug>133v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2949,7 +2905,7 @@
         <ISurface>
           <shortid>maz/134r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0273</canvasslug>
+          <canvasslug>134r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2960,7 +2916,7 @@
         <ISurface>
           <shortid>maz/134v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0274</canvasslug>
+          <canvasslug>134v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2971,7 +2927,7 @@
         <ISurface>
           <shortid>maz/135r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0275</canvasslug>
+          <canvasslug>135r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2982,7 +2938,7 @@
         <ISurface>
           <shortid>maz/135v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0276</canvasslug>
+          <canvasslug>135v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -2993,7 +2949,7 @@
         <ISurface>
           <shortid>maz/136r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0277</canvasslug>
+          <canvasslug>136r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3004,7 +2960,7 @@
         <ISurface>
           <shortid>maz/136v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0278</canvasslug>
+          <canvasslug>136v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3015,7 +2971,7 @@
         <ISurface>
           <shortid>maz/137r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0279</canvasslug>
+          <canvasslug>137r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3026,7 +2982,7 @@
         <ISurface>
           <shortid>maz/137v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0280</canvasslug>
+          <canvasslug>137v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3037,7 +2993,7 @@
         <ISurface>
           <shortid>maz/138r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0281</canvasslug>
+          <canvasslug>138r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3048,7 +3004,7 @@
         <ISurface>
           <shortid>maz/138v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0282</canvasslug>
+          <canvasslug>138v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3059,7 +3015,7 @@
         <ISurface>
           <shortid>maz/139r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0283</canvasslug>
+          <canvasslug>139r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3070,7 +3026,7 @@
         <ISurface>
           <shortid>maz/139v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0284</canvasslug>
+          <canvasslug>139v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3081,7 +3037,7 @@
         <ISurface>
           <shortid>maz/140r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0285</canvasslug>
+          <canvasslug>140r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3092,7 +3048,7 @@
         <ISurface>
           <shortid>maz/140v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0286</canvasslug>
+          <canvasslug>140v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3103,7 +3059,7 @@
         <ISurface>
           <shortid>maz/141r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0287</canvasslug>
+          <canvasslug>141r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3114,7 +3070,7 @@
         <ISurface>
           <shortid>maz/141v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0288</canvasslug>
+          <canvasslug>141v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3125,7 +3081,7 @@
         <ISurface>
           <shortid>maz/142r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0289</canvasslug>
+          <canvasslug>142r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3136,7 +3092,7 @@
         <ISurface>
           <shortid>maz/142v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0290</canvasslug>
+          <canvasslug>142v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3147,7 +3103,7 @@
         <ISurface>
           <shortid>maz/143r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0291</canvasslug>
+          <canvasslug>143r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3158,7 +3114,7 @@
         <ISurface>
           <shortid>maz/143v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0292</canvasslug>
+          <canvasslug>143v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3169,7 +3125,7 @@
         <ISurface>
           <shortid>maz/144r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0293</canvasslug>
+          <canvasslug>144r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3180,7 +3136,7 @@
         <ISurface>
           <shortid>maz/144v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0294</canvasslug>
+          <canvasslug>144v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3191,7 +3147,7 @@
         <ISurface>
           <shortid>maz/145r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0295</canvasslug>
+          <canvasslug>145r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3202,7 +3158,7 @@
         <ISurface>
           <shortid>maz/145v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0296</canvasslug>
+          <canvasslug>145v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3213,7 +3169,7 @@
         <ISurface>
           <shortid>maz/146r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0297</canvasslug>
+          <canvasslug>146r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3224,7 +3180,7 @@
         <ISurface>
           <shortid>maz/146v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0298</canvasslug>
+          <canvasslug>146v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3235,7 +3191,7 @@
         <ISurface>
           <shortid>maz/147r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0299</canvasslug>
+          <canvasslug>147r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3246,7 +3202,7 @@
         <ISurface>
           <shortid>maz/147v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0300</canvasslug>
+          <canvasslug>147v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3257,7 +3213,7 @@
         <ISurface>
           <shortid>maz/148r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0301</canvasslug>
+          <canvasslug>148r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3268,7 +3224,7 @@
         <ISurface>
           <shortid>maz/148v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0302</canvasslug>
+          <canvasslug>148v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3279,7 +3235,7 @@
         <ISurface>
           <shortid>maz/149r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0303</canvasslug>
+          <canvasslug>149r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3290,7 +3246,7 @@
         <ISurface>
           <shortid>maz/149v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0304</canvasslug>
+          <canvasslug>149v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3301,7 +3257,7 @@
         <ISurface>
           <shortid>maz/150r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0305</canvasslug>
+          <canvasslug>150r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3312,7 +3268,7 @@
         <ISurface>
           <shortid>maz/150v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0306</canvasslug>
+          <canvasslug>150v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3323,7 +3279,7 @@
         <ISurface>
           <shortid>maz/151r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0307</canvasslug>
+          <canvasslug>151r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3334,7 +3290,7 @@
         <ISurface>
           <shortid>maz/151v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0308</canvasslug>
+          <canvasslug>151v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3345,7 +3301,7 @@
         <ISurface>
           <shortid>maz/152r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0309</canvasslug>
+          <canvasslug>152r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3356,7 +3312,7 @@
         <ISurface>
           <shortid>maz/152v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0310</canvasslug>
+          <canvasslug>152v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3367,7 +3323,7 @@
         <ISurface>
           <shortid>maz/153r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0311</canvasslug>
+          <canvasslug>153r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3378,7 +3334,7 @@
         <ISurface>
           <shortid>maz/153v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0312</canvasslug>
+          <canvasslug>153v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3389,7 +3345,7 @@
         <ISurface>
           <shortid>maz/154r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0313</canvasslug>
+          <canvasslug>154r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3400,7 +3356,7 @@
         <ISurface>
           <shortid>maz/154v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0314</canvasslug>
+          <canvasslug>154v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3411,7 +3367,7 @@
         <ISurface>
           <shortid>maz/155r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0315</canvasslug>
+          <canvasslug>155r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3422,7 +3378,7 @@
         <ISurface>
           <shortid>maz/155v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0316</canvasslug>
+          <canvasslug>155v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3433,7 +3389,7 @@
         <ISurface>
           <shortid>maz/156r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0317</canvasslug>
+          <canvasslug>156r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3444,7 +3400,7 @@
         <ISurface>
           <shortid>maz/156v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0318</canvasslug>
+          <canvasslug>156v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3455,7 +3411,7 @@
         <ISurface>
           <shortid>maz/157r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0319</canvasslug>
+          <canvasslug>157r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3466,7 +3422,7 @@
         <ISurface>
           <shortid>maz/157v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0320</canvasslug>
+          <canvasslug>157v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3477,7 +3433,7 @@
         <ISurface>
           <shortid>maz/158r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0321</canvasslug>
+          <canvasslug>158r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3488,7 +3444,7 @@
         <ISurface>
           <shortid>maz/158v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0322</canvasslug>
+          <canvasslug>158v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3499,7 +3455,7 @@
         <ISurface>
           <shortid>maz/159r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0323</canvasslug>
+          <canvasslug>159r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3510,7 +3466,7 @@
         <ISurface>
           <shortid>maz/159v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0324</canvasslug>
+          <canvasslug>159v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3521,7 +3477,7 @@
         <ISurface>
           <shortid>maz/160r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0325</canvasslug>
+          <canvasslug>160r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3532,7 +3488,7 @@
         <ISurface>
           <shortid>maz/160v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0326</canvasslug>
+          <canvasslug>160v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3543,7 +3499,7 @@
         <ISurface>
           <shortid>maz/161r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0327</canvasslug>
+          <canvasslug>161r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3554,7 +3510,7 @@
         <ISurface>
           <shortid>maz/161v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0328</canvasslug>
+          <canvasslug>161v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3565,7 +3521,7 @@
         <ISurface>
           <shortid>maz/162r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0329</canvasslug>
+          <canvasslug>162r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3576,7 +3532,7 @@
         <ISurface>
           <shortid>maz/162v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0330</canvasslug>
+          <canvasslug>162v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3587,7 +3543,7 @@
         <ISurface>
           <shortid>maz/163r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0331</canvasslug>
+          <canvasslug>163r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3598,7 +3554,7 @@
         <ISurface>
           <shortid>maz/163v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0332</canvasslug>
+          <canvasslug>163v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3609,7 +3565,7 @@
         <ISurface>
           <shortid>maz/164r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0333</canvasslug>
+          <canvasslug>164r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3620,7 +3576,7 @@
         <ISurface>
           <shortid>maz/164v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0334</canvasslug>
+          <canvasslug>164v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3631,7 +3587,7 @@
         <ISurface>
           <shortid>maz/165r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0335</canvasslug>
+          <canvasslug>165r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3642,7 +3598,7 @@
         <ISurface>
           <shortid>maz/165v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0336</canvasslug>
+          <canvasslug>165v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3653,7 +3609,7 @@
         <ISurface>
           <shortid>maz/166r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0337</canvasslug>
+          <canvasslug>166r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3664,7 +3620,7 @@
         <ISurface>
           <shortid>maz/166v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0338</canvasslug>
+          <canvasslug>166v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3675,7 +3631,7 @@
         <ISurface>
           <shortid>maz/167r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0339</canvasslug>
+          <canvasslug>167r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3686,7 +3642,7 @@
         <ISurface>
           <shortid>maz/167v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0340</canvasslug>
+          <canvasslug>167v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3697,7 +3653,7 @@
         <ISurface>
           <shortid>maz/168r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0341</canvasslug>
+          <canvasslug>168r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3708,7 +3664,7 @@
         <ISurface>
           <shortid>maz/168v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0342</canvasslug>
+          <canvasslug>168v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3719,7 +3675,7 @@
         <ISurface>
           <shortid>maz/169r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0343</canvasslug>
+          <canvasslug>169r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3730,7 +3686,7 @@
         <ISurface>
           <shortid>maz/169v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0344</canvasslug>
+          <canvasslug>169v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3741,7 +3697,7 @@
         <ISurface>
           <shortid>maz/170r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0345</canvasslug>
+          <canvasslug>170r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3752,7 +3708,7 @@
         <ISurface>
           <shortid>maz/170v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0346</canvasslug>
+          <canvasslug>170v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3763,7 +3719,7 @@
         <ISurface>
           <shortid>maz/171r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0347</canvasslug>
+          <canvasslug>171r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3774,7 +3730,7 @@
         <ISurface>
           <shortid>maz/171v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0348</canvasslug>
+          <canvasslug>171v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3785,7 +3741,7 @@
         <ISurface>
           <shortid>maz/172r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0349</canvasslug>
+          <canvasslug>172r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3796,7 +3752,7 @@
         <ISurface>
           <shortid>maz/172v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0350</canvasslug>
+          <canvasslug>172v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3807,7 +3763,7 @@
         <ISurface>
           <shortid>maz/173r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0351</canvasslug>
+          <canvasslug>173r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3818,7 +3774,7 @@
         <ISurface>
           <shortid>maz/173v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0352</canvasslug>
+          <canvasslug>173v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3829,7 +3785,7 @@
         <ISurface>
           <shortid>maz/174r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0353</canvasslug>
+          <canvasslug>174r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3840,7 +3796,7 @@
         <ISurface>
           <shortid>maz/174v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0354</canvasslug>
+          <canvasslug>174v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3851,7 +3807,7 @@
         <ISurface>
           <shortid>maz/175r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0355</canvasslug>
+          <canvasslug>175r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3862,7 +3818,7 @@
         <ISurface>
           <shortid>maz/175v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0356</canvasslug>
+          <canvasslug>175v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3873,7 +3829,7 @@
         <ISurface>
           <shortid>maz/176r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0357</canvasslug>
+          <canvasslug>176r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3884,7 +3840,7 @@
         <ISurface>
           <shortid>maz/176v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0358</canvasslug>
+          <canvasslug>176v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3895,7 +3851,7 @@
         <ISurface>
           <shortid>maz/177r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0359</canvasslug>
+          <canvasslug>177r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3906,7 +3862,7 @@
         <ISurface>
           <shortid>maz/177v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0360</canvasslug>
+          <canvasslug>177v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3917,7 +3873,7 @@
         <ISurface>
           <shortid>maz/178r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0361</canvasslug>
+          <canvasslug>178r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3928,7 +3884,7 @@
         <ISurface>
           <shortid>maz/178v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0362</canvasslug>
+          <canvasslug>178v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3939,7 +3895,7 @@
         <ISurface>
           <shortid>maz/179r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0363</canvasslug>
+          <canvasslug>179r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3950,7 +3906,7 @@
         <ISurface>
           <shortid>maz/179v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0364</canvasslug>
+          <canvasslug>179v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3961,7 +3917,7 @@
         <ISurface>
           <shortid>maz/180r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0365</canvasslug>
+          <canvasslug>180r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3972,7 +3928,7 @@
         <ISurface>
           <shortid>maz/180v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0366</canvasslug>
+          <canvasslug>180v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3983,7 +3939,7 @@
         <ISurface>
           <shortid>maz/181r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0367</canvasslug>
+          <canvasslug>181r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -3994,7 +3950,7 @@
         <ISurface>
           <shortid>maz/181v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0368</canvasslug>
+          <canvasslug>181v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4005,7 +3961,7 @@
         <ISurface>
           <shortid>maz/182r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0369</canvasslug>
+          <canvasslug>182r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4016,7 +3972,7 @@
         <ISurface>
           <shortid>maz/182v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0370</canvasslug>
+          <canvasslug>182v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4027,7 +3983,7 @@
         <ISurface>
           <shortid>maz/183r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0371</canvasslug>
+          <canvasslug>183r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4038,7 +3994,7 @@
         <ISurface>
           <shortid>maz/183v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0372</canvasslug>
+          <canvasslug>183v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4049,7 +4005,7 @@
         <ISurface>
           <shortid>maz/184r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0373</canvasslug>
+          <canvasslug>184r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4060,7 +4016,7 @@
         <ISurface>
           <shortid>maz/184v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0374</canvasslug>
+          <canvasslug>184v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4071,7 +4027,7 @@
         <ISurface>
           <shortid>maz/185r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0375</canvasslug>
+          <canvasslug>185r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4082,7 +4038,7 @@
         <ISurface>
           <shortid>maz/185v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0376</canvasslug>
+          <canvasslug>185v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4093,7 +4049,7 @@
         <ISurface>
           <shortid>maz/186r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0377</canvasslug>
+          <canvasslug>186r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4104,7 +4060,7 @@
         <ISurface>
           <shortid>maz/186v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0378</canvasslug>
+          <canvasslug>186v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4115,7 +4071,7 @@
         <ISurface>
           <shortid>maz/187r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0379</canvasslug>
+          <canvasslug>187r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4126,7 +4082,7 @@
         <ISurface>
           <shortid>maz/187v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0380</canvasslug>
+          <canvasslug>187v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4137,7 +4093,7 @@
         <ISurface>
           <shortid>maz/188r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0381</canvasslug>
+          <canvasslug>188r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4148,7 +4104,7 @@
         <ISurface>
           <shortid>maz/188v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0382</canvasslug>
+          <canvasslug>188v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4159,7 +4115,7 @@
         <ISurface>
           <shortid>maz/189r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0383</canvasslug>
+          <canvasslug>189r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4170,7 +4126,7 @@
         <ISurface>
           <shortid>maz/189v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0384</canvasslug>
+          <canvasslug>189v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4181,7 +4137,7 @@
         <ISurface>
           <shortid>maz/190r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0385</canvasslug>
+          <canvasslug>190r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4192,7 +4148,7 @@
         <ISurface>
           <shortid>maz/190v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0386</canvasslug>
+          <canvasslug>190v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4203,7 +4159,7 @@
         <ISurface>
           <shortid>maz/191r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0387</canvasslug>
+          <canvasslug>191r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4214,7 +4170,7 @@
         <ISurface>
           <shortid>maz/191v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0388</canvasslug>
+          <canvasslug>191v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4225,7 +4181,7 @@
         <ISurface>
           <shortid>maz/192r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0389</canvasslug>
+          <canvasslug>192r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4236,7 +4192,7 @@
         <ISurface>
           <shortid>maz/192v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0390</canvasslug>
+          <canvasslug>192v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4247,7 +4203,7 @@
         <ISurface>
           <shortid>maz/193r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0391</canvasslug>
+          <canvasslug>193r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4258,7 +4214,7 @@
         <ISurface>
           <shortid>maz/193v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0392</canvasslug>
+          <canvasslug>193v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4269,7 +4225,7 @@
         <ISurface>
           <shortid>maz/194r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0393</canvasslug>
+          <canvasslug>194r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4280,7 +4236,7 @@
         <ISurface>
           <shortid>maz/194v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0394</canvasslug>
+          <canvasslug>194v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4291,7 +4247,7 @@
         <ISurface>
           <shortid>maz/195r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0395</canvasslug>
+          <canvasslug>195r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4302,7 +4258,7 @@
         <ISurface>
           <shortid>maz/195v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0396</canvasslug>
+          <canvasslug>195v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4313,7 +4269,7 @@
         <ISurface>
           <shortid>maz/196r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0397</canvasslug>
+          <canvasslug>196r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4324,7 +4280,7 @@
         <ISurface>
           <shortid>maz/196v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0398</canvasslug>
+          <canvasslug>196v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4335,7 +4291,7 @@
         <ISurface>
           <shortid>maz/197r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0399</canvasslug>
+          <canvasslug>197r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4346,7 +4302,7 @@
         <ISurface>
           <shortid>maz/197v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0400</canvasslug>
+          <canvasslug>197v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4357,7 +4313,7 @@
         <ISurface>
           <shortid>maz/198r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0401</canvasslug>
+          <canvasslug>198r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4368,7 +4324,7 @@
         <ISurface>
           <shortid>maz/198v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0402</canvasslug>
+          <canvasslug>198v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4379,7 +4335,7 @@
         <ISurface>
           <shortid>maz/199r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0403</canvasslug>
+          <canvasslug>199r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4390,7 +4346,7 @@
         <ISurface>
           <shortid>maz/199v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0404</canvasslug>
+          <canvasslug>199v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4401,7 +4357,7 @@
         <ISurface>
           <shortid>maz/200r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0405</canvasslug>
+          <canvasslug>200r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4412,7 +4368,7 @@
         <ISurface>
           <shortid>maz/200v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0406</canvasslug>
+          <canvasslug>200v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4423,7 +4379,7 @@
         <ISurface>
           <shortid>maz/201r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0407</canvasslug>
+          <canvasslug>201r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4434,7 +4390,7 @@
         <ISurface>
           <shortid>maz/201v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0408</canvasslug>
+          <canvasslug>201v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4445,7 +4401,7 @@
         <ISurface>
           <shortid>maz/202r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0409</canvasslug>
+          <canvasslug>202r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4456,7 +4412,7 @@
         <ISurface>
           <shortid>maz/202v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0410</canvasslug>
+          <canvasslug>202v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4467,7 +4423,7 @@
         <ISurface>
           <shortid>maz/203r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0411</canvasslug>
+          <canvasslug>203r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4478,7 +4434,7 @@
         <ISurface>
           <shortid>maz/203v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0412</canvasslug>
+          <canvasslug>203v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4489,7 +4445,7 @@
         <ISurface>
           <shortid>maz/204r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0413</canvasslug>
+          <canvasslug>204r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4500,7 +4456,7 @@
         <ISurface>
           <shortid>maz/204v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0414</canvasslug>
+          <canvasslug>204v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4511,7 +4467,7 @@
         <ISurface>
           <shortid>maz/205r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0415</canvasslug>
+          <canvasslug>205r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4522,7 +4478,7 @@
         <ISurface>
           <shortid>maz/205v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0416</canvasslug>
+          <canvasslug>205v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4533,7 +4489,7 @@
         <ISurface>
           <shortid>maz/206r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0417</canvasslug>
+          <canvasslug>206r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4544,7 +4500,7 @@
         <ISurface>
           <shortid>maz/206v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0418</canvasslug>
+          <canvasslug>206v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4555,7 +4511,7 @@
         <ISurface>
           <shortid>maz/207r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0419</canvasslug>
+          <canvasslug>207r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4566,7 +4522,7 @@
         <ISurface>
           <shortid>maz/207v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0420</canvasslug>
+          <canvasslug>207v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4577,7 +4533,7 @@
         <ISurface>
           <shortid>maz/208r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0421</canvasslug>
+          <canvasslug>208r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4588,7 +4544,7 @@
         <ISurface>
           <shortid>maz/208v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0422</canvasslug>
+          <canvasslug>208v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4599,7 +4555,7 @@
         <ISurface>
           <shortid>maz/209r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0423</canvasslug>
+          <canvasslug>209r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4610,7 +4566,7 @@
         <ISurface>
           <shortid>maz/209v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0424</canvasslug>
+          <canvasslug>209v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4621,7 +4577,7 @@
         <ISurface>
           <shortid>maz/210r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0425</canvasslug>
+          <canvasslug>210r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4632,7 +4588,7 @@
         <ISurface>
           <shortid>maz/210v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0426</canvasslug>
+          <canvasslug>210v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4643,7 +4599,7 @@
         <ISurface>
           <shortid>maz/211r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0427</canvasslug>
+          <canvasslug>211r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4654,7 +4610,7 @@
         <ISurface>
           <shortid>maz/211v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0428</canvasslug>
+          <canvasslug>211v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4665,7 +4621,7 @@
         <ISurface>
           <shortid>maz/212r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0429</canvasslug>
+          <canvasslug>212r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4676,7 +4632,7 @@
         <ISurface>
           <shortid>maz/212v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0430</canvasslug>
+          <canvasslug>212v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4687,7 +4643,7 @@
         <ISurface>
           <shortid>maz/213r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0431</canvasslug>
+          <canvasslug>213r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4698,7 +4654,7 @@
         <ISurface>
           <shortid>maz/213v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0432</canvasslug>
+          <canvasslug>213v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4709,7 +4665,7 @@
         <ISurface>
           <shortid>maz/214r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0433</canvasslug>
+          <canvasslug>214r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4720,7 +4676,7 @@
         <ISurface>
           <shortid>maz/214v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0434</canvasslug>
+          <canvasslug>214v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4731,7 +4687,7 @@
         <ISurface>
           <shortid>maz/215r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0435</canvasslug>
+          <canvasslug>215r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4742,7 +4698,7 @@
         <ISurface>
           <shortid>maz/215v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0436</canvasslug>
+          <canvasslug>215v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4753,7 +4709,7 @@
         <ISurface>
           <shortid>maz/216r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0437</canvasslug>
+          <canvasslug>216r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4764,7 +4720,7 @@
         <ISurface>
           <shortid>maz/216v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0438</canvasslug>
+          <canvasslug>216v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4775,7 +4731,7 @@
         <ISurface>
           <shortid>maz/217r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0439</canvasslug>
+          <canvasslug>217r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4786,7 +4742,7 @@
         <ISurface>
           <shortid>maz/217v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0440</canvasslug>
+          <canvasslug>217v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4797,7 +4753,7 @@
         <ISurface>
           <shortid>maz/218r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0441</canvasslug>
+          <canvasslug>218r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4808,7 +4764,7 @@
         <ISurface>
           <shortid>maz/218v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0442</canvasslug>
+          <canvasslug>218v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4819,7 +4775,7 @@
         <ISurface>
           <shortid>maz/219r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0443</canvasslug>
+          <canvasslug>219r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4830,7 +4786,7 @@
         <ISurface>
           <shortid>maz/219v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0444</canvasslug>
+          <canvasslug>219v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4841,7 +4797,7 @@
         <ISurface>
           <shortid>maz/220r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0445</canvasslug>
+          <canvasslug>220r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4852,7 +4808,7 @@
         <ISurface>
           <shortid>maz/220v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0446</canvasslug>
+          <canvasslug>220v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4863,7 +4819,7 @@
         <ISurface>
           <shortid>maz/221r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0447</canvasslug>
+          <canvasslug>221r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4874,7 +4830,7 @@
         <ISurface>
           <shortid>maz/221v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0448</canvasslug>
+          <canvasslug>221v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4885,7 +4841,7 @@
         <ISurface>
           <shortid>maz/222r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0449</canvasslug>
+          <canvasslug>222r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4896,7 +4852,7 @@
         <ISurface>
           <shortid>maz/222v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0450</canvasslug>
+          <canvasslug>222v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4907,7 +4863,7 @@
         <ISurface>
           <shortid>maz/223r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0451</canvasslug>
+          <canvasslug>223r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4918,7 +4874,7 @@
         <ISurface>
           <shortid>maz/223v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0452</canvasslug>
+          <canvasslug>223v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4929,7 +4885,7 @@
         <ISurface>
           <shortid>maz/224r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0453</canvasslug>
+          <canvasslug>224r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4940,7 +4896,7 @@
         <ISurface>
           <shortid>maz/224v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0454</canvasslug>
+          <canvasslug>224v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4951,7 +4907,7 @@
         <ISurface>
           <shortid>maz/225r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0455</canvasslug>
+          <canvasslug>225r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4962,7 +4918,7 @@
         <ISurface>
           <shortid>maz/225v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0456</canvasslug>
+          <canvasslug>225v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4973,7 +4929,7 @@
         <ISurface>
           <shortid>maz/226r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0457</canvasslug>
+          <canvasslug>226r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4984,7 +4940,7 @@
         <ISurface>
           <shortid>maz/226v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0458</canvasslug>
+          <canvasslug>226v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -4995,7 +4951,7 @@
         <ISurface>
           <shortid>maz/227r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0459</canvasslug>
+          <canvasslug>227r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5006,7 +4962,7 @@
         <ISurface>
           <shortid>maz/227v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0460</canvasslug>
+          <canvasslug>227v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5017,7 +4973,7 @@
         <ISurface>
           <shortid>maz/228r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0461</canvasslug>
+          <canvasslug>228r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5028,7 +4984,7 @@
         <ISurface>
           <shortid>maz/228v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0462</canvasslug>
+          <canvasslug>228v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5039,7 +4995,7 @@
         <ISurface>
           <shortid>maz/229r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0463</canvasslug>
+          <canvasslug>229r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5050,7 +5006,7 @@
         <ISurface>
           <shortid>maz/229v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0464</canvasslug>
+          <canvasslug>229v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5061,7 +5017,7 @@
         <ISurface>
           <shortid>maz/230r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0465</canvasslug>
+          <canvasslug>230r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5072,7 +5028,7 @@
         <ISurface>
           <shortid>maz/230v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0466</canvasslug>
+          <canvasslug>230v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
@@ -5083,18 +5039,7 @@
         <ISurface>
           <shortid>maz/231r/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>0467</canvasslug>
-        </ISurface>
-      </hasISurfaces>
-    </surface>
-    <surface>
-      <shortid>maz/231v</shortid>
-      <label>231v</label>
-      <hasISurfaces>
-        <ISurface>
-          <shortid>maz/231v/item1</shortid>
-          <canonical>true</canonical>
-          <canvasslug>0468</canvasslug>
+          <canvasslug>231r</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
