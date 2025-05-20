@@ -4,7 +4,7 @@
     <type>manuscript</type>
     <shortid alias="BNE_ms3226">cod-sstt88</shortid>
     <title>National Library of Spain, Spain, ms 3226</title>
-    <initial>S</initial>
+    <initial>Sa</initial>
     <!-- contains part of copy of Las Casas de Thesauris (f96-131v) amoung other texts-->
     <!--<place></place>-->
     <date>1600</date>
@@ -18,7 +18,7 @@
         <!-- http://bdh-rd.bne.es/viewer.vm?id=0000087075&page=1 -->
         <canvasBase>https://scta.info/iiif/cod-sstt88/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-sstt88/manifest</manifestOfficial>
-        <!-- images not yet deposited in bkup -->
+        <!-- images deposited in bkup 2025-04-22 -->
       </item>
     </hasItems>
   </head>

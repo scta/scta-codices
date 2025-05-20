@@ -14,7 +14,7 @@
         <canonical>true</canonical>
         <shortid>cod-u78x11/item1</shortid>
         <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archivelab.org/iiif/operaomni11duns/manifest.json</manifestOfficial>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/operaomni11duns/manifest.json</manifestOfficial>
       </item>
     </hasItems>
   </head>
