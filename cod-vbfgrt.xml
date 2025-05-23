@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="Plimpton89">cod-vbfgrt</shortid>
+    <title>New York, Columbia University, Plimpton 896</title>
+    <initial>P</initial>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-vbfgrt/item1</shortid>
+        <canvasBase>https://scta.info/iiif/cod-vbfgrt/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-vbfgrt/manifest</manifestOfficial>
+        <!-- images deposited not yet deposited backup -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <surface>
+      <shortid>cod-vbfgrt/1r</shortid>
+      <label>1r</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-vbfgrt/1r/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1r</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+    <surface>
+      <shortid>cod-vbfgrt/1v</shortid>
+      <label>1v</label>
+      <hasISurfaces>
+        <ISurface>
+          <shortid>cod-vbfgrt/1v/item1</shortid>
+          <canonical>true</canonical>
+          <canvasslug>1v</canvasslug>
+        </ISurface>
+      </hasISurfaces>
+    </surface>
+  </surfaces>
+</codex>
