@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>manuscript</type>
+    <shortid alias="Plimpton89">cod-plghty</shortid>
+    <title>New York, Columbia University, Plimpton, 61</title>
+    <initial>P</initial>
+    <!-- contains lombard sentences with extensive marginal notes in book 2 from distinction 10 on -->
+    <!-- Document slip says suggests dates of 1225 and 1250 -->
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-plghty/item1</shortid>
+        <!-- columbia bibId: BIbID: 17015903 -->
+        <canvasBase>https://scta.info/iiif/cod-plghty/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-plghty/manifest</manifestOfficial>
+        <!-- images deposited not yet deposited backup: i only have partial iamges -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    <!-- sketch transcription of marginal notes on the bottom of 57v -->
+    <!--<lb/><quote>hoc etiam investigandum etc</quote> d. X quaeritur de intellectione angelorum <pc type="pilcrow"/> primo an boni necessitatur <pc type="pilcrow"/> 2o de transitu <pc type="pilcrow"/> 3 an omnes mittantur <pc type="pilcrow"/> de primo quod sic satis patet <pc type="pilcrow"/> Item non...
+    <lb/>?? sed angelus est non terminus ergo etc <pc type="pilcrow"/> contra frustra mittit aliquis nuntium nisi <unclear>illus</unclear> est praesens et per se operari potest qui per nuntium operatur sed deus est praesentior creaturae quam ipsa <unclear>ti</unclear> ergo etc <pc type="pilcrow"/> Item deus potest ??? 
+    <lb/>et spiritum sanctum ad pro?? ad salutem enim non ergo sufficiet est pro creata ac non si sic ergo superfluit angelorum custodia <pc type="pilcrow"/> Item quanto plus quis ?? actioni tanto minui???
+    <lb/>quia virtus ad plura distincta minus potest ergo causato minuitur eorum <pc type="pilcrow"/> Respondeo mittuntur et li quem diem angelice hominis ca?? dixit quia sic ma?? qui ???
+    <lb/>bue??sionis spiritus mittit deus qui ei maxime caritate adhaerent ibi ministerium hominis Item angel?? quia quinto quis maiorem hoc ....
+    <lb/>Item humanae quia dum est in ma pava est plura 31 cuius ign in si? et caminus in ierusalem est aut hic parvula caritas propter ex con?? qui? quanto plus augetur plus ???
+    <lb/>so lo?? eget et eg??ari Quia etiam super oves <add>nonae</add> coniuncti per ?? decem ?? coniungatur per obliquem et amorem
+    <lb/>sente cognoscimus eum Item multa potest deus facere quia facit per triuum ?? per ministerium salvetur decem ordo et condignus
+    <lb/>non
+    <lb/>contemplatione
+    <lb/>superioris
+    <lb/>Quaeritur an angelus subito transiit medium <pc type="pilcrow"/> Quod sic cum beatus est et caelo et vult esse ibi aut et eodem et ? est in terra et non si non aliquid eius resistit
+    <lb/>quia beatus est cui obicit opta?ta successione <pc type="pilcrow"/> Item an merito est agilior quam lux creata sed haec subito fieri potest in magna distantia ergo et angelus quia ad 
+    <lb/><pc type="pilcrow"/> quia medium est quod verum mutuans qui perveniat in ultimum ergo -->
+  </surfaces>
+</codex>

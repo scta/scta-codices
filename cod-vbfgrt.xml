@@ -3,7 +3,7 @@
   <head>
     <type>manuscript</type>
     <shortid alias="Plimpton89">cod-vbfgrt</shortid>
-    <title>New York, Columbia University, Plimpton 896</title>
+    <title>New York, Columbia University, Plimpton 89</title>
     <initial>P</initial>
     <hasItems>
       <item>
@@ -11,7 +11,7 @@
         <shortid>cod-vbfgrt/item1</shortid>
         <canvasBase>https://scta.info/iiif/cod-vbfgrt/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-vbfgrt/manifest</manifestOfficial>
-        <!-- images deposited not yet deposited backup -->
+        <!-- images deposited to back up drive on 2025-05-25 -->
       </item>
     </hasItems>
   </head>
