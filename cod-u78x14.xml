@@ -2,19 +2,19 @@
 <codex>
   <head>
     <type>book</type>
-    <shortid>cod-u78x13</shortid>
-    <title>Vives, Paris, 1893, volume 13</title>
+    <shortid>cod-u78x14</shortid>
+    <title>Vives, Paris, 1893, volume 14</title>
     <initial>V</initial>
     <date>1893</date>
     <place>Paris</place>
-    <!-- contains ending part Book II of Scotus Ordinatio -->
+    <!-- contains ending part Book III distinctions 1-22 of Scotus Ordinatio -->
     <hasItems>
       <item>
         <!-- archive copy comes from Toronto -->
         <canonical>true</canonical>
-        <shortid>cod-u78x13/item1</shortid>
+        <shortid>cod-u78x14/item1</shortid>
         <canvasBase>https://iiif.archive.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archive.org/iiif/2/operaomni13duns/manifest.json</manifestOfficial>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/operaomni14duns/manifest.json</manifestOfficial>
         <!--old: https://iiif.archivelab.org/iiif/operaomni13duns/manifest.json-->
       </item>
     </hasItems>
