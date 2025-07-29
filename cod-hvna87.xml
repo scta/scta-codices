@@ -12,7 +12,7 @@
       <item>
         <canonical>true</canonical>
         <shortid>cod-hvna87/item1</shortid>
-        <canvasBase>http://scta.info/iiif/cod-hvna87/canvas/</canvasBase>
+        <canvasBase>https://scta.info/iiif/cod-hvna87/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-hvna87/manifest</manifestOfficial>
         <!--https://iiif.archive.org/iiif/2/herveinatalisbri00herv/manifest.json-->
       </item>
