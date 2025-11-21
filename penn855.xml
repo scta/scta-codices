@@ -14,7 +14,7 @@
 				<canonical>true</canonical>
 				<shortid>penn855/item1</shortid>
 			  <holdingInstitution>http://scta.info/resource/I-pdn3as</holdingInstitution>
-				<canvasBase>http://scta.info/iiif/penn855/canvas/</canvasBase>
+				<canvasBase>https://scta.info/iiif/penn855/canvas/</canvasBase>
 				<manifestOfficial/>
 			</item>
 		</hasItems>
