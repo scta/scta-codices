@@ -12,14 +12,14 @@
     <hasItems>
       <item>
         <canonical>true</canonical>
-        <shortid>cod-su18v17/item1</shortid>
+        <shortid>cod-sqqv17/item1</shortid>
         <!--<holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>-->
         <!--<canvasBase>https://iiif.archivelab.org/iiif/</canvasBase> rpfranciscisuare17suar$4/canvas
         <manifestOfficial>https://iiif.archive.org/iiif/2/rpfranciscisuare17suar/manifest.json</manifestOfficial>
         -->
         <!-- volume 17 of 1856 opera omnia of work by suarez -->
-        <canvasBase>https://scta.info/iiif/cod-su18v17/canvas/</canvasBase>
-        <manifestOfficial>https://scta.info/iiif/codex/cod-su18v17/manifest</manifestOfficial>
+        <canvasBase>https://scta.info/iiif/cod-sqqv17/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-sqqv17/manifest</manifestOfficial>
         <!-- images not yet deposited in bkup archive -->
       </item>
     </hasItems>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1856">cod-sqqv18</shortid>
+    <title>Paris 1856 v. 18</title>
+    <initial>P</initial>
+    <!-- contains part of Suarez commentary on Aquinas Summa theologicae-->
+    <!-- vives as edition editor -->
+    <place>Paris</place>
+    <date>1856</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-sqqv18/item1</shortid>
+        <!--<holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>-->
+        <!--<canvasBase>https://iiif.archivelab.org/iiif/</canvasBase> rpfranciscisuare18suar$4/canvas
+        <manifestOfficial>https://iiif.archive.org/iiif/2/rpfranciscisuare18suar/manifest.json</manifestOfficial>
+        -->
+        <!-- volume 18 of 1856 opera omnia of work by suarez -->
+        <canvasBase>https://scta.info/iiif/cod-sqqv18/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-sqqv18/manifest</manifestOfficial>
+        <!-- images not yet deposited in bkup archive -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+  </surfaces>
+</codex>
+
