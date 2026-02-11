@@ -3,7 +3,7 @@
   <head>
     <type>book</type>
     <shortid alias="PL40">cod-xci40P</shortid>
-    <title>PL 40</title>
+    <title>Patrologia Latina, v. 40</title>
     <initial>P</initial>
     <!-- Patrologia volume 40  -->
     <place>Paris</place>
@@ -19,7 +19,8 @@
         <!--https://archive.org/details/PatrologiaeLatina40/page/n119/mode/2up (p. 231-232)-->
         <!--http://www.augustinus.it/latino/enchiridion/index.htm-->
         <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archivelab.org/iiif/PatrologiaeLatina40/manifest.json</manifestOfficial>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/PatrologiaeLatina40/manifest.json</manifestOfficial>
+        <!-- oldid: https://iiif.archivelab.org/iiif/PatrologiaeLatina40/manifest.json -->
       </item>
     </hasItems>
   </head>
