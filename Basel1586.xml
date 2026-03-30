@@ -18,6 +18,7 @@
 				<holdingLibrary/>
 				<callNumber>library catalogue number</callNumber>
 				<canvasBase>http://scta.info/iiif/canvas/Basel1586/item1/</canvasBase>
+			  <!-- google books link: https://books.google.com/books?id=IIFJAAAAcAAJ -->
 				<manifestOfficial/>
 			</item>
 		</hasItems>
