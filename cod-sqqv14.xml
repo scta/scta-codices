@@ -16,6 +16,10 @@
 
         <!--<canvasBase>https://iiif.archivelab.org/iiif/</canvasBase> rpfranciscisuare14suar$4/canvas
         <manifestOfficial>https://iiif.archive.org/iiif/2/rpfranciscisuare14suar/manifest.json</manifestOfficial>
+        
+        manifest urls for 16 part1 and 16 part2 
+        https://archive.org/details/rpfranciscisuare161suar/page/n5/mode/2up
+        https://archive.org/details/rpfranciscisuare162suar/page/n5/mode/2up
         -->
         <!-- volume 14 of 1859 opera omnia of work by suarez -->
         <canvasBase>https://scta.info/iiif/cod-sqqv14/canvas/</canvasBase>
