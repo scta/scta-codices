@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="Paris1512">cod-jay12a</shortid>
+    <title>Paris 1512</title>
+    <initial>P</initial>
+    <!-- Almain, Jacques: Aurea opuscula-->
+    <!-- contains the dicta super Holcot, commentary on Book 3, treatise on church power, and other small works -->
+    <place>Paris</place>
+    <date>1512</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-jay12a/item1</shortid>
+        <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
+        <!--<manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148043/manifest</manifestOfficial>-->
+        <canvasBase>https://scta.info/iiif/cod-jay12a/canvas/</canvasBase>
+        <manifestOfficial>https://scta.info/iiif/codex/cod-jay12a/manifest</manifestOfficial>
+        <!-- images not yet deposited in bkup archive -->
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+</codex>
