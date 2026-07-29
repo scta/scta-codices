@@ -20,7 +20,7 @@
         <!--<manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10196613/manifest</manifestOfficial>-->
         <canvasBase>https://scta.info/iiif/cod-jm17jg/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-jm17jg/manifest</manifestOfficial>
-        <!-- images not yet deposited in bkup archive -->
+        <!-- images have been deposited in bkup archive -->
       </item>
     </hasItems>
   </head>

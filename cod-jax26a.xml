@@ -17,7 +17,7 @@
         <!--<manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034976/manifest</manifestOfficial>-->
         <canvasBase>https://scta.info/iiif/cod-jax26a/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-jax26a/manifest</manifestOfficial>
-        <!-- images not yet deposited in bkup archive -->
+        <!-- images have been deposited in bkup archive -->
       </item>
     </hasItems>
   </head>
