@@ -43,8 +43,8 @@
         <callNumber/>
         <!--
           switch from Archive.org service because is so slow it is hard to use -->
-          <canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
-        <manifestOfficial>https://iiif.archive.org/iiif/2/bub_gb_78Pf7B8ON9gC/manifest.json</manifestOfficial>-->
+          <!--<canvasBase>https://iiif.archivelab.org/iiif/</canvasBase>
+        <manifestOfficial>https://iiif.archive.org/iiif/2/bub_gb_78Pf7B8ON9gC/manifest.json</manifestOfficial>-\->-->
         
         <canvasBase>https://scta.info/iiif/paris1512/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/paris1512/manifest</manifestOfficial>
