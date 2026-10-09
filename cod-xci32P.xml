@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codex>
+  <head>
+    <type>book</type>
+    <shortid alias="PL32">cod-xci32P</shortid>
+    <title>Patrologia Latina, v. 38</title>
+    <initial>P</initial>
+    <!-- Patrologia volume 32  -->
+    <place>Paris</place>
+    <date>1845</date>
+    <hasItems>
+      <item>
+        <canonical>true</canonical>
+        <shortid>cod-xci32P/item1</shortid>
+        <canvasBase><!--https://iiif.archivelab.org/iiif/--></canvasBase>
+        <manifestOfficial><!--https://iiif.archivelab.org/iiif/PatrologiaeLatina38/manifest.json doesn't seem to exist yet--></manifestOfficial>
+      </item>
+    </hasItems>
+  </head>
+  <surfaces>
+    
+  </surfaces>
+</codex>

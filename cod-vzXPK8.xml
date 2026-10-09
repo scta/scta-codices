@@ -15,6 +15,9 @@
         <holdingInstitution>http://scta.info/resource/I-njud3b</holdingInstitution>
         <canvasBase>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11204259/canvas/</canvasBase>
         <manifestOfficial>https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11204259/manifest</manifestOfficial>
+        <!-- 
+          backup copy of images moved to mounted volume scta-codex-images on 2026-09-07
+          images not updated to local server because right (as of 2026-09-07) bsb images seem to be stable and working -->
       </item>
     </hasItems>
   </head>

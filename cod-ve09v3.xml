@@ -2615,14 +2615,15 @@
         </ISurface>
       </hasISurfaces>
     </surface>
+    <!-- missing 118v and 119r -->
     <surface>
-      <shortid>cod-ve09v3/118v</shortid>
-      <label>118v</label>
+      <shortid>cod-ve09v3/119v</shortid>
+      <label>119v</label>
       <hasISurfaces>
         <ISurface>
-          <shortid>cod-ve09v3/118v/item1</shortid>
+          <shortid>cod-ve09v3/119v/item1</shortid>
           <canonical>true</canonical>
-          <canvasslug>118v</canvasslug>
+          <canvasslug>119v</canvasslug>
         </ISurface>
       </hasISurfaces>
     </surface>
