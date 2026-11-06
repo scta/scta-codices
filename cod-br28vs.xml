@@ -17,6 +17,7 @@
         <!-- pages 5-8 are archive.org canvases $15-$18 and pages 9-12 are $11-$14: the scan has these leaves out of order (see kraken/manifests/cod-br28vs_rename.csv) -->
         <canvasBase>https://scta.info/iiif/cod-br28vs/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-br28vs/manifest</manifestOfficial>
+        <!-- 2026-11-06: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
