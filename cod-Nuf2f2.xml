@@ -17,6 +17,7 @@
         <!-- https://iiif.archivelab.org/iiif/A336115/manifest.json (archive.org A336115) -->
         <canvasBase>https://scta.info/iiif/cod-Nuf2f2/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-Nuf2f2/manifest</manifestOfficial>
+        <!-- 2026-11-11: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
