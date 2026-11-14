@@ -16,6 +16,7 @@
         <!-- archive.org copy (University of Toronto): https://archive.org/details/operaomnia16duns, IIIF https://iiif.archive.org/iiif/operaomnia16duns/manifest.json -->
         <canvasBase>https://scta.info/iiif/cod-u78x16/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-u78x16/manifest</manifestOfficial>
+        <!-- 2026-11-14: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
