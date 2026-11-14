@@ -21,6 +21,7 @@
         -->
         <canvasBase>https://scta.info/iiif/cod-bdp87s/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-bdp87s/manifest</manifestOfficial>
+        <!-- 2026-11-14: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
