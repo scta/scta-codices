@@ -16,6 +16,7 @@
         <!-- https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10148506/manifest (BSB bsb10148506; its canvases no longer match the images: the SCTA copies are used) -->
         <canvasBase>https://scta.info/iiif/cod-B876a3/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-B876a3/manifest</manifestOfficial>
+        <!-- 2026-11-12: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
