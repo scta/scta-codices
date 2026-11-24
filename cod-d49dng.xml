@@ -21,6 +21,7 @@
         -->
         <canvasBase>https://scta.info/iiif/cod-d49dng/canvas/</canvasBase>
         <manifestOfficial>https://scta.info/iiif/codex/cod-d49dng/manifest</manifestOfficial>
+        <!-- 2026-11-24: images deposited in scta-codex-images -->
       </item>
     </hasItems>
   </head>
